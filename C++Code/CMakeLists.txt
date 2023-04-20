@@ -3,4 +3,4 @@ project(C__Code)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C__Code main.cpp Functions.cpp Functions.h)
+add_executable(C__Code src/main.cpp src/Functions.cpp src/Functions.h)
