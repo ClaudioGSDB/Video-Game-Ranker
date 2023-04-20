@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-    cleanText("Data/Raw Data2.txt");
+    cleanText("Data/Raw Data.txt");
     return 0;
 }
