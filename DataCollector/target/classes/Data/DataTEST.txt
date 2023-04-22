@@ -1,0 +1,7894 @@
+[
+  {
+    "id": 1,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief II: The Metal Age",
+    "rating": 86.6902706277657
+  },
+  {
+    "id": 2,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief: The Dark Project",
+    "rating": 86.52878345378889
+  },
+  {
+    "id": 3,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief: Deadly Shadows",
+    "rating": 82.01116615516399
+  },
+  {
+    "id": 4,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief",
+    "rating": 70.5897898497321
+  },
+  {
+    "id": 5,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Baldur\u0027s Gate",
+    "rating": 87.04453320260279
+  },
+  {
+    "id": 6,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Baldur\u0027s Gate II: Shadows of Amn",
+    "rating": 88.1810003818792
+  },
+  {
+    "id": 7,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Jagged Alliance",
+    "rating": 79.1142866545608
+  },
+  {
+    "id": 8,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Jagged Alliance: Deadly Games",
+    "rating": 77.1880174071587
+  },
+  {
+    "id": 9,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Jagged Alliance 2",
+    "rating": 86.91180682879241
+  },
+  {
+    "id": 10,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Jade Empire: Special Edition",
+    "rating": 80.5168007861868
+  },
+  {
+    "id": 11,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Vampire: The Masquerade - Bloodlines",
+    "rating": 86.47401875641631
+  },
+  {
+    "id": 12,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Vampire: The Masquerade - Redemption",
+    "rating": 77.6488716578925
+  },
+  {
+    "id": 13,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Fallout",
+    "rating": 85.86047754225041
+  },
+  {
+    "id": 14,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Fallout 2",
+    "rating": 89.62183118695339
+  },
+  {
+    "id": 15,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout 3",
+    "rating": 83.40018699015101
+  },
+  {
+    "id": 16,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout: New Vegas",
+    "rating": 87.2477906496274
+  },
+  {
+    "id": 17,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Fallout Tactics: Brotherhood of Steel",
+    "rating": 70.2120475903025
+  },
+  {
+    "id": 18,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Max Payne",
+    "rating": 86.0298238630849
+  },
+  {
+    "id": 19,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "rating": 86.622316966442
+  },
+  {
+    "id": 20,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock",
+    "rating": 87.0100713748649
+  },
+  {
+    "id": 21,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock 2",
+    "rating": 80.8992752036707
+  },
+  {
+    "id": 22,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "System Shock 2",
+    "rating": 89.84350708135639
+  },
+  {
+    "id": 23,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "System Shock",
+    "rating": 90.4998323138811
+  },
+  {
+    "id": 24,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "X-COM: UFO Defense",
+    "rating": 87.43074245015899
+  },
+  {
+    "id": 25,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "X-COM: Terror From the Deep",
+    "rating": 80.164622672334
+  },
+  {
+    "id": 26,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "X-COM: Apocalypse",
+    "rating": 71.4861045022357
+  },
+  {
+    "id": 27,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "X-COM: Interceptor",
+    "rating": 50.0
+  },
+  {
+    "id": 28,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest: The Sarien Encounter",
+    "rating": 75.7258803981109
+  },
+  {
+    "id": 29,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest II: Vohaul\u0027s Revenge",
+    "rating": 73.3962368241147
+  },
+  {
+    "id": 30,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest III: The Pirates Of Pestulon",
+    "rating": 80.68299757539191
+  },
+  {
+    "id": 31,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest IV: Roger Wilco and the Time Rippers",
+    "rating": 96.2164952481095
+  },
+  {
+    "id": 32,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest V: The Next Mutation",
+    "rating": 85.70560702940651
+  },
+  {
+    "id": 33,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Space Quest 6: The Spinal Frontier",
+    "rating": 80.0
+  },
+  {
+    "id": 34,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Giants: Citizen Kabuto",
+    "rating": 82.8344912617127
+  },
+  {
+    "id": 35,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Dungeon Keeper",
+    "rating": 85.9901792280442
+  },
+  {
+    "id": 36,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Dungeon Keeper 2",
+    "rating": 87.130126769312
+  },
+  {
+    "id": 37,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Dead Space",
+    "rating": 85.5699992408783
+  },
+  {
+    "id": 38,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dead Space 2",
+    "rating": 86.721949395545
+  },
+  {
+    "id": 39,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mafia",
+    "rating": 87.3117965656268
+  },
+  {
+    "id": 40,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mafia II",
+    "rating": 81.676426227096
+  },
+  {
+    "id": 41,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Deus Ex",
+    "rating": 86.9927062483464
+  },
+  {
+    "id": 42,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Deus Ex: Invisible War",
+    "rating": 63.0128771178241
+  },
+  {
+    "id": 43,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Deus Ex: Human Revolution",
+    "rating": 84.3362876937536
+  },
+  {
+    "id": 44,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Overlord",
+    "rating": 77.3829289362095
+  },
+  {
+    "id": 45,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Overlord: Raising Hell",
+    "rating": 72.1785679492464
+  },
+  {
+    "id": 46,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Overlord II",
+    "rating": 77.5927477443508
+  },
+  {
+    "id": 49,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Syndicate",
+    "rating": 83.51180209068181
+  },
+  {
+    "id": 50,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Syndicate: American Revolt",
+    "rating": 89.74342257975691
+  },
+  {
+    "id": 51,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Syndicate Wars",
+    "rating": 66.8274885677895
+  },
+  {
+    "id": 52,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "The Elder Scrolls: Arena",
+    "rating": 73.9966423738334
+  },
+  {
+    "id": 53,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls II: Daggerfall",
+    "rating": 82.12778634186901
+  },
+  {
+    "id": 54,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "An Elder Scrolls Legend: Battlespire",
+    "rating": 50.7028949297799
+  },
+  {
+    "id": 55,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls Adventures: Redguard",
+    "rating": 50.2953896199686
+  },
+  {
+    "id": 56,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls III: Morrowind",
+    "rating": 85.5455787430115
+  },
+  {
+    "id": 57,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls III: Tribunal",
+    "rating": 75.0742161131648
+  },
+  {
+    "id": 58,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls III: Bloodmoon",
+    "rating": 82.1832467526358
+  },
+  {
+    "id": 59,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls IV: Oblivion",
+    "rating": 85.25200692561111
+  },
+  {
+    "id": 60,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Secret of Monkey Island",
+    "rating": 86.4111477321442
+  },
+  {
+    "id": 61,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Monkey Island 2: LeChuck\u0027s Revenge",
+    "rating": 89.2394399007958
+  },
+  {
+    "id": 62,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Curse of Monkey Island",
+    "rating": 84.7993314599859
+  },
+  {
+    "id": 63,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Escape from Monkey Island",
+    "rating": 74.4376103458993
+  },
+  {
+    "id": 64,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Tales of Monkey Island",
+    "rating": 77.32300491365281
+  },
+  {
+    "id": 65,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Secret of Monkey Island: Special Edition",
+    "rating": 84.2223551736339
+  },
+  {
+    "id": 66,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Monkey Island 2 Special Edition: LeChuck\u0027s Revenge",
+    "rating": 88.1103778546261
+  },
+  {
+    "id": 67,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Master of Orion",
+    "rating": 87.7644936682229
+  },
+  {
+    "id": 68,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Master of Orion II: Battle at Antares",
+    "rating": 92.0669891685155
+  },
+  {
+    "id": 69,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Master of Orion III",
+    "rating": 33.7043473775278
+  },
+  {
+    "id": 70,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Terra Nova: Strike Force Centauri",
+    "rating": 70.0
+  },
+  {
+    "id": 71,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Portal",
+    "rating": 86.86975523899409
+  },
+  {
+    "id": 72,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Portal 2",
+    "rating": 91.7924740124419
+  },
+  {
+    "id": 73,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Mass Effect",
+    "rating": 86.4945753240491
+  },
+  {
+    "id": 74,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 2",
+    "rating": 91.4742258645262
+  },
+  {
+    "id": 75,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 3",
+    "rating": 85.2430791005458
+  },
+  {
+    "id": 76,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Dragon Age: Origins",
+    "rating": 86.9916180742209
+  },
+  {
+    "id": 77,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Dragon Age: Origins - Awakening",
+    "rating": 81.3276413979992
+  },
+  {
+    "id": 78,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dragon Age II",
+    "rating": 74.5690979785916
+  },
+  {
+    "id": 79,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "rating": 72.4919501330009
+  },
+  {
+    "id": 80,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher",
+    "rating": 82.6058389891554
+  },
+  {
+    "id": 81,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Baldur\u0027s Gate: Tales of the Sword Coast",
+    "rating": 80.13395619213651
+  },
+  {
+    "id": 82,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Baldur\u0027s Gate II: Throne of Bhaal",
+    "rating": 83.0464931391781
+  },
+  {
+    "id": 83,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Baldur\u0027s Gate: Dark Alliance",
+    "rating": 82.0124161303449
+  },
+  {
+    "id": 84,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Baldur\u0027s Gate: Dark Alliance II",
+    "rating": 77.3255779502479
+  },
+  {
+    "id": 85,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dune",
+    "rating": 78.2101611463048
+  },
+  {
+    "id": 86,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Dune II: The Building of a Dynasty",
+    "rating": 89.88293751962759
+  },
+  {
+    "id": 87,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Dune 2000",
+    "rating": 79.68512290763411
+  },
+  {
+    "id": 89,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Emperor: Battle for Dune",
+    "rating": 76.7091225420055
+  },
+  {
+    "id": 90,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "The Need for Speed",
+    "rating": 71.7061424374213
+  },
+  {
+    "id": 91,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed II",
+    "rating": 76.459752300217
+  },
+  {
+    "id": 92,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed III: Hot Pursuit",
+    "rating": 78.95496520617459
+  },
+  {
+    "id": 93,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed: High Stakes",
+    "rating": 72.9496272457393
+  },
+  {
+    "id": 94,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed: Porsche Unleashed",
+    "rating": 82.117816243042
+  },
+  {
+    "id": 95,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Hot Pursuit 2",
+    "rating": 74.438567990938
+  },
+  {
+    "id": 96,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Underground",
+    "rating": 83.889227042708
+  },
+  {
+    "id": 97,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Underground 2",
+    "rating": 83.7105132261012
+  },
+  {
+    "id": 98,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Most Wanted",
+    "rating": 84.95597278381351
+  },
+  {
+    "id": 99,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed: Carbon",
+    "rating": 71.9985532723806
+  },
+  {
+    "id": 100,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Need for Speed: ProStreet",
+    "rating": 69.2236618543126
+  },
+  {
+    "id": 101,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Need for Speed: Undercover",
+    "rating": 62.2454221233334
+  },
+  {
+    "id": 102,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed: Shift",
+    "rating": 73.9981109705454
+  },
+  {
+    "id": 103,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Need for Speed: Nitro",
+    "rating": 78.404536786929
+  },
+  {
+    "id": 104,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Need for Speed: World",
+    "rating": 66.7738211616858
+  },
+  {
+    "id": 105,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Hot Pursuit",
+    "rating": 78.62252133684349
+  },
+  {
+    "id": 106,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Zak McKracken and the Alien Mindbenders",
+    "rating": 73.3306770500601
+  },
+  {
+    "id": 107,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Hidden \u0026 Dangerous 2",
+    "rating": 80.0024841288289
+  },
+  {
+    "id": 109,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "L.A. Noire",
+    "rating": 82.85922607288819
+  },
+  {
+    "id": 111,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Amnesia: The Dark Descent",
+    "rating": 78.4356872400742
+  },
+  {
+    "id": 112,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Devil May Cry 4",
+    "rating": 80.0958509442308
+  },
+  {
+    "id": 113,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin\u0027s Creed Brotherhood",
+    "rating": 83.0841892360958
+  },
+  {
+    "id": 114,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Star Wars: The Old Republic",
+    "rating": 76.0433941746015
+  },
+  {
+    "id": 115,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "name": "League of Legends",
+    "rating": 76.8543939068269
+  },
+  {
+    "id": 116,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "rating": 91.2888691544177
+  },
+  {
+    "id": 117,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last Guardian",
+    "rating": 83.0880041661603
+  },
+  {
+    "id": 118,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+    "rating": 88.02616055730789
+  },
+  {
+    "id": 119,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Mortal Kombat",
+    "rating": 81.72447610326691
+  },
+  {
+    "id": 120,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Diablo III",
+    "rating": 78.48728535403839
+  },
+  {
+    "id": 121,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Minecraft",
+    "rating": 84.4409177388045
+  },
+  {
+    "id": 122,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Left 4 Dead",
+    "rating": 80.3639661441291
+  },
+  {
+    "id": 123,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "World of Warcraft",
+    "rating": 84.9890199741501
+  },
+  {
+    "id": 124,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Left 4 Dead 2",
+    "rating": 82.3088088343303
+  },
+  {
+    "id": 125,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Diablo",
+    "rating": 83.9427722507491
+  },
+  {
+    "id": 126,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Diablo II",
+    "rating": 88.33355684946599
+  },
+  {
+    "id": 127,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin\u0027s Creed II",
+    "rating": 87.2504513633462
+  },
+  {
+    "id": 128,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin\u0027s Creed",
+    "rating": 73.5099616249957
+  },
+  {
+    "id": 129,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft: Orcs \u0026 Humans",
+    "rating": 79.37243647738751
+  },
+  {
+    "id": 130,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft II: Tides of Darkness",
+    "rating": 85.80403122110769
+  },
+  {
+    "id": 131,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft II: Beyond the Dark Portal",
+    "rating": 80.3228009948983
+  },
+  {
+    "id": 132,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft III: Reign of Chaos",
+    "rating": 88.7592924896451
+  },
+  {
+    "id": 133,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft III: The Frozen Throne",
+    "rating": 88.545368842683
+  },
+  {
+    "id": 134,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Devil May Cry",
+    "rating": 81.3149718788971
+  },
+  {
+    "id": 135,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Devil May Cry 2",
+    "rating": 55.3278072212925
+  },
+  {
+    "id": 136,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Devil May Cry 3: Dante\u0027s Awakening",
+    "rating": 83.8387129676752
+  },
+  {
+    "id": 137,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: The Force Unleashed II",
+    "rating": 63.5422058503793
+  },
+  {
+    "id": 138,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "LEGO Indiana Jones 2: The Adventure Continues",
+    "rating": 65.9577973860993
+  },
+  {
+    "id": 139,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Galactic Battlegrounds",
+    "rating": 79.7455641344568
+  },
+  {
+    "id": 140,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Galactic Battlegrounds - Clone Campaigns",
+    "rating": 80.369993879361
+  },
+  {
+    "id": 141,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Battlefront",
+    "rating": 80.516639061309
+  },
+  {
+    "id": 142,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Battlefront II",
+    "rating": 85.1986892128693
+  },
+  {
+    "id": 143,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Star Wars: Demolition",
+    "rating": 40.8453156576838
+  },
+  {
+    "id": 144,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Empire at War",
+    "rating": 74.8405143082057
+  },
+  {
+    "id": 145,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars Galaxies: An Empire Divided",
+    "rating": 79.7320864028539
+  },
+  {
+    "id": 148,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Republic Commando",
+    "rating": 82.17875507314571
+  },
+  {
+    "id": 149,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: Starfighter",
+    "rating": 64.639849314447
+  },
+  {
+    "id": 150,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Jedi Knight - Dark Forces II",
+    "rating": 83.4444975183705
+  },
+  {
+    "id": 151,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Rebellion",
+    "rating": 70.0554008222356
+  },
+  {
+    "id": 152,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+    "rating": 84.9117611856886
+  },
+  {
+    "id": 153,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Jedi Knight - Jedi Academy",
+    "rating": 84.5150401332987
+  },
+  {
+    "id": 154,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Star Wars: Episode I - Racer",
+    "rating": 73.5148685587081
+  },
+  {
+    "id": 155,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Yoda Stories",
+    "rating": 59.208401091769
+  },
+  {
+    "id": 156,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Episode I - Battle for Naboo",
+    "rating": 77.37695440888919
+  },
+  {
+    "id": 157,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Dark Forces",
+    "rating": 78.38435959997429
+  },
+  {
+    "id": 158,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars Episode I: The Phantom Menace",
+    "rating": 58.730454469153
+  },
+  {
+    "id": 159,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Force Commander",
+    "rating": 80.1213032124895
+  },
+  {
+    "id": 160,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Jedi Knight - Mysteries of the Sith",
+    "rating": 79.7003250693528
+  },
+  {
+    "id": 161,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Rebel Assault",
+    "rating": 63.81777255118639
+  },
+  {
+    "id": 162,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Star Wars: Rebel Assault II - The Hidden Empire",
+    "rating": 68.6287160743203
+  },
+  {
+    "id": 163,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Rogue Squadron",
+    "rating": 78.9015222879188
+  },
+  {
+    "id": 164,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Shadows of the Empire",
+    "rating": 67.5706327167512
+  },
+  {
+    "id": 166,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: TIE Fighter",
+    "rating": 89.4187430292478
+  },
+  {
+    "id": 168,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: X-Wing",
+    "rating": 80.0626085003479
+  },
+  {
+    "id": 169,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: X-Wing Alliance",
+    "rating": 88.1262919675031
+  },
+  {
+    "id": 170,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: X-Wing vs. TIE Fighter",
+    "rating": 76.047735068643
+  },
+  {
+    "id": 172,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Star Wars: X-Wing vs. TIE Fighter - Balance of Power",
+    "rating": 60.0
+  },
+  {
+    "id": 174,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Star Wars: Empire at War - Forces of Corruption",
+    "rating": 79.8334790256732
+  },
+  {
+    "id": 175,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Afterlife",
+    "rating": 69.97023962334521
+  },
+  {
+    "id": 180,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Full Throttle",
+    "rating": 83.2548646161367
+  },
+  {
+    "id": 181,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grim Fandango",
+    "rating": 85.8601498606921
+  },
+  {
+    "id": 184,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Indiana Jones and the Fate of Atlantis",
+    "rating": 89.8870494348587
+  },
+  {
+    "id": 185,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Indiana Jones and the Last Crusade: The Action Game",
+    "rating": 74.9377964522533
+  },
+  {
+    "id": 186,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+    "rating": 83.9682194647626
+  },
+  {
+    "id": 187,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Indiana Jones and the Emperor\u0027s Tomb",
+    "rating": 74.0456147097679
+  },
+  {
+    "id": 188,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Indiana Jones and the Infernal Machine",
+    "rating": 77.5483461964235
+  },
+  {
+    "id": 189,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "LEGO Indiana Jones: The Original Adventures",
+    "rating": 73.9841791339023
+  },
+  {
+    "id": 190,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "LEGO Star Wars II: The Original Trilogy",
+    "rating": 77.6439348352649
+  },
+  {
+    "id": 191,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Loom",
+    "rating": 88.55222756145199
+  },
+  {
+    "id": 192,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Maniac Mansion",
+    "rating": 86.38936822575371
+  },
+  {
+    "id": 193,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Day of the Tentacle",
+    "rating": 91.1066301395204
+  },
+  {
+    "id": 195,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Night Shift",
+    "rating": 70.0
+  },
+  {
+    "id": 196,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Outlaws",
+    "rating": 83.1963036095608
+  },
+  {
+    "id": 200,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Pipe Dream",
+    "rating": 60.0298044085688
+  },
+  {
+    "id": 202,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Sam \u0026 Max Hit the Road",
+    "rating": 85.61489805024809
+  },
+  {
+    "id": 207,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Dig",
+    "rating": 85.1834102757897
+  },
+  {
+    "id": 209,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thrillville: Off the Rails",
+    "rating": 65.04371511053671
+  },
+  {
+    "id": 210,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: The Clone Wars - Republic Heroes",
+    "rating": 48.2655562503181
+  },
+  {
+    "id": 211,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Armed and Dangerous",
+    "rating": 74.5085614501993
+  },
+  {
+    "id": 212,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Brütal Legend",
+    "rating": 73.1974805609635
+  },
+  {
+    "id": 214,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Neverwinter Nights 2",
+    "rating": 82.7617267364802
+  },
+  {
+    "id": 215,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Warhammer Online: Age of Reckoning",
+    "rating": 62.6277113004105
+  },
+  {
+    "id": 216,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Neverwinter Nights",
+    "rating": 82.504527692666
+  },
+  {
+    "id": 217,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Sonic Chronicles: The Dark Brotherhood",
+    "rating": 63.3829474054657
+  },
+  {
+    "id": 218,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "MDK2",
+    "rating": 80.64061125744169
+  },
+  {
+    "id": 219,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "MDK",
+    "rating": 77.6854948889879
+  },
+  {
+    "id": 221,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Phantasmagoria",
+    "rating": 77.2382070511608
+  },
+  {
+    "id": 222,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Phantasmagoria 2: A Puzzle of Flesh",
+    "rating": 85.981337862435
+  },
+  {
+    "id": 223,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "The Sims",
+    "rating": 79.936119347717
+  },
+  {
+    "id": 224,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Sims 2",
+    "rating": 79.107189700545
+  },
+  {
+    "id": 225,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Sims 2: Pets",
+    "rating": 69.7958516367166
+  },
+  {
+    "id": 226,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Sims 2: Seasons",
+    "rating": 71.7389236883839
+  },
+  {
+    "id": 227,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "World of Warcraft: The Burning Crusade",
+    "rating": 90.8718558287493
+  },
+  {
+    "id": 228,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "World of Warcraft: Wrath of the Lich King",
+    "rating": 89.9688491450076
+  },
+  {
+    "id": 229,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "World of Warcraft: Cataclysm",
+    "rating": 76.7935530819075
+  },
+  {
+    "id": 230,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft",
+    "rating": 89.0389211871426
+  },
+  {
+    "id": 231,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Half-Life",
+    "rating": 88.98572368974071
+  },
+  {
+    "id": 232,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Half-Life: Opposing Force",
+    "rating": 80.9640228734389
+  },
+  {
+    "id": 233,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Half-Life 2",
+    "rating": 90.77584022062659
+  },
+  {
+    "id": 234,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Guild Wars",
+    "rating": 79.74667875649371
+  },
+  {
+    "id": 235,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "RollerCoaster Tycoon 3",
+    "rating": 73.9950401684298
+  },
+  {
+    "id": 236,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Myst",
+    "rating": 76.3875016505499
+  },
+  {
+    "id": 237,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "SimCity 3000",
+    "rating": 82.3891082479294
+  },
+  {
+    "id": 238,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Riven: The Sequel to Myst",
+    "rating": 83.30092411849091
+  },
+  {
+    "id": 239,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft II: Wings of Liberty",
+    "rating": 87.3151965698459
+  },
+  {
+    "id": 240,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 1942",
+    "rating": 79.6759968700463
+  },
+  {
+    "id": 241,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Counter-Strike",
+    "rating": 83.9659853234443
+  },
+  {
+    "id": 242,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Cossacks: European Wars",
+    "rating": 79.3828354889507
+  },
+  {
+    "id": 243,
+    "genres": [
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "name": "Who Wants to Be a Millionaire",
+    "rating": 77.65847302646199
+  },
+  {
+    "id": 244,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "The Bureau: XCOM Declassified",
+    "rating": 59.033700681939
+  },
+  {
+    "id": 245,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Command \u0026 Conquer: Red Alert 2",
+    "rating": 87.18005673111509
+  },
+  {
+    "id": 246,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Diablo II: Lord of Destruction",
+    "rating": 89.0766392509878
+  },
+  {
+    "id": 247,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Half-Life 2: Episode Two",
+    "rating": 87.69729384911919
+  },
+  {
+    "id": 248,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Populous",
+    "rating": 67.7293094621202
+  },
+  {
+    "id": 250,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Chronicles of Riddick: Escape from Butcher Bay",
+    "rating": 84.6863355983711
+  },
+  {
+    "id": 251,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Where in the World Is Carmen Sandiego?",
+    "rating": 79.6824971454631
+  },
+  {
+    "id": 253,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Stonekeep",
+    "rating": 80.7932266728508
+  },
+  {
+    "id": 254,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "RollerCoaster Tycoon",
+    "rating": 82.4553846074449
+  },
+  {
+    "id": 255,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Arcanum: of Steamworks and Magick Obscura",
+    "rating": 88.9481408121878
+  },
+  {
+    "id": 257,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War",
+    "rating": 85.3955093571586
+  },
+  {
+    "id": 260,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Sims 3",
+    "rating": 80.3405969008631
+  },
+  {
+    "id": 271,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Vietcong",
+    "rating": 73.048151795891
+  },
+  {
+    "id": 272,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Unreal Tournament",
+    "rating": 86.0607833780505
+  },
+  {
+    "id": 273,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Unreal",
+    "rating": 80.6440244191817
+  },
+  {
+    "id": 274,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Tropico",
+    "rating": 82.19838536858211
+  },
+  {
+    "id": 275,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Commandos: Strike Force",
+    "rating": 64.5640312512615
+  },
+  {
+    "id": 276,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Supreme Commander",
+    "rating": 77.1481772341248
+  },
+  {
+    "id": 277,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 2",
+    "rating": 81.656829378003
+  },
+  {
+    "id": 278,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Runaway: A Road Adventure",
+    "rating": 78.7843436273001
+  },
+  {
+    "id": 279,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Return to Zork",
+    "rating": 60.5057232967954
+  },
+  {
+    "id": 280,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom 3",
+    "rating": 79.3060378562952
+  },
+  {
+    "id": 281,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Return to Castle Wolfenstein",
+    "rating": 78.9947961365934
+  },
+  {
+    "id": 282,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "EverQuest",
+    "rating": 71.7389518607549
+  },
+  {
+    "id": 283,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Theme Park",
+    "rating": 68.9525336582953
+  },
+  {
+    "id": 284,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Wolfenstein 3D",
+    "rating": 77.55389833773519
+  },
+  {
+    "id": 285,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Railroad Tycoon II",
+    "rating": 85.4643283729075
+  },
+  {
+    "id": 286,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Quake II",
+    "rating": 83.6811367908443
+  },
+  {
+    "id": 287,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Patrician III: Rise of the Hanse",
+    "rating": 70.0529826750608
+  },
+  {
+    "id": 288,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Operation Flashpoint: Cold War Crisis",
+    "rating": 88.4268681285434
+  },
+  {
+    "id": 289,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires",
+    "rating": 84.19467408706261
+  },
+  {
+    "id": 290,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Imperivm III: Great Battles of Rome",
+    "rating": 70.0341698474394
+  },
+  {
+    "id": 291,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires: The Rise of Rome",
+    "rating": 80.14347217714149
+  },
+  {
+    "id": 293,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Sid Meier\u0027s Civilization IV",
+    "rating": 85.9796740324148
+  },
+  {
+    "id": 294,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hidden \u0026 Dangerous",
+    "rating": 79.448545638945
+  },
+  {
+    "id": 295,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Command \u0026 Conquer: Red Alert",
+    "rating": 86.3433846902665
+  },
+  {
+    "id": 296,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Crysis",
+    "rating": 80.8216226218901
+  },
+  {
+    "id": 297,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Counter-Strike: Condition Zero",
+    "rating": 74.671026495056
+  },
+  {
+    "id": 298,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Glory of the Roman Empire",
+    "rating": 72.5704568643011
+  },
+  {
+    "id": 299,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires III",
+    "rating": 79.072053577937
+  },
+  {
+    "id": 300,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Anno 1503",
+    "rating": 79.3874364377443
+  },
+  {
+    "id": 301,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Microsoft Flight Simulator X",
+    "rating": 77.0347226249832
+  },
+  {
+    "id": 302,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Empire Earth",
+    "rating": 78.2863023764549
+  },
+  {
+    "id": 303,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Anno 1602: Creation of a New World",
+    "rating": 87.4779321249321
+  },
+  {
+    "id": 305,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Cossacks II: Napoleonic Wars",
+    "rating": 66.8163378146593
+  },
+  {
+    "id": 306,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Far Cry",
+    "rating": 77.9814557694268
+  },
+  {
+    "id": 307,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Counter-Strike: Source",
+    "rating": 78.692968192711
+  },
+  {
+    "id": 308,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Black \u0026 White",
+    "rating": 75.55992899310391
+  },
+  {
+    "id": 309,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Police Quest: SWAT",
+    "rating": 50.0
+  },
+  {
+    "id": 310,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Sid Meier\u0027s Civilization III",
+    "rating": 81.23127755802659
+  },
+  {
+    "id": 311,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Police Quest: SWAT 2",
+    "rating": 49.5504437310679
+  },
+  {
+    "id": 312,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom II: Hell on Earth",
+    "rating": 85.50040043629339
+  },
+  {
+    "id": 313,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "SWAT 3: Close Quarters Battle",
+    "rating": 80.7993642749123
+  },
+  {
+    "id": 316,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "SWAT 4",
+    "rating": 86.23522346868461
+  },
+  {
+    "id": 317,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "SWAT 4: The Stetchkov Syndicate",
+    "rating": 70.4458132628014
+  },
+  {
+    "id": 318,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Ragnarok Online",
+    "rating": 77.3272707106238
+  },
+  {
+    "id": 320,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "rating": 81.64947284593029
+  },
+  {
+    "id": 321,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Command \u0026 Conquer 3: Tiberium Wars",
+    "rating": 83.03154081311331
+  },
+  {
+    "id": 322,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Blade Runner",
+    "rating": 85.679627881056
+  },
+  {
+    "id": 323,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The 7th Guest",
+    "rating": 72.9461797873018
+  },
+  {
+    "id": 324,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Mythology",
+    "rating": 81.9019469099683
+  },
+  {
+    "id": 325,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Hellgate: London",
+    "rating": 79.75147184998251
+  },
+  {
+    "id": 326,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Medal of Honor: Allied Assault",
+    "rating": 82.79344813201502
+  },
+  {
+    "id": 327,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires II: The Age of Kings",
+    "rating": 86.3834968471256
+  },
+  {
+    "id": 328,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Sacred",
+    "rating": 77.20159663375641
+  },
+  {
+    "id": 329,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Dungeon Siege",
+    "rating": 79.05366066861819
+  },
+  {
+    "id": 330,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "SimCity 2000",
+    "rating": 77.271315077877
+  },
+  {
+    "id": 331,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "RollerCoaster Tycoon 2",
+    "rating": 82.6799018613379
+  },
+  {
+    "id": 332,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "name": "Monopoly",
+    "rating": 66.0217637014094
+  },
+  {
+    "id": 333,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Quake",
+    "rating": 82.463826776131
+  },
+  {
+    "id": 334,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Zoo Tycoon",
+    "rating": 77.98057015574899
+  },
+  {
+    "id": 335,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield Vietnam",
+    "rating": 73.4896441896179
+  },
+  {
+    "id": 336,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Crysis Warhead",
+    "rating": 74.91964817581109
+  },
+  {
+    "id": 337,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "American McGee\u0027s Alice",
+    "rating": 73.4685948355415
+  },
+  {
+    "id": 338,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Half-Life 2: Episode One",
+    "rating": 84.15775169521099
+  },
+  {
+    "id": 339,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "The Orange Box",
+    "rating": 90.15811634847489
+  },
+  {
+    "id": 340,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Command \u0026 Conquer: Tiberian Sun",
+    "rating": 82.6530892315531
+  },
+  {
+    "id": 341,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Harry Potter and the Sorcerer\u0027s Stone",
+    "rating": 73.4221206558674
+  },
+  {
+    "id": 342,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Duke Nukem 3D",
+    "rating": 82.01816715125149
+  },
+  {
+    "id": 343,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 3",
+    "rating": 80.4688079979811
+  },
+  {
+    "id": 345,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Battlefield 1942: The Road to Rome",
+    "rating": 78.18303699737629
+  },
+  {
+    "id": 346,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Battlefield 1942: Secret Weapons of WWII",
+    "rating": 78.4448308401455
+  },
+  {
+    "id": 347,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 2: Special Forces",
+    "rating": 83.8352197303476
+  },
+  {
+    "id": 348,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 2: Modern Combat",
+    "rating": 63.1249886339226
+  },
+  {
+    "id": 349,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 2142",
+    "rating": 74.8457427811874
+  },
+  {
+    "id": 350,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield Heroes",
+    "rating": 74.9084858828927
+  },
+  {
+    "id": 351,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 1943",
+    "rating": 71.9157741040934
+  },
+  {
+    "id": 352,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Battlefield: Bad Company 2",
+    "rating": 80.57297525558721
+  },
+  {
+    "id": 354,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield Play4Free",
+    "rating": 49.7657114067707
+  },
+  {
+    "id": 355,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Quake III Arena",
+    "rating": 83.53976734645289
+  },
+  {
+    "id": 356,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Quake 4",
+    "rating": 74.3284456026091
+  },
+  {
+    "id": 357,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Tachyon: The Fringe",
+    "rating": 80.0140631201618
+  },
+  {
+    "id": 358,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Bros.",
+    "rating": 83.96957220414251
+  },
+  {
+    "id": 359,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XV",
+    "rating": 76.9091898093627
+  },
+  {
+    "id": 360,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Disney\u0027s Donald Duck: Goin\u0027 Quackers",
+    "rating": 72.3581657019989
+  },
+  {
+    "id": 361,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Far Cry 2",
+    "rating": 72.190353177389
+  },
+  {
+    "id": 362,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic: A Strategic Quest",
+    "rating": 79.9401028776105
+  },
+  {
+    "id": 363,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic II: The Succession Wars",
+    "rating": 84.7246461838013
+  },
+  {
+    "id": 364,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "rating": 89.1702662329775
+  },
+  {
+    "id": 365,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Heroes of Might and Magic III: Armageddon\u0027s Blade",
+    "rating": 88.3005522376132
+  },
+  {
+    "id": 366,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Heroes of Might and Magic III: The Shadow of Death",
+    "rating": 89.00812905133239
+  },
+  {
+    "id": 367,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic IV",
+    "rating": 74.9138573200568
+  },
+  {
+    "id": 368,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Heroes of Might and Magic IV: The Gathering Storm",
+    "rating": 58.4828354659237
+  },
+  {
+    "id": 369,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Heroes of Might and Magic IV: Winds of War",
+    "rating": 71.9281289937789
+  },
+  {
+    "id": 370,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic V",
+    "rating": 78.9681887120505
+  },
+  {
+    "id": 371,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic V: Hammers of Fate",
+    "rating": 79.20668284443761
+  },
+  {
+    "id": 372,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic V: Tribes of the East",
+    "rating": 81.4253960878991
+  },
+  {
+    "id": 373,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Might \u0026 Magic: Heroes VI",
+    "rating": 73.5273658723586
+  },
+  {
+    "id": 374,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear",
+    "rating": 73.9635821682752
+  },
+  {
+    "id": 375,
+    "genres": [
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid",
+    "rating": 90.7083234051649
+  },
+  {
+    "id": 376,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "rating": 88.5985847778787
+  },
+  {
+    "id": 377,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear 2: Solid Snake",
+    "rating": 81.51674939893991
+  },
+  {
+    "id": 378,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Rising: Revengeance",
+    "rating": 79.29619397742209
+  },
+  {
+    "id": 379,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "rating": 92.6241084160742
+  },
+  {
+    "id": 380,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 4: Guns of the Patriots",
+    "rating": 87.3936716306038
+  },
+  {
+    "id": 381,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid: Portable Ops",
+    "rating": 68.6772237265682
+  },
+  {
+    "id": 382,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Metal Gear Solid: Peace Walker",
+    "rating": 79.3422068362819
+  },
+  {
+    "id": 383,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Final Fantasy Type-0",
+    "rating": 70.0661083467794
+  },
+  {
+    "id": 384,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XIII-2",
+    "rating": 71.72894286511399
+  },
+  {
+    "id": 385,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy",
+    "rating": 77.9385472940321
+  },
+  {
+    "id": 386,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XIV Online",
+    "rating": 81.9024228019539
+  },
+  {
+    "id": 387,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy II",
+    "rating": 70.4665655253085
+  },
+  {
+    "id": 388,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Final Fantasy IV: The After Years",
+    "rating": 50.2572611480701
+  },
+  {
+    "id": 389,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XIII",
+    "rating": 72.3071765480513
+  },
+  {
+    "id": 390,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "LEGO Racers 2",
+    "rating": 56.46657471432771
+  },
+  {
+    "id": 391,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dissidia Final Fantasy",
+    "rating": 70.8659949226881
+  },
+  {
+    "id": 392,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XII: Revenant Wings",
+    "rating": 61.7493157309481
+  },
+  {
+    "id": 393,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy III",
+    "rating": 68.9819949915031
+  },
+  {
+    "id": 394,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Tactics: The War of the Lions",
+    "rating": 89.84624273850139
+  },
+  {
+    "id": 395,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Final Fantasy II",
+    "rating": 76.9265263884098
+  },
+  {
+    "id": 396,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Final Fantasy Legend",
+    "rating": 65.8261927131316
+  },
+  {
+    "id": 397,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy: 20th Anniversary Edition",
+    "rating": 77.1076952166444
+  },
+  {
+    "id": 398,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XII",
+    "rating": 84.8489549812771
+  },
+  {
+    "id": 399,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy IV",
+    "rating": 81.9744334604454
+  },
+  {
+    "id": 401,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+    "rating": 58.6238532110092
+  },
+  {
+    "id": 403,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Legend II",
+    "rating": 84.7429197347622
+  },
+  {
+    "id": 406,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy IV Advance",
+    "rating": 82.54637871509759
+  },
+  {
+    "id": 407,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Adventure",
+    "rating": 79.9068099451634
+  },
+  {
+    "id": 408,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Final Fantasy I \u0026 II: Dawn of Souls",
+    "rating": 69.3445545679098
+  },
+  {
+    "id": 410,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Legend III",
+    "rating": 83.0
+  },
+  {
+    "id": 411,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XI Online",
+    "rating": 78.4972024884409
+  },
+  {
+    "id": 412,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Final Fantasy: Crystal Chronicles",
+    "rating": 68.6153927189409
+  },
+  {
+    "id": 413,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy X-2",
+    "rating": 65.260836480867
+  },
+  {
+    "id": 414,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Final Fantasy Tactics Advance",
+    "rating": 82.07349443978201
+  },
+  {
+    "id": 415,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy: Mystic Quest",
+    "rating": 75.46600941399541
+  },
+  {
+    "id": 417,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Origins",
+    "rating": 79.79712021001019
+  },
+  {
+    "id": 418,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy X",
+    "rating": 87.40465089073399
+  },
+  {
+    "id": 419,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy V",
+    "rating": 78.2433242371396
+  },
+  {
+    "id": 421,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Final Fantasy IX",
+    "rating": 87.8362025600479
+  },
+  {
+    "id": 422,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "LEGO Racers",
+    "rating": 62.3759617034121
+  },
+  {
+    "id": 423,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy Anthology",
+    "rating": 80.1990911508131
+  },
+  {
+    "id": 424,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil",
+    "rating": 77.6101140103731
+  },
+  {
+    "id": 425,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VIII",
+    "rating": 82.44200946687849
+  },
+  {
+    "id": 426,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VI",
+    "rating": 89.6218465584471
+  },
+  {
+    "id": 427,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VII",
+    "rating": 90.16931487834499
+  },
+  {
+    "id": 428,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Final Fantasy Tactics",
+    "rating": 85.0868230987089
+  },
+  {
+    "id": 429,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Juarez",
+    "rating": 74.3624283299451
+  },
+  {
+    "id": 430,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Call of Juarez: Bound In Blood",
+    "rating": 76.6202193024573
+  },
+  {
+    "id": 431,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted: Drake\u0027s Fortune",
+    "rating": 76.4871949665678
+  },
+  {
+    "id": 432,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Total War: Shogun 2",
+    "rating": 84.835268731587
+  },
+  {
+    "id": 433,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "The Chronicles of Riddick: Assault on Dark Athena",
+    "rating": 80.9972463810771
+  },
+  {
+    "id": 434,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Red Dead Redemption",
+    "rating": 89.5873449155653
+  },
+  {
+    "id": 436,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Shogun: Total War",
+    "rating": 84.53406721393421
+  },
+  {
+    "id": 437,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Medieval: Total War",
+    "rating": 83.21984524228951
+  },
+  {
+    "id": 438,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Rome: Total War",
+    "rating": 82.2804693751457
+  },
+  {
+    "id": 439,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Spartan: Total Warrior",
+    "rating": 65.882985738673
+  },
+  {
+    "id": 440,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Medieval II: Total War",
+    "rating": 86.49693870724191
+  },
+  {
+    "id": 441,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Empire: Total War",
+    "rating": 78.05758401214051
+  },
+  {
+    "id": 442,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Napoleon: Total War",
+    "rating": 76.770999277193
+  },
+  {
+    "id": 443,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Shogun: Total War - Mongol Invasion",
+    "rating": 78.92909961638159
+  },
+  {
+    "id": 444,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Medieval: Total War - Viking Invasion",
+    "rating": 77.1144585785318
+  },
+  {
+    "id": 445,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Rome: Total War - Barbarian Invasion",
+    "rating": 82.99697433889399
+  },
+  {
+    "id": 446,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Rome: Total War - Alexander",
+    "rating": 69.9358712901012
+  },
+  {
+    "id": 447,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Medieval II: Total War - Kingdoms",
+    "rating": 76.64367414105149
+  },
+  {
+    "id": 448,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Operation Flashpoint: Resistance",
+    "rating": 89.77311177662051
+  },
+  {
+    "id": 449,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Operation Flashpoint: Red Hammer",
+    "rating": 88.5732976798605
+  },
+  {
+    "id": 450,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Operation Flashpoint: Red River",
+    "rating": 69.3619401117378
+  },
+  {
+    "id": 451,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Operation Flashpoint: Dragon Rising",
+    "rating": 70.1166416618376
+  },
+  {
+    "id": 452,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Blackthorne",
+    "rating": 71.1096432150573
+  },
+  {
+    "id": 453,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Death and Return of Superman",
+    "rating": 58.9026156751287
+  },
+  {
+    "id": 454,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "The Lost Vikings",
+    "rating": 77.0639244822931
+  },
+  {
+    "id": 455,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Justice League Task Force",
+    "rating": 40.0486246408077
+  },
+  {
+    "id": 456,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft: Brood War",
+    "rating": 89.5819811387374
+  },
+  {
+    "id": 457,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft II: Heart of the Swarm",
+    "rating": 86.9814420038519
+  },
+  {
+    "id": 458,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft II: Legacy of the Void",
+    "rating": 88.5043183226135
+  },
+  {
+    "id": 459,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Simon the Sorcerer",
+    "rating": 81.2388195950595
+  },
+  {
+    "id": 460,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",
+    "rating": 85.9005731942669
+  },
+  {
+    "id": 461,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Simon the Sorcerer 3D",
+    "rating": 31.3101255602756
+  },
+  {
+    "id": 464,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Vietcong: Fist Alpha",
+    "rating": 70.2364028899365
+  },
+  {
+    "id": 465,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War - Winter Assault",
+    "rating": 73.6318439663077
+  },
+  {
+    "id": 466,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War II",
+    "rating": 77.4557846336362
+  },
+  {
+    "id": 467,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War - Dark Crusade",
+    "rating": 78.1232183796327
+  },
+  {
+    "id": 468,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War - Soulstorm",
+    "rating": 66.7411203442479
+  },
+  {
+    "id": 469,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War II - Chaos Rising",
+    "rating": 73.8647611744618
+  },
+  {
+    "id": 470,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War II - Retribution",
+    "rating": 73.8904284787233
+  },
+  {
+    "id": 471,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Crysis 2",
+    "rating": 77.5531272269073
+  },
+  {
+    "id": 472,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls V: Skyrim",
+    "rating": 87.726754185645
+  },
+  {
+    "id": 473,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield: Bad Company",
+    "rating": 77.7209630149349
+  },
+  {
+    "id": 474,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 2: Substance",
+    "rating": 86.99914776368519
+  },
+  {
+    "id": 475,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: The Force Unleashed",
+    "rating": 73.9054140739764
+  },
+  {
+    "id": 476,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Battlefront - Elite Squadron",
+    "rating": 73.972083429037
+  },
+  {
+    "id": 477,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Commandos 3: Destination Berlin",
+    "rating": 75.1236967860522
+  },
+  {
+    "id": 478,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher 2: Assassins of Kings",
+    "rating": 84.9397577155462
+  },
+  {
+    "id": 479,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 3: Subsistence",
+    "rating": 92.2431455760653
+  },
+  {
+    "id": 480,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill",
+    "rating": 84.58904491547081
+  },
+  {
+    "id": 481,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill 2",
+    "rating": 91.5722372016206
+  },
+  {
+    "id": 482,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill 3",
+    "rating": 83.8204602015736
+  },
+  {
+    "id": 483,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill 4: The Room",
+    "rating": 75.66517016078541
+  },
+  {
+    "id": 484,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill: Origins",
+    "rating": 74.744452641795
+  },
+  {
+    "id": 485,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill: Homecoming",
+    "rating": 67.0305540153722
+  },
+  {
+    "id": 486,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill: Shattered Memories",
+    "rating": 70.59421868629839
+  },
+  {
+    "id": 487,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill: Downpour",
+    "rating": 69.6859631186864
+  },
+  {
+    "id": 488,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kane \u0026 Lynch 2: Dog Days",
+    "rating": 67.76074651859071
+  },
+  {
+    "id": 489,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Rift",
+    "rating": 68.56273895969301
+  },
+  {
+    "id": 490,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Duke Nukem Forever",
+    "rating": 57.6319684981154
+  },
+  {
+    "id": 491,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Castlevania: Lords of Shadow",
+    "rating": 79.8547236408316
+  },
+  {
+    "id": 492,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Gears of War 3",
+    "rating": 82.0533885309774
+  },
+  {
+    "id": 493,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Heavy Rain",
+    "rating": 82.1203977374183
+  },
+  {
+    "id": 494,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Bulletstorm",
+    "rating": 79.4669752999493
+  },
+  {
+    "id": 495,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Metro 2033",
+    "rating": 82.23822606375761
+  },
+  {
+    "id": 496,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dead Rising 2",
+    "rating": 73.2385222352704
+  },
+  {
+    "id": 497,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Resident Evil: The Darkside Chronicles",
+    "rating": 67.0943494972286
+  },
+  {
+    "id": 498,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Borderlands",
+    "rating": 80.01330676489471
+  },
+  {
+    "id": 499,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War III",
+    "rating": 85.9342007763697
+  },
+  {
+    "id": 500,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham Asylum",
+    "rating": 86.1825005505611
+  },
+  {
+    "id": 501,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham City",
+    "rating": 86.9108303808838
+  },
+  {
+    "id": 502,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Brink",
+    "rating": 42.7852012787205
+  },
+  {
+    "id": 503,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "FIFA Soccer 11",
+    "rating": 73.6806968910621
+  },
+  {
+    "id": 504,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Fable III",
+    "rating": 67.6434703418588
+  },
+  {
+    "id": 505,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hunted: The Demon\u0027s Forge",
+    "rating": 62.8797841257891
+  },
+  {
+    "id": 506,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Sonic Generations",
+    "rating": 77.3351849716776
+  },
+  {
+    "id": 507,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "I Am Alive",
+    "rating": 67.6002080800323
+  },
+  {
+    "id": 508,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "TrackMania 2: Canyon",
+    "rating": 63.7104903864676
+  },
+  {
+    "id": 509,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Rage",
+    "rating": 73.221561531615
+  },
+  {
+    "id": 510,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "PowerUp Heroes",
+    "rating": 80.0
+  },
+  {
+    "id": 512,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 3: Drake\u0027s Deception",
+    "rating": 85.0597792796389
+  },
+  {
+    "id": 513,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Phantasy Star Online 2",
+    "rating": 71.486840813317
+  },
+  {
+    "id": 514,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "F.E.A.R. 3",
+    "rating": 68.0546313171166
+  },
+  {
+    "id": 515,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Infamous 2",
+    "rating": 81.8294264281827
+  },
+  {
+    "id": 516,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Of Orcs and Men",
+    "rating": 73.2070167466969
+  },
+  {
+    "id": 517,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "F.E.A.R.",
+    "rating": 80.8693566874581
+  },
+  {
+    "id": 518,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "F.E.A.R. Extraction Point",
+    "rating": 79.3868142450653
+  },
+  {
+    "id": 519,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "F.E.A.R. Perseus Mandate",
+    "rating": 72.55580600592
+  },
+  {
+    "id": 520,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "F.E.A.R. 2: Project Origin",
+    "rating": 77.2274224718423
+  },
+  {
+    "id": 521,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Fable",
+    "rating": 84.04396781819919
+  },
+  {
+    "id": 522,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Fable II",
+    "rating": 78.412747802383
+  },
+  {
+    "id": 523,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Infamous",
+    "rating": 75.8348972993166
+  },
+  {
+    "id": 524,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Dirt 3",
+    "rating": 76.9265201886631
+  },
+  {
+    "id": 526,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: The Run",
+    "rating": 68.3158921421691
+  },
+  {
+    "id": 527,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Serious Sam 3: BFE",
+    "rating": 70.1394556815688
+  },
+  {
+    "id": 528,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Red Faction: Armageddon",
+    "rating": 70.78925865805749
+  },
+  {
+    "id": 529,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Far Cry 3",
+    "rating": 83.782896159643
+  },
+  {
+    "id": 530,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hitman: Absolution",
+    "rating": 75.81469582792269
+  },
+  {
+    "id": 531,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Ace Combat: Assault Horizon",
+    "rating": 70.5481973156964
+  },
+  {
+    "id": 532,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hard Reset",
+    "rating": 68.1815323932085
+  },
+  {
+    "id": 533,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dishonored",
+    "rating": 84.7796317082894
+  },
+  {
+    "id": 534,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Skyward Sword",
+    "rating": 81.97325023140911
+  },
+  {
+    "id": 535,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "WildStar",
+    "rating": 73.3646589637136
+  },
+  {
+    "id": 536,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "name": "Dead Island",
+    "rating": 70.9275931346382
+  },
+  {
+    "id": 537,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin\u0027s Creed Revelations",
+    "rating": 76.8243652518935
+  },
+  {
+    "id": 538,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock Infinite",
+    "rating": 85.915798522022
+  },
+  {
+    "id": 539,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Metro: Last Light",
+    "rating": 82.6920486576327
+  },
+  {
+    "id": 540,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Disney Universe",
+    "rating": 62.1964718306749
+  },
+  {
+    "id": 541,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Ridge Racer Unbounded",
+    "rating": 64.8416340710523
+  },
+  {
+    "id": 542,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "LEGO Pirates of the Caribbean: The Video Game",
+    "rating": 76.7759826451378
+  },
+  {
+    "id": 543,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Call of Juarez: The Cartel",
+    "rating": 51.956782029918
+  },
+  {
+    "id": 544,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "The Darkness II",
+    "rating": 77.0556411492376
+  },
+  {
+    "id": 545,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Black Ops",
+    "rating": 79.5344528293401
+  },
+  {
+    "id": 546,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Prey",
+    "rating": 75.2718928482638
+  },
+  {
+    "id": 547,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Gears of War",
+    "rating": 81.0150104484692
+  },
+  {
+    "id": 548,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Gears of War 2",
+    "rating": 83.7169550118623
+  },
+  {
+    "id": 549,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War",
+    "rating": 84.3878540218857
+  },
+  {
+    "id": 550,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War: Ghost of Sparta",
+    "rating": 81.63185820552141
+  },
+  {
+    "id": 551,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War II",
+    "rating": 85.84444887916919
+  },
+  {
+    "id": 552,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War: Chains of Olympus",
+    "rating": 77.8349296208134
+  },
+  {
+    "id": 553,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Spider-Man: Shattered Dimensions",
+    "rating": 71.7625614208207
+  },
+  {
+    "id": 554,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Driver: San Francisco",
+    "rating": 75.2900215294903
+  },
+  {
+    "id": 555,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Transformers: War for Cybertron",
+    "rating": 73.1381140279953
+  },
+  {
+    "id": 556,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Medal of Honor",
+    "rating": 69.3459812390591
+  },
+  {
+    "id": 557,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Prison Break: The Conspiracy",
+    "rating": 71.4499212557177
+  },
+  {
+    "id": 558,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Just Cause 2",
+    "rating": 78.0612670839869
+  },
+  {
+    "id": 559,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Modern Warfare 2",
+    "rating": 81.8924475840692
+  },
+  {
+    "id": 560,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Aliens vs. Predator",
+    "rating": 69.111758251113
+  },
+  {
+    "id": 561,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Colin McRae: Dirt 2",
+    "rating": 78.6188269149451
+  },
+  {
+    "id": 562,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Tom Clancy\u0027s Splinter Cell: Conviction",
+    "rating": 76.7516640938219
+  },
+  {
+    "id": 563,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Aion",
+    "rating": 68.4909264643736
+  }
+]
