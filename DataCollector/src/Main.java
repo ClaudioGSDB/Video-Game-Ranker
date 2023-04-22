@@ -17,7 +17,7 @@ public class Main
 
         FileWriter DataFile = new FileWriter("src/Data/DataTEST.txt");
 
-        //for(int i = 0; i < 474; i++){
+        //for(int i = 0; i < 474; i++){ //real
         for(int i = 0; i < 1; i++){ //TEST
 
             String query = "fields name, rating, genres.name; where id > " + id + " & genres != null & rating != null; sort id asc; limit 500;";
