@@ -1,3 +1,4 @@
+#include <string>
 #include "ReadData.h"
 #include "DataNode.h"
 
@@ -5,6 +6,7 @@ using namespace std;
 
 ReadData::ReadData(string pathToFolder)
 {
+    char delim = '`';
     int genNum;
     string genName;
 
@@ -30,31 +32,31 @@ ReadData::ReadData(string pathToFolder)
             string line;
 
             //store the genre first
-            getline(file, line, '|');
+            getline(file, line, delim);
             genNum = stoi(line);
             getline(file, line);
             //line.substr(line.find('|') + 1); NOT NEEDED I THINK
             string genName = line;
 
-            while (getline(file, line, '|'))
+            while (getline(file, line, delim))
             {
                 //get ID
                 ID = stoi(line);
                 if(i == 15){cout << ID << endl;}
                 //get title
-                getline(file, title, '|');
+                getline(file, title, delim);
                 //get rating
-                getline(file, line, '|');
+                getline(file, line, delim);
                 rating = stod(line);
                 //get numOfGenres
-                getline(file, line, '|');
+                getline(file, line, delim);
                 numOfGenres = stoi(line);
                 //get genres
                 for(int j = 0; j < numOfGenres; j++)
                 {
-                    getline(file, line, '|');
+                    getline(file, line, delim);
                     key = stoi(line);
-                    getline(file, value, '|');
+                    getline(file, value, delim);
                     genres[key] = value;
                 }
             }
