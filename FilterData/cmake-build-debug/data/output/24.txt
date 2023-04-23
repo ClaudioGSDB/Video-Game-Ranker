@@ -1,0 +1,646 @@
+24|Tactical
+7|Jagged Alliance|79.114287|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+8|Jagged Alliance: Deadly Games|77.188017|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+9|Jagged Alliance 2|86.911807|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+17|Fallout Tactics: Brotherhood of Steel|70.212048|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+24|X-COM: UFO Defense|87.430742|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+25|X-COM: Terror From the Deep|80.164623|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+26|X-COM: Apocalypse|71.486105|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+49|Syndicate|83.511802|2|15|Strategy|24|Tactical
+50|Syndicate: American Revolt|89.743423|2|15|Strategy|24|Tactical
+51|Syndicate Wars|66.827489|2|15|Strategy|24|Tactical
+107|Hidden \u0026 Dangerous 2|80.002484|3|5|Shooter|13|Simulator|24|Tactical
+148|Star Wars: Republic Commando|82.178755|3|5|Shooter|24|Tactical|31|Adventure
+244|The Bureau: XCOM Declassified|59.033701|3|5|Shooter|15|Strategy|24|Tactical
+288|Operation Flashpoint: Cold War Crisis|88.426868|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+290|Imperivm III: Great Battles of Rome|70.034170|2|11|Real Time Strategy (RTS)|24|Tactical
+294|Hidden \u0026 Dangerous|79.448546|4|5|Shooter|15|Strategy|24|Tactical|31|Adventure
+309|Police Quest: SWAT|50.000000|3|13|Simulator|15|Strategy|24|Tactical
+311|Police Quest: SWAT 2|49.550444|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+313|SWAT 3: Close Quarters Battle|80.799364|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+316|SWAT 4|86.235223|3|5|Shooter|15|Strategy|24|Tactical
+317|SWAT 4: The Stetchkov Syndicate|70.445813|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+365|Heroes of Might and Magic III: Armageddon\u0027s Blade|88.300552|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+366|Heroes of Might and Magic III: The Shadow of Death|89.008129|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+368|Heroes of Might and Magic IV: The Gathering Storm|58.482835|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+369|Heroes of Might and Magic IV: Winds of War|71.928129|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+375|Metal Gear Solid|90.708323|2|24|Tactical|31|Adventure
+379|Metal Gear Solid 3: Snake Eater|92.624108|3|5|Shooter|24|Tactical|31|Adventure
+380|Metal Gear Solid 4: Guns of the Patriots|87.393672|3|5|Shooter|24|Tactical|31|Adventure
+394|Final Fantasy Tactics: The War of the Lions|89.846243|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+414|Final Fantasy Tactics Advance|82.073494|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+428|Final Fantasy Tactics|85.086823|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+432|Total War: Shogun 2|84.835269|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+436|Shogun: Total War|84.534067|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+437|Medieval: Total War|83.219845|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+438|Rome: Total War|82.280469|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+440|Medieval II: Total War|86.496939|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+441|Empire: Total War|78.057584|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+442|Napoleon: Total War|76.770999|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+443|Shogun: Total War - Mongol Invasion|78.929100|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+444|Medieval: Total War - Viking Invasion|77.114459|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+445|Rome: Total War - Barbarian Invasion|82.996974|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+446|Rome: Total War - Alexander|69.935871|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+447|Medieval II: Total War - Kingdoms|76.643674|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+448|Operation Flashpoint: Resistance|89.773112|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+449|Operation Flashpoint: Red Hammer|88.573298|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+451|Operation Flashpoint: Dragon Rising|70.116642|5|5|Shooter|9|Puzzle|13|Simulator|15|Strategy|24|Tactical
+477|Commandos 3: Destination Berlin|75.123697|2|15|Strategy|24|Tactical
+479|Metal Gear Solid 3: Subsistence|92.243146|3|5|Shooter|24|Tactical|31|Adventure
+530|Hitman: Absolution|75.814696|3|5|Shooter|24|Tactical|31|Adventure
+562|Tom Clancy\u0027s Splinter Cell: Conviction|76.751664|2|5|Shooter|24|Tactical
+564|Rogue Warrior|47.536955|2|5|Shooter|24|Tactical
+572|Arma 2|77.047692|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+597|America\u0027s Army|70.012321|2|5|Shooter|24|Tactical
+601|ArmA 2: Operation Arrowhead|70.199639|5|5|Shooter|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+617|Brothers in Arms: Earned in Blood|71.959438|3|5|Shooter|15|Strategy|24|Tactical
+619|Brothers in Arms: Road to Hill 30|72.069727|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+653|Commandos 2: Men of Courage|86.210135|5|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure
+661|Darwinia|70.576801|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+666|Delta Force|67.335106|3|4|Fighting|5|Shooter|24|Tactical
+719|Freedom Fighters|78.235692|3|5|Shooter|13|Simulator|24|Tactical
+720|Freedom Force|74.183725|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+721|Freedom Force vs. The 3rd Reich|88.742574|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+748|Hitman 2: Silent Assassin|81.148688|2|5|Shooter|24|Tactical
+784|MechWarrior 2: 31st Century Combat|72.956800|3|5|Shooter|13|Simulator|24|Tactical
+786|MechWarrior 4: Vengeance|70.446048|3|5|Shooter|13|Simulator|24|Tactical
+851|Robin Hood: The Legend of Sherwood|86.075161|2|15|Strategy|24|Tactical
+872|Sins of a Solar Empire|82.502254|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+874|Tom Clancy\u0027s Splinter Cell: Pandora Tomorrow|82.811851|2|5|Shooter|24|Tactical
+879|Commandos: Behind Enemy Lines|85.036625|2|15|Strategy|24|Tactical
+908|Tom Clancy\u0027s Rainbow Six 3: Raven Shield|80.654555|3|5|Shooter|13|Simulator|24|Tactical
+909|Tom Clancy\u0027s Rainbow Six: Vegas|74.787258|2|5|Shooter|24|Tactical
+910|Tom Clancy\u0027s Splinter Cell|83.238158|2|5|Shooter|24|Tactical
+911|Tom Clancy\u0027s Splinter Cell: Chaos Theory|84.811119|2|5|Shooter|24|Tactical
+961|Commandos: Beyond the Call of Duty|81.414054|2|15|Strategy|24|Tactical
+979|Call of Duty: Modern Warfare 3|73.458059|3|5|Shooter|24|Tactical|31|Adventure
+996|Army of Two|65.580470|2|5|Shooter|24|Tactical
+997|Army of Two: The 40th Day|62.678136|2|5|Shooter|24|Tactical
+1008|Jagged Alliance: Back in Action|50.000000|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1050|Hitman: Codename 47|75.104254|3|5|Shooter|24|Tactical|31|Adventure
+1144|Men of War: Assault Squad|79.864367|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+1265|PlanetSide 2|72.706804|4|5|Shooter|12|Role-playing (RPG)|24|Tactical|33|Arcade
+1273|Delta Force: Xtreme|65.015540|2|5|Shooter|24|Tactical
+1277|Plants vs. Zombies|78.494973|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+1294|Tom Clancy\u0027s Ghost Recon|74.838324|5|5|Shooter|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+1295|Tom Clancy\u0027s Ghost Recon: Desert Siege|78.657347|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1296|Tom Clancy\u0027s Ghost Recon: Island Thunder|69.785986|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1297|Tom Clancy\u0027s Ghost Recon: Jungle Storm|73.508603|2|5|Shooter|24|Tactical
+1298|Tom Clancy\u0027s Ghost Recon 2|68.593423|2|5|Shooter|24|Tactical
+1300|Tom Clancy\u0027s Ghost Recon Advanced Warfighter|67.233557|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1301|Tom Clancy\u0027s Ghost Recon Advanced Warfighter 2|73.657666|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1305|Tom Clancy\u0027s Splinter Cell: Blacklist|82.405227|3|5|Shooter|24|Tactical|31|Adventure
+1318|XCOM: Enemy Unknown|82.860345|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1365|AirMech Strike|31.121745|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+1367|Sniper: Ghost Warrior|55.251198|3|5|Shooter|13|Simulator|24|Tactical
+1368|Sniper: Ghost Warrior 2|61.088204|2|5|Shooter|24|Tactical
+1372|Counter-Strike: Global Offensive|82.152670|2|5|Shooter|24|Tactical
+1378|R.U.S.E.|70.178783|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+1435|Fire Emblem: Mystery of the Emblem|79.014321|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1437|Fire Emblem: Thracia 776|88.803509|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1438|Fire Emblem: The Binding Blade|73.092117|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1439|Fire Emblem: The Blazing Blade|88.074344|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1440|Fire Emblem: The Sacred Stones|91.833159|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1441|Fire Emblem: Path of Radiance|83.840630|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1442|Fire Emblem: Radiant Dawn|85.851005|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1444|Fire Emblem: Shadow Dragon|72.796466|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1450|Suikoden Tactics|80.017759|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1474|Zone of the Enders: The Fist of Mars|79.893822|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+1498|Front Mission|88.940611|2|15|Strategy|24|Tactical
+1691|Advance Wars|82.725213|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1692|Advance Wars 2: Black Hole Rising|85.844467|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1693|Advance Wars: Dual Strike|84.325007|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+1760|Mega Man Battle Network 4: Blue Moon|68.615413|2|12|Role-playing (RPG)|24|Tactical
+1761|Mega Man Battle Network 5: Team Protoman|74.706559|2|12|Role-playing (RPG)|24|Tactical
+1764|Mega Man Battle Network 6: Cybeast Falzar|72.936769|2|12|Role-playing (RPG)|24|Tactical
+1765|Mega Man Battle Network 6: Cybeast Gregar|78.969419|2|12|Role-playing (RPG)|24|Tactical
+1786|Mega Man Star Force 3: Black Ace|89.408331|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+1787|Mega Man Star Force 3: Red Joker|80.010534|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+1840|Neverwinter Nights 2: Mask of the Betrayer|86.443313|2|12|Role-playing (RPG)|24|Tactical
+1842|Tom Clancy\u0027s Rainbow Six|77.725484|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1843|Tom Clancy\u0027s Rainbow Six: Rogue Spear|82.207958|3|5|Shooter|13|Simulator|24|Tactical
+1851|Tom Clancy\u0027s Rainbow Six: Lockdown|71.491580|2|5|Shooter|24|Tactical
+1853|Tom Clancy\u0027s Rainbow Six: Vegas 2|77.706321|3|5|Shooter|15|Strategy|24|Tactical
+1863|The Sum of All Fears|70.000000|3|5|Shooter|15|Strategy|24|Tactical
+1881|Arma 3|76.099055|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+1887|Dragon Age: Inquisition|83.220150|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+1891|Magic: The Gathering - Duels of the Planeswalkers 2013|72.149352|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+1971|Manhunt|77.747709|2|5|Shooter|24|Tactical
+1985|Metal Gear Solid V: The Phantom Pain|85.154512|3|5|Shooter|24|Tactical|31|Adventure
+2058|Payday 2|73.916004|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+2065|Plague Inc.|74.758826|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+2114|Tom Clancy\u0027s The Division|73.208821|5|5|Shooter|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+2117|DayZ|45.732801|6|5|Shooter|12|Role-playing (RPG)|13|Simulator|24|Tactical|31|Adventure|32|Indie
+2165|War Thunder|75.487197|3|5|Shooter|13|Simulator|24|Tactical
+2188|Magic 2014 - Duels of the Planeswalkers|74.358158|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+2248|Frozen Synapse|77.080687|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+2283|Defense of the Ancients|91.506189|2|12|Role-playing (RPG)|24|Tactical
+2408|Final Fantasy Tactics A2: Grimoire of the Rift|82.520085|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+2937|Takedown: Red Sabre|20.204424|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+2968|Dragon Force|86.981676|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical
+3076|Guns of Icarus Online|53.131275|5|5|Shooter|13|Simulator|24|Tactical|31|Adventure|32|Indie
+3077|Sniper Elite|69.725587|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+3078|Sniper Elite V2|71.494556|2|5|Shooter|24|Tactical
+3099|Door Kickers|71.982384|7|5|Shooter|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+3145|Plants vs. Zombies 2: It\u0027s About Time|71.639023|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure
+3146|Plants vs. Zombies: Garden Warfare|67.388496|3|5|Shooter|24|Tactical|33|Arcade
+3171|The Saboteur|71.898285|4|5|Shooter|12|Role-playing (RPG)|24|Tactical|31|Adventure
+3179|Vietcong 2|71.344098|2|5|Shooter|24|Tactical
+3185|Madden NFL 25|66.268143|2|14|Sport|24|Tactical
+3233|Apache: Air Assault|80.000000|2|13|Simulator|24|Tactical
+3424|Blast Corps|75.168068|2|9|Puzzle|24|Tactical
+3448|Bomberman \u002794|87.754181|2|15|Strategy|24|Tactical
+3696|The Settlers III|82.340646|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+4169|Koudelka|70.302129|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+4202|Tonka: Rescue Patrol|43.000000|3|10|Racing|13|Simulator|24|Tactical
+4222|Battlestations: Pacific|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+4566|Pokémon Mystery Dungeon: Gates to Infinity|69.468356|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+4641|The Age of Decadence|86.831363|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+4966|The Last Story|76.995984|2|12|Role-playing (RPG)|24|Tactical
+5031|Interstellar Marines|39.703012|5|5|Shooter|12|Role-playing (RPG)|13|Simulator|24|Tactical|32|Indie
+5136|Sakura Wars: So Long, My Love|81.078056|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|34|Visual Novel
+5482|America\u0027s Army: True Soldiers|70.000000|2|5|Shooter|24|Tactical
+5501|Renegade X|66.142623|3|5|Shooter|24|Tactical|32|Indie
+5508|The Banner Saga|85.413148|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+5539|Archon|78.182797|2|15|Strategy|24|Tactical
+5550|Tactics Ogre: Let Us Cling Together|92.685663|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+5561|Vandal Hearts|80.109685|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+5563|IL-2 Sturmovik: 1946|92.422125|3|5|Shooter|13|Simulator|24|Tactical
+5566|Tactical Intervention|50.000000|2|5|Shooter|24|Tactical
+5567|Hitman: Sniper Challenge|71.840687|2|5|Shooter|24|Tactical
+5572|Men of War: Assault Squad 2|79.913722|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+5587|World of Warships|72.665474|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|24|Tactical
+5602|Overgrowth|51.327022|5|4|Fighting|24|Tactical|25|Hack and slash/Beat \u0027em up|31|Adventure|32|Indie
+5652|Age of Wonders III|61.130360|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+5759|Brute Force|68.954465|2|5|Shooter|24|Tactical
+5781|Cold War|50.000000|2|5|Shooter|24|Tactical
+5786|Conflict: Vietnam|66.676459|3|5|Shooter|15|Strategy|24|Tactical
+5812|Delta Force: Black Hawk Down|71.262002|2|5|Shooter|24|Tactical
+5820|Dynasty Warriors 5|64.970086|3|24|Tactical|25|Hack and slash/Beat \u0027em up|31|Adventure
+6005|Kingdom Rush|76.872201|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+6044|Invisible, Inc.|77.565813|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+6045|Not a Hero|69.704598|5|5|Shooter|24|Tactical|31|Adventure|32|Indie|33|Arcade
+6046|Shattered Union|50.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+6500|The Lord of the Rings: The Third Age|72.614550|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+6526|Onimusha Tactics|69.251559|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+6543|Vandal Hearts II|79.994412|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+6627|Super Robot Taisen: Original Generation 2|80.126054|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+6635|Tactics Ogre: The Knight of Lodis|80.087957|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+6801|Far Cry 4|76.329463|3|5|Shooter|24|Tactical|31|Adventure
+6864|Project X Zone|74.830475|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+6884|Shin Megami Tensei: Devil Survivor|75.748693|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|34|Visual Novel
+6885|Shin Megami Tensei: Devil Survivor 2|79.321726|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+7125|Operation Darkness|75.000000|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+7157|Record of Agarest War Zero|75.000000|6|4|Fighting|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+7158|Record of Agarest War|85.000000|6|4|Fighting|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+7205|SuperHot|76.780342|5|4|Fighting|5|Shooter|9|Puzzle|24|Tactical|32|Indie
+7209|King Arthur\u0027s Gold|68.607057|4|8|Platform|15|Strategy|24|Tactical|32|Indie
+7260|Desperados: Wanted Dead or Alive|83.542820|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+7261|Desperados 2: Cooper\u0027s Revenge|65.501844|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+7262|Helldorado|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+7297|Disgaea 3: Absence of Justice|79.896784|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+7298|Disgaea 4: A Promise Unforgotten|85.046256|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+7299|Disgaea D2: A Brighter Darkness|76.677984|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+7332|Fantasy Wars|58.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+7360|Tom Clancy\u0027s Rainbow Six Siege|79.664650|2|5|Shooter|24|Tactical
+7393|World of Tanks: Blitz|69.002079|5|5|Shooter|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+7420|How to Survive|65.654006|4|12|Role-playing (RPG)|24|Tactical|31|Adventure|33|Arcade
+7435|Heroes \u0026 Generals|55.851049|4|5|Shooter|15|Strategy|24|Tactical|32|Indie
+7469|Tom Clancy\u0027s Splinter Cell: Double Agent|75.727414|2|5|Shooter|24|Tactical
+7477|Valkyria Chronicles|86.875479|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+7579|Insurgency|75.582688|4|5|Shooter|15|Strategy|24|Tactical|32|Indie
+7584|Star Trek Online|63.930333|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+7601|Plague Inc: Evolved|80.129768|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+7637|Sniper Elite: Nazi Zombie Army|63.185506|2|5|Shooter|24|Tactical
+7675|Hard West|68.261356|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+7833|Gorky 17|79.976684|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+7843|America\u0027s Army: Proving Grounds|68.386579|2|5|Shooter|24|Tactical
+8040|Poker Night at the Inventory|69.089810|5|14|Sport|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|35|Card \u0026 Board Game
+8190|Defense Grid: The Awakening|71.924498|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+8209|Mordheim: City of the Damned|54.737087|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+8240|SOCOM II: U.S. Navy SEALs|89.050338|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+8241|SOCOM 3: U.S. Navy SEALs|70.024337|3|5|Shooter|15|Strategy|24|Tactical
+8288|The Banner Saga 2|88.935685|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+8366|Sniper Elite III|71.400654|4|5|Shooter|13|Simulator|24|Tactical|31|Adventure
+8387|Men of War: Red Tide|69.910359|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+8388|Atom Zombie Smasher|75.973390|3|15|Strategy|24|Tactical|32|Indie
+8396|Flotilla|80.000000|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+8410|Happy Wars|65.464828|2|12|Role-playing (RPG)|24|Tactical
+8422|Breach \u0026 Clear|60.773572|5|5|Shooter|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+8508|Xenonauts|75.992623|5|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+8713|Battlefleet Gothic: Armada|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+8744|Global Operations|68.554276|2|5|Shooter|24|Tactical
+8764|Agarest: Generations of War|42.277012|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+8795|Infested Planet|70.245661|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+8796|Tales of Maj\u0027Eyal|70.853732|4|12|Role-playing (RPG)|24|Tactical|31|Adventure|32|Indie
+8877|Hogs of War|71.071580|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+9033|Incubation: Time Is Running Out|80.037692|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+9059|Imperial Glory|76.334096|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+9241|The Escapists|55.488665|7|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+9253|Ingress|64.196860|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+9280|Wakfu|72.741564|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+9348|Delta Force: The Awakening - Task Force Dagger|42.643375|2|5|Shooter|24|Tactical
+9349|Delta Force 2|79.163718|2|5|Shooter|24|Tactical
+9350|Delta Force: Land Warrior|70.437658|3|5|Shooter|15|Strategy|24|Tactical
+9351|Delta Force: Black Hawk Down - Team Sabre|71.343893|2|5|Shooter|24|Tactical
+9352|Delta Force: Xtreme 2|50.802179|2|5|Shooter|24|Tactical
+9354|Joint Operations: Typhoon Rising|60.336628|2|5|Shooter|24|Tactical
+9390|War of the Human Tanks|80.000000|6|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|34|Visual Novel
+9477|Soldiers: Heroes of World War II|77.686952|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+9532|Urban Terror|85.118560|3|5|Shooter|15|Strategy|24|Tactical
+9571|Star Trek: Bridge Commander|81.672422|4|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+9598|SpyParty|80.000000|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+9608|Mount \u0026 Blade II: Bannerlord|78.270137|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+9637|Orcs Must Die! Unchained|75.075365|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+9647|Volume|69.781454|3|9|Puzzle|24|Tactical|32|Indie
+9660|Monday Night Combat|78.619648|6|5|Shooter|13|Simulator|14|Sport|15|Strategy|24|Tactical|32|Indie
+9724|Ring Runner: Flight of the Sages|51.303371|4|12|Role-playing (RPG)|24|Tactical|32|Indie|33|Arcade
+9739|Crossfire|59.837973|2|5|Shooter|24|Tactical
+9774|Arma Tactics|49.900321|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+9775|Arma: Cold War Assault|70.041406|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+9855|Men of War: Vietnam|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+9891|Tom Clancy\u0027s Rainbow Six 3|62.840299|2|5|Shooter|24|Tactical
+9917|Republique Remastered|75.261112|5|2|Point-and-click|9|Puzzle|24|Tactical|31|Adventure|32|Indie
+9938|Aarklash: Legacy|75.893580|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+9952|Age of Fear: The Undead King|80.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+10065|Brigade E5: New Jagged Union|50.000000|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+10092|Kessen|50.749433|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+10123|The Clue!|91.419896|4|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+10172|Deadlock II: Shrine Wars|60.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+10195|Dragons and Titans|60.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+10242|Blitzkrieg|59.335348|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+10243|Blitzkrieg 3|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+10272|Faces of War|82.746049|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+10338|Frozen Synapse Prime|50.000000|5|5|Shooter|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+10459|Ironclad Tactics|60.000000|5|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+10467|Jagged Alliance: Crossfire|50.000000|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+10470|Jagged Alliance: Flashback|44.452908|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+10501|Expeditions: Viking|70.314632|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+10546|Men of War: Condemned Heroes|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+10593|Nemesis of the Roman Empire|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+10844|Silent Storm|79.577111|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+10870|Sins of a Solar Empire: Trinity|60.000000|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+10877|Sniper Elite: Nazi Zombie Army 2|67.264442|3|5|Shooter|24|Tactical|31|Adventure
+10906|Pokémon Super Mystery Dungeon|70.718158|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+10919|XCOM 2|83.974569|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+10938|Sword of the Stars: The Pit|77.638379|4|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+11157|Hitman|81.296172|3|5|Shooter|24|Tactical|31|Adventure
+11171|Tom Clancy\u0027s Ghost Recon: Wildlands|72.484754|3|5|Shooter|24|Tactical|31|Adventure
+11183|Ronin|69.074889|6|8|Platform|9|Puzzle|15|Strategy|24|Tactical|32|Indie|33|Arcade
+11200|Guns Up!|61.135236|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+11214|World of Final Fantasy|67.846230|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+11326|Jeanne d\u0027Arc|75.759428|2|12|Role-playing (RPG)|24|Tactical
+11336|Warhammer: Dark Omen|79.671290|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical
+11450|Warhammer 40,000: Regicide|60.000000|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+11524|Hegemony III: Clash of the Ancients|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+11573|Eiyu*Senki - The World Conquest|80.000000|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|34|Visual Novel
+11575|Arma II: DayZ|85.714350|2|5|Shooter|24|Tactical
+11584|Running With Rifles|71.594950|3|5|Shooter|24|Tactical|32|Indie
+11594|Disgaea 5: Alliance of Vengeance|89.998350|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+11610|Disgaea: Hour of Darkness|83.899643|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+11626|Sentinel|50.000000|5|7|Music|9|Puzzle|15|Strategy|24|Tactical|32|Indie
+11683|Infinite Space|70.305357|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|24|Tactical|34|Visual Novel
+11692|War of the Human Tanks: Alter|70.000000|6|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|34|Visual Novel
+11693|War of the Human Tanks: Limited Operations|70.000000|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+11694|Disgaea 2: Cursed Memories|84.047493|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+11772|Shadowrun: Hong Kong|86.891544|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+11794|Sudden Strike|80.836464|1|24|Tactical
+11912|Archon II: Adept|64.307619|2|15|Strategy|24|Tactical
+12301|Relic Hunters Zero|70.000000|4|5|Shooter|24|Tactical|32|Indie|33|Arcade
+12443|Magic: The Gathering|89.810747|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+12523|Faeria|79.237381|8|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
+12561|Nova-111|70.336742|5|9|Puzzle|15|Strategy|24|Tactical|31|Adventure|32|Indie
+12637|Skyshine\u0027s Bedlam|69.740844|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+13064|Summon Night 2|65.000000|2|12|Role-playing (RPG)|24|Tactical
+13196|Tears of Avia|50.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+13361|Brigador|84.475236|4|5|Shooter|15|Strategy|24|Tactical|32|Indie
+13548|Utawarerumono: Mask of Deception|80.117191|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|34|Visual Novel
+13690|Mass Effect 3: Citadel|93.739177|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13781|Mass Effect: Pinnacle Station|75.805453|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13790|Mass Effect 2: Firewalker Pack|80.594289|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13794|Mass Effect 2: Arrival|78.210794|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13910|Mass Effect 3: From Ashes|84.471244|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13911|Mass Effect 3: Leviathan|83.414627|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+13912|Mass Effect 3: Omega|79.962065|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+14177|Divinity: Original Sin - Enhanced Edition|85.864892|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+14394|Battle Brothers|77.952885|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+14465|Clandestine|60.000000|2|24|Tactical|32|Indie
+14530|Super Bomberman 2|81.449293|3|15|Strategy|24|Tactical|33|Arcade
+14531|Tetris \u0026 Dr. Mario|70.312691|3|9|Puzzle|24|Tactical|33|Arcade
+14674|Valkyria Chronicles 2|73.891027|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+14686|Sproggiwood|80.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+14793|Jagged Alliance: Gold Edition|70.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+14828|Nexus: The Jupiter Incident|78.450149|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+14900|Hostages|70.024909|5|5|Shooter|13|Simulator|14|Sport|15|Strategy|24|Tactical
+15020|Arc the Lad|89.623179|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+15143|Starpoint Gemini|40.000000|3|12|Role-playing (RPG)|13|Simulator|24|Tactical
+15536|Escape from Tarkov|75.182454|4|5|Shooter|12|Role-playing (RPG)|13|Simulator|24|Tactical
+15691|Alekhine\u0027s Gun|43.344915|4|5|Shooter|15|Strategy|24|Tactical|31|Adventure
+15707|Clash Royale|76.788724|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|35|Card \u0026 Board Game
+15853|Armored Warfare|65.622451|6|5|Shooter|10|Racing|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+15861|Massive Chalice|59.346917|6|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+16150|Ironclads: American Civil War|40.000000|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+16151|Ironclads: High Seas|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+16513|Horizon|50.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+16523|Expeditions: Conquistador|70.044988|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+16607|Overland|64.784208|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+16969|Naval Action|50.000000|8|4|Fighting|10|Racing|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+16997|Rhapsody: A Musical Adventure|59.973449|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+17229|H-Hour: World\u0027s Elite|50.000000|3|5|Shooter|24|Tactical|32|Indie
+17255|SWAT 3: Close Quarters Battle - Elite Edition|88.694727|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+17520|Bloons TD 5|73.398421|3|13|Simulator|15|Strategy|24|Tactical
+17569|Crookz: The Big Heist|70.000000|3|13|Simulator|15|Strategy|24|Tactical
+18063|Atlas Reactor|73.430892|4|4|Fighting|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+18185|Wartile|80.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie|35|Card \u0026 Board Game
+18218|Magic: The Gathering - Duels of the Planeswalkers 2015|69.054824|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+18312|Tastee Lethal Tactics|67.346430|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+18366|Sniper Elite 4|73.229559|3|5|Shooter|24|Tactical|31|Adventure
+18370|Disgaea 3: Absence of Detention|89.145325|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+18435|Frozen Synapse 2|60.000000|5|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+18464|Zombie Defense|70.000000|5|5|Shooter|9|Puzzle|15|Strategy|24|Tactical|32|Indie
+18618|Super Bomberman 3|78.289223|2|15|Strategy|24|Tactical
+18727|Transport Fever|89.497285|4|2|Point-and-click|11|Real Time Strategy (RTS)|13|Simulator|24|Tactical
+18907|8-Bit Armies|80.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+18914|Grotesque Tactics: Evil Heroes|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+18967|Valkyria Chronicles Remastered|86.818974|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+19085|Shadow Tactics: Blades of the Shogun|88.744117|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+19088|Objects in Space|80.000000|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+19131|Shin Megami Tensei: Devil Survivor Overclocked|91.231422|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+19136|CastleStorm|69.572168|5|5|Shooter|15|Strategy|24|Tactical|31|Adventure|32|Indie
+19163|Grand Kingdom|62.503772|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+19193|MechCommander|77.814818|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+19501|Robbery Bob|70.043304|3|15|Strategy|24|Tactical|32|Indie
+19549|Day of Infamy|75.022661|4|5|Shooter|15|Strategy|24|Tactical|32|Indie
+19577|Star Wars: Galaxy of Heroes|70.067749|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+19724|Bastard Bonds|80.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+19899|AirMech: Command|60.000000|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+20057|Lords \u0026 Peasants|78.875878|3|13|Simulator|15|Strategy|24|Tactical
+20188|Dragon Age: Inquisition - The Descent|82.646850|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+20189|Dragon Age: Inquisition - Trespasser|88.297133|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+20286|Kingdom Hearts Re:Chain of Memories|69.700043|3|12|Role-playing (RPG)|24|Tactical|35|Card \u0026 Board Game
+20294|CastleStorm: Definitive Edition|70.000000|4|5|Shooter|24|Tactical|31|Adventure|32|Indie
+20311|How to Survive: Storm Warning Edition|70.000000|2|24|Tactical|33|Arcade
+20395|Dungeon Rushers|50.000000|7|4|Fighting|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+20546|Plants vs. Zombies: GOTY Edition|70.276318|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+20741|Metal Gear Solid HD Collection|85.083777|3|15|Strategy|24|Tactical|31|Adventure
+20753|Tahira: Echoes of the Astral Empire|60.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+20871|Zombie Army Trilogy|62.693002|3|5|Shooter|24|Tactical|31|Adventure
+21056|Disgaea DS|79.940451|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+21558|Arc the Lad: Twilight of the Spirits|79.937892|4|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+21663|Sniper Elite III: Ultimate Edition|70.620946|4|5|Shooter|13|Simulator|24|Tactical|31|Adventure
+21971|Hearthstone: Goblins vs Gnomes|77.424772|2|15|Strategy|24|Tactical
+21973|Hearthstone: The Grand Tournament|69.323766|2|15|Strategy|24|Tactical
+21974|Hearthstone: Blackrock Mountain|77.488992|2|15|Strategy|24|Tactical
+21975|Hearthstone: The League of Explorers|70.507175|2|15|Strategy|24|Tactical
+21976|Hearthstone: One Night in Karazhan|70.154148|2|15|Strategy|24|Tactical
+21977|Hearthstone: Curse of Naxxramas|73.983946|2|15|Strategy|24|Tactical
+22387|Legrand Legacy|79.905808|4|12|Role-playing (RPG)|24|Tactical|31|Adventure|32|Indie
+22528|Disgaea: Afternoon of Darkness|80.062815|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+22555|Attack the Light!|90.000000|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+22830|Army Men II|63.573775|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+23329|Phantasy Star Online Episode III: C.A.R.D. Revolution|74.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+23383|Far Cry 4: Valley of The Yetis|60.035780|3|5|Shooter|24|Tactical|31|Adventure
+23504|Rezrog|50.000000|4|12|Role-playing (RPG)|24|Tactical|31|Adventure|32|Indie
+23905|Starpoint Gemini Warlords|62.569871|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+24080|Utawarerumono|90.968496|3|12|Role-playing (RPG)|24|Tactical|34|Visual Novel
+24474|Masquerada: Songs and Shadows|80.026416|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+24515|Deceit|50.647040|3|5|Shooter|24|Tactical|32|Indie
+24683|The Castles of Doctor Creep|70.000000|5|8|Platform|9|Puzzle|15|Strategy|24|Tactical|32|Indie
+24863|Wasteland 3|82.501078|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+24974|Tiny Metal|80.000000|5|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+24989|HellSign|70.000000|5|9|Puzzle|12|Role-playing (RPG)|24|Tactical|31|Adventure|32|Indie
+25208|Dungeon Rats|69.628602|3|12|Role-playing (RPG)|24|Tactical|32|Indie
+25587|House of the Dying Sun|68.274428|6|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+25637|Metal Gear Solid V: The Definitive Experience|80.085304|3|5|Shooter|24|Tactical|31|Adventure
+25653|The Escapists 2|68.008271|7|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+26123|Aerial Destruction|50.000000|6|5|Shooter|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
+26189|GunBound|79.990670|1|24|Tactical
+26227|MechWarrior 5: Mercenaries|69.910397|4|4|Fighting|5|Shooter|13|Simulator|24|Tactical
+26268|Fae Tactics|80.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+26540|M.E.R.C.|60.000000|3|15|Strategy|24|Tactical|32|Indie
+26579|Super Dungeon Tactics|60.000000|6|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
+26593|8-Bit Invaders!|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+26597|Pathway|79.420879|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+26768|Disgaea 5 Complete|84.528555|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+26769|Fire Emblem Warriors|63.869933|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|25|Hack and slash/Beat \u0027em up
+26819|Army Men|70.000000|3|15|Strategy|24|Tactical|31|Adventure
+26834|Utawarerumono: Mask of Truth|90.109602|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|34|Visual Novel
+26845|Fire Emblem: Three Houses|86.131289|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+26940|The Banner Saga 3|89.931369|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+27088|Party Hard 2|53.258575|5|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+27183|Quarantine|60.000000|7|5|Shooter|10|Racing|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+27359|Tower of Time|70.284328|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+27441|Wargroove|74.474409|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+27454|Army Men: Toys in Space|50.000000|2|15|Strategy|24|Tactical
+27475|Steel Division: Normandy 44|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+27479|Deadly Dozen|50.000000|3|5|Shooter|15|Strategy|24|Tactical
+27488|Dark Quest|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+27496|Fenimore Fillmore: The Westerner|70.000000|4|2|Point-and-click|24|Tactical|31|Adventure|32|Indie
+27530|Children of Zodiarcs|50.000000|6|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
+27575|Onward|80.000000|5|5|Shooter|13|Simulator|15|Strategy|24|Tactical|32|Indie
+27590|Pizza Connection 2|79.819789|3|13|Simulator|15|Strategy|24|Tactical
+27793|All Walls Must Fall|70.000000|7|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
+27804|Phoenix Point|60.494840|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+27937|ARMA: Gold Edition|60.000000|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+27954|Forged of Blood|70.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+28006|Ash of Gods: Redemption|72.451759|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+28142|Druidstone: The Secret of the Menhir Forest|80.313630|7|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+28214|Tank Warfare: Tunisia 1943|70.000000|3|13|Simulator|15|Strategy|24|Tactical
+28225|Police Stories|55.698506|6|5|Shooter|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
+28337|13 Sentinels: Aegis Rim|92.706846|4|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+28396|Shining Force III|86.056167|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+28414|Mario + Rabbids Kingdom Battle|76.208897|5|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+28489|Ready or Not|81.018471|4|5|Shooter|13|Simulator|24|Tactical|32|Indie
+28582|Marble Duel|50.000000|4|9|Puzzle|24|Tactical|31|Adventure|32|Indie
+28649|Stoneshard|73.913737|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+28665|Next jump: Shmup Tactics|70.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+28794|Ancestors Legacy|70.935227|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+28819|Heroes Evolved|40.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|36|MOBA
+28983|Medieval II: Total War - Gold Edition|85.015392|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+28989|Tom Clancy\u0027s Rainbow Six 3: Gold Edition|80.000000|2|5|Shooter|24|Tactical
+29047|Fort Triumph|78.543829|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+29900|Low Magic Age|80.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+30391|SWAT 3: Tactical Game of the Year Edition|50.000000|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+30467|Warbands: Bushido|60.000000|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+30647|Abandon Ship|50.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+30847|Fear Effect Sedna|60.000000|6|5|Shooter|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+32024|MiniLaw: Ministry of Law|70.000000|4|5|Shooter|8|Platform|24|Tactical|32|Indie
+32038|Not a Hero: Super Snazzy Edition|80.000000|5|5|Shooter|24|Tactical|31|Adventure|32|Indie|33|Arcade
+32283|UBoat|60.000000|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+32290|Evolution Planet: Gold Edition|50.000000|2|9|Puzzle|24|Tactical
+32294|Disgaea 2 PC|79.473426|4|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+32461|Syrian Warfare|57.969283|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
+33515|Chicku|70.000000|4|8|Platform|24|Tactical|32|Indie|33|Arcade
+34062|Northern Tale|90.000000|4|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+34392|Disgaea PC|82.259013|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+34582|Sengoku Jidai: Shadow of the Shogun|60.000000|2|15|Strategy|24|Tactical
+34737|Braveland Pirate|80.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+35050|Cardinal Quest 2|70.000000|5|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|24|Tactical|25|Hack and slash/Beat \u0027em up|32|Indie
+35145|Hired Ops|50.000000|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+35251|Dark Future: Blood Red States|60.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+35591|Cuban Missile Crisis|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+35642|Dungeon Crawlers HD|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+35766|Burstfire|40.000000|3|5|Shooter|24|Tactical|32|Indie
+35894|Medieval: Total War - Gold Edition|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+35992|Age of Fear 2: The Chaos Lord|80.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+36258|Order of Battle: World War II|80.000000|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+36344|7,62 High Calibre|60.000000|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+36929|Pathfinder: Kingmaker|86.124034|2|12|Role-playing (RPG)|24|Tactical
+37184|Angry Birds Evolution|90.000000|3|9|Puzzle|12|Role-playing (RPG)|24|Tactical
+43138|Pharmakon|50.000000|6|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+43501|Jydge|80.000000|7|5|Shooter|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
+44545|Dragon Age: Inquisition - Game of the Year Edition|87.720397|3|12|Role-playing (RPG)|24|Tactical|31|Adventure
+47645|Nintendo Pocket Football Club|83.000000|4|13|Simulator|14|Sport|15|Strategy|24|Tactical
+47655|Dillon\u0027s Rolling Western|70.000000|3|15|Strategy|24|Tactical|31|Adventure
+51550|Age of Fear 3: The Legend|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+51933|SWAT 4: Gold Edition|86.215885|3|5|Shooter|15|Strategy|24|Tactical
+53079|Gladiabots|80.000000|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+55121|Phantom Doctrine|58.639973|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+55247|Chessaria: The Tactical Adventure|60.000000|7|9|Puzzle|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+55543|Depth of Extinction|60.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+55580|Robothorium|70.000000|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+55678|Door Kickers: Action Squad|76.359644|7|5|Shooter|8|Platform|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+55771|Fell Seal: Arbiter\u0027s Mark|91.275463|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+55866|Aura of Worlds|70.000000|5|8|Platform|15|Strategy|24|Tactical|31|Adventure|32|Indie
+58075|Girls\u0027 Frontline|46.034484|6|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+58538|SD Gundam G Generation: Cross Drive|74.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+65835|Field of Glory II|80.000000|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+66589|SD Gundam G Generation DS|76.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+69348|Frantics|78.887880|4|4|Fighting|10|Racing|24|Tactical|33|Arcade
+70708|Azur Lane|80.054640|4|5|Shooter|12|Role-playing (RPG)|13|Simulator|24|Tactical
+74878|Hitman: Game of the Year Edition|98.762935|3|5|Shooter|24|Tactical|31|Adventure
+75077|Rogue Empire|60.000000|3|12|Role-playing (RPG)|24|Tactical|32|Indie
+75773|Puzzle Tactics|70.000000|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+75848|Valkyria Chronicles 4|80.110707|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+76550|Lightseekers|53.000000|3|15|Strategy|24|Tactical|35|Card \u0026 Board Game
+76731|The Horus Heresy: Betrayal At Calth|70.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+77208|Hidden \u0026 Dangerous: Action Pack|70.000000|2|15|Strategy|24|Tactical
+77691|Mercenaries Saga 2|76.000000|6|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+78128|Fallen Legion: Rise to Glory|77.000000|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+78538|Freeman: Guerrilla Warfare|80.000000|5|5|Shooter|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+78589|Empire of Angels IV|70.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+78780|Plunge|70.000000|5|9|Puzzle|15|Strategy|24|Tactical|31|Adventure|32|Indie
+79766|Angry Birds Friends|74.120172|4|9|Puzzle|15|Strategy|24|Tactical|33|Arcade
+79987|Mercenaries Saga Chronicles|87.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+80879|The Mercury Man|60.000000|6|2|Point-and-click|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+82373|Disgaea 1 Complete|72.261185|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+83504|Wildermyth|82.536926|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+84486|This Is the Police 2|73.906412|7|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|34|Visual Novel
+86970|World of Warships: Blitz|90.000000|3|5|Shooter|24|Tactical|33|Arcade
+88461|Warhammer 40,000: Mechanicus|80.060790|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+88607|XCOM: Enemy Unknown - Elite Edition|80.000000|2|16|Turn-based strategy (TBS)|24|Tactical
+89128|7 Wonders|80.000000|2|15|Strategy|24|Tactical
+89560|Mutant Year Zero: Road to Eden|83.481183|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+90099|Tom Clancy\u0027s The Division 2|76.867930|4|5|Shooter|12|Role-playing (RPG)|24|Tactical|31|Adventure
+90277|Alder\u0027s Blood|50.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+90630|Defender\u0027s Quest: Valley of the Forgotten DX|90.000000|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+91311|Tom Clancy\u0027s Rainbow Six Siege: Advanced Edition|80.000000|2|5|Shooter|24|Tactical
+93746|Warriors Orochi 4|76.023815|3|12|Role-playing (RPG)|24|Tactical|25|Hack and slash/Beat \u0027em up
+94969|Mark of the Ninja Remastered|82.767016|4|8|Platform|24|Tactical|31|Adventure|32|Indie
+95032|Crying Suns|59.289452|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+95092|Crazy Defense Heroes|80.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+95407|Encased|80.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+96228|Mowin\u0027 \u0026 Throwin\u0027|70.000000|2|24|Tactical|32|Indie
+96550|Muffled Warfare|70.000000|4|5|Shooter|13|Simulator|24|Tactical|32|Indie
+98073|Urtuk: The Desolation|80.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+98405|Avariavs|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+100354|Adeptus Titanicus: Dominus|80.000000|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+101029|Doom RPG|70.057477|3|5|Shooter|12|Role-playing (RPG)|24|Tactical
+101065|Iron Danger|80.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+101184|Returners|45.653396|2|12|Role-playing (RPG)|24|Tactical
+102057|Age of Wonders: Planetfall|72.231732|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+102060|Imperator: Rome|60.609931|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+102199|Grimshade|70.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+102284|Hex Empire 3|70.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+102922|Dungeon Deathball|70.000000|8|9|Puzzle|12|Role-playing (RPG)|14|Sport|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|33|Arcade
+103210|Hitman 2|82.644909|3|5|Shooter|24|Tactical|31|Adventure
+103291|Gears Tactics|73.362959|2|15|Strategy|24|Tactical
+103317|Mario + Rabbids Kingdom Battle: Donkey Kong Adventure|89.840223|3|8|Platform|24|Tactical|31|Adventure
+103328|Vigor|67.719683|2|5|Shooter|24|Tactical
+103341|Overcooked! 2|81.244968|5|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
+103380|Bloons TD 6|75.837865|2|15|Strategy|24|Tactical
+103811|Blood will be Spilled|70.000000|7|8|Platform|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+104789|Mercenaries Wings: The False Phoenix|87.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+106011|Inch by Inch|70.000000|5|8|Platform|9|Puzzle|15|Strategy|24|Tactical|32|Indie
+106803|Gloomhaven|74.462537|4|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+107138|Jagged Alliance: Rage!|50.000000|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+107140|Othercide|69.518265|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+107175|Broken Lines|80.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+107218|Desperados III|86.966105|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+107237|Reigns: Game of Thrones|61.044907|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+107238|Langrisser I \u0026 II|80.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+107250|World of Warships: Legends|76.719160|4|5|Shooter|13|Simulator|15|Strategy|24|Tactical
+109035|Armored Brigade|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+109401|Of Gods and Men: The Daybreak Empire|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+109648|The Wall|70.000000|4|5|Shooter|15|Strategy|24|Tactical|32|Indie
+110597|Invasion Machine|80.000000|4|13|Simulator|15|Strategy|24|Tactical|32|Indie
+110714|Age of Fear: The Undead King Gold|70.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+113311|Destiny or Fate|70.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+114776|Blazing Sails|80.000000|4|5|Shooter|24|Tactical|31|Adventure|32|Indie
+115118|Interrogation: You Will Be Deceived|70.000000|8|2|Point-and-click|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure|32|Indie
+116014|Hard West 2|60.282480|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+116191|Sniper Elite V2 Remastered|66.834511|3|5|Shooter|24|Tactical|31|Adventure
+116201|Tiny Metal: Full Metal Rumble|90.000000|5|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+117052|Spaceland|60.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+117082|Beyond Enemy Lines 2|50.000000|3|5|Shooter|24|Tactical|32|Indie
+117194|Fantasy General II: Invasion|60.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+117497|Partisans 1941|65.114488|3|15|Strategy|24|Tactical|32|Indie
+118218|Tom Clancy\u0027s Ghost Recon: Breakpoint|61.655715|3|5|Shooter|24|Tactical|31|Adventure
+118219|John Wick Hex|63.871338|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+119171|Baldur\u0027s Gate 3|78.376631|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+119188|Auto Chess|59.185442|3|15|Strategy|24|Tactical|35|Card \u0026 Board Game
+119249|Roguebook|79.864776|8|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
+119342|Chivalry 2|80.601839|5|4|Fighting|8|Platform|24|Tactical|25|Hack and slash/Beat \u0027em up|32|Indie
+119381|Commandos 2: HD Remaster|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
+119384|The Dark Crystal: Age of Resistance Tactics|70.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+119386|Empire of Sin|57.504188|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure
+119416|Dota Underlords|69.888607|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|35|Card \u0026 Board Game
+119598|Tactics V: \Obsidian Brigade\|60.000000|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+119809|Wanna Survive|70.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+120170|Solasta: Crown of the Magister|78.288717|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+120176|Teamfight Tactics|80.686374|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
+120654|The Dungeon of Naheulbeuk: The Amulet of Chaos|79.911442|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+120740|Dead Hand|70.000000|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie
+121390|Iris and the Giant|70.000000|7|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
+121618|Plants vs. Zombies: Battle for Neighborville|69.928538|3|5|Shooter|15|Strategy|24|Tactical
+121623|Mutant Year Zero: Road to Eden - Deluxe Edition|80.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+122235|Rogue Company|57.931149|3|5|Shooter|15|Strategy|24|Tactical
+122265|Rebel Cops|60.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+122659|Bad North: Jotunn Edition|57.678039|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
+122704|Rugby 20|50.000000|3|13|Simulator|14|Sport|24|Tactical
+123395|Arknights|88.506984|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+125048|Gordian Quest|80.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+125207|Mainframe Defenders|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+125625|West of Dead|61.623975|5|5|Shooter|24|Tactical|31|Adventure|32|Indie|33|Arcade
+125692|Shadow Empire|70.000000|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+126459|Valorant|73.032675|2|5|Shooter|24|Tactical
+127254|Pathfinder: Wrath of the Righteous|89.422027|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+127497|Might is Right|70.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie
+128944|4th Generation Warfare|70.000000|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
+130203|Polygon|60.000000|9|5|Shooter|12|Role-playing (RPG)|13|Simulator|14|Sport|15|Strategy|24|Tactical|31|Adventure|32|Indie|33|Arcade
+131620|Horizon\u0027s Gate|80.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+132139|XCOM: Chimera Squad|71.510612|3|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+132422|Fights in Tight Spaces|84.863566|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|35|Card \u0026 Board Game
+132516|Phasmophobia|74.139708|3|9|Puzzle|24|Tactical|32|Indie
+132992|Tactics Ogre: Let Us Cling Together|86.830113|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+134595|Hitman 3|86.104307|3|5|Shooter|24|Tactical|31|Adventure
+134831|Destiny 2: The Witch Queen|83.943329|4|5|Shooter|12|Role-playing (RPG)|24|Tactical|31|Adventure
+138980|Sniper Ghost Warrior Contracts 2|70.798051|2|5|Shooter|24|Tactical
+142076|Cruelty Squad|89.368375|4|5|Shooter|13|Simulator|24|Tactical|32|Indie
+143610|Triangle Strategy|85.448070|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
+145060|Shadow Tactics: Blades of the Shogun - Aiko’s Choice|80.356619|6|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure|32|Indie
+150564|Crysis Remastered Trilogy|68.448101|2|5|Shooter|24|Tactical
+152087|Vampire: The Masquerade - Bloodhunt|58.035841|2|5|Shooter|24|Tactical
+152125|Disciples: Liberation|69.902988|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
+152201|Mario + Rabbids Sparks of Hope|89.099358|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+165347|Marvel\u0027s Midnight Suns|82.538346|3|12|Role-playing (RPG)|15|Strategy|24|Tactical
+188503|Rogue Tower|78.174558|3|15|Strategy|24|Tactical|32|Indie
+191396|Fire Emblem Warriors: Three Hopes|80.040597|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|25|Hack and slash/Beat \u0027em up
+196030|Shotgun King: the Final Checkmate|80.475158|6|5|Shooter|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|33|Arcade
+196789|Supremacy: The Metaverse Game|87.842605|5|4|Fighting|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+200611|Dome Keeper|70.168866|3|24|Tactical|32|Indie|33|Arcade
+212584|Tactics Ogre: Reborn|90.225809|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
+212871|DeFi Land|94.076816|4|5|Shooter|24|Tactical|32|Indie|33|Arcade
+217550|Fire Emblem Engage|64.303634|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure
+217815|Call of Duty: Warzone 2.0|66.628408|2|5|Shooter|24|Tactical
+243611|Mir Korabley|90.000000|4|5|Shooter|13|Simulator|24|Tactical|33|Arcade
