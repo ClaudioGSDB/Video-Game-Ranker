@@ -2,7 +2,7 @@
 #include "dataSort.h"
 
 int main() {
-	dataSort cat("data/input/Data.txt", "data/output/");
+	dataSort cat("data/input/Data.txt", "../../Algorithms/Hashmap/cmake-build-debug/data/");
 
 	cout << cat.gamesVisited.size() << endl;
 

@@ -157,6 +157,7 @@ dataSort::dataSort(string inputFile, string ouputPath) {
 				if(gamesVisited.count(id) > 0){
 					continue;
 				}
+				string delim = "`";
 				for(auto &genre : gameGenres){
 					push = "";
 					// if the genre file has not been created
@@ -167,14 +168,16 @@ dataSort::dataSort(string inputFile, string ouputPath) {
 						// create the file
 						genreFiles[genre.first].open(ouputPath + to_string(genre.first) + ".txt");
 						// store id and name of category in file.
-						genreFiles[genre.first] << to_string(genre.first) + "|" + genre.second << endl;
+						genreFiles[genre.first] << to_string(genre.first) + delim + genre.second + delim<< endl;
 					}
 
-					push += to_string(id) + "§" + name + "§" + to_string(rating) + "§" +
-						to_string(gameGenres.size()) + "§";
+
+
+					push += to_string(id) + delim + name + delim + to_string(rating) + delim +
+						to_string(gameGenres.size()) + delim;
 
 					for(auto &g : gameGenres){
-						push += to_string(g.first) + "§" + g.second + "§";
+						push += to_string(g.first) + delim + g.second + delim;
 					}
 					//push.pop_back();
 
