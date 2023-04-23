@@ -1,3 +1,8 @@
+#include <iostream>
+#include <map>
+
+using namespace std;
+
 class DataNode{
 private:
     int ID;
