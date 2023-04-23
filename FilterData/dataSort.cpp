@@ -170,13 +170,13 @@ dataSort::dataSort(string inputFile, string ouputPath) {
 						genreFiles[genre.first] << to_string(genre.first) + "|" + genre.second << endl;
 					}
 
-					push += to_string(id) + "|" + name + "|" + to_string(rating) + "|" +
-						to_string(gameGenres.size()) + "|";
+					push += to_string(id) + "§" + name + "§" + to_string(rating) + "§" +
+						to_string(gameGenres.size()) + "§";
 
 					for(auto &g : gameGenres){
-						push += to_string(g.first) + "|" + g.second + "|";
+						push += to_string(g.first) + "§" + g.second + "§";
 					}
-					push.pop_back();
+					//push.pop_back();
 
 						genreFiles[genre.first] << push << endl;
 						gamesVisited.emplace(id);

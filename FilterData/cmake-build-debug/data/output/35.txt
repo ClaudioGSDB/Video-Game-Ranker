@@ -1,378 +1,378 @@
 35|Card \u0026 Board Game
-332|Monopoly|66.021764|1|35|Card \u0026 Board Game
-1279|Hearthstone|79.189854|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-1891|Magic: The Gathering - Duels of the Planeswalkers 2013|72.149352|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-2047|Poker Night 2|75.954772|5|9|Puzzle|14|Sport|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-2193|Mario Party 8|71.060061|2|9|Puzzle|35|Card \u0026 Board Game
-2285|Yu-Gi-Oh! Nightmare Troubadour|80.077035|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-2327|Mario Party|81.363797|1|35|Card \u0026 Board Game
-2328|Mario Party 2|79.316822|1|35|Card \u0026 Board Game
-2329|Mario Party 3|75.096796|1|35|Card \u0026 Board Game
-2330|Mario Party 4|75.120540|1|35|Card \u0026 Board Game
-2331|Mario Party 5|71.133283|1|35|Card \u0026 Board Game
-2333|Mario Party 6|59.295185|2|9|Puzzle|35|Card \u0026 Board Game
-2334|Mario Party 7|70.875016|2|9|Puzzle|35|Card \u0026 Board Game
-2335|Mario Party DS|76.627412|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-2336|Mario Party 9|68.189230|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-2337|Mario Party Advance|59.377500|2|26|Quiz/Trivia|35|Card \u0026 Board Game
-2338|Mario Party: Island Tour|59.498867|4|9|Puzzle|15|Strategy|31|Adventure|35|Card \u0026 Board Game
-2603|Battle Chess|71.828709|2|15|Strategy|35|Card \u0026 Board Game
-2934|Knights of Pen and Paper +1 Edition|79.186907|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-3106|Wii Party U|70.763289|4|13|Simulator|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-3660|Othello|68.812967|1|35|Card \u0026 Board Game
-3795|Baten Kaitos: Eternal Wings and the Lost Ocean|88.109953|2|12|Role-playing (RPG)|35|Card \u0026 Board Game
-3902|Duel Masters|35.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-4108|Yu-Gi-Oh! Forbidden Memories|59.899614|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-4161|Special Jinsei Game|25.000000|2|15|Strategy|35|Card \u0026 Board Game
-4567|Pokémon Trading Card Game|73.431613|2|31|Adventure|35|Card \u0026 Board Game
-4597|Caesars Palace|35.000000|2|13|Simulator|35|Card \u0026 Board Game
-4630|Yu-Gi-Oh! The Duelists of the Roses|77.168608|2|15|Strategy|35|Card \u0026 Board Game
-4703|Bakugan Battle Brawlers|60.661953|2|15|Strategy|35|Card \u0026 Board Game
-6697|Yu-Gi-Oh! The Sacred Cards|60.311511|3|12|Role-playing (RPG)|15|Strategy|35|Card \u0026 Board Game
-6698|Yu-Gi-Oh! World Championship Tournament 2004|81.251928|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-6699|Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel|70.367225|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-6747|Azada|61.593533|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-6949|Culdcept Saga|80.000000|4|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|35|Card \u0026 Board Game
-7340|Mario Party 10|61.334922|1|35|Card \u0026 Board Game
-7341|Phantom Dust|80.000000|2|31|Adventure|35|Card \u0026 Board Game
-8040|Poker Night at the Inventory|69.089810|5|14|Sport|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|35|Card \u0026 Board Game
-8177|Microsoft Solitaire|77.016310|1|35|Card \u0026 Board Game
-8196|Microsoft Spider Solitaire|70.449556|1|35|Card \u0026 Board Game
-8351|Tabletop Simulator|80.250171|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-8480|Warhammer Quest|66.257111|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-8660|Backgammon Blitz|50.000000|3|15|Strategy|26|Quiz/Trivia|35|Card \u0026 Board Game
-9101|Hand of Fate|72.622535|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-9292|Zooloretto|50.000000|3|26|Quiz/Trivia|33|Arcade|35|Card \u0026 Board Game
-9306|Zombie Solitaire|60.000000|3|9|Puzzle|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-9456|Telltale Texas Hold\u0027em|50.000000|2|13|Simulator|35|Card \u0026 Board Game
-9570|HEX: Shards of Fate|70.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-9703|Faerie Solitaire|69.594890|5|9|Puzzle|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-10374|Governor of Poker|50.000000|3|13|Simulator|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-10745|Ticket to Ride|80.468552|5|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-10952|Talisman: Digital Edition|60.331043|6|12|Role-playing (RPG)|15|Strategy|26|Quiz/Trivia|31|Adventure|32|Indie|35|Card \u0026 Board Game
-11120|The Elder Scrolls: Legends|70.220200|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-11260|Armello|73.053252|7|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|31|Adventure|32|Indie|35|Card \u0026 Board Game
-11290|Trivial Pursuit Live!|78.000000|2|26|Quiz/Trivia|35|Card \u0026 Board Game
-11408|Etherlords II|63.899398|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-11426|100% Orange Juice|79.596938|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-11447|Guild of Dungeoneering|68.979554|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-12443|Magic: The Gathering|89.810747|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-12523|Faeria|79.237381|8|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
-12737|Kantai Collection|62.022472|3|13|Simulator|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-13226|Keep Talking and Nobody Explodes|87.264164|4|9|Puzzle|13|Simulator|32|Indie|35|Card \u0026 Board Game
-14148|Concrete Jungle|80.000000|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-14565|Card City Nights|79.980044|5|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-14685|Thea: The Awakening|84.726933|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-15707|Clash Royale|76.788724|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|35|Card \u0026 Board Game
-15903|Tharsis|73.115210|8|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-16173|Magic: The Gathering - Duels of the Planeswalkers 2012|73.919885|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-16439|The Game of Life|40.000000|1|35|Card \u0026 Board Game
-16458|Risk|52.400000|3|15|Strategy|26|Quiz/Trivia|35|Card \u0026 Board Game
-16487|SolForge|50.000000|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-16732|Infinity Wars: Animated Trading Card Game|70.000000|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-16749|Pure Chess|50.000000|3|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-16797|The Four Kings Casino and Slots|50.000000|2|13|Simulator|35|Card \u0026 Board Game
-17231|Card Hunter|77.970346|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-17472|Full House Poker|73.014196|3|13|Simulator|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-17696|Magic Duels|80.682755|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-17732|Space Hulk: Ascension|79.296121|3|12|Role-playing (RPG)|15|Strategy|35|Card \u0026 Board Game
-17787|Season Match|50.000000|4|9|Puzzle|15|Strategy|31|Adventure|35|Card \u0026 Board Game
-17788|Season Match 2|50.000000|4|9|Puzzle|15|Strategy|31|Adventure|35|Card \u0026 Board Game
-17789|Season Match 3: Curse of the Witch Crow|60.000000|4|9|Puzzle|15|Strategy|31|Adventure|35|Card \u0026 Board Game
-17840|Pure Hold\u0027em|60.000000|6|13|Simulator|14|Sport|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-18051|Texas Hold \u0027Em Poker|79.813417|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-18185|Wartile|80.000000|5|12|Role-playing (RPG)|15|Strategy|24|Tactical|32|Indie|35|Card \u0026 Board Game
-18196|Pocket Card Jockey|78.000000|4|10|Racing|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-18218|Magic: The Gathering - Duels of the Planeswalkers 2015|69.054824|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-18394|Gremlins, Inc.|79.294100|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-18597|Clubhouse Games|78.129751|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|35|Card \u0026 Board Game
-18645|Hand of Fate 2|69.924436|6|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|25|Hack and slash/Beat \u0027em up|31|Adventure|32|Indie|35|Card \u0026 Board Game
-18690|Shadowhand|69.761941|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-18753|Words With Friends|78.334219|1|35|Card \u0026 Board Game
-19004|LEGO Chess|59.828513|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-19319|Curious Expedition|78.006076|7|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-19388|Fable Fortune|60.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-19433|Chronicle: RuneScape Legends|79.626629|4|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-19474|Gwent: The Witcher Card Game|78.038877|3|12|Role-playing (RPG)|15|Strategy|35|Card \u0026 Board Game
-19599|Mario Party: Star Rush|50.626152|2|9|Puzzle|35|Card \u0026 Board Game
-19815|Game Dev Story|69.713867|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-19853|Duelyst|77.814017|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-19930|Fortune Street|83.000000|2|12|Role-playing (RPG)|35|Card \u0026 Board Game
-20043|Yu-Gi-Oh! Legacy of the Duelist|81.530829|5|9|Puzzle|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-20094|Monster Monpiece|60.000000|3|12|Role-playing (RPG)|15|Strategy|35|Card \u0026 Board Game
-20286|Kingdom Hearts Re:Chain of Memories|69.700043|3|12|Role-playing (RPG)|24|Tactical|35|Card \u0026 Board Game
-20313|Monopoly Plus|59.960251|4|13|Simulator|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-20331|For the King|62.510718|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-20670|Yu-Gi-Oh! GX: Spirit Caller|66.124164|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-21129|Yu-Gi-Oh! 5D\u0027s Stardust Accelerator World Championship Tournament 2009|79.782915|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-21324|Star Realms|99.841508|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-21574|Monopoly Streets|79.975523|2|15|Strategy|35|Card \u0026 Board Game
-21680|Yu-Gi-Oh GX: The Beginning of Destiny|79.890657|2|15|Strategy|35|Card \u0026 Board Game
-21945|Yu-Gi-Oh! GX: Tag Force 2|83.251163|1|35|Card \u0026 Board Game
-21955|Marvel Trading Card Game|74.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-21969|Sonic Shuffle|62.587549|4|9|Puzzle|15|Strategy|26|Quiz/Trivia|35|Card \u0026 Board Game
-22445|Battleship|80.000000|3|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-22672|Lethis: Path of Progress|50.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-22739|Uno|70.256231|4|9|Puzzle|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-23214|Prominence Poker|69.397843|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-23329|Phantasy Star Online Episode III: C.A.R.D. Revolution|74.000000|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-23579|Space Hulk|69.923845|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-24423|Pokémon Trading Card Game Online|64.573187|4|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-24464|Solitairica|63.327926|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-24965|Farabel|70.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-25159|Othello|70.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-25545|Mahjong World Contest|70.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-25625|Archaica: The Path Of Light|70.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-25716|WayOut|80.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-25811|Shadowverse|80.063155|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-26579|Super Dungeon Tactics|60.000000|6|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
-26811|Mysterium|60.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-26878|Cultist Simulator|70.413676|5|12|Role-playing (RPG)|13|Simulator|31|Adventure|32|Indie|35|Card \u0026 Board Game
-27093|Yu-Gi-Oh! Duel Links|76.325230|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|31|Adventure|35|Card \u0026 Board Game
-27117|Into the Breach|83.126898|7|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-27247|Tales of the Orient: The Rising Sun|70.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-27258|Culdcept Revolt|90.000000|4|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|35|Card \u0026 Board Game
-27487|Dark Quest 2|70.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-27530|Children of Zodiarcs|50.000000|6|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
-27930|Warhammer Quest 2: The End Times|90.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-27975|Monster Slayers|80.000000|6|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|33|Arcade|35|Card \u0026 Board Game
-28059|Microsoft Solitaire Collection|70.067007|1|35|Card \u0026 Board Game
-28113|Use Your Words|70.138350|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-28174|Monopoly for Nintendo Switch|59.968944|2|15|Strategy|35|Card \u0026 Board Game
-28310|Queen\u0027s Quest 3: The End of Dawn|70.000000|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-28466|Othello|58.000000|1|35|Card \u0026 Board Game
-28584|Mahjong Pretty Girls Battle|60.000000|2|9|Puzzle|35|Card \u0026 Board Game
-28711|UNO \u0026 Friends|69.938796|2|9|Puzzle|35|Card \u0026 Board Game
-29422|Throne of Lies: Medieval Politics|80.000000|4|12|Role-playing (RPG)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-30085|Shenzhen Solitaire|70.000000|2|32|Indie|35|Card \u0026 Board Game
-30242|Monopoly|60.277866|2|15|Strategy|35|Card \u0026 Board Game
-30283|Warhammer 40,000: Space Wolf|60.000000|7|9|Puzzle|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-30928|Super Blackjack Battle 2 Turbo Edition - The Card Warriors|60.000000|3|14|Sport|33|Arcade|35|Card \u0026 Board Game
-31053|Delicious! Pretty Girls Mahjong Solitaire|80.000000|2|9|Puzzle|35|Card \u0026 Board Game
-31118|Miniature - The Story Puzzle|50.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-31146|Cards of Cthulhu|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-31198|Eternal Card Game|69.967178|5|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-31295|Patchwork|60.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-31561|Chess Ultra|60.000000|7|9|Puzzle|13|Simulator|14|Sport|15|Strategy|26|Quiz/Trivia|32|Indie|35|Card \u0026 Board Game
-32328|Card Quest|80.000000|4|12|Role-playing (RPG)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-32439|Card of Spirits|50.000000|2|15|Strategy|35|Card \u0026 Board Game
-32572|Bombslinger|70.000000|7|4|Fighting|5|Shooter|15|Strategy|31|Adventure|32|Indie|33|Arcade|35|Card \u0026 Board Game
-32608|The Mahjong Huntress|50.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-32851|Frost|70.000000|4|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-32982|Mahjong Deluxe 3|60.000000|5|9|Puzzle|13|Simulator|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-33244|Forgotten Tales: Day of the Dead|60.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-33572|Niche: a genetics survival game|80.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-33663|Governor of Poker 3|60.347383|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-34202|Energy Cycle|70.000000|4|7|Music|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-34324|Poker Pretty Girls Battle: Texas Hold\u0027em|50.000000|3|9|Puzzle|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-34372|Superfight|50.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-34432|The Game of Life: The Official 2016 Edition|50.000000|2|13|Simulator|35|Card \u0026 Board Game
-34613|Dracula\u0027s Legacy|60.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-34716|Pretty Girls Mahjong Solitaire|80.000000|2|9|Puzzle|35|Card \u0026 Board Game
-34986|Mahjong Pretty Girls Battle: School Girls Edition|50.000000|2|9|Puzzle|35|Card \u0026 Board Game
-35058|Splendor|60.000000|4|15|Strategy|16|Turn-based strategy (TBS)|26|Quiz/Trivia|35|Card \u0026 Board Game
-35062|Sherlock Holmes Consulting Detective: The Case of the Tin Soldier|50.000000|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-35063|Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess|50.000000|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-35139|Sherlock Holmes Consulting Detective: The Case of the Mummy\u0027s Curse|50.000000|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-35745|Regency Solitaire|80.000000|6|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|34|Visual Novel|35|Card \u0026 Board Game
-35987|Wars Across the World|50.000000|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-36644|Plague Road|73.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-37007|Zombie Solitaire 2 Chapter 1|70.000000|1|35|Card \u0026 Board Game
-37057|Griftlands|86.801865|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-37063|South Park: Phone Destroyer|70.077050|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-38668|Jewel Rotation|70.000000|4|9|Puzzle|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-39175|Card Wars: Adventure Time|42.802663|2|12|Role-playing (RPG)|35|Card \u0026 Board Game
-40477|Slay the Spire|85.984183|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-40557|Fighting Fantasy Legends|60.000000|4|12|Role-playing (RPG)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-41830|Final Fantasy Fables: Chocobo Tales|69.401354|2|31|Adventure|35|Card \u0026 Board Game
-41893|Shephy|57.000000|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-41958|Castle of no Escape|50.000000|4|12|Role-playing (RPG)|32|Indie|33|Arcade|35|Card \u0026 Board Game
-42789|Yu-Gi-Oh! 5D\u0027s Tag Force 6|88.964746|2|15|Strategy|35|Card \u0026 Board Game
-42790|Yu-Gi-Oh! 5D\u0027s Tag Force 4|76.596969|2|15|Strategy|35|Card \u0026 Board Game
-42854|Yu-Gi-Oh! 5D\u0027s Tag Force 5|82.925021|1|35|Card \u0026 Board Game
-44494|Yu-Gi-Oh! GX Tag Force 3|81.640290|2|15|Strategy|35|Card \u0026 Board Game
-44740|BAFL: Brakes Are For Losers|63.000000|4|10|Racing|32|Indie|33|Arcade|35|Card \u0026 Board Game
-44819|Digimon Digital Card Battle|71.988557|4|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-47801|Yu-Gi-Oh! 5D\u0027s World Championship 2011: Over the Nexus|79.932184|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-47841|Yu-Gi-Oh! 5D\u0027s World Championship 2010: Reverse of Arcadia|66.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-49379|Yu-Gi-Oh! Reshef of Destruction|54.112184|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-49380|Yu-Gi-Oh! GX Duel Academy|79.752153|2|26|Quiz/Trivia|35|Card \u0026 Board Game
-50833|Yu-Gi-Oh! Power of Chaos: Joey the Passion|79.693112|4|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-50834|Yu-Gi-Oh! Power of Chaos: Yugi the Destiny|60.464763|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-51354|Microsoft FreeCell|69.846039|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-51407|Levels+: Addictive Puzzle Game|71.000000|3|9|Puzzle|12|Role-playing (RPG)|35|Card \u0026 Board Game
-51736|Nowhere Prophet|77.524072|8|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|33|Arcade|35|Card \u0026 Board Game
-52496|Check vs. Mate|90.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-52578|Mahjong Gold|90.000000|3|9|Puzzle|15|Strategy|35|Card \u0026 Board Game
-53259|Knights of Pen \u0026 Paper: +1 Deluxier Edition|58.458047|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-54521|Senran Kagura Peach Ball|75.000000|3|30|Pinball|33|Arcade|35|Card \u0026 Board Game
-54538|Magic: The Gathering Arena|75.716181|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-54572|Artifact|63.327587|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-54793|Deep Sky Derelicts|56.860312|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-55048|Another Lost Phone: Laura\u0027s Story|72.348479|5|9|Puzzle|13|Simulator|31|Adventure|32|Indie|35|Card \u0026 Board Game
-56599|Chess|30.000000|5|13|Simulator|14|Sport|15|Strategy|32|Indie|35|Card \u0026 Board Game
-56917|Spider Solitaire Cube|40.000000|1|35|Card \u0026 Board Game
-56946|Solitaire Cube|90.000000|2|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-57153|The Battle of Polytopia|89.550147|6|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-57975|Lies of Astaroth|80.000000|2|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-58036|Risk Urban Assault|80.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-59965|Boggle|60.000000|3|15|Strategy|26|Quiz/Trivia|35|Card \u0026 Board Game
-61606|Steam Tactics|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-64821|Urban Rivals World|80.255183|5|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-66812|Mario Party: The Top 100|65.745891|2|9|Puzzle|35|Card \u0026 Board Game
-68443|Brass|50.000000|2|15|Strategy|35|Card \u0026 Board Game
-68570|Dresden Files Cooperative Card Game|60.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-74152|Modern Tales: Age of Invention|70.000000|3|9|Puzzle|31|Adventure|35|Card \u0026 Board Game
-75140|Kards: The WWII Card Game|77.319885|4|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-75582|Carcassonne: The Official Board Game|73.407040|4|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-75616|Train Station Simulator|60.000000|7|8|Platform|13|Simulator|15|Strategy|31|Adventure|32|Indie|33|Arcade|35|Card \u0026 Board Game
-76550|Lightseekers|53.000000|3|15|Strategy|24|Tactical|35|Card \u0026 Board Game
-77176|The Lord of the Rings: Adventure Card Game|50.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-78167|Yu-Gi-Oh! GX Tag Force|82.174009|2|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-80743|Solitaire|90.000000|2|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-81124|Scythe: Digital Edition|70.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-81259|Faerie Solitaire Remastered|70.000000|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-81444|Magic: The Gathering - Duels of the Planeswalkers|45.655092|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-81495|Carcassonne|79.664192|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-82409|The Pure Bundle|60.000000|5|13|Simulator|14|Sport|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-82410|The Jackbox Party Trilogy|80.000000|1|35|Card \u0026 Board Game
-83466|Spider Solitaire|70.000000|5|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-83471|Skip-Bo|43.579960|2|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-83912|Skip-Bo|80.000000|1|35|Card \u0026 Board Game
-84661|3D MahJongg|63.000000|3|9|Puzzle|15|Strategy|35|Card \u0026 Board Game
-84674|42 All-Time Classics|73.000000|1|35|Card \u0026 Board Game
-84846|Robot Rescue 3D|83.000000|3|9|Puzzle|15|Strategy|35|Card \u0026 Board Game
-84854|Shanghai Mahjong|90.000000|2|9|Puzzle|35|Card \u0026 Board Game
-85124|Epic Word Search Collection 2|70.000000|2|9|Puzzle|35|Card \u0026 Board Game
-85585|Pure Chess|74.000000|3|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-85683|Mahjong|60.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-86269|Space Hulk: Tactics|50.000000|4|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-86323|Hexologic|69.991496|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-86548|Solitaire|50.000000|1|35|Card \u0026 Board Game
-86961|Mahjong Solitaire: Classic|90.000000|2|9|Puzzle|35|Card \u0026 Board Game
-86965|Solitaire Tripeaks|90.000000|1|35|Card \u0026 Board Game
-87154|Texas Hold\u0027em: Daily Poke it!|90.000000|2|13|Simulator|35|Card \u0026 Board Game
-87593|Extreme Hand and Foot|90.000000|1|35|Card \u0026 Board Game
-87746|Hoyle Card Games|50.000000|2|15|Strategy|35|Card \u0026 Board Game
-87812|Fortune-499|70.000000|4|12|Role-playing (RPG)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-87947|Fhtagn! - Tales of the Creeping Madness|70.000000|3|31|Adventure|32|Indie|35|Card \u0026 Board Game
-88006|One Deck Dungeon|60.000000|6|9|Puzzle|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-88305|Ben 10 Slammers|80.000000|2|15|Strategy|35|Card \u0026 Board Game
-88595|Cribbage Premium|90.000000|1|35|Card \u0026 Board Game
-88597|Card Wars: Adventure Time Card Game|80.000000|2|15|Strategy|35|Card \u0026 Board Game
-88777|Yahtzee With Buddies|90.000000|1|35|Card \u0026 Board Game
-88818|Dragon Ball Z: Dokkan Battle|69.988674|4|4|Fighting|9|Puzzle|12|Role-playing (RPG)|35|Card \u0026 Board Game
-88855|Solitaire Deluxe 2|90.000000|1|35|Card \u0026 Board Game
-88882|The Game of Life|90.000000|1|35|Card \u0026 Board Game
-88905|Solitaire|90.000000|2|9|Puzzle|35|Card \u0026 Board Game
-88938|Exploding Kittens|90.000000|1|35|Card \u0026 Board Game
-89082|Jewel Fever 2|80.000000|2|9|Puzzle|35|Card \u0026 Board Game
-89168|Freecell Solitaire|80.000000|4|9|Puzzle|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-89738|Solitaire 3D|90.000000|2|32|Indie|35|Card \u0026 Board Game
-90255|SpellKeeper|70.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-90270|Death Crown|85.009992|6|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-91038|FreeCell|90.000000|1|35|Card \u0026 Board Game
-91261|Scrabble|60.000000|1|35|Card \u0026 Board Game
-91985|Jaipur: the board game|80.000000|1|35|Card \u0026 Board Game
-92264|Boggle Plus|57.000000|1|35|Card \u0026 Board Game
-93712|Sudoku Zenkai|70.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-97111|Fated Kingdom|60.000000|5|12|Role-playing (RPG)|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-101238|Awkward|70.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-101496|Minesweeper Genius|50.000000|3|9|Puzzle|15|Strategy|35|Card \u0026 Board Game
-101953|Among the Stars|41.818180|2|15|Strategy|35|Card \u0026 Board Game
-102420|Dicey Dungeons|71.864319|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-103339|Super Mario Party|65.386156|3|8|Platform|9|Puzzle|35|Card \u0026 Board Game
-104032|Card Games Mega Collection|70.000000|1|35|Card \u0026 Board Game
-104060|Mushroom Quest|70.000000|5|9|Puzzle|15|Strategy|32|Indie|33|Arcade|35|Card \u0026 Board Game
-104265|Istanbul: Digital Edition|70.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-105322|Pummel Party|68.746602|3|32|Indie|33|Arcade|35|Card \u0026 Board Game
-105592|Football Drama|70.000000|8|13|Simulator|14|Sport|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|34|Visual Novel|35|Card \u0026 Board Game
-105624|Rento Fortune Monolit|92.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-106150|Cardpocalypse|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-106562|Achtung! Cthulhu Tactics|50.000000|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-107300|Thronebreaker: The Witcher Tales|85.590747|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|35|Card \u0026 Board Game
-107329|Golf Peaks|71.005850|5|9|Puzzle|14|Sport|15|Strategy|32|Indie|35|Card \u0026 Board Game
-107693|Fate Hunters|70.000000|4|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-107780|Jewel Match Twilight Solitaire|70.000000|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-109049|Sentinels of Freedom|50.000000|6|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-109474|Billion Road|70.000000|2|15|Strategy|35|Card \u0026 Board Game
-109759|Love Letter|70.000000|2|15|Strategy|35|Card \u0026 Board Game
-109774|Grand Guilds|50.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-110355|Here Be Dragons|70.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-111054|Super Dragon Ball Heroes: World Mission|58.114650|4|9|Puzzle|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-111086|Spellcaster University|50.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-111370|No Time to Relax|70.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-111436|Simmiland|70.000000|3|13|Simulator|32|Indie|35|Card \u0026 Board Game
-111507|Overdungeon|60.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-111774|Dark Fantasy: Jigsaw Puzzle|70.000000|5|9|Puzzle|12|Role-playing (RPG)|13|Simulator|32|Indie|35|Card \u0026 Board Game
-111842|Ancient Enemy|80.000000|6|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-112518|Warhammer Age of Sigmar: Champions|80.000000|2|15|Strategy|35|Card \u0026 Board Game
-112849|Shieldwall Chronicles: Swords of the North|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-112942|Mystic Vale|70.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-113080|Knights of Pen \u0026 Paper 2: Deluxiest Edition|77.000000|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-113334|Jewel Match Solitaire Winterscapes|70.000000|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-113750|Neoverse|71.652765|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-113790|Knights of the Card Table|70.000000|4|12|Role-playing (RPG)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-114852|Deck of Ashes|60.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-114905|Yu-Gi-Oh! Legacy of the Duelist: Link Evolution|79.669900|4|9|Puzzle|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-115036|Ring of Pain|52.686908|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-115650|Alt-Frequencies|70.000000|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-115711|Curious Expedition 2|69.745872|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-115787|Faerie Solitaire Harvest|60.000000|2|31|Adventure|35|Card \u0026 Board Game
-116137|Pirates Outlaws|74.352108|6|4|Fighting|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-116174|Axis \u0026 Allies 1942 Online|50.000000|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-116578|Moncage|79.364262|6|9|Puzzle|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-117051|Happy Words|60.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-117194|Fantasy General II: Invasion|60.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-117605|Phantom Rose|60.000000|3|15|Strategy|32|Indie|35|Card \u0026 Board Game
-117644|Talisman: Origins|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-117869|Charterstone: Digital Edition|60.000000|5|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-117931|Casino FunPak|45.000000|1|35|Card \u0026 Board Game
-118627|Alluris|70.000000|3|12|Role-playing (RPG)|31|Adventure|35|Card \u0026 Board Game
-119188|Auto Chess|59.185442|3|15|Strategy|24|Tactical|35|Card \u0026 Board Game
-119249|Roguebook|79.864776|8|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
-119416|Dota Underlords|69.888607|4|12|Role-playing (RPG)|15|Strategy|24|Tactical|35|Card \u0026 Board Game
-120176|Teamfight Tactics|80.686374|4|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|35|Card \u0026 Board Game
-121135|Raiders of the North Sea|70.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-121270|Ratropolis|80.000000|4|12|Role-playing (RPG)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-121346|Risk: Global Domination|65.384835|2|15|Strategy|35|Card \u0026 Board Game
-121390|Iris and the Giant|70.000000|7|9|Puzzle|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie|35|Card \u0026 Board Game
-122064|Necronator: Dead Wrong|70.000000|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-123717|Knight Swap|70.000000|4|9|Puzzle|15|Strategy|32|Indie|35|Card \u0026 Board Game
-123860|Richman 10|50.000000|5|9|Puzzle|13|Simulator|15|Strategy|33|Arcade|35|Card \u0026 Board Game
-124208|Daylife in Japan: Animated Jigsaw Puzzle Series|70.000000|2|9|Puzzle|35|Card \u0026 Board Game
-124244|Rise of the Slime|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-124701|Legends of Runeterra|80.122465|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-126691|Magic of Autumn|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-126819|Card Hog|80.000000|6|9|Puzzle|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-126885|Unlock the King|70.000000|3|9|Puzzle|15|Strategy|35|Card \u0026 Board Game
-126924|Touhou Ibunseki: Ayaria Dawn - ReCreation|70.000000|4|13|Simulator|15|Strategy|32|Indie|35|Card \u0026 Board Game
-127234|The Answer is 42|70.000000|3|9|Puzzle|32|Indie|35|Card \u0026 Board Game
-127610|Spellsword Cards: DungeonTop|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-127685|For the Warp|70.000000|5|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|35|Card \u0026 Board Game
-129321|How Buddy\u0027s Parents Met|70.000000|4|9|Puzzle|15|Strategy|31|Adventure|35|Card \u0026 Board Game
-129483|Monster Train|84.151343|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-130060|Dreamgate|70.000000|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-131645|Knock on the Coffin Lid|70.000000|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-131961|Clubhouse Games: 51 Worldwide Classics|70.858919|2|33|Arcade|35|Card \u0026 Board Game
-132102|Vampire: The Masquerade - Shadows of New York|80.000000|5|12|Role-playing (RPG)|31|Adventure|32|Indie|34|Visual Novel|35|Card \u0026 Board Game
-132422|Fights in Tight Spaces|84.863566|5|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie|35|Card \u0026 Board Game
-133408|Banners of Ruin|70.277908|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-134799|Dorfromantik|75.494690|6|9|Puzzle|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-136773|Card Shark|69.977755|3|31|Adventure|32|Indie|35|Card \u0026 Board Game
-137056|Dread X Collection|58.000000|8|5|Shooter|8|Platform|9|Puzzle|16|Turn-based strategy (TBS)|31|Adventure|32|Indie|33|Arcade|35|Card \u0026 Board Game
-139090|Inscryption|89.777784|5|9|Puzzle|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-141533|Loop Hero|76.611285|5|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-142494|Dragon Ball Z: Kakarot - Dragon Ball Card Warriors|98.644068|3|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-146054|I Was a Teenage Exocolonist|68.450806|7|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|34|Visual Novel|35|Card \u0026 Board Game
-146424|Tainted Grail: Conquest|83.161481|5|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|32|Indie|35|Card \u0026 Board Game
-146641|Super Auto Pets|76.623722|4|4|Fighting|15|Strategy|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-152354|Mario Party Superstars|79.984798|1|35|Card \u0026 Board Game
-159298|Yu-Gi-Oh! Master Duel|74.376067|3|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-171768|Voice of Cards: The Isle Dragon Roars|82.106169|4|12|Role-playing (RPG)|13|Simulator|15|Strategy|35|Card \u0026 Board Game
-178283|NFUT Cards|94.782609|4|13|Simulator|14|Sport|15|Strategy|35|Card \u0026 Board Game
-187043|Rising Star|92.488263|1|35|Card \u0026 Board Game
-191270|Stream Pairs|91.666667|1|35|Card \u0026 Board Game
-196230|Stacklands|67.973972|3|13|Simulator|32|Indie|35|Card \u0026 Board Game
-202279|Marvel Snap|77.407001|2|15|Strategy|35|Card \u0026 Board Game
-208307|Gwent: Rogue Mage|59.812098|4|12|Role-playing (RPG)|15|Strategy|31|Adventure|35|Card \u0026 Board Game
+332§Monopoly§66.021764§1§35§Card \u0026 Board Game§
+1279§Hearthstone§79.189854§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+1891§Magic: The Gathering - Duels of the Planeswalkers 2013§72.149352§4§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+2047§Poker Night 2§75.954772§5§9§Puzzle§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+2193§Mario Party 8§71.060061§2§9§Puzzle§35§Card \u0026 Board Game§
+2285§Yu-Gi-Oh! Nightmare Troubadour§80.077035§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+2327§Mario Party§81.363797§1§35§Card \u0026 Board Game§
+2328§Mario Party 2§79.316822§1§35§Card \u0026 Board Game§
+2329§Mario Party 3§75.096796§1§35§Card \u0026 Board Game§
+2330§Mario Party 4§75.120540§1§35§Card \u0026 Board Game§
+2331§Mario Party 5§71.133283§1§35§Card \u0026 Board Game§
+2333§Mario Party 6§59.295185§2§9§Puzzle§35§Card \u0026 Board Game§
+2334§Mario Party 7§70.875016§2§9§Puzzle§35§Card \u0026 Board Game§
+2335§Mario Party DS§76.627412§5§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+2336§Mario Party 9§68.189230§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+2337§Mario Party Advance§59.377500§2§26§Quiz/Trivia§35§Card \u0026 Board Game§
+2338§Mario Party: Island Tour§59.498867§4§9§Puzzle§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
+2603§Battle Chess§71.828709§2§15§Strategy§35§Card \u0026 Board Game§
+2934§Knights of Pen and Paper +1 Edition§79.186907§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+3106§Wii Party U§70.763289§4§13§Simulator§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+3660§Othello§68.812967§1§35§Card \u0026 Board Game§
+3795§Baten Kaitos: Eternal Wings and the Lost Ocean§88.109953§2§12§Role-playing (RPG)§35§Card \u0026 Board Game§
+3902§Duel Masters§35.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+4108§Yu-Gi-Oh! Forbidden Memories§59.899614§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+4161§Special Jinsei Game§25.000000§2§15§Strategy§35§Card \u0026 Board Game§
+4567§Pokémon Trading Card Game§73.431613§2§31§Adventure§35§Card \u0026 Board Game§
+4597§Caesars Palace§35.000000§2§13§Simulator§35§Card \u0026 Board Game§
+4630§Yu-Gi-Oh! The Duelists of the Roses§77.168608§2§15§Strategy§35§Card \u0026 Board Game§
+4703§Bakugan Battle Brawlers§60.661953§2§15§Strategy§35§Card \u0026 Board Game§
+6697§Yu-Gi-Oh! The Sacred Cards§60.311511§3§12§Role-playing (RPG)§15§Strategy§35§Card \u0026 Board Game§
+6698§Yu-Gi-Oh! World Championship Tournament 2004§81.251928§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+6699§Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel§70.367225§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+6747§Azada§61.593533§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+6949§Culdcept Saga§80.000000§4§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§35§Card \u0026 Board Game§
+7340§Mario Party 10§61.334922§1§35§Card \u0026 Board Game§
+7341§Phantom Dust§80.000000§2§31§Adventure§35§Card \u0026 Board Game§
+8040§Poker Night at the Inventory§69.089810§5§14§Sport§16§Turn-based strategy (TBS)§24§Tactical§32§Indie§35§Card \u0026 Board Game§
+8177§Microsoft Solitaire§77.016310§1§35§Card \u0026 Board Game§
+8196§Microsoft Spider Solitaire§70.449556§1§35§Card \u0026 Board Game§
+8351§Tabletop Simulator§80.250171§5§12§Role-playing (RPG)§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+8480§Warhammer Quest§66.257111§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+8660§Backgammon Blitz§50.000000§3§15§Strategy§26§Quiz/Trivia§35§Card \u0026 Board Game§
+9101§Hand of Fate§72.622535§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+9292§Zooloretto§50.000000§3§26§Quiz/Trivia§33§Arcade§35§Card \u0026 Board Game§
+9306§Zombie Solitaire§60.000000§3§9§Puzzle§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+9456§Telltale Texas Hold\u0027em§50.000000§2§13§Simulator§35§Card \u0026 Board Game§
+9570§HEX: Shards of Fate§70.000000§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+9703§Faerie Solitaire§69.594890§5§9§Puzzle§12§Role-playing (RPG)§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+10374§Governor of Poker§50.000000§3§13§Simulator§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+10745§Ticket to Ride§80.468552§5§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+10952§Talisman: Digital Edition§60.331043§6§12§Role-playing (RPG)§15§Strategy§26§Quiz/Trivia§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+11120§The Elder Scrolls: Legends§70.220200§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+11260§Armello§73.053252§7§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+11290§Trivial Pursuit Live!§78.000000§2§26§Quiz/Trivia§35§Card \u0026 Board Game§
+11408§Etherlords II§63.899398§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+11426§100% Orange Juice§79.596938§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+11447§Guild of Dungeoneering§68.979554§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+12443§Magic: The Gathering§89.810747§4§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+12523§Faeria§79.237381§8§9§Puzzle§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+12737§Kantai Collection§62.022472§3§13§Simulator§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+13226§Keep Talking and Nobody Explodes§87.264164§4§9§Puzzle§13§Simulator§32§Indie§35§Card \u0026 Board Game§
+14148§Concrete Jungle§80.000000§5§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+14565§Card City Nights§79.980044§5§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+14685§Thea: The Awakening§84.726933§7§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+15707§Clash Royale§76.788724§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§35§Card \u0026 Board Game§
+15903§Tharsis§73.115210§8§9§Puzzle§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+16173§Magic: The Gathering - Duels of the Planeswalkers 2012§73.919885§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+16439§The Game of Life§40.000000§1§35§Card \u0026 Board Game§
+16458§Risk§52.400000§3§15§Strategy§26§Quiz/Trivia§35§Card \u0026 Board Game§
+16487§SolForge§50.000000§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+16732§Infinity Wars: Animated Trading Card Game§70.000000§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+16749§Pure Chess§50.000000§3§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+16797§The Four Kings Casino and Slots§50.000000§2§13§Simulator§35§Card \u0026 Board Game§
+17231§Card Hunter§77.970346§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+17472§Full House Poker§73.014196§3§13§Simulator§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+17696§Magic Duels§80.682755§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+17732§Space Hulk: Ascension§79.296121§3§12§Role-playing (RPG)§15§Strategy§35§Card \u0026 Board Game§
+17787§Season Match§50.000000§4§9§Puzzle§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
+17788§Season Match 2§50.000000§4§9§Puzzle§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
+17789§Season Match 3: Curse of the Witch Crow§60.000000§4§9§Puzzle§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
+17840§Pure Hold\u0027em§60.000000§6§13§Simulator§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+18051§Texas Hold \u0027Em Poker§79.813417§4§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+18185§Wartile§80.000000§5§12§Role-playing (RPG)§15§Strategy§24§Tactical§32§Indie§35§Card \u0026 Board Game§
+18196§Pocket Card Jockey§78.000000§4§10§Racing§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+18218§Magic: The Gathering - Duels of the Planeswalkers 2015§69.054824§4§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+18394§Gremlins, Inc.§79.294100§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+18597§Clubhouse Games§78.129751§5§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§35§Card \u0026 Board Game§
+18645§Hand of Fate 2§69.924436§6§12§Role-playing (RPG)§16§Turn-based strategy (TBS)§25§Hack and slash/Beat \u0027em up§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+18690§Shadowhand§69.761941§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+18753§Words With Friends§78.334219§1§35§Card \u0026 Board Game§
+19004§LEGO Chess§59.828513§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+19319§Curious Expedition§78.006076§7§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+19388§Fable Fortune§60.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+19433§Chronicle: RuneScape Legends§79.626629§4§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+19474§Gwent: The Witcher Card Game§78.038877§3§12§Role-playing (RPG)§15§Strategy§35§Card \u0026 Board Game§
+19599§Mario Party: Star Rush§50.626152§2§9§Puzzle§35§Card \u0026 Board Game§
+19815§Game Dev Story§69.713867§6§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+19853§Duelyst§77.814017§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+19930§Fortune Street§83.000000§2§12§Role-playing (RPG)§35§Card \u0026 Board Game§
+20043§Yu-Gi-Oh! Legacy of the Duelist§81.530829§5§9§Puzzle§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+20094§Monster Monpiece§60.000000§3§12§Role-playing (RPG)§15§Strategy§35§Card \u0026 Board Game§
+20286§Kingdom Hearts Re:Chain of Memories§69.700043§3§12§Role-playing (RPG)§24§Tactical§35§Card \u0026 Board Game§
+20313§Monopoly Plus§59.960251§4§13§Simulator§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+20331§For the King§62.510718§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+20670§Yu-Gi-Oh! GX: Spirit Caller§66.124164§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+21129§Yu-Gi-Oh! 5D\u0027s Stardust Accelerator World Championship Tournament 2009§79.782915§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+21324§Star Realms§99.841508§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+21574§Monopoly Streets§79.975523§2§15§Strategy§35§Card \u0026 Board Game§
+21680§Yu-Gi-Oh GX: The Beginning of Destiny§79.890657§2§15§Strategy§35§Card \u0026 Board Game§
+21945§Yu-Gi-Oh! GX: Tag Force 2§83.251163§1§35§Card \u0026 Board Game§
+21955§Marvel Trading Card Game§74.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+21969§Sonic Shuffle§62.587549§4§9§Puzzle§15§Strategy§26§Quiz/Trivia§35§Card \u0026 Board Game§
+22445§Battleship§80.000000§3§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+22672§Lethis: Path of Progress§50.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+22739§Uno§70.256231§4§9§Puzzle§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+23214§Prominence Poker§69.397843§4§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+23329§Phantasy Star Online Episode III: C.A.R.D. Revolution§74.000000§4§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+23579§Space Hulk§69.923845§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+24423§Pokémon Trading Card Game Online§64.573187§4§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+24464§Solitairica§63.327926§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+24965§Farabel§70.000000§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+25159§Othello§70.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+25545§Mahjong World Contest§70.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+25625§Archaica: The Path Of Light§70.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+25716§WayOut§80.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+25811§Shadowverse§80.063155§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+26579§Super Dungeon Tactics§60.000000§6§12§Role-playing (RPG)§15§Strategy§24§Tactical§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+26811§Mysterium§60.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+26878§Cultist Simulator§70.413676§5§12§Role-playing (RPG)§13§Simulator§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+27093§Yu-Gi-Oh! Duel Links§76.325230§7§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§31§Adventure§35§Card \u0026 Board Game§
+27117§Into the Breach§83.126898§7§9§Puzzle§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+27247§Tales of the Orient: The Rising Sun§70.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+27258§Culdcept Revolt§90.000000§4§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§35§Card \u0026 Board Game§
+27487§Dark Quest 2§70.000000§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+27530§Children of Zodiarcs§50.000000§6§12§Role-playing (RPG)§15§Strategy§24§Tactical§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+27930§Warhammer Quest 2: The End Times§90.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+27975§Monster Slayers§80.000000§6§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+28059§Microsoft Solitaire Collection§70.067007§1§35§Card \u0026 Board Game§
+28113§Use Your Words§70.138350§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+28174§Monopoly for Nintendo Switch§59.968944§2§15§Strategy§35§Card \u0026 Board Game§
+28310§Queen\u0027s Quest 3: The End of Dawn§70.000000§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+28466§Othello§58.000000§1§35§Card \u0026 Board Game§
+28584§Mahjong Pretty Girls Battle§60.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+28711§UNO \u0026 Friends§69.938796§2§9§Puzzle§35§Card \u0026 Board Game§
+29422§Throne of Lies: Medieval Politics§80.000000§4§12§Role-playing (RPG)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+30085§Shenzhen Solitaire§70.000000§2§32§Indie§35§Card \u0026 Board Game§
+30242§Monopoly§60.277866§2§15§Strategy§35§Card \u0026 Board Game§
+30283§Warhammer 40,000: Space Wolf§60.000000§7§9§Puzzle§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+30928§Super Blackjack Battle 2 Turbo Edition - The Card Warriors§60.000000§3§14§Sport§33§Arcade§35§Card \u0026 Board Game§
+31053§Delicious! Pretty Girls Mahjong Solitaire§80.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+31118§Miniature - The Story Puzzle§50.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+31146§Cards of Cthulhu§50.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+31198§Eternal Card Game§69.967178§5§9§Puzzle§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+31295§Patchwork§60.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+31561§Chess Ultra§60.000000§7§9§Puzzle§13§Simulator§14§Sport§15§Strategy§26§Quiz/Trivia§32§Indie§35§Card \u0026 Board Game§
+32328§Card Quest§80.000000§4§12§Role-playing (RPG)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+32439§Card of Spirits§50.000000§2§15§Strategy§35§Card \u0026 Board Game§
+32572§Bombslinger§70.000000§7§4§Fighting§5§Shooter§15§Strategy§31§Adventure§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+32608§The Mahjong Huntress§50.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+32851§Frost§70.000000§4§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+32982§Mahjong Deluxe 3§60.000000§5§9§Puzzle§13§Simulator§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+33244§Forgotten Tales: Day of the Dead§60.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+33572§Niche: a genetics survival game§80.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+33663§Governor of Poker 3§60.347383§4§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+34202§Energy Cycle§70.000000§4§7§Music§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+34324§Poker Pretty Girls Battle: Texas Hold\u0027em§50.000000§3§9§Puzzle§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+34372§Superfight§50.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+34432§The Game of Life: The Official 2016 Edition§50.000000§2§13§Simulator§35§Card \u0026 Board Game§
+34613§Dracula\u0027s Legacy§60.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+34716§Pretty Girls Mahjong Solitaire§80.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+34986§Mahjong Pretty Girls Battle: School Girls Edition§50.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+35058§Splendor§60.000000§4§15§Strategy§16§Turn-based strategy (TBS)§26§Quiz/Trivia§35§Card \u0026 Board Game§
+35062§Sherlock Holmes Consulting Detective: The Case of the Tin Soldier§50.000000§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+35063§Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess§50.000000§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+35139§Sherlock Holmes Consulting Detective: The Case of the Mummy\u0027s Curse§50.000000§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+35745§Regency Solitaire§80.000000§6§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§34§Visual Novel§35§Card \u0026 Board Game§
+35987§Wars Across the World§50.000000§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+36644§Plague Road§73.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+37007§Zombie Solitaire 2 Chapter 1§70.000000§1§35§Card \u0026 Board Game§
+37057§Griftlands§86.801865§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+37063§South Park: Phone Destroyer§70.077050§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+38668§Jewel Rotation§70.000000§4§9§Puzzle§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+39175§Card Wars: Adventure Time§42.802663§2§12§Role-playing (RPG)§35§Card \u0026 Board Game§
+40477§Slay the Spire§85.984183§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+40557§Fighting Fantasy Legends§60.000000§4§12§Role-playing (RPG)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+41830§Final Fantasy Fables: Chocobo Tales§69.401354§2§31§Adventure§35§Card \u0026 Board Game§
+41893§Shephy§57.000000§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+41958§Castle of no Escape§50.000000§4§12§Role-playing (RPG)§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+42789§Yu-Gi-Oh! 5D\u0027s Tag Force 6§88.964746§2§15§Strategy§35§Card \u0026 Board Game§
+42790§Yu-Gi-Oh! 5D\u0027s Tag Force 4§76.596969§2§15§Strategy§35§Card \u0026 Board Game§
+42854§Yu-Gi-Oh! 5D\u0027s Tag Force 5§82.925021§1§35§Card \u0026 Board Game§
+44494§Yu-Gi-Oh! GX Tag Force 3§81.640290§2§15§Strategy§35§Card \u0026 Board Game§
+44740§BAFL: Brakes Are For Losers§63.000000§4§10§Racing§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+44819§Digimon Digital Card Battle§71.988557§4§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+47801§Yu-Gi-Oh! 5D\u0027s World Championship 2011: Over the Nexus§79.932184§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+47841§Yu-Gi-Oh! 5D\u0027s World Championship 2010: Reverse of Arcadia§66.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+49379§Yu-Gi-Oh! Reshef of Destruction§54.112184§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+49380§Yu-Gi-Oh! GX Duel Academy§79.752153§2§26§Quiz/Trivia§35§Card \u0026 Board Game§
+50833§Yu-Gi-Oh! Power of Chaos: Joey the Passion§79.693112§4§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+50834§Yu-Gi-Oh! Power of Chaos: Yugi the Destiny§60.464763§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+51354§Microsoft FreeCell§69.846039§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+51407§Levels+: Addictive Puzzle Game§71.000000§3§9§Puzzle§12§Role-playing (RPG)§35§Card \u0026 Board Game§
+51736§Nowhere Prophet§77.524072§8§9§Puzzle§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+52496§Check vs. Mate§90.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+52578§Mahjong Gold§90.000000§3§9§Puzzle§15§Strategy§35§Card \u0026 Board Game§
+53259§Knights of Pen \u0026 Paper: +1 Deluxier Edition§58.458047§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+54521§Senran Kagura Peach Ball§75.000000§3§30§Pinball§33§Arcade§35§Card \u0026 Board Game§
+54538§Magic: The Gathering Arena§75.716181§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+54572§Artifact§63.327587§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+54793§Deep Sky Derelicts§56.860312§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+55048§Another Lost Phone: Laura\u0027s Story§72.348479§5§9§Puzzle§13§Simulator§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+56599§Chess§30.000000§5§13§Simulator§14§Sport§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+56917§Spider Solitaire Cube§40.000000§1§35§Card \u0026 Board Game§
+56946§Solitaire Cube§90.000000§2§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+57153§The Battle of Polytopia§89.550147§6§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+57975§Lies of Astaroth§80.000000§2§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+58036§Risk Urban Assault§80.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+59965§Boggle§60.000000§3§15§Strategy§26§Quiz/Trivia§35§Card \u0026 Board Game§
+61606§Steam Tactics§70.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+64821§Urban Rivals World§80.255183§5§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+66812§Mario Party: The Top 100§65.745891§2§9§Puzzle§35§Card \u0026 Board Game§
+68443§Brass§50.000000§2§15§Strategy§35§Card \u0026 Board Game§
+68570§Dresden Files Cooperative Card Game§60.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+74152§Modern Tales: Age of Invention§70.000000§3§9§Puzzle§31§Adventure§35§Card \u0026 Board Game§
+75140§Kards: The WWII Card Game§77.319885§4§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+75582§Carcassonne: The Official Board Game§73.407040§4§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+75616§Train Station Simulator§60.000000§7§8§Platform§13§Simulator§15§Strategy§31§Adventure§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+76550§Lightseekers§53.000000§3§15§Strategy§24§Tactical§35§Card \u0026 Board Game§
+77176§The Lord of the Rings: Adventure Card Game§50.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+78167§Yu-Gi-Oh! GX Tag Force§82.174009§2§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+80743§Solitaire§90.000000§2§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+81124§Scythe: Digital Edition§70.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+81259§Faerie Solitaire Remastered§70.000000§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+81444§Magic: The Gathering - Duels of the Planeswalkers§45.655092§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+81495§Carcassonne§79.664192§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+82409§The Pure Bundle§60.000000§5§13§Simulator§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+82410§The Jackbox Party Trilogy§80.000000§1§35§Card \u0026 Board Game§
+83466§Spider Solitaire§70.000000§5§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+83471§Skip-Bo§43.579960§2§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+83912§Skip-Bo§80.000000§1§35§Card \u0026 Board Game§
+84661§3D MahJongg§63.000000§3§9§Puzzle§15§Strategy§35§Card \u0026 Board Game§
+84674§42 All-Time Classics§73.000000§1§35§Card \u0026 Board Game§
+84846§Robot Rescue 3D§83.000000§3§9§Puzzle§15§Strategy§35§Card \u0026 Board Game§
+84854§Shanghai Mahjong§90.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+85124§Epic Word Search Collection 2§70.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+85585§Pure Chess§74.000000§3§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+85683§Mahjong§60.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+86269§Space Hulk: Tactics§50.000000§4§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+86323§Hexologic§69.991496§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+86548§Solitaire§50.000000§1§35§Card \u0026 Board Game§
+86961§Mahjong Solitaire: Classic§90.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+86965§Solitaire Tripeaks§90.000000§1§35§Card \u0026 Board Game§
+87154§Texas Hold\u0027em: Daily Poke it!§90.000000§2§13§Simulator§35§Card \u0026 Board Game§
+87593§Extreme Hand and Foot§90.000000§1§35§Card \u0026 Board Game§
+87746§Hoyle Card Games§50.000000§2§15§Strategy§35§Card \u0026 Board Game§
+87812§Fortune-499§70.000000§4§12§Role-playing (RPG)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+87947§Fhtagn! - Tales of the Creeping Madness§70.000000§3§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+88006§One Deck Dungeon§60.000000§6§9§Puzzle§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+88305§Ben 10 Slammers§80.000000§2§15§Strategy§35§Card \u0026 Board Game§
+88595§Cribbage Premium§90.000000§1§35§Card \u0026 Board Game§
+88597§Card Wars: Adventure Time Card Game§80.000000§2§15§Strategy§35§Card \u0026 Board Game§
+88777§Yahtzee With Buddies§90.000000§1§35§Card \u0026 Board Game§
+88818§Dragon Ball Z: Dokkan Battle§69.988674§4§4§Fighting§9§Puzzle§12§Role-playing (RPG)§35§Card \u0026 Board Game§
+88855§Solitaire Deluxe 2§90.000000§1§35§Card \u0026 Board Game§
+88882§The Game of Life§90.000000§1§35§Card \u0026 Board Game§
+88905§Solitaire§90.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+88938§Exploding Kittens§90.000000§1§35§Card \u0026 Board Game§
+89082§Jewel Fever 2§80.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+89168§Freecell Solitaire§80.000000§4§9§Puzzle§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+89738§Solitaire 3D§90.000000§2§32§Indie§35§Card \u0026 Board Game§
+90255§SpellKeeper§70.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+90270§Death Crown§85.009992§6§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+91038§FreeCell§90.000000§1§35§Card \u0026 Board Game§
+91261§Scrabble§60.000000§1§35§Card \u0026 Board Game§
+91985§Jaipur: the board game§80.000000§1§35§Card \u0026 Board Game§
+92264§Boggle Plus§57.000000§1§35§Card \u0026 Board Game§
+93712§Sudoku Zenkai§70.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+97111§Fated Kingdom§60.000000§5§12§Role-playing (RPG)§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+101238§Awkward§70.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+101496§Minesweeper Genius§50.000000§3§9§Puzzle§15§Strategy§35§Card \u0026 Board Game§
+101953§Among the Stars§41.818180§2§15§Strategy§35§Card \u0026 Board Game§
+102420§Dicey Dungeons§71.864319§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+103339§Super Mario Party§65.386156§3§8§Platform§9§Puzzle§35§Card \u0026 Board Game§
+104032§Card Games Mega Collection§70.000000§1§35§Card \u0026 Board Game§
+104060§Mushroom Quest§70.000000§5§9§Puzzle§15§Strategy§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+104265§Istanbul: Digital Edition§70.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+105322§Pummel Party§68.746602§3§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+105592§Football Drama§70.000000§8§13§Simulator§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§34§Visual Novel§35§Card \u0026 Board Game§
+105624§Rento Fortune Monolit§92.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+106150§Cardpocalypse§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+106562§Achtung! Cthulhu Tactics§50.000000§6§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+107300§Thronebreaker: The Witcher Tales§85.590747§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§35§Card \u0026 Board Game§
+107329§Golf Peaks§71.005850§5§9§Puzzle§14§Sport§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+107693§Fate Hunters§70.000000§4§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+107780§Jewel Match Twilight Solitaire§70.000000§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+109049§Sentinels of Freedom§50.000000§6§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+109474§Billion Road§70.000000§2§15§Strategy§35§Card \u0026 Board Game§
+109759§Love Letter§70.000000§2§15§Strategy§35§Card \u0026 Board Game§
+109774§Grand Guilds§50.000000§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+110355§Here Be Dragons§70.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+111054§Super Dragon Ball Heroes: World Mission§58.114650§4§9§Puzzle§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+111086§Spellcaster University§50.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+111370§No Time to Relax§70.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+111436§Simmiland§70.000000§3§13§Simulator§32§Indie§35§Card \u0026 Board Game§
+111507§Overdungeon§60.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+111774§Dark Fantasy: Jigsaw Puzzle§70.000000§5§9§Puzzle§12§Role-playing (RPG)§13§Simulator§32§Indie§35§Card \u0026 Board Game§
+111842§Ancient Enemy§80.000000§6§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+112518§Warhammer Age of Sigmar: Champions§80.000000§2§15§Strategy§35§Card \u0026 Board Game§
+112849§Shieldwall Chronicles: Swords of the North§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+112942§Mystic Vale§70.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+113080§Knights of Pen \u0026 Paper 2: Deluxiest Edition§77.000000§7§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+113334§Jewel Match Solitaire Winterscapes§70.000000§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+113750§Neoverse§71.652765§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+113790§Knights of the Card Table§70.000000§4§12§Role-playing (RPG)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+114852§Deck of Ashes§60.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+114905§Yu-Gi-Oh! Legacy of the Duelist: Link Evolution§79.669900§4§9§Puzzle§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+115036§Ring of Pain§52.686908§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+115650§Alt-Frequencies§70.000000§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+115711§Curious Expedition 2§69.745872§7§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+115787§Faerie Solitaire Harvest§60.000000§2§31§Adventure§35§Card \u0026 Board Game§
+116137§Pirates Outlaws§74.352108§6§4§Fighting§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+116174§Axis \u0026 Allies 1942 Online§50.000000§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+116578§Moncage§79.364262§6§9§Puzzle§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+117051§Happy Words§60.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+117194§Fantasy General II: Invasion§60.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+117605§Phantom Rose§60.000000§3§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+117644§Talisman: Origins§70.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+117869§Charterstone: Digital Edition§60.000000§5§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+117931§Casino FunPak§45.000000§1§35§Card \u0026 Board Game§
+118627§Alluris§70.000000§3§12§Role-playing (RPG)§31§Adventure§35§Card \u0026 Board Game§
+119188§Auto Chess§59.185442§3§15§Strategy§24§Tactical§35§Card \u0026 Board Game§
+119249§Roguebook§79.864776§8§9§Puzzle§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+119416§Dota Underlords§69.888607§4§12§Role-playing (RPG)§15§Strategy§24§Tactical§35§Card \u0026 Board Game§
+120176§Teamfight Tactics§80.686374§4§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§35§Card \u0026 Board Game§
+121135§Raiders of the North Sea§70.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+121270§Ratropolis§80.000000§4§12§Role-playing (RPG)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+121346§Risk: Global Domination§65.384835§2§15§Strategy§35§Card \u0026 Board Game§
+121390§Iris and the Giant§70.000000§7§9§Puzzle§12§Role-playing (RPG)§15§Strategy§24§Tactical§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+122064§Necronator: Dead Wrong§70.000000§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+123717§Knight Swap§70.000000§4§9§Puzzle§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+123860§Richman 10§50.000000§5§9§Puzzle§13§Simulator§15§Strategy§33§Arcade§35§Card \u0026 Board Game§
+124208§Daylife in Japan: Animated Jigsaw Puzzle Series§70.000000§2§9§Puzzle§35§Card \u0026 Board Game§
+124244§Rise of the Slime§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+124701§Legends of Runeterra§80.122465§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+126691§Magic of Autumn§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+126819§Card Hog§80.000000§6§9§Puzzle§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+126885§Unlock the King§70.000000§3§9§Puzzle§15§Strategy§35§Card \u0026 Board Game§
+126924§Touhou Ibunseki: Ayaria Dawn - ReCreation§70.000000§4§13§Simulator§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+127234§The Answer is 42§70.000000§3§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
+127610§Spellsword Cards: DungeonTop§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+127685§For the Warp§70.000000§5§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+129321§How Buddy\u0027s Parents Met§70.000000§4§9§Puzzle§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
+129483§Monster Train§84.151343§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+130060§Dreamgate§70.000000§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+131645§Knock on the Coffin Lid§70.000000§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+131961§Clubhouse Games: 51 Worldwide Classics§70.858919§2§33§Arcade§35§Card \u0026 Board Game§
+132102§Vampire: The Masquerade - Shadows of New York§80.000000§5§12§Role-playing (RPG)§31§Adventure§32§Indie§34§Visual Novel§35§Card \u0026 Board Game§
+132422§Fights in Tight Spaces§84.863566§5§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§32§Indie§35§Card \u0026 Board Game§
+133408§Banners of Ruin§70.277908§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+134799§Dorfromantik§75.494690§6§9§Puzzle§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+136773§Card Shark§69.977755§3§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+137056§Dread X Collection§58.000000§8§5§Shooter§8§Platform§9§Puzzle§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§33§Arcade§35§Card \u0026 Board Game§
+139090§Inscryption§89.777784§5§9§Puzzle§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+141533§Loop Hero§76.611285§5§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+142494§Dragon Ball Z: Kakarot - Dragon Ball Card Warriors§98.644068§3§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+146054§I Was a Teenage Exocolonist§68.450806§7§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§34§Visual Novel§35§Card \u0026 Board Game§
+146424§Tainted Grail: Conquest§83.161481§5§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§35§Card \u0026 Board Game§
+146641§Super Auto Pets§76.623722§4§4§Fighting§15§Strategy§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+152354§Mario Party Superstars§79.984798§1§35§Card \u0026 Board Game§
+159298§Yu-Gi-Oh! Master Duel§74.376067§3§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+171768§Voice of Cards: The Isle Dragon Roars§82.106169§4§12§Role-playing (RPG)§13§Simulator§15§Strategy§35§Card \u0026 Board Game§
+178283§NFUT Cards§94.782609§4§13§Simulator§14§Sport§15§Strategy§35§Card \u0026 Board Game§
+187043§Rising Star§92.488263§1§35§Card \u0026 Board Game§
+191270§Stream Pairs§91.666667§1§35§Card \u0026 Board Game§
+196230§Stacklands§67.973972§3§13§Simulator§32§Indie§35§Card \u0026 Board Game§
+202279§Marvel Snap§77.407001§2§15§Strategy§35§Card \u0026 Board Game§
+208307§Gwent: Rogue Mage§59.812098§4§12§Role-playing (RPG)§15§Strategy§31§Adventure§35§Card \u0026 Board Game§
