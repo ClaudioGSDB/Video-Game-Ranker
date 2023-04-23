@@ -1,4 +1,4 @@
-32`Indie
+32|Indie
 111`Amnesia: The Dark Descent`78.435687`3`9`Puzzle`31`Adventure`32`Indie`
 236`Myst`76.387502`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
 238`Riven: The Sequel to Myst`83.300924`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`

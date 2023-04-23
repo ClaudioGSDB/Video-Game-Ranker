@@ -1,4 +1,4 @@
-4`Fighting
+4|Fighting
 39`Mafia`87.311797`4`4`Fighting`5`Shooter`10`Racing`31`Adventure`
 119`Mortal Kombat`81.724476`1`4`Fighting`
 188`Indiana Jones and the Infernal Machine`77.548346`2`4`Fighting`31`Adventure`

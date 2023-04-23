@@ -1,4 +1,4 @@
-33`Arcade
+33|Arcade
 101`Need for Speed: Undercover`62.245422`2`10`Racing`33`Arcade`
 103`Need for Speed: Nitro`78.404537`2`10`Racing`33`Arcade`
 162`Star Wars: Rebel Assault II - The Hidden Empire`68.628716`2`5`Shooter`33`Arcade`

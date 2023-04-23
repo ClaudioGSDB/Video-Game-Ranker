@@ -1,4 +1,4 @@
-30`Pinball
+30|Pinball
 838`Pro Pinball: Big Race USA`70.628150`3`10`Racing`13`Simulator`30`Pinball`
 1109`Metroid Prime Pinball`60.131339`2`9`Puzzle`30`Pinball`
 3024`Pinball Dreams`80.776532`1`30`Pinball`

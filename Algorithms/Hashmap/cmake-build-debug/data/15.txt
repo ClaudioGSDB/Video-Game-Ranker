@@ -1,4 +1,4 @@
-15`Strategy
+15|Strategy
 7`Jagged Alliance`79.114287`4`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`
 8`Jagged Alliance: Deadly Games`77.188017`4`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`
 9`Jagged Alliance 2`86.911807`5`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`31`Adventure`
