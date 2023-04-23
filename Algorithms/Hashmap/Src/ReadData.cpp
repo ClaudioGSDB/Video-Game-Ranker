@@ -20,8 +20,10 @@ ReadData::ReadData(string pathToFolder)
     for(int i = 0; i < 36; i++)
     {
         string fileName = pathToFolder + "/" + to_string(i) + ".txt";
-        cout << fileName << endl;
         ifstream file(fileName);
+        if(i == 15){
+            cout << "reach" << endl;
+        }
 
         if (file.is_open()) //if file exists
         {
@@ -38,11 +40,12 @@ ReadData::ReadData(string pathToFolder)
             {
                 //get ID
                 ID = stoi(line);
+                if(i == 15){cout << ID << endl;}
                 //get title
                 getline(file, title, '|');
                 //get rating
                 getline(file, line, '|');
-                rating = stof(line);
+                rating = stod(line);
                 //get numOfGenres
                 getline(file, line, '|');
                 numOfGenres = stoi(line);
@@ -55,12 +58,12 @@ ReadData::ReadData(string pathToFolder)
                     genres[key] = value;
                 }
             }
-            cout << "File " << i << ".txt exists. Performing action A." << endl;
+            //cout << "File " << i << ".txt exists. Performing action A." << endl;
             file.close();
         }
         else
         {
-            cout << "File " << i << ".txt does not exist. Performing action B." << endl;
+            //cout << "File " << i << ".txt does not exist. Performing action B." << endl;
         }
     }
 

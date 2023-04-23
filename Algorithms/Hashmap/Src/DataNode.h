@@ -9,10 +9,10 @@ private:
 private:
     int ID;
     string title;
-    float rating;
+    double rating;
     map<int, string> genres;
 public:
-    DataNode(int ID, string title, float rating, map<int, string> genres);
+    DataNode(int ID, string title, double rating, map<int, string> genres);
 
     int getId() const;
     const string &getTitle() const;
