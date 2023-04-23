@@ -1,4 +1,4 @@
-12`Role-playing (RPG)
+12`Role-playing (RPG)`
 5`Baldur\u0027s Gate`87.044533`1`12`Role-playing (RPG)`
 6`Baldur\u0027s Gate II: Shadows of Amn`88.181000`1`12`Role-playing (RPG)`
 7`Jagged Alliance`79.114287`4`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`

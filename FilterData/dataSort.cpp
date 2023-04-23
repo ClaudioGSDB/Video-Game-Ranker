@@ -168,7 +168,7 @@ dataSort::dataSort(string inputFile, string ouputPath) {
 						// create the file
 						genreFiles[genre.first].open(ouputPath + to_string(genre.first) + ".txt");
 						// store id and name of category in file.
-						genreFiles[genre.first] << to_string(genre.first) + delim + genre.second << endl;
+						genreFiles[genre.first] << to_string(genre.first) + delim + genre.second + delim<< endl;
 					}
 
 

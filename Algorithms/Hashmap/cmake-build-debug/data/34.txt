@@ -1,4 +1,4 @@
-34`Visual Novel
+34`Visual Novel`
 1397`Professor Layton and the Curious Village`81.707545`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
 1398`Professor Layton and the Diabolical Box`78.895488`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
 1399`Professor Layton and the Unwound Future`84.922351`3`2`Point-and-click`9`Puzzle`34`Visual Novel`

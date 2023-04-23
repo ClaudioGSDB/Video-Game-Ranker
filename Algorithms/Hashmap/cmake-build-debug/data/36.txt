@@ -1,4 +1,4 @@
-36`MOBA
+36`MOBA`
 115`League of Legends`76.854394`3`12`Role-playing (RPG)`15`Strategy`36`MOBA`
 763`Heroes of Newerth`84.012489`1`36`MOBA`
 1281`Awesomenauts`66.904138`4`8`Platform`15`Strategy`32`Indie`36`MOBA`
