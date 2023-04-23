@@ -1,8 +1,5 @@
 # ninja log v5
 7	40	7039844733009555	CMakeFiles/Hashmap.dir/Src/ReadData.cpp.obj	441b8377ff9d9d25
-0	205	7039844734665475	CMakeFiles/Hashmap.dir/Src/main.cpp.obj	bb6719f61d383bcd
-2	176	7039845250094708	CMakeFiles/Hashmap.dir/Src/DataNode.cpp.obj	935b268328407192
-176	234	7039845250653151	Hashmap.exe	d77cd96a4cbef065
 1	214	7039845614640811	CMakeFiles/Hashmap.dir/Src/main.cpp.obj	bb6719f61d383bcd
 5	244	7039845614940011	CMakeFiles/Hashmap.dir/Src/DataNode.cpp.obj	935b268328407192
 244	304	7039845615510222	Hashmap.exe	d77cd96a4cbef065
