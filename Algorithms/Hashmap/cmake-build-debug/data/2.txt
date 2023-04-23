@@ -1,4 +1,4 @@
-2|Point-and-click
+2`Point-and-click
 28`Space Quest: The Sarien Encounter`75.725880`2`2`Point-and-click`31`Adventure`
 29`Space Quest II: Vohaul\u0027s Revenge`73.396237`2`2`Point-and-click`31`Adventure`
 30`Space Quest III: The Pirates Of Pestulon`80.682998`3`2`Point-and-click`9`Puzzle`31`Adventure`

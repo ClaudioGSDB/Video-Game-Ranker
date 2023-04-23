@@ -1,4 +1,4 @@
-11|Real Time Strategy (RTS)
+11`Real Time Strategy (RTS)
 26`X-COM: Apocalypse`71.486105`4`11`Real Time Strategy (RTS)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`
 27`X-COM: Interceptor`50.000000`3`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`
 34`Giants: Citizen Kabuto`82.834491`4`5`Shooter`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`31`Adventure`

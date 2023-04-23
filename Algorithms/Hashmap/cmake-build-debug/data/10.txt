@@ -1,4 +1,4 @@
-10|Racing
+10`Racing
 39`Mafia`87.311797`4`4`Fighting`5`Shooter`10`Racing`31`Adventure`
 40`Mafia II`81.676426`3`5`Shooter`10`Racing`31`Adventure`
 90`The Need for Speed`71.706142`2`10`Racing`13`Simulator`
