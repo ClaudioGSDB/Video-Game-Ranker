@@ -1,0 +1,768 @@
+2`Point-and-click`
+28`Space Quest: The Sarien Encounter`75.725880`2`2`Point-and-click`31`Adventure`
+29`Space Quest II: Vohaul\u0027s Revenge`73.396237`2`2`Point-and-click`31`Adventure`
+30`Space Quest III: The Pirates Of Pestulon`80.682998`3`2`Point-and-click`9`Puzzle`31`Adventure`
+31`Space Quest IV: Roger Wilco and the Time Rippers`96.216495`2`2`Point-and-click`31`Adventure`
+32`Space Quest V: The Next Mutation`85.705607`3`2`Point-and-click`9`Puzzle`31`Adventure`
+33`Space Quest 6: The Spinal Frontier`80.000000`2`2`Point-and-click`31`Adventure`
+60`The Secret of Monkey Island`86.411148`3`2`Point-and-click`9`Puzzle`31`Adventure`
+61`Monkey Island 2: LeChuck\u0027s Revenge`89.239440`3`2`Point-and-click`9`Puzzle`31`Adventure`
+62`The Curse of Monkey Island`84.799331`3`2`Point-and-click`9`Puzzle`31`Adventure`
+63`Escape from Monkey Island`74.437610`3`2`Point-and-click`9`Puzzle`31`Adventure`
+64`Tales of Monkey Island`77.323005`3`2`Point-and-click`9`Puzzle`31`Adventure`
+65`The Secret of Monkey Island: Special Edition`84.222355`3`2`Point-and-click`9`Puzzle`31`Adventure`
+66`Monkey Island 2 Special Edition: LeChuck\u0027s Revenge`88.110378`3`2`Point-and-click`9`Puzzle`31`Adventure`
+106`Zak McKracken and the Alien Mindbenders`73.330677`2`2`Point-and-click`31`Adventure`
+180`Full Throttle`83.254865`3`2`Point-and-click`9`Puzzle`31`Adventure`
+181`Grim Fandango`85.860150`3`2`Point-and-click`9`Puzzle`31`Adventure`
+184`Indiana Jones and the Fate of Atlantis`89.887049`3`2`Point-and-click`9`Puzzle`31`Adventure`
+186`Indiana Jones and the Last Crusade: The Graphic Adventure`83.968219`2`2`Point-and-click`31`Adventure`
+191`Loom`88.552228`5`2`Point-and-click`9`Puzzle`13`Simulator`15`Strategy`31`Adventure`
+192`Maniac Mansion`86.389368`2`2`Point-and-click`31`Adventure`
+193`Day of the Tentacle`91.106630`2`2`Point-and-click`31`Adventure`
+202`Sam \u0026 Max Hit the Road`85.614898`2`2`Point-and-click`31`Adventure`
+207`The Dig`85.183410`2`2`Point-and-click`31`Adventure`
+221`Phantasmagoria`77.238207`2`2`Point-and-click`31`Adventure`
+222`Phantasmagoria 2: A Puzzle of Flesh`85.981338`2`2`Point-and-click`31`Adventure`
+236`Myst`76.387502`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+238`Riven: The Sequel to Myst`83.300924`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+278`Runaway: A Road Adventure`78.784344`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+279`Return to Zork`60.505723`3`2`Point-and-click`9`Puzzle`31`Adventure`
+322`Blade Runner`85.679628`2`2`Point-and-click`31`Adventure`
+323`The 7th Guest`72.946180`3`2`Point-and-click`9`Puzzle`31`Adventure`
+459`Simon the Sorcerer`81.238820`3`2`Point-and-click`9`Puzzle`31`Adventure`
+460`Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe`85.900573`3`2`Point-and-click`9`Puzzle`31`Adventure`
+461`Simon the Sorcerer 3D`31.310126`2`2`Point-and-click`31`Adventure`
+604`Bad Mojo`79.678154`3`2`Point-and-click`9`Puzzle`31`Adventure`
+612`Beneath a Steel Sky`76.758506`3`2`Point-and-click`31`Adventure`32`Indie`
+616`Circle of Blood`83.177639`3`2`Point-and-click`9`Puzzle`31`Adventure`
+744`King\u0027s Quest IV: The Perils of Rosella`63.217413`3`2`Point-and-click`9`Puzzle`31`Adventure`
+797`Myst III: Exile`88.063126`3`2`Point-and-click`9`Puzzle`31`Adventure`
+844`Realms of the Haunting`71.221219`3`2`Point-and-click`5`Shooter`31`Adventure`
+852`King\u0027s Quest II: Romancing the Throne`57.207456`3`2`Point-and-click`9`Puzzle`31`Adventure`
+854`Sam \u0026 Max: Beyond Time and Space`79.903670`2`2`Point-and-click`31`Adventure`
+862`Sam \u0026 Max: Save the World`73.936557`2`2`Point-and-click`31`Adventure`
+890`Syberia`80.780754`3`2`Point-and-click`9`Puzzle`31`Adventure`
+892`King\u0027s Quest: Quest for the Crown`70.349142`3`2`Point-and-click`9`Puzzle`31`Adventure`
+893`King\u0027s Quest III: To Heir is Human`73.182702`3`2`Point-and-click`9`Puzzle`31`Adventure`
+895`The Longest Journey`83.766741`2`2`Point-and-click`31`Adventure`
+916`Toonstruck`90.781245`2`2`Point-and-click`31`Adventure`
+955`Tex Murphy: Under a Killing Moon`88.877491`2`2`Point-and-click`31`Adventure`
+1007`Hector: Badge of Carnage!`70.043957`2`2`Point-and-click`31`Adventure`
+1150`Broken Sword: The Smoking Mirror`83.791859`3`2`Point-and-click`9`Puzzle`31`Adventure`
+1151`Broken Sword: The Sleeping Dragon`71.188327`2`2`Point-and-click`31`Adventure`
+1152`Secrets of the Ark: A Broken Sword Game`69.397539`3`2`Point-and-click`31`Adventure`32`Indie`
+1250`Gabriel Knight: Sins of the Fathers`87.174013`3`2`Point-and-click`9`Puzzle`31`Adventure`
+1251`The Beast Within: A Gabriel Knight Mystery`86.367116`2`2`Point-and-click`31`Adventure`
+1282`The Legend of Kyrandia`70.872506`2`2`Point-and-click`31`Adventure`
+1283`The Legend of Kyrandia 2: The Hand of Fate`82.776573`2`2`Point-and-click`31`Adventure`
+1287`The Legend of Kyrandia 3: Malcolm\u0027s Revenge`62.425166`2`2`Point-and-click`31`Adventure`
+1397`Professor Layton and the Curious Village`81.707545`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1398`Professor Layton and the Diabolical Box`78.895488`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1399`Professor Layton and the Unwound Future`84.922351`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1400`Professor Layton and the Last Specter`75.693173`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1401`Professor Layton and the Miracle Mask`80.036568`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1403`Professor Layton and the Azran Legacy`71.602421`3`2`Point-and-click`9`Puzzle`34`Visual Novel`
+1426`Phoenix Wright: Ace Attorney`82.894633`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+1430`Ace Attorney Investigations: Miles Edgeworth`75.263362`4`2`Point-and-click`13`Simulator`31`Adventure`34`Visual Novel`
+1605`Prisoner of Ice`72.518946`2`2`Point-and-click`31`Adventure`
+1871`The Walking Dead: Season One`85.777599`2`2`Point-and-click`31`Adventure`
+1906`Gone Home`74.491822`3`2`Point-and-click`31`Adventure`32`Indie`
+1924`Police Quest: In Pursuit of the Death Angel`60.012386`2`2`Point-and-click`31`Adventure`
+1925`Police Quest II: The Vengeance`70.149345`2`2`Point-and-click`31`Adventure`
+1926`Police Quest III: The Kindred`76.155926`2`2`Point-and-click`31`Adventure`
+1931`Gobliins 2: The Prince Buffoon`79.930609`3`2`Point-and-click`9`Puzzle`31`Adventure`
+1955`Zork: Grand Inquisitor`85.658974`2`2`Point-and-click`31`Adventure`
+2164`The Neverhood`90.708774`3`2`Point-and-click`9`Puzzle`31`Adventure`
+2167`Lost Eden`71.529224`2`2`Point-and-click`31`Adventure`
+2203`The 11th Hour`77.270368`3`2`Point-and-click`9`Puzzle`31`Adventure`
+2223`Torin\u0027s Passage`78.015386`3`2`Point-and-click`9`Puzzle`31`Adventure`
+2231`Star Trek: 25th Anniversary`79.954055`4`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`31`Adventure`
+2238`King\u0027s Quest V: Absence Makes the Heart Go Yonder!`73.685426`3`2`Point-and-click`9`Puzzle`31`Adventure`
+2264`Zack \u0026 Wiki: Quest for Barbaros\u0027 Treasure`75.332864`3`2`Point-and-click`9`Puzzle`31`Adventure`
+2274`Return of the Tentacle`88.859172`3`2`Point-and-click`31`Adventure`32`Indie`
+2478`Future Wars`73.309542`3`2`Point-and-click`15`Strategy`31`Adventure`
+2489`Dreamweb`84.106557`2`2`Point-and-click`31`Adventure`
+2625`Face Noir`48.348796`3`2`Point-and-click`31`Adventure`32`Indie`
+2763`SpongeBob SquarePants: Employee of the Month`69.445772`2`2`Point-and-click`31`Adventure`
+2900`Harvester`80.731912`2`2`Point-and-click`31`Adventure`
+2906`Leisure Suit Larry in the Land of the Lounge Lizards`75.080567`2`2`Point-and-click`31`Adventure`
+2908`Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectoral`64.697380`2`2`Point-and-click`31`Adventure`
+2910`Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work`64.436580`2`2`Point-and-click`31`Adventure`
+2911`Leisure Suit Larry 6: Shape Up or Slip Out!`73.076923`2`2`Point-and-click`31`Adventure`
+2912`Leisure Suit Larry: Love for Sail!`82.266835`2`2`Point-and-click`31`Adventure`
+2913`Leisure Suit Larry: Magna Cum Laude`62.721632`3`2`Point-and-click`13`Simulator`31`Adventure`
+2914`Leisure Suit Larry: Box Office Bust`32.003188`4`2`Point-and-click`8`Platform`10`Racing`31`Adventure`
+2915`Leisure Suit Larry: Reloaded`60.449222`2`2`Point-and-click`31`Adventure`
+2924`Broken Sword 5: The Serpent\u0027s Curse`72.628855`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+2935`Papers, Please`81.667819`3`2`Point-and-click`13`Simulator`32`Indie`
+2990`Machinarium`82.602887`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+2991`Superbrothers: Sword \u0026 Sworcery EP`76.821612`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+2993`The Wolf Among Us`84.095955`2`2`Point-and-click`31`Adventure`
+3015`The Walking Dead: 400 Days`70.452802`2`2`Point-and-click`31`Adventure`
+3087`Broken Age`75.102376`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+3097`The Walking Dead: Season Two`79.906511`3`2`Point-and-click`9`Puzzle`31`Adventure`
+3115`Godus`63.244373`6`2`Point-and-click`10`Racing`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`32`Indie`
+3116`A Vampyre Story`68.184334`3`2`Point-and-click`9`Puzzle`31`Adventure`
+3117`Gray Matter`62.806407`2`2`Point-and-click`31`Adventure`
+3230`The Night of the Rabbit`90.882040`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+3232`Back to the Future: The Game`69.101891`2`2`Point-and-click`31`Adventure`
+3241`Cookie Clicker`64.443280`4`2`Point-and-click`13`Simulator`15`Strategy`32`Indie`
+3245`A Dark Room`68.058186`6`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+3269`Candy Box`73.112580`5`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`31`Adventure`32`Indie`
+3373`Detective Case and Clown Bot in: Murder in the Hotel Lisbon`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+3731`Pajama Sam 2: Thunder and Lightning Aren\u0027t so Frightening`80.409740`2`2`Point-and-click`31`Adventure`
+3732`Pajama Sam 3: You are What You Eat from Your Head to Your Feet`74.112292`3`2`Point-and-click`9`Puzzle`31`Adventure`
+3733`Putt-Putt Joins the Parade`64.243540`2`2`Point-and-click`31`Adventure`
+3734`Putt-Putt Goes to the Moon`73.166524`2`2`Point-and-click`31`Adventure`
+3736`Putt-Putt Saves the Zoo`79.551788`2`2`Point-and-click`31`Adventure`
+3737`Putt-Putt Travels Through Time`82.040760`2`2`Point-and-click`31`Adventure`
+3738`Putt-Putt Enters the Race`74.658721`2`2`Point-and-click`31`Adventure`
+3739`Putt-Putt Joins the Circus`83.535416`2`2`Point-and-click`31`Adventure`
+3740`Putt-Putt: Pep\u0027s Birthday Surprise`50.000000`3`2`Point-and-click`10`Racing`31`Adventure`
+3741`Putt-Putt and Pep\u0027s Dog on a Stick`70.000000`2`2`Point-and-click`31`Adventure`
+3742`Putt-Putt and Pep\u0027s Balloon-O-Rama`70.000000`2`2`Point-and-click`31`Adventure`
+3744`Freddi Fish 2: The Case of the Haunted Schoolhouse`79.901374`2`2`Point-and-click`31`Adventure`
+3745`Freddi Fish 3: The Case of the Stolen Conch Shell`80.672350`2`2`Point-and-click`31`Adventure`
+3746`Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch`70.000000`2`2`Point-and-click`31`Adventure`
+3747`Freddi Fish 5: The Case of the Creature of Coral Cove`70.000000`2`2`Point-and-click`31`Adventure`
+3773`Disney\u0027s Magical Mirror Starring Mickey Mouse`61.050108`3`2`Point-and-click`8`Platform`31`Adventure`
+4237`The Daedalus Encounter`71.370787`4`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`
+4251`Plumbers Don\u0027t Wear Ties`15.586505`2`2`Point-and-click`31`Adventure`
+4316`The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel`85.961935`2`2`Point-and-click`31`Adventure`
+4335`Fatty Bear\u0027s Birthday Surprise`70.000000`2`2`Point-and-click`31`Adventure`
+4586`Ace Ventura`78.814810`3`2`Point-and-click`9`Puzzle`31`Adventure`
+4758`D4: Dark Dreams Don\u0027t Die - Season 1`76.540529`3`2`Point-and-click`31`Adventure`32`Indie`
+4849`Ankh: Reverse the Curse`69.982412`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5025`To the Moon`81.564890`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+5050`Nancy Drew: The White Wolf of Icicle Creek`70.200355`2`2`Point-and-click`31`Adventure`
+5060`Deponia`76.282479`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+5062`Chaos on Deponia`83.452821`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+5064`Goodbye Deponia`81.983302`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+5145`Secret Files: Tunguska`72.850381`2`2`Point-and-click`31`Adventure`
+5146`Secret Files 2: Puritas Cordis`71.179963`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5408`The Book of Unwritten Tales`80.589696`2`2`Point-and-click`31`Adventure`
+5442`Dracula: Origin`78.293631`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+5451`Snatcher`79.975332`4`2`Point-and-click`5`Shooter`31`Adventure`34`Visual Novel`
+5509`Mystery Case Files: Huntsville`61.212288`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5510`Mystery Case Files: Prime Suspects`61.860811`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5511`Mystery Case Files: Ravenhearst`73.768983`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5512`Mystery Case Files: Madame Fate`64.603130`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5513`Mystery Case Files: Return to Ravenhearst`70.154830`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5540`Moebius: Empire Rising`79.961288`3`2`Point-and-click`31`Adventure`32`Indie`
+5543`Tex Murphy: Martian Memorandum`76.470129`3`2`Point-and-click`9`Puzzle`31`Adventure`
+5611`RuneScape`79.607690`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+5614`Kentucky Route Zero`69.250378`3`2`Point-and-click`31`Adventure`32`Indie`
+6164`The Testament of Sherlock Holmes`76.901411`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6171`Year Walk`76.177418`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+6185`Syberia II`76.769225`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6253`Time Gentlemen, Please!`73.581281`3`2`Point-and-click`31`Adventure`32`Indie`
+6325`Gemini Rue`84.756892`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+6327`Resonance`74.197788`3`2`Point-and-click`31`Adventure`32`Indie`
+6522`Nancy Drew: Message in a Haunted Mansion`60.191726`2`2`Point-and-click`31`Adventure`
+6611`Botanicula`77.635578`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+6614`Zero Escape: Virtue\u0027s Last Reward`88.123716`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+6701`Edna \u0026 Harvey: Harvey\u0027s New Eyes`85.728281`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+6707`Tales from the Borderlands`85.575311`2`2`Point-and-click`31`Adventure`
+6737`Sherlock Holmes Versus Jack the Ripper`73.441098`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+6741`Guard Duty`89.306669`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+6778`Puzzle Agent 2`79.094796`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6786`Sherlock Holmes: The Mystery of the Mummy`69.340155`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6812`Sherlock Holmes: The Silver Earring`71.283544`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6829`Ripper`79.786782`3`2`Point-and-click`9`Puzzle`31`Adventure`
+6863`Sherlock Holmes: Nemesis`69.089448`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7025`Jurassic Park: The Game`69.470002`2`2`Point-and-click`31`Adventure`
+7144`The Inner World`72.793524`3`2`Point-and-click`31`Adventure`32`Indie`
+7145`The Whispered World`77.203018`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7146`The Dark Eye: Chains of Satinav`75.197667`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+7147`A New Beginning`63.078140`2`2`Point-and-click`31`Adventure`
+7168`The Dark Eye: Memoria`80.520635`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+7169`1954 Alcatraz`79.038451`3`2`Point-and-click`31`Adventure`32`Indie`
+7203`Hogworld: Gnart\u0027s Adventure`70.000000`2`2`Point-and-click`31`Adventure`
+7311`Lost Horizon`71.118631`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7312`Lost Horizon 2`40.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7418`Shivah`72.144837`3`2`Point-and-click`31`Adventure`32`Indie`
+7501`King\u0027s Quest VI: Heir Today, Gone Tomorrow`81.023848`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7514`King\u0027s Quest VII: The Princeless Bride`72.714449`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7516`Titanic: Adventure out of Time`79.992821`5`2`Point-and-click`9`Puzzle`13`Simulator`15`Strategy`31`Adventure`
+7517`Labyrinth: The Computer Game`50.710386`2`2`Point-and-click`31`Adventure`
+7534`Luxor`70.141125`5`2`Point-and-click`5`Shooter`9`Puzzle`31`Adventure`33`Arcade`
+7539`Luxor MahJong`70.000000`4`2`Point-and-click`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+7541`Luxor 5th Passage`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7542`Luxor Evolved`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+7543`Gods Will Be Watching`87.441229`6`2`Point-and-click`9`Puzzle`15`Strategy`16`Turn-based strategy (TBS)`31`Adventure`32`Indie`
+7552`Gomo`44.452705`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+7553`McPixel`70.685037`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+7554`Tiny Thief`79.301517`3`2`Point-and-click`31`Adventure`32`Indie`
+7567`Conquests of the Longbow: The Legend of Robin Hood`61.350639`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7578`I Have No Mouth, and I Must Scream`80.147002`2`2`Point-and-click`31`Adventure`
+7610`Game of Thrones: A Telltale Games Series`70.241950`2`2`Point-and-click`31`Adventure`
+7620`Nancy Drew: Secrets Can Kill`63.940831`3`2`Point-and-click`9`Puzzle`31`Adventure`
+7629`Nancy Drew: Legend of the Crystal Skull`68.883365`2`2`Point-and-click`31`Adventure`
+7635`Primordia`85.625274`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+7647`Yesterday`68.125610`5`2`Point-and-click`12`Role-playing (RPG)`15`Strategy`31`Adventure`32`Indie`
+7661`The Book of Unwritten Tales: The Critter Chronicles`71.230400`3`2`Point-and-click`31`Adventure`32`Indie`
+7667`The Raven: Legacy of a Master Thief`52.025003`2`2`Point-and-click`31`Adventure`
+7696`Manhunter: New York`76.506727`2`2`Point-and-click`31`Adventure`
+7726`Fester Mudd: Curse of the Gold - Episode 1`50.000000`2`2`Point-and-click`31`Adventure`
+7838`Innocent Until Caught`73.934925`2`2`Point-and-click`31`Adventure`
+7842`Danganronpa: Trigger Happy Havoc`82.232486`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+7859`Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition`80.035279`2`2`Point-and-click`31`Adventure`
+8072`Sanitarium`82.425079`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8109`The Pink Panther: Hokus Pokus Pink`71.329005`2`2`Point-and-click`31`Adventure`
+8250`Quest for Infamy`70.000000`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+8285`Teenagent`69.670686`2`2`Point-and-click`31`Adventure`
+8291`Discworld`84.456529`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8292`Discworld II: Mortality Bytes!`90.847188`2`2`Point-and-click`31`Adventure`
+8293`Discworld Noir`92.328244`2`2`Point-and-click`31`Adventure`
+8329`Mortimer Beckett and the Crimson Thief`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8394`Ceville`88.088245`3`2`Point-and-click`15`Strategy`31`Adventure`
+8426`Cognition: An Erica Reed Thriller`79.577995`3`2`Point-and-click`31`Adventure`32`Indie`
+8468`The Room`63.951216`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+8482`Lure of the Temptress`74.609117`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8499`Five Nights at Freddy\u0027s`62.090338`5`2`Point-and-click`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+8511`The Blackwell Epiphany`83.532220`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+8621`Samorost 2`77.560799`3`2`Point-and-click`31`Adventure`32`Indie`
+8656`Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places)`63.585990`2`2`Point-and-click`31`Adventure`
+8680`Rex Nebular and the Cosmic Gender Bender`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8682`Grim Fandango Remastered`76.905334`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8697`Shadowgate`83.746668`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+8708`Uninvited`68.783108`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8762`Lumino City`83.676099`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+8783`Randal\u0027s Monday`76.370880`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+8789`Flight of the Amazon Queen`71.801081`3`2`Point-and-click`9`Puzzle`31`Adventure`
+8819`A Golden Wake`62.917678`3`2`Point-and-click`31`Adventure`32`Indie`
+8866`Shadowgate`70.167284`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+8962`Oknytt`80.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+8983`Obduction`79.229658`5`2`Point-and-click`5`Shooter`9`Puzzle`31`Adventure`32`Indie`
+9035`Tormentum: Dark Sorrow`88.540768`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9037`The Blackwell Deception`85.164126`3`2`Point-and-click`31`Adventure`32`Indie`
+9039`Blackwell Convergence`83.636601`3`2`Point-and-click`31`Adventure`32`Indie`
+9041`Blackwell Unbound`77.597670`3`2`Point-and-click`31`Adventure`32`Indie`
+9043`The Blackwell Legacy`80.962222`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9048`The Journey Down: Chapter One`69.558136`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9053`80 Days`77.959440`5`2`Point-and-click`12`Role-playing (RPG)`15`Strategy`31`Adventure`32`Indie`
+9072`The Last Door`84.397677`3`2`Point-and-click`31`Adventure`32`Indie`
+9091`Dracula: Resurrection`50.923956`2`2`Point-and-click`31`Adventure`
+9092`Dracula 2: The Last Sanctuary`24.828296`2`2`Point-and-click`31`Adventure`
+9093`Dracula 3: The Path of the Dragon`50.236689`2`2`Point-and-click`31`Adventure`
+9112`The Book of Unwritten Tales 2`86.825775`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9136`Gorogoa`79.402940`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9195`Five Nights at Freddy\u0027s 2`73.423725`5`2`Point-and-click`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+9211`Lume`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9240`Paradigm Shift`30.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+9249`Hotel Dusk: Room 215`81.539274`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+9260`Dark Seed`78.773570`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9326`Season of Mystery: The Cherry Blossom Murders`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9327`Please, Don\u0027t Touch Anything`69.226292`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+9534`Sam \u0026 Max: The Devil\u0027s Playhouse`77.347377`2`2`Point-and-click`31`Adventure`
+9541`Ben There, Dan That!`79.721756`3`2`Point-and-click`31`Adventure`32`Indie`
+9543`Zero Escape: Nine Hours, Nine Persons, Nine Doors`83.728527`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+9638`Hero of the Kingdom`70.153453`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+9661`Stasis`70.909960`3`2`Point-and-click`31`Adventure`32`Indie`
+9694`Danganronpa 2: Goodbye Despair`84.548042`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+9713`Polda`75.122627`2`2`Point-and-click`31`Adventure`
+9734`Voyage: Journey to the Moon`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9771`1953: KGB Unleashed`50.000000`2`2`Point-and-click`31`Adventure`
+9776`Aura: Fate of the Ages`41.879360`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9790`The Cameron Files: The Secret at Loch Ness`50.000000`2`2`Point-and-click`31`Adventure`
+9817`Dark Fall`77.765380`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9818`Dark Fall 2: Lights Out`74.115750`3`2`Point-and-click`9`Puzzle`31`Adventure`
+9826`The Dream Machine`70.361537`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+9917`Republique Remastered`75.261112`5`2`Point-and-click`9`Puzzle`24`Tactical`31`Adventure`32`Indie`
+9986`Art of Murder: FBI Confidential`67.553243`2`2`Point-and-click`31`Adventure`
+9987`Astroloco: Worst Contact`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+10023`Barrow Hill: Curse of the Ancient Circle`78.913220`3`2`Point-and-click`31`Adventure`32`Indie`
+10049`Black Mirror III: Final Fear`75.506246`2`2`Point-and-click`31`Adventure`
+10058`Black Viper: Sophia\u0027s Fate`30.000000`1`2`Point-and-click`
+10120`Crystals of Time`67.065005`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10137`Dark Arcana: The Carnival`69.527399`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10139`Dark Fall: Lost Souls`60.094548`3`2`Point-and-click`31`Adventure`32`Indie`
+10232`Thimbleweed Park`80.308639`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10321`Fire`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10480`Kaptain Brawe: A Brawe New World`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10547`Midnight Mysteries 3: Devil on the Mississippi`70.000000`2`2`Point-and-click`31`Adventure`
+10558`Morningstar: Descent to Deadrock`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10572`Pickers`70.000000`3`2`Point-and-click`14`Sport`31`Adventure`
+10573`Midnight Mysteries 2: Salem Witch Trials`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10579`Nancy Drew: Alibi in Ashes`79.852524`2`2`Point-and-click`31`Adventure`
+10580`Nancy Drew: Danger on Deception Island`60.151546`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10581`Nancy Drew Dossier: Resorting to Danger!`60.000000`2`2`Point-and-click`31`Adventure`
+10582`Nancy Drew: Secrets Can Kill Remastered`67.453396`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10583`Nancy Drew: Shadow at the Water\u0027s Edge`75.651173`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10584`Nancy Drew: The Captive Curse`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+10587`Nancy Drew: Tomb of the Lost Queen`70.000000`2`2`Point-and-click`31`Adventure`
+10588`Nancy Drew: Trail of the Twister`69.829464`2`2`Point-and-click`31`Adventure`
+10601`Nikopol: Secrets of the Immortals`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10731`Puzzle Bots`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10768`Richard \u0026 Alice`70.644526`3`2`Point-and-click`31`Adventure`32`Indie`
+10792`Tony Tough and the Night of Roasted Moths`73.492988`2`2`Point-and-click`31`Adventure`
+10795`Detective Grimoire: Secret of the Swamp`70.555933`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+10958`The Next Big Thing`70.776735`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+10973`The Journey Down: Chapter Two`72.586309`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+11093`Armikrog`76.306883`6`2`Point-and-click`8`Platform`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+11094`Atlantis 2: Beyond Atlantis`40.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+11096`The Ballads of Reemus: When the Bed Bites`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+11204`The Walking Dead: Michonne`67.478140`2`2`Point-and-click`31`Adventure`
+11234`Drawn: The Painted Tower`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+11261`The Black Mirror`81.658036`2`2`Point-and-click`31`Adventure`
+11270`The Cat Lady`95.636056`3`2`Point-and-click`31`Adventure`32`Indie`
+11276`The Room Two`79.305567`3`2`Point-and-click`9`Puzzle`32`Indie`
+11282`Lilly Looking Through`60.159216`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+11318`Corpse Party: Book of Shadows`69.845042`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+11333`Contradiction: Spot the Liar!`71.630176`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+11346`Her Story`78.503604`3`2`Point-and-click`13`Simulator`32`Indie`
+11351`Black Mirror II: Reigning Evil`74.834720`2`2`Point-and-click`31`Adventure`
+11367`Anna\u0027s Quest`69.643921`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+11398`Dead Synchronicity: Tomorrow Comes Today`79.751819`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+11444`The Silent Age`71.457079`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+11488`Dropsy`77.571529`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+11545`Yesterday Origins`79.949771`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+11583`Five Nights at Freddy\u0027s 4`68.193587`5`2`Point-and-click`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+11621`The Lost Crown`89.803458`3`2`Point-and-click`31`Adventure`32`Indie`
+11625`The Room`80.951710`3`2`Point-and-click`9`Puzzle`32`Indie`
+11631`Hiveswap: Act 1`98.508803`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+11679`Lula: The Sexy Empire`70.056588`2`2`Point-and-click`13`Simulator`
+11710`60 Parsecs!`47.606233`6`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+11821`Fran Bow`70.024731`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`33`Arcade`
+11836`Scratches`70.052584`2`2`Point-and-click`31`Adventure`
+12021`Curse of Enchantia`69.996283`2`2`Point-and-click`31`Adventure`
+12043`Déjà Vu: A Nightmare Comes True!!`79.484918`3`2`Point-and-click`9`Puzzle`31`Adventure`
+12073`Playing History 2 - Slave Trade`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+12077`Phoenix Wright: Ace Attorney - Spirit of Justice`83.570461`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`34`Visual Novel`
+12327`Noctropolis`79.278720`3`2`Point-and-click`9`Puzzle`31`Adventure`
+12394`Cute Things Dying Violently`70.000000`5`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+12449`The Mystery of the Druids`50.000000`2`2`Point-and-click`31`Adventure`
+12450`Nancy Drew: Curse of Blackmoor Manor`79.867938`3`2`Point-and-click`31`Adventure`32`Indie`
+12477`Shivers`79.647719`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+12485`Timelapse`70.000000`2`2`Point-and-click`31`Adventure`
+12579`Danganronpa V3: Killing Harmony`88.978475`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+13151`The Sims FreePlay`50.430913`3`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`
+13163`Syberia 3`64.807685`3`2`Point-and-click`9`Puzzle`31`Adventure`
+13171`2064: Read Only Memories`80.042924`4`2`Point-and-click`31`Adventure`32`Indie`34`Visual Novel`
+13189`Masochisia`52.953631`3`2`Point-and-click`31`Adventure`32`Indie`
+13227`Runaway 2: The Dream of the Turtle`74.226029`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+13228`Runaway 3: A Twist of Fate`72.477132`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+13232`Technobabylon`76.687840`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+13661`Hero of the Kingdom II`72.822393`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+13665`Message Quest`80.000000`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+14158`Murder`50.000000`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+14178`Stranded`40.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+14307`The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business`80.000000`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+14358`Art of Murder: Hunt for the Puppeteer`79.630802`2`2`Point-and-click`31`Adventure`
+14359`Post Mortem`78.254837`2`2`Point-and-click`31`Adventure`
+14361`Art of Murder: Cards of Destiny`70.071185`3`2`Point-and-click`9`Puzzle`31`Adventure`
+14393`Bulb Boy`73.273894`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+14395`Else Heart.Break()`77.260064`3`2`Point-and-click`31`Adventure`32`Indie`
+14746`Batman: The Telltale Series`72.116137`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`34`Visual Novel`
+14845`Axel \u0026 Pixel`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+14851`Dead Mountaineer\u0027s Hotel`40.000000`2`2`Point-and-click`31`Adventure`
+14854`Sherlock Holmes: The Mystery of the Persian Carpet`40.000000`2`2`Point-and-click`31`Adventure`
+14953`Nancy Drew: Danger by Design`66.595660`3`2`Point-and-click`9`Puzzle`31`Adventure`
+15018`Nancy Drew: Warnings at Waverly Academy`71.515877`3`2`Point-and-click`9`Puzzle`31`Adventure`
+15056`Jolly Rover`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+15124`Trauma`69.258689`5`2`Point-and-click`9`Puzzle`10`Racing`31`Adventure`32`Indie`
+15147`The Clockwork Man`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+15148`The Clockwork Man: The Hidden World`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+15324`The Deer`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+15537`Samorost 3`73.822015`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+15699`Neko Atsume: Kitty Collector`87.728578`3`2`Point-and-click`13`Simulator`32`Indie`
+15731`Samorost`72.896950`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+15736`Edna \u0026 Harvey: The Breakout`80.220123`3`2`Point-and-click`31`Adventure`32`Indie`
+15768`A Stroke of Fate: Operation Valkyrie`50.000000`2`2`Point-and-click`31`Adventure`
+15785`Ankh 2: Heart of Osiris`50.000000`2`2`Point-and-click`31`Adventure`
+15862`Day of the Tentacle Remastered`77.920235`3`2`Point-and-click`9`Puzzle`31`Adventure`
+15911`The Journey Down: Chapter Three`74.877322`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+15995`Puzzle Agent`61.661665`3`2`Point-and-click`9`Puzzle`31`Adventure`
+15997`Nancy Drew: Last Train to Blue Moon Canyon`74.490385`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16000`Nancy Drew: Secret of the Old Clock`76.184095`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16003`Nancy Drew: The Phantom of Venice`67.039174`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16031`Alternativa`50.000000`2`2`Point-and-click`31`Adventure`
+16198`realMyst`78.210239`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16203`Myst: Masterpiece Edition`80.201210`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+16316`1Heart`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+16357`Sherlock Holmes and The Hound of The Baskervilles`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16397`Secret Files 3`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16478`Shardlight`80.466213`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+16612`Twelve Minutes`65.715931`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+16688`Dracula: Love Kills`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16725`Secret Files: Sam Peters`69.654680`3`2`Point-and-click`9`Puzzle`31`Adventure`
+16726`Inherit the Earth: Quest for the Orb`70.000000`2`2`Point-and-click`31`Adventure`
+16995`The Slaughter: Act One`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+17005`The Order of the Thorne: The King\u0027s Challenge`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+17058`Return to Mysterious Island 2`60.000000`2`2`Point-and-click`31`Adventure`
+17095`Grim Legends 2: Song of the Dark Swan`60.864857`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17136`Abyss: The Wraiths of Eden`72.648034`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17137`Enigmatis: The Ghosts of Maple Creek`69.184195`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17138`Enigmatis 2: The Mists of Ravenwood`72.977388`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17141`Clockwork Tales: Of Glass and Ink`70.187636`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17143`9 Clues: The Secret of Serpent Creek`78.220364`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17224`Deponia: The Complete Journey`82.330102`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+17243`Keepsake`82.808989`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+17349`Rhiannon: Curse of the Four Branches`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+17425`Necronomicon: The Gateway to Beyond`47.319321`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17470`Agatha Christie: The ABC Murders`71.087102`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17628`The Abbey`50.000000`2`2`Point-and-click`31`Adventure`
+17705`The Curse of the Werewolves`60.000000`1`2`Point-and-click`
+17873`eXperience 112`40.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17976`The Interactive Adventures of Dog Mendonça and Pizzaboy`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+17987`Demon Hunter: Chronicles from Beyond`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+17998`Perils of Man`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18011`Rusty Lake Hotel`58.791808`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18171`The Moment of Silence`60.886166`3`2`Point-and-click`31`Adventure`32`Indie`
+18189`Downfall`88.298238`3`2`Point-and-click`31`Adventure`32`Indie`
+18222`The Room Three`75.813434`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18371`Escape Plan`66.814910`3`2`Point-and-click`9`Puzzle`31`Adventure`
+18454`Goetia`70.833536`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18595`Trace Memory`64.144071`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+18642`The Samaritan Paradox`75.904687`3`2`Point-and-click`31`Adventure`32`Indie`
+18718`Clock Tower`70.298607`3`2`Point-and-click`9`Puzzle`31`Adventure`
+18719`Nelly Cootalot: The Fowl Fleet`70.000000`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+18727`Transport Fever`89.497285`4`2`Point-and-click`11`Real Time Strategy (RTS)`13`Simulator`24`Tactical`
+18734`Violett`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18751`The Frostrune`79.832867`3`2`Point-and-click`9`Puzzle`31`Adventure`
+18841`Gibbous: A Cthulhu Adventure`74.747551`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18860`Beat Cop`68.756046`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+18969`Wailing Heights`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+18997`Kathy Rain`79.068095`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+19000`The Walking Dead: A New Frontier`70.888333`2`2`Point-and-click`31`Adventure`
+19132`NightCry`27.575758`3`2`Point-and-click`31`Adventure`32`Indie`
+19281`Midvinter`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+19287`Clock Tower`62.531915`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+19288`Clock Tower II: The Struggle Within`37.820729`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+19297`Ken Follett\u0027s: The Pillars of the Earth`82.338991`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`34`Visual Novel`
+19300`Deponia Doomsday`79.143132`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+19320`Five Nights at Freddy\u0027s: Sister Location`71.600003`5`2`Point-and-click`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+19328`Criminal Case`77.858156`3`2`Point-and-click`9`Puzzle`31`Adventure`
+19361`Sam \u0026 Max: Save the World - Episode 4: Abe Lincoln Must Die!`80.037796`2`2`Point-and-click`31`Adventure`
+19385`The Charnel House Trilogy`65.139124`3`2`Point-and-click`31`Adventure`32`Indie`
+19444`One Thousand Lies`70.000000`3`2`Point-and-click`13`Simulator`34`Visual Novel`
+20077`Assassin\u0027s Creed: Pirates`59.929714`1`2`Point-and-click`
+20125`Replica`70.874422`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+20229`Zombie Driver: Ultimate Edition`70.000000`5`2`Point-and-click`5`Shooter`10`Racing`31`Adventure`33`Arcade`
+20399`Haven Moon`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+20527`Paradise`69.870490`2`2`Point-and-click`31`Adventure`
+20578`Touch Detective`67.000000`2`2`Point-and-click`9`Puzzle`
+20636`Agatha Christie: Murder on the Orient Express`69.952933`2`2`Point-and-click`31`Adventure`
+20668`Zombie Driver`64.957752`5`2`Point-and-click`5`Shooter`10`Racing`31`Adventure`33`Arcade`
+20789`The Eyes of Ara`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+20832`A New Beginning: Final Cut`69.967698`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+21049`Jake Hunter: Detective Chronicles`58.000000`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+21127`Broken Sword: Shadow of the Templars - The Director\u0027s Cut`76.440416`3`2`Point-and-click`9`Puzzle`31`Adventure`
+21237`Touch Detective 2 1/2`69.000000`2`2`Point-and-click`9`Puzzle`
+21485`Overclocked: A History of Violence`63.899508`3`2`Point-and-click`31`Adventure`32`Indie`
+21631`Kelvin and the Infamous Machine`76.198334`3`2`Point-and-click`31`Adventure`32`Indie`
+21638`Grimsfield`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+21972`The Secret Monster Society: Chapter 1 - Monsters, Fires and Forbidden Forests`85.117581`3`2`Point-and-click`31`Adventure`32`Indie`
+22397`Bear With Me`80.387458`3`2`Point-and-click`31`Adventure`32`Indie`
+22818`The Wardrobe`79.969282`3`2`Point-and-click`31`Adventure`32`Indie`
+22958`Last Window: The Secret of Cape West`88.020184`2`2`Point-and-click`31`Adventure`
+23177`Layers of Fear: Masterpiece Edition`35.099391`3`2`Point-and-click`31`Adventure`32`Indie`
+23294`realMyst: Masterpiece Edition`87.999149`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+23425`Demetrios: The Big Cynical Adventure`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+23472`Goosebumps: The Game`75.818361`4`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`
+23701`A Tale in the Desert`95.151515`2`2`Point-and-click`12`Role-playing (RPG)`
+23942`The Last Time`80.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+23982`Duke Grabowski: Mighty Swashbuckler`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+24044`The Minims`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+24444`Detective Di: The Silk Rose Murders`70.000000`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+25222`Rusty Lake: Roots`76.795816`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+25236`Framed 2`70.082564`2`2`Point-and-click`9`Puzzle`
+25466`Ankh 3: Battle of the Gods`50.000000`2`2`Point-and-click`31`Adventure`
+25680`The Little Acre`70.019361`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+25776`One Night Stand`69.960822`3`2`Point-and-click`31`Adventure`32`Indie`
+26102`Gnog`75.201094`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+26165`Marvel\u0027s Guardians of the Galaxy: The Telltale Series`69.533153`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+26179`Full Throttle Remastered`81.709220`2`2`Point-and-click`31`Adventure`
+26208`15 Days`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+26239`The Franz Kafka Videogame`57.723844`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26399`Memoranda`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26548`Her Majesty\u0027s Spiffing`80.000000`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+26576`Mountain Trap: The Manor of Memories`40.000000`3`2`Point-and-click`9`Puzzle`32`Indie`
+26580`Sally Face`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26638`Batman: The Telltale Series - Episode 1: Realm of Shadows`60.220098`2`2`Point-and-click`31`Adventure`
+26674`The Lion\u0027s Song`79.906749`3`2`Point-and-click`31`Adventure`32`Indie`
+26732`Milkmaid of the Milky Way`69.675208`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26776`Detention`75.144960`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+26809`Hidden Folks`77.672986`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26869`World of Horror`61.355237`5`2`Point-and-click`12`Role-playing (RPG)`16`Turn-based strategy (TBS)`31`Adventure`32`Indie`
+26870`Necrobarista`69.848865`4`2`Point-and-click`31`Adventure`32`Indie`34`Visual Novel`
+26873`Alum`50.000000`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+26887`A Matter of Murder`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+26968`Cayne`54.768998`3`2`Point-and-click`31`Adventure`32`Indie`
+27005`Star Story: The Horizon Escape`70.000000`5`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`33`Arcade`
+27278`Whispers of a Machine`82.122436`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+27411`Herald: An Interactive Period Drama - Book I \u0026 II`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+27496`Fenimore Fillmore: The Westerner`70.000000`4`2`Point-and-click`24`Tactical`31`Adventure`32`Indie`
+27509`Heaven\u0027s Vault`69.888970`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+27513`We. The Revolution`69.740495`7`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`32`Indie`
+27522`Habbo`59.408097`2`2`Point-and-click`12`Role-playing (RPG)`
+27531`Tokyo Dark`72.580645`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+27725`The Room: Old Sins`81.329963`3`2`Point-and-click`9`Puzzle`31`Adventure`
+27762`Paradigm`87.164037`3`2`Point-and-click`31`Adventure`32`Indie`
+27821`Sam \u0026 Max: Save the World - Episode 3: The Mole, the Mob and the Meatball`79.896870`2`2`Point-and-click`31`Adventure`
+27822`Sam \u0026 Max: Save the World - Episode 2: Situation Comedy`80.046313`2`2`Point-and-click`31`Adventure`
+27824`Sam \u0026 Max: Save the World - Episode 5: Reality 2.0`79.938689`2`2`Point-and-click`31`Adventure`
+27825`Sam \u0026 Max: Save the World - Episode 6: Bright Side of the Moon`80.027677`2`2`Point-and-click`31`Adventure`
+27826`Sam \u0026 Max: Save the World - Episode 1: Culture Shock`79.754975`2`2`Point-and-click`31`Adventure`
+27835`Sam \u0026 Max: Beyond Time and Space - Episode 1: Ice Station Santa`66.096513`2`2`Point-and-click`31`Adventure`
+27836`Sam \u0026 Max: Beyond Time and Space - Episode 2: Moai Better Blues`70.000000`2`2`Point-and-click`31`Adventure`
+27837`Sam \u0026 Max: Beyond Time and Space - Episode 3: Night of the Raving Dead`70.026723`2`2`Point-and-click`31`Adventure`
+27838`Sam \u0026 Max: Beyond Time and Space - Episode 4: Chariots of the Dogs`70.107879`2`2`Point-and-click`31`Adventure`
+27839`Sam \u0026 Max: Beyond Time and Space - Episode 5: What\u0027s New Beelzebub?`70.026723`2`2`Point-and-click`31`Adventure`
+27849`Sherlock Holmes: The Awakened - Remastered Edition`76.371184`3`2`Point-and-click`9`Puzzle`31`Adventure`
+27852`King\u0027s Quest Collection`60.000000`2`2`Point-and-click`31`Adventure`
+27853`Mata Hari`56.228070`3`2`Point-and-click`9`Puzzle`31`Adventure`
+27860`Broken Sword: The Smoking Mirror - Remastered`84.156814`3`2`Point-and-click`9`Puzzle`31`Adventure`
+27867`Unavowed`87.501962`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+27874`Bad Dream: Coma`68.345559`3`2`Point-and-click`31`Adventure`32`Indie`
+27888`Alter Ego`69.734615`2`2`Point-and-click`31`Adventure`
+27896`All You Can Eat`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+27925`Frankenstein Master of Death`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+28049`The Low Road`45.422070`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+28207`Negligee`80.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+28221`Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+28222`Nancy Drew: The Deadly Device`90.000000`2`2`Point-and-click`31`Adventure`
+28231`Memento Mori`50.000000`2`2`Point-and-click`31`Adventure`
+28282`A Case of Distrust`68.803646`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+28312`Agatha Knife`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+28319`Apocalipsis`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+28336`There Is No Game`64.638988`2`2`Point-and-click`9`Puzzle`
+29065`The Inner World: The Last Wind Monk`80.016285`3`2`Point-and-click`31`Adventure`32`Indie`
+29087`One Eyed Kutkh`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+29112`Space Quest Collection`60.000000`2`2`Point-and-click`31`Adventure`
+29264`A Tale of Two Kingdoms`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+29714`Judas`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+29890`A Long Road Home`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+29961`Lost Grimoires 2: Shard of Mystery`90.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+30193`The Search`59.760224`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+30202`Christmas Stories: Nutcracker - Collector\u0027s Edition`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+30359`Just Ignore Them`60.283979`3`2`Point-and-click`31`Adventure`32`Indie`
+30374`Alex Hunter: Lord of the Mind`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+30377`The Whispered World: Special Edition`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+30440`Faces of Illusion: The Twin Phantoms`80.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+30514`Detective Gallo`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+30683`Kingdom of Aurelia: Mystery of the Poisoned Dagger`60.000000`5`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`33`Arcade`
+31509`Barrow Hill: The Dark Path`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+31779`Through Abandoned 2: The Forest`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+32009`Quest for Glory Collection`80.000000`2`2`Point-and-click`31`Adventure`
+32199`1 Moment of Time: Silentville`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+32278`Police Quest Collection`60.000000`3`2`Point-and-click`15`Strategy`31`Adventure`
+32670`A Date in the Park`56.272447`2`2`Point-and-click`31`Adventure`
+33055`Varenje`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+33842`Cursed`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+33900`Tibetan Quest: Beyond the World\u0027s End`50.000000`4`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+34366`The Uncertain: Last Quiet Day`59.351417`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+34700`Tsioque`70.103231`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+34780`Through Abandoned: The Underground City`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+34783`Call of Cthulhu: Shadow of the Comet`60.939948`2`2`Point-and-click`31`Adventure`
+34932`MechaNika`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+35061`Big Thinkers 1st Grade`70.000000`3`2`Point-and-click`7`Music`26`Quiz/Trivia`
+35265`9 Clues 2: The Ward`80.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+35283`The Darkside Detective`78.305518`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+35366`Mirrored: Chapter 1`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+35651`Ankh: Anniversary Edition`60.000000`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+35668`Missing: An Interactive Thriller - Episode One`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+35811`Hidden Object Bundle 4 in 1`70.000000`2`2`Point-and-click`31`Adventure`
+35864`Hidden Object Bundle 5 in 1`50.000000`2`2`Point-and-click`31`Adventure`
+35911`Shadowgate: MacVenture Series`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+35912`Uninvited: MacVenture Series`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+36002`Teddy Floppy Ear: Mountain Adventure`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+36003`Teddy Floppy Ear: Kayaking`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+36004`Sinless`80.000000`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+36009`Shades of Black`70.000000`2`2`Point-and-click`31`Adventure`
+36044`Finding Paradise`79.928160`6`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`33`Arcade`
+36163`Sinking Island`52.544798`2`2`Point-and-click`31`Adventure`
+36310`Salammbo: Battle for Carthage`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+36383`Dreamscapes: The Sandman - Premium Edition`60.000000`2`2`Point-and-click`31`Adventure`
+36443`The Last Door: Collector\u0027s Edition`79.168514`3`2`Point-and-click`31`Adventure`32`Indie`
+36850`VirtuaVerse`61.748373`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+38040`Persian Nights: Sands of Wonders`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+41592`Back to the Future: The Game - 30th Anniversary Edition`80.000000`2`2`Point-and-click`31`Adventure`
+43036`Monkey Island Special Edition Collection`98.570117`2`2`Point-and-click`31`Adventure`
+44158`Minecraft: Story Mode - Season Two`67.254482`2`2`Point-and-click`31`Adventure`
+44247`In the Raven Shadow – Ve stínu havrana`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+46980`Kara no Shoujo`91.147049`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+50313`Brink of Consciousness: Dorian Gray Syndrome`70.059761`3`2`Point-and-click`9`Puzzle`31`Adventure`
+51365`Scratches: Director\u0027s Cut`67.479973`3`2`Point-and-click`31`Adventure`32`Indie`
+51524`The Walking Dead: The Final Season`79.625907`2`2`Point-and-click`31`Adventure`
+51525`Batman: The Enemy Within`76.733740`2`2`Point-and-click`31`Adventure`
+51528`Telling Lies`63.027567`3`2`Point-and-click`13`Simulator`32`Indie`
+51952`EarthWorms`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+51980`The Gateway Trilogy`50.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+53773`The Treasures of Mystery Island 2: The Gates of Fate`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+54443`Morph Girl`50.000000`4`2`Point-and-click`13`Simulator`31`Adventure`32`Indie`
+54574`Orwell: Ignorance is Strength`76.097537`6`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`34`Visual Novel`
+54678`Rusty Lake Paradise`68.432512`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+54699`Black Mirror`70.000000`2`2`Point-and-click`31`Adventure`
+55198`Kentucky Route Zero: TV Edition`45.649713`3`2`Point-and-click`31`Adventure`32`Indie`
+55632`Indygo`70.000000`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`34`Visual Novel`
+55688`Neofeud`50.000000`4`2`Point-and-click`31`Adventure`32`Indie`34`Visual Novel`
+55812`Don\u0027t Escape: 4 Days to Survive`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+56463`Luna: The Shadow Dust`78.055749`6`2`Point-and-click`7`Music`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+56972`Sonny`50.000000`8`2`Point-and-click`10`Racing`12`Role-playing (RPG)`13`Simulator`14`Sport`15`Strategy`31`Adventure`32`Indie`
+57192`Nairi: Tower of Shirin`83.990711`5`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+57263`Chuchel`73.531948`3`2`Point-and-click`31`Adventure`32`Indie`
+57455`Dumb Ways to Die 2: The Games`70.000000`3`2`Point-and-click`9`Puzzle`14`Sport`
+58042`Agent A: A Puzzle In Disguise`71.473626`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+59086`Teenage Mutant Ninja Turtles: Portal Power`90.000000`3`2`Point-and-click`25`Hack and slash/Beat \u0027em up`33`Arcade`
+64957`Mutazione`63.706804`5`2`Point-and-click`7`Music`12`Role-playing (RPG)`31`Adventure`32`Indie`
+67912`Ablepsia`50.000000`2`2`Point-and-click`32`Indie`
+68476`Love You to Bits`82.045876`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+70396`Trüberbrook`69.960184`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+71502`6 Days a Sacrifice`74.343162`2`2`Point-and-click`31`Adventure`
+71957`Framed Collection`79.055579`7`2`Point-and-click`7`Music`8`Platform`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+72447`Yorkshire Gubbins`80.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+73478`7 Days a Skeptic`79.922683`2`2`Point-and-click`31`Adventure`
+74524`Football Game`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+74787`The Almost Gone`58.919018`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+75079`Darkness and Flame: Missing Memories`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+75092`Cube Escape: Seasons`71.503579`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+75123`Samsara Room`61.540602`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+75162`8-bit Adventure Anthology: Volume I`70.000000`2`2`Point-and-click`31`Adventure`
+75240`Erica`62.144405`1`2`Point-and-click`
+75354`Minotaur`70.000000`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`34`Visual Novel`
+75590`Midnight Quest`70.000000`2`2`Point-and-click`31`Adventure`
+75809`AntVentor`70.000000`6`2`Point-and-click`8`Platform`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+75816`Hostil`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+76211`Du Lac \u0026 Fey: Dance of Death`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+76244`The Great Ace Attorney: Adventures`95.665268`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+76499`Loot Box Quest`80.000000`3`2`Point-and-click`13`Simulator`32`Indie`
+76700`Christmas Stories: A Christmas Carol - Collector\u0027s Edition`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+76939`Lost Grimoires 3: The Forgotten Well`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+77631`Harry Potter: Hogwarts Mystery`35.655695`4`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`31`Adventure`
+78160`Mom Hid My Game!`73.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+79139`5 Days a Stranger`79.889390`2`2`Point-and-click`31`Adventure`
+79408`The White Chamber`78.930213`2`2`Point-and-click`31`Adventure`
+79999`Lamplight City`80.719495`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+80879`The Mercury Man`60.000000`6`2`Point-and-click`12`Role-playing (RPG)`15`Strategy`24`Tactical`31`Adventure`32`Indie`
+80944`The Raven Remastered`69.919056`2`2`Point-and-click`31`Adventure`
+81086`Rainswept`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+81262`Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal`74.542263`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+81263`Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay`70.000000`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+81266`Tales of Monkey Island: Chapter 5 - Rise of the Pirate God`70.000000`2`2`Point-and-click`31`Adventure`
+81268`Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood`50.000000`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+81269`Tales of Monkey Island: Chapter 3 - Lair of the Leviathan`70.000000`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+81275`Unforeseen Incidents`71.467500`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+81814`Bad Dream: Fever`60.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+83877`Shiver`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+84570`Kitty Powers\u0027 Love Life`70.000000`4`2`Point-and-click`13`Simulator`32`Indie`33`Arcade`
+84927`2064: Read Only Memories Integral`58.979185`2`2`Point-and-click`31`Adventure`
+84972`Ace Attorney Investigations 2`90.127082`3`2`Point-and-click`31`Adventure`34`Visual Novel`
+86383`FoxTail`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+87861`Solitaire+`80.000000`1`2`Point-and-click`
+90143`Tardy`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+90581`Hidden Object - 12 in 1 bundle`40.000000`2`2`Point-and-click`31`Adventure`
+90590`Hidden Object 6-in-1 bundle`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+90601`The Last NightMary: A Lenda do Cabeça de Cuia`50.000000`2`2`Point-and-click`32`Indie`
+91278`Princess Isabella: The Rise Of An Heir`40.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+94100`Hector: Badge of Carnage! - Episode 3`80.000000`2`2`Point-and-click`31`Adventure`
+94101`Hector: Badge of Carnage! - Episode 2`70.000000`3`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`
+95120`Simon the Sorcerer: 25th Anniversary Edition`50.000000`2`2`Point-and-click`31`Adventure`
+95167`Kids`61.969638`2`2`Point-and-click`32`Indie`
+95992`Tales of the Neon Sea`67.303386`6`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`33`Arcade`
+96126`Stonewall Penitentiary`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+97257`Backbone`68.243220`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+98736`She and the Light Bearer`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+99071`Hypnospace Outlaw`83.966661`6`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`31`Adventure`32`Indie`
+100667`Cube Escape: Paradox`59.411802`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+102087`Leisure Suit Larry: Wet Dreams Don\u0027t Dry`67.554098`3`2`Point-and-click`9`Puzzle`31`Adventure`
+102339`Pamali: Indonesian Folklore Horror`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+102885`King\u0027s Heir: Rise to the Throne`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+103203`The X-Files`68.557619`2`2`Point-and-click`31`Adventure`
+103219`Strangeland`84.852439`2`2`Point-and-click`31`Adventure`
+104522`My Brother Rabbit`74.112086`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+105001`Radiant One`69.869803`4`2`Point-and-click`12`Role-playing (RPG)`31`Adventure`32`Indie`
+105085`Endless Fables 3: Dark Moor`60.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+105196`Don\u0027t Notice Me`70.000000`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+105437`Art of Murder: The Secret Files`30.000000`2`2`Point-and-click`31`Adventure`
+105439`Art of Murder: Deadly Secrets`40.000000`2`2`Point-and-click`31`Adventure`
+106108`Irony Curtain: From Matryoshka with Love`79.339821`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+106205`Sam \u0026 Max: The Devil\u0027s Playhouse - Episode 1: The Penal Zone`84.740981`2`2`Point-and-click`31`Adventure`
+106856`A Memoir Blue`67.166907`3`2`Point-and-click`31`Adventure`32`Indie`
+106985`The Procession to Calvary`75.805551`3`2`Point-and-click`31`Adventure`32`Indie`
+107964`Zniw Adventure`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+108778`Little Misfortune`72.914086`6`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`33`Arcade`
+109148`Unheard`70.613048`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`32`Indie`
+110416`Sumatra: Fate of Yandi`70.000000`4`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`
+110525`Cattle Call: Hollywood Talent Manager`60.000000`3`2`Point-and-click`13`Simulator`32`Indie`
+110834`Creaks`77.976315`5`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+111103`The Hand of Glory`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+111206`Talk to Strangers`70.000000`4`2`Point-and-click`13`Simulator`32`Indie`34`Visual Novel`
+111289`The Death of Erin Myers`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+111695`Equilinox`80.000000`4`2`Point-and-click`13`Simulator`15`Strategy`32`Indie`
+111882`Fenimore Fillmore: 3 Skulls of the Toltecs`70.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+111932`Discolored`60.100867`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+112783`The Blind Prophet`70.000000`6`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`34`Visual Novel`
+112939`Later Alligator`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+113014`Chook \u0026 Sosig: Walk the Plank`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+113784`Stormhill Mystery: Family Shadows`60.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+114061`Skyland: Heart of the Mountain`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+115118`Interrogation: You Will Be Deceived`70.000000`8`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`15`Strategy`24`Tactical`31`Adventure`32`Indie`
+115225`Through Abandoned: The Refuge`50.000000`3`2`Point-and-click`31`Adventure`32`Indie`
+115840`Silence`70.063050`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+115843`Unpacking`74.104760`4`2`Point-and-click`9`Puzzle`13`Simulator`32`Indie`
+116545`The 7th Guest: 25th Anniversary Edition`50.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+116851`Smile For Me`71.266373`4`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`
+116856`Demon Hunter 5: Ascendance`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+117058`Lair of the Clockwork God`80.000000`4`2`Point-and-click`8`Platform`31`Adventure`32`Indie`
+117514`The Walking Dead: The Telltale Definitive Series`82.618167`2`2`Point-and-click`31`Adventure`
+118044`Tohu`62.615225`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+118355`Otaku\u0027s Adventure`70.539140`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+119182`Hector: Badge of Carnage! - Episode 1`70.000000`2`2`Point-and-click`31`Adventure`
+119323`Chicken Police`81.898462`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`34`Visual Novel`
+119324`When the Past Was Around`70.014922`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+119698`Online Simulator`70.000000`3`2`Point-and-click`13`Simulator`34`Visual Novel`
+119886`Still There`69.962072`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+120710`The Henry Stickmin Collection`95.952957`3`2`Point-and-click`31`Adventure`32`Indie`
+120991`Heal`70.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+121450`Uncharted Tides: Port Royal`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+121531`Gamedec`65.084011`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+121567`Papetura`53.771784`5`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+121763`Syberia: The World Before`78.362450`3`2`Point-and-click`9`Puzzle`31`Adventure`
+121823`Acting Lessons`57.782114`3`2`Point-and-click`12`Role-playing (RPG)`34`Visual Novel`
+122766`Pilgrims`79.611950`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+122827`Endless Fables 4: Shadow Within`70.000000`3`2`Point-and-click`9`Puzzle`31`Adventure`
+123775`Tangle Tower`79.869512`5`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`34`Visual Novel`
+124194`Cockwork Industries Complete`60.000000`4`2`Point-and-click`31`Adventure`32`Indie`34`Visual Novel`
+124420`Nancy Drew: Midnight in Salem`50.000000`2`2`Point-and-click`31`Adventure`
+125018`Broken Sword 2.5: The Return of the Templars`65.043511`2`2`Point-and-click`31`Adventure`
+126835`Death and Taxes`79.038428`8`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`32`Indie`34`Visual Novel`
+127493`Death Come True`69.938072`3`2`Point-and-click`9`Puzzle`31`Adventure`
+127560`Telltale Batman Shadows Edition`78.529617`2`2`Point-and-click`31`Adventure`
+128289`The Supper`79.008966`3`2`Point-and-click`31`Adventure`32`Indie`
+128462`Being a DIK`69.032103`4`2`Point-and-click`12`Role-playing (RPG)`32`Indie`34`Visual Novel`
+128909`Hidden Through Time`70.970441`2`2`Point-and-click`9`Puzzle`
+129097`Norco`77.716753`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+129688`The Escaper`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+129797`Age of Empires II: Gold Edition`86.450011`3`2`Point-and-click`11`Real Time Strategy (RTS)`15`Strategy`
+132347`Peekaboo Collection - 3 Tales of Horror`70.000000`2`2`Point-and-click`32`Indie`
+132907`There Is No Game: Wrong Dimension`85.613561`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+134408`Delores: A Thimbleweed Park Mini-Adventure`71.396570`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+135995`As Dusk Falls`79.535589`1`2`Point-and-click`
+139447`Neighbours back From Hell`78.847303`4`2`Point-and-click`9`Puzzle`15`Strategy`31`Adventure`
+139566`Mind Scanners`74.725295`7`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`33`Arcade`
+140556`South of the Circle`63.364222`2`2`Point-and-click`31`Adventure`
+140878`Sam \u0026 Max: Save the World`69.936146`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+141273`Tukoni`77.902614`5`2`Point-and-click`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+142289`Two Hours One Life`95.862069`3`2`Point-and-click`31`Adventure`32`Indie`
+142488`Tiny Lands`80.000000`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+142941`Potion Craft`72.960084`5`2`Point-and-click`9`Puzzle`12`Role-playing (RPG)`13`Simulator`32`Indie`
+144270`Mitoza`52.890443`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+144554`If on a Winter\u0027s Night, Four Travelers`79.549744`3`2`Point-and-click`31`Adventure`32`Indie`
+145439`Escape Simulator`89.121580`5`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`
+146081`The Great Ace Attorney 2: Resolve`90.491361`4`2`Point-and-click`9`Puzzle`31`Adventure`34`Visual Novel`
+146564`Needy Streamer Overload`80.471548`6`2`Point-and-click`12`Role-playing (RPG)`13`Simulator`31`Adventure`32`Indie`34`Visual Novel`
+147340`The Past Within`69.994645`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+148352`Samorost 1`79.879796`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+148499`Behind the Frame: The Finest Scenery`77.784953`6`2`Point-and-click`9`Puzzle`13`Simulator`31`Adventure`32`Indie`34`Visual Novel`
+150462`Lost in Play`80.139045`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+151067`Overboard!`67.826484`5`2`Point-and-click`15`Strategy`31`Adventure`32`Indie`34`Visual Novel`
+152288`Immortality`84.873154`3`2`Point-and-click`13`Simulator`32`Indie`
+153577`Discover My Body`87.586207`1`2`Point-and-click`
+159123`Agatha Christie: Hercule Poirot - The First Cases`70.869214`3`2`Point-and-click`9`Puzzle`31`Adventure`
+159299`Storyteller`79.859741`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+165165`Pet Society`69.838337`2`2`Point-and-click`13`Simulator`
+166722`The Case of the Golden Idol`98.593151`4`2`Point-and-click`9`Puzzle`31`Adventure`32`Indie`
+195517`Return to Monkey Island`82.407942`3`2`Point-and-click`9`Puzzle`31`Adventure`
+243385`The Murder of Sonic the Hedgehog`70.490553`4`2`Point-and-click`13`Simulator`32`Indie`34`Visual Novel`
