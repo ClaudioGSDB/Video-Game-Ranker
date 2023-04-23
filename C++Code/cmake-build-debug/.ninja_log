@@ -1,6 +1,0 @@
-# ninja log v5
-2	390	7036624563852101	CMakeFiles/C__Code.dir/main.cpp.obj	34ba612606c126a3
-1463	2264	7037258748991100	C__Code.exe	605014783ee4fdae
-2	1463	7037258740971916	CMakeFiles/C__Code.dir/src/Functions.cpp.obj	cf4f9096314aee15
-6	207	7037985482019862	build.ninja	141ee73a2cd64b50
-2	205	7037257959752884	CMakeFiles/C__Code.dir/src/main.cpp.obj	7e4f6b3ccde20ddc

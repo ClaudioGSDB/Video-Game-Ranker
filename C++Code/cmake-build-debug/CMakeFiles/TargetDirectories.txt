@@ -1,3 +1,0 @@
-C:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/C++Code/cmake-build-debug/CMakeFiles/C__Code.dir
-C:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/C++Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/C++Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
