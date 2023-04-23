@@ -1,801 +1,801 @@
 11|Real Time Strategy (RTS)
-26|X-COM: Apocalypse|71.486105|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-27|X-COM: Interceptor|50.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-34|Giants: Citizen Kabuto|82.834491|4|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|31|Adventure
-35|Dungeon Keeper|85.990179|2|11|Real Time Strategy (RTS)|15|Strategy
-36|Dungeon Keeper 2|87.130127|2|11|Real Time Strategy (RTS)|15|Strategy
-85|Dune|78.210161|4|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up|31|Adventure
-86|Dune II: The Building of a Dynasty|89.882938|2|11|Real Time Strategy (RTS)|15|Strategy
-87|Dune 2000|79.685123|2|11|Real Time Strategy (RTS)|15|Strategy
-89|Emperor: Battle for Dune|76.709123|2|11|Real Time Strategy (RTS)|15|Strategy
-129|Warcraft: Orcs \u0026 Humans|79.372436|2|11|Real Time Strategy (RTS)|15|Strategy
-130|Warcraft II: Tides of Darkness|85.804031|2|11|Real Time Strategy (RTS)|15|Strategy
-131|Warcraft II: Beyond the Dark Portal|80.322801|2|11|Real Time Strategy (RTS)|15|Strategy
-132|Warcraft III: Reign of Chaos|88.759292|2|11|Real Time Strategy (RTS)|15|Strategy
-133|Warcraft III: The Frozen Throne|88.545369|2|11|Real Time Strategy (RTS)|15|Strategy
-139|Star Wars: Galactic Battlegrounds|79.745564|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-140|Star Wars: Galactic Battlegrounds - Clone Campaigns|80.369994|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-144|Star Wars: Empire at War|74.840514|2|11|Real Time Strategy (RTS)|15|Strategy
-151|Star Wars: Rebellion|70.055401|2|11|Real Time Strategy (RTS)|15|Strategy
-159|Star Wars: Force Commander|80.121303|2|11|Real Time Strategy (RTS)|15|Strategy
-174|Star Wars: Empire at War - Forces of Corruption|79.833479|2|11|Real Time Strategy (RTS)|15|Strategy
-212|Brütal Legend|73.197481|5|7|Music|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-230|StarCraft|89.038921|2|11|Real Time Strategy (RTS)|15|Strategy
-239|StarCraft II: Wings of Liberty|87.315197|2|11|Real Time Strategy (RTS)|15|Strategy
-242|Cossacks: European Wars|79.382835|2|11|Real Time Strategy (RTS)|15|Strategy
-245|Command \u0026 Conquer: Red Alert 2|87.180057|2|11|Real Time Strategy (RTS)|15|Strategy
-248|Populous|67.729309|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-257|Warhammer 40,000: Dawn of War|85.395509|2|11|Real Time Strategy (RTS)|15|Strategy
-276|Supreme Commander|77.148177|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-283|Theme Park|68.952534|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-287|Patrician III: Rise of the Hanse|70.052983|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-289|Age of Empires|84.194674|2|11|Real Time Strategy (RTS)|15|Strategy
-290|Imperivm III: Great Battles of Rome|70.034170|2|11|Real Time Strategy (RTS)|24|Tactical
-291|Age of Empires: The Rise of Rome|80.143472|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-295|Command \u0026 Conquer: Red Alert|86.343385|2|11|Real Time Strategy (RTS)|15|Strategy
-298|Glory of the Roman Empire|72.570457|2|11|Real Time Strategy (RTS)|15|Strategy
-299|Age of Empires III|79.072054|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-300|Anno 1503|79.387436|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-302|Empire Earth|78.286302|2|11|Real Time Strategy (RTS)|15|Strategy
-303|Anno 1602: Creation of a New World|87.477932|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-305|Cossacks II: Napoleonic Wars|66.816338|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-308|Black \u0026 White|75.559929|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-311|Police Quest: SWAT 2|49.550444|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-321|Command \u0026 Conquer 3: Tiberium Wars|83.031541|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-324|Age of Mythology|81.901947|2|11|Real Time Strategy (RTS)|15|Strategy
-327|Age of Empires II: The Age of Kings|86.383497|2|11|Real Time Strategy (RTS)|15|Strategy
-340|Command \u0026 Conquer: Tiberian Sun|82.653089|2|11|Real Time Strategy (RTS)|15|Strategy
-432|Total War: Shogun 2|84.835269|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-436|Shogun: Total War|84.534067|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-437|Medieval: Total War|83.219845|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-438|Rome: Total War|82.280469|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-440|Medieval II: Total War|86.496939|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-441|Empire: Total War|78.057584|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-442|Napoleon: Total War|76.770999|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-443|Shogun: Total War - Mongol Invasion|78.929100|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-444|Medieval: Total War - Viking Invasion|77.114459|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-456|StarCraft: Brood War|89.581981|2|11|Real Time Strategy (RTS)|15|Strategy
-457|StarCraft II: Heart of the Swarm|86.981442|2|11|Real Time Strategy (RTS)|15|Strategy
-458|StarCraft II: Legacy of the Void|88.504318|2|11|Real Time Strategy (RTS)|15|Strategy
-465|Warhammer 40,000: Dawn of War - Winter Assault|73.631844|2|11|Real Time Strategy (RTS)|15|Strategy
-466|Warhammer 40,000: Dawn of War II|77.455785|2|11|Real Time Strategy (RTS)|15|Strategy
-467|Warhammer 40,000: Dawn of War - Dark Crusade|78.123218|2|11|Real Time Strategy (RTS)|15|Strategy
-468|Warhammer 40,000: Dawn of War - Soulstorm|66.741120|2|11|Real Time Strategy (RTS)|15|Strategy
-469|Warhammer 40,000: Dawn of War II - Chaos Rising|73.864761|2|11|Real Time Strategy (RTS)|15|Strategy
-470|Warhammer 40,000: Dawn of War II - Retribution|73.890428|2|11|Real Time Strategy (RTS)|15|Strategy
-587|Act of War: Direct Action|70.154274|2|11|Real Time Strategy (RTS)|15|Strategy
-596|American Conquest|68.626429|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-599|Age of Empires II: The Conquerors|82.145148|2|11|Real Time Strategy (RTS)|15|Strategy
-606|Battle Realms|78.112342|2|11|Real Time Strategy (RTS)|15|Strategy
-613|Battlezone|80.241034|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-640|Codename: Panzers - Phase One|87.206742|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-647|Command \u0026 Conquer|85.097871|2|11|Real Time Strategy (RTS)|15|Strategy
-648|Command \u0026 Conquer: Red Alert 2 - Yuri\u0027s Revenge|81.668754|2|11|Real Time Strategy (RTS)|15|Strategy
-649|Command \u0026 Conquer: Generals|80.395920|2|11|Real Time Strategy (RTS)|15|Strategy
-650|Command \u0026 Conquer: Generals - Zero Hour|83.630315|2|11|Real Time Strategy (RTS)|15|Strategy
-652|Command \u0026 Conquer: Red Alert - The Aftermath|81.586372|2|11|Real Time Strategy (RTS)|15|Strategy
-653|Commandos 2: Men of Courage|86.210135|5|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure
-654|Company of Heroes|85.964446|2|11|Real Time Strategy (RTS)|15|Strategy
-659|Dark Reign: The Future of War|74.503005|2|11|Real Time Strategy (RTS)|15|Strategy
-661|Darwinia|70.576801|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-662|Anno 1404|80.229415|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-663|Command \u0026 Conquer: The Covert Operations|78.243584|2|11|Real Time Strategy (RTS)|15|Strategy
-670|Command \u0026 Conquer 4: Tiberian Twilight|37.570533|2|11|Real Time Strategy (RTS)|15|Strategy
-676|Command \u0026 Conquer: Red Alert - Counterstrike|81.900437|2|11|Real Time Strategy (RTS)|15|Strategy
-678|Empires: Dawn of the Modern World|79.995623|2|11|Real Time Strategy (RTS)|15|Strategy
-681|Europa 1400: The Guild|70.510891|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-682|Europa Universalis II|80.140053|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-683|Europa Universalis III|87.365624|2|11|Real Time Strategy (RTS)|15|Strategy
-707|Command \u0026 Conquer 3: Kane\u0027s Wrath|79.606585|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-734|Ground Control|81.473958|2|11|Real Time Strategy (RTS)|15|Strategy
-735|Ground Control II: Operation Exodus|73.926895|3|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-741|Hearts of Iron III|89.461680|2|11|Real Time Strategy (RTS)|15|Strategy
-749|Homeworld|85.228656|3|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-750|Homeworld 2|87.486983|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-751|Homeworld: Emergence|80.513400|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-759|Command \u0026 Conquer: Red Alert 3 - Uprising|72.869956|2|11|Real Time Strategy (RTS)|15|Strategy
-766|Kohan II: Kings of War|80.308692|2|11|Real Time Strategy (RTS)|15|Strategy
-767|Kohan: Immortal Sovereigns|91.063584|2|11|Real Time Strategy (RTS)|15|Strategy
-775|M.A.X.: Mechanized Assault \u0026 Exploration|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-781|Majesty: The Fantasy Kingdom Sim|79.799326|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-799|Myth II: Soulblighter|80.018981|2|11|Real Time Strategy (RTS)|15|Strategy
-848|Rise of Nations|81.695744|2|11|Real Time Strategy (RTS)|15|Strategy
-849|Rise of Nations: Thrones \u0026 Patriots|71.993138|2|11|Real Time Strategy (RTS)|15|Strategy
-853|Sacrifice|81.460373|2|11|Real Time Strategy (RTS)|15|Strategy
-860|Seven Kingdoms II: The Fryhtan Wars|79.990020|2|11|Real Time Strategy (RTS)|15|Strategy
-868|Sid Meier\u0027s Pirates!|81.413007|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure
-872|Sins of a Solar Empire|82.502254|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-888|Supreme Commander: Forged Alliance|77.633451|2|11|Real Time Strategy (RTS)|15|Strategy
-900|Command \u0026 Conquer: Tiberian Sun - Firestorm|84.008796|2|11|Real Time Strategy (RTS)|15|Strategy
-918|Total Annihilation|82.300701|2|11|Real Time Strategy (RTS)|15|Strategy
-929|War Wind|73.769443|2|11|Real Time Strategy (RTS)|15|Strategy
-941|World in Conflict|82.586104|2|11|Real Time Strategy (RTS)|15|Strategy
-959|Command \u0026 Conquer: Red Alert 3|75.084510|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-964|Stronghold Crusader|83.912328|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-965|Stronghold|82.139782|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-988|Halo Wars|73.972511|2|11|Real Time Strategy (RTS)|15|Strategy
-1054|Oil Rush|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-1144|Men of War: Assault Squad|79.864367|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-1277|Plants vs. Zombies|78.494973|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-1335|Natural Selection 2|77.800048|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-1357|U.N. Squadron|88.410931|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-1365|AirMech Strike|31.121745|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-1369|Company of Heroes 2|79.931923|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1370|Company of Heroes: Opposing Fronts|83.644636|2|11|Real Time Strategy (RTS)|15|Strategy
-1371|Company of Heroes: Tales of Valor|83.373078|2|11|Real Time Strategy (RTS)|15|Strategy
-1378|R.U.S.E.|70.178783|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-1606|Empire Earth III|57.117812|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1608|Empire Earth II|69.405047|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1609|Empire Earth: The Art of Conquest|70.901563|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1624|Theme Hospital|81.287256|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1757|Mega Man Battle Network 3 White|88.498521|2|11|Real Time Strategy (RTS)|12|Role-playing (RPG)
-1876|Spore|73.209119|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure
-1878|War for the Overworld|77.387027|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-1904|Europa Universalis IV|89.921590|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-1921|Black \u0026 White 2|75.908545|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure
-2002|Banished|71.324477|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-2007|East vs. West: A Hearts of Iron Game|20.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2009|Arsenal of Democracy|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2011|Crusaders: Thy Kingdom Come|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2012|Darkest Hour: A Hearts of Iron Game|85.393092|2|11|Real Time Strategy (RTS)|15|Strategy
-2013|East India Company|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2018|A Game of Dwarves|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2027|Sword of the Stars|69.514327|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)
-2036|For the Glory|60.000000|3|10|Racing|11|Real Time Strategy (RTS)|15|Strategy
-2037|Hearts of Iron II|86.493150|2|11|Real Time Strategy (RTS)|15|Strategy
-2038|King Arthur: The Role-Playing Wargame|70.209109|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-2039|The Kings Crusade|40.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-2040|Knights of Honor|82.869658|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2043|Majesty 2: The Fantasy Kingdom Sim|61.656524|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2044|Naval War: Arctic Circle|40.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2065|Plague Inc.|74.758826|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-2067|Pirates of Black Cove|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure
-2073|Woody Two-Legs: Attack of the Zombie Pirates|50.000000|1|11|Real Time Strategy (RTS)
-2108|Sanctum 2|74.886034|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-2116|GrimGrimoire|83.104912|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-2157|LEGO Rock Raiders|70.350069|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-2239|Pikmin|82.569050|2|11|Real Time Strategy (RTS)|31|Adventure
-2240|Pikmin 2|86.924976|2|11|Real Time Strategy (RTS)|31|Adventure
-2241|Pikmin 3|79.851793|2|11|Real Time Strategy (RTS)|31|Adventure
-2243|Savage 2: A Tortured Soul|77.825778|5|4|Fighting|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-2352|Bloodline Champions|84.972896|1|11|Real Time Strategy (RTS)
-2359|Total War: Rome II|77.016447|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-2360|Artemis: Spaceship Bridge Simulator|80.000000|3|11|Real Time Strategy (RTS)|13|Simulator|32|Indie
-2524|Eye of the Beholder III: Assault on Myth Drannor|71.388330|2|11|Real Time Strategy (RTS)|12|Role-playing (RPG)
-2568|Dragon Ball Z: Shin Budokai - Another Road|68.773956|3|4|Fighting|11|Real Time Strategy (RTS)|15|Strategy
-2592|DEFCON|77.427587|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-2595|Tropico 4|79.633858|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2596|The Settlers II: Veni, Vidi, Vici|82.462679|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2617|The Settlers II: Gold Edition|92.206526|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2619|Fragile Allegiance|70.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2648|LEGO Battles|68.550354|2|11|Real Time Strategy (RTS)|15|Strategy
-2825|Ninjatown|77.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2902|Dead Island: Epidemic|40.796611|4|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-2905|Divinity: Dragon Commander|68.655360|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-2916|Impire|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-2922|Crusader Kings|85.182131|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2936|March of the Eagles|50.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2950|Age of Empires II: HD Edition|84.636586|2|11|Real Time Strategy (RTS)|15|Strategy
-2958|Planetary Annihilation|74.539439|2|11|Real Time Strategy (RTS)|15|Strategy
-2959|Anno 2070|74.902859|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-2968|Dragon Force|86.981676|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical
-2978|Wargame: AirLand Battle|81.302450|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-3017|Age of Empires III: The WarChiefs|80.804351|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3067|Knights and Merchants: The Shattered Kingdom|87.116164|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3081|Evil Genius|74.427386|4|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3099|Door Kickers|71.982384|7|5|Shooter|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-3115|Godus|63.244373|6|2|Point-and-click|10|Racing|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-3129|Gain Ground|70.263908|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|33|Arcade
-3145|Plants vs. Zombies 2: It\u0027s About Time|71.639023|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure
-3154|The Lord of the Rings: The Battle for Middle-earth|82.371606|2|11|Real Time Strategy (RTS)|15|Strategy
-3155|The Lord of the Rings: The Battle for Middle-earth II|82.139637|2|11|Real Time Strategy (RTS)|15|Strategy
-3156|The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king|85.598346|4|4|Fighting|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-3238|Castle Story|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-3275|Z|70.619215|2|11|Real Time Strategy (RTS)|15|Strategy
-3276|Z: Steel Soldiers|84.826726|2|11|Real Time Strategy (RTS)|15|Strategy
-3347|X Rebirth|65.999982|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3568|Ogre Battle 64: Person of Lordly Caliber|95.407374|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure
-3695|The Settlers 7: Paths to a Kingdom|70.245221|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3696|The Settlers III|82.340646|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-3697|The Settlers IV|80.697842|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3698|The Settlers: Heritage of Kings|75.232075|2|11|Real Time Strategy (RTS)|15|Strategy
-3699|The Settlers II: 10th Anniversary|81.006390|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3700|The Settlers: Rise of an Empire|74.328267|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3797|Battalion Wars|78.514564|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-3930|Generation of Chaos Exceed|25.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-3934|Goblin Commander: Unleash the Horde|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-4050|Odama|69.000000|3|11|Real Time Strategy (RTS)|15|Strategy|30|Pinball
-4123|KKnD2: Krossfire|73.550322|2|11|Real Time Strategy (RTS)|15|Strategy
-4222|Battlestations: Pacific|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-4223|Battlestations: Midway|70.307012|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-4582|Yu-Gi-Oh! The Falsebound Kingdom|63.000000|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-4691|Lumines Live!|89.797068|4|7|Music|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-4708|Battalion Wars 2|75.000000|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-4710|Battleship|70.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-4974|Little King\u0027s Story|63.887101|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-5055|Nuclear Dawn|58.286376|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-5384|Advanced Dungeons \u0026 Dragons: Eye of the Beholder|82.029612|2|11|Real Time Strategy (RTS)|12|Role-playing (RPG)
-5423|PowerMonger|89.373295|2|11|Real Time Strategy (RTS)|15|Strategy
-5444|PixelJunk Monsters|52.152984|3|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-5447|Stonehearth|75.278862|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-5494|Armored Core: Verdict Day|75.000000|5|4|Fighting|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-5525|Populous: The Beginning|74.983911|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-5570|Strife|46.611572|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|36|MOBA
-5571|Age of Empires Online|77.714008|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-5572|Men of War: Assault Squad 2|79.913722|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-5587|World of Warships|72.665474|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|24|Tactical
-5589|Clash of Clans|73.947891|2|11|Real Time Strategy (RTS)|15|Strategy
-5595|Awesomenauts Assemble!|90.000000|4|4|Fighting|8|Platform|11|Real Time Strategy (RTS)|15|Strategy
-5598|Super Sanctum TD|70.165993|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-5632|Spacebase DF-9|35.682145|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-5649|Blood Bowl|81.494134|4|11|Real Time Strategy (RTS)|14|Sport|15|Strategy|16|Turn-based strategy (TBS)
-5720|Aliens Versus Predator: Extinction|68.904834|2|11|Real Time Strategy (RTS)|15|Strategy
-5840|Full Spectrum Warrior|76.794740|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-5841|Full Spectrum Warrior: Ten Hammers|79.909266|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-5882|Kingdom Under Fire: Heroes|86.274106|3|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up
-5883|Kingdom Under Fire: The Crusaders|63.381720|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|25|Hack and slash/Beat \u0027em up
-5907|Magic: The Gathering - Battlegrounds|57.611497|2|4|Fighting|11|Real Time Strategy (RTS)
-6005|Kingdom Rush|76.872201|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-6006|Kingdom Rush Frontiers|71.070015|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-6256|Gratuitous Space Battles|92.899346|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-6258|The Guild 2|79.730401|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-6414|Kingdom Under Fire II|60.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-6844|LEGO Star Wars III: The Clone Wars|73.380741|3|8|Platform|11|Real Time Strategy (RTS)|31|Adventure
-6919|Bladestorm: The Hundred Years\u0027 War|71.341520|2|11|Real Time Strategy (RTS)|15|Strategy
-6934|Carrier Command: Gaea Mission|65.000000|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-6985|Three Kingdoms: Fate of the Dragon|79.954136|2|11|Real Time Strategy (RTS)|15|Strategy
-7021|Iron Sky: Invasion|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-7027|SpellForce: The Order of Dawn|77.082755|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-7031|SpellForce: Shadow of the Phoenix|70.448682|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-7033|SpellForce 2: Shadow Wars|76.082522|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-7037|SpellForce 2: Dragon Storm|70.005743|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-7041|SpellForce 2: Faith in Destiny|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-7193|Star Trek: Legacy|66.235054|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-7197|Stormrise|39.772276|2|11|Real Time Strategy (RTS)|15|Strategy
-7201|Supreme Commander 2|72.838642|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-7230|Universe at War: Earth Assault|69.262712|2|11|Real Time Strategy (RTS)|15|Strategy
-7241|Warhammer: Mark of Chaos|60.317393|2|11|Real Time Strategy (RTS)|15|Strategy
-7260|Desperados: Wanted Dead or Alive|83.542820|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-7261|Desperados 2: Cooper\u0027s Revenge|65.501844|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-7262|Helldorado|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-7322|Lords of the Realm III|40.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-7402|Hoard|59.794285|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-7461|Starhawk|70.013359|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-7468|Tom Clancy\u0027s EndWar|63.071573|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)
-7503|Westward|60.000000|4|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-7510|Pharaoh|86.643653|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-7512|Emperor: Rise of the Middle Kingdom|89.208150|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-7522|0 A.D.|79.634252|3|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-7531|Westward IV: All Aboard|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-7586|King Arthur II: The Role-Playing Wargame|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-7593|Space Rangers 2: Dominators|91.495307|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|33|Arcade
-7595|Creeper World|98.290516|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-7596|Eufloria|70.797895|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-7676|Ancient Space|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-7687|Battleborn|61.879196|5|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|25|Hack and slash/Beat \u0027em up
-7720|AI War: Fleet Command|54.577580|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-7811|The History Channel: Great Battles Medieval|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-7812|Patapon|80.076743|3|7|Music|11|Real Time Strategy (RTS)|15|Strategy
-7813|Patapon 2|79.808440|4|7|Music|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-7870|Boom Beach|60.395344|2|11|Real Time Strategy (RTS)|15|Strategy
-7892|Guardians of Middle-earth|32.935780|4|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up|33|Arcade
-8111|Anno Online|50.298510|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8190|Defense Grid: The Awakening|71.924498|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-8200|Total War: Attila|70.305767|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-8215|Prismata|70.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|32|Indie
-8220|Age of Empires III: The Asian Dynasties|81.585004|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8221|Age of Mythology: The Titans|84.908604|2|11|Real Time Strategy (RTS)|15|Strategy
-8225|Anno 1701|75.532954|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8226|Anno 1701: The Sunken Dragon|80.492029|1|11|Real Time Strategy (RTS)
-8227|Anno 1404: Venice|80.220920|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8228|Anno 2070: Deep Ocean|70.039858|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8232|Grey Goo|70.292892|2|11|Real Time Strategy (RTS)|15|Strategy
-8364|InSomnia: The Ark|40.000000|6|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-8374|Aeon Command|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8383|Wargame: European Escalation|73.302080|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-8387|Men of War: Red Tide|69.910359|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-8395|Grand Ages: Rome|72.085039|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8424|Ultimate General: Gettysburg|60.564044|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-8445|Company of Heroes 2: Ardennes Assault|66.108021|2|11|Real Time Strategy (RTS)|15|Strategy
-8471|Startopia|89.751109|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8498|Army Men: RTS|70.038049|2|11|Real Time Strategy (RTS)|15|Strategy
-8713|Battlefleet Gothic: Armada|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-8720|Iron Grip: Warlord|80.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8758|Anomaly: Warzone Earth|73.433724|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8759|Anomaly: Warzone Earth - Mobile Campaign|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-8760|Anomaly Korea|55.945503|2|11|Real Time Strategy (RTS)|15|Strategy
-8773|Homeworld: Remastered Collection|93.385600|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-8785|Haegemonia: Legions of Iron|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8795|Infested Planet|70.245661|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-8849|Dungeons|43.563823|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-8861|Meridian: New World|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8869|Spacecom|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8895|Populous II: Trials of the Olympian Gods|79.896322|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8917|Galcon Fusion|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-8920|Act of Aggression|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|26|Quiz/Trivia|32|Indie
-8923|Etherium|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-8925|Sunless Sea|69.401499|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-8926|Tropico 3: Absolute Power|68.293247|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-8931|Earth 2140|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-8932|Earth 2150|79.962921|2|11|Real Time Strategy (RTS)|15|Strategy
-8935|Earth 2160|53.291470|2|11|Real Time Strategy (RTS)|15|Strategy
-8964|Perimeter|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9044|Interstellaria|50.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-9058|Praetorians|87.491000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9059|Imperial Glory|76.334096|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-9067|StarCraft 64|80.792827|2|11|Real Time Strategy (RTS)|15|Strategy
-9226|Dungeon Keeper: The Deeper Dungeons|62.037319|2|11|Real Time Strategy (RTS)|15|Strategy
-9256|The Lord of the Rings: War of the Ring|66.564265|3|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-9279|Demigod|78.958488|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-9287|iBomber Defense|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9288|iBomber Defense Pacific|62.259435|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9296|Zombie Tycoon 2: Brainhov\u0027s Revenge|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9338|World in Conflict: Soviet Assault|72.863413|2|11|Real Time Strategy (RTS)|15|Strategy
-9339|Act of War: High Treason|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9360|American Conquest: Fight Back|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9362|Cossacks: The Art of War|72.335642|2|11|Real Time Strategy (RTS)|15|Strategy
-9363|World War III: Black Gold|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9395|Victory at Sea|60.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9414|Real Warfare 2: Northern Crusades|40.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-9450|Toy Soldiers|68.215216|4|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9459|Tango Fiesta|80.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9460|Stronghold 2|71.967055|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9461|Stronghold 3|46.457294|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9462|Stronghold: Crusader Extreme|70.718665|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9477|Soldiers: Heroes of World War II|77.686952|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-9538|Original War|90.287279|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9542|Poseidon: Master of Atlantis|85.846371|1|11|Real Time Strategy (RTS)
-9556|Star Ruler|80.000000|4|7|Music|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9588|Revenge of the Titans|79.114741|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9625|LittleWarGame|80.677975|2|11|Real Time Strategy (RTS)|15|Strategy
-9637|Orcs Must Die! Unchained|75.075365|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-9674|Star Fox 2|69.964095|4|5|Shooter|8|Platform|11|Real Time Strategy (RTS)|15|Strategy
-9683|Dungeon of the Endless|77.824597|6|8|Platform|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-9691|Tzar: The Burden of the Crown|88.853063|2|11|Real Time Strategy (RTS)|15|Strategy
-9759|Total War: Warhammer II - Serpent God Edition|89.843435|3|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-9767|Dungeons 2|67.342989|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-9789|RimWorld|85.046222|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-9805|Ogre Battle: The March of the Black Queen|71.277745|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure
-9809|Creeper World 3: Arc Eternal|89.955886|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-9833|Warlords Battlecry II|88.973529|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-9834|Warlords Battlecry III|87.450108|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-9853|UFO: Aftershock|70.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-9854|Men of War|79.908796|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9855|Men of War: Vietnam|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-9856|Real Warfare 1242|40.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9857|Theatre of War|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9858|Theatre of War 2: Africa 1943|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-9859|Theatre of War 3: Korea|40.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9892|Battle of Empires: 1914-1918|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-9895|7th Legion|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure
-9898|Total War: Warhammer|85.287060|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-9902|Age of Mythology: Extended Edition|83.557847|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9924|Sins of a Solar Empire: Rebellion|80.196475|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-9926|ParaWorld|82.526097|3|11|Real Time Strategy (RTS)|14|Sport|15|Strategy
-9932|Stronghold Legends|78.711693|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-9948|Age of Booty|50.167945|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|33|Arcade
-9950|Age of Empires II: Forgotten Empires|80.254192|2|11|Real Time Strategy (RTS)|15|Strategy
-9951|Age of Empires II: HD Edition - The Forgotten|80.016394|2|11|Real Time Strategy (RTS)|15|Strategy
-9981|Apox|40.000000|5|8|Platform|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-9982|Bad Hotel|40.000000|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-10094|Cities XXL|50.052719|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-10107|Corsairs: Conquest at Sea|89.987651|2|11|Real Time Strategy (RTS)|15|Strategy
-10149|General Chaos|60.415726|2|11|Real Time Strategy (RTS)|15|Strategy
-10177|Defenders of Ardania|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|33|Arcade
-10178|Defense Technica|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-10184|Defense Grid 2|75.473098|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-10195|Dragons and Titans|60.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
-10242|Blitzkrieg|59.335348|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-10243|Blitzkrieg 3|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-10272|Faces of War|82.746049|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-10387|Habitat|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-10393|Hacker Evolution Duality|40.000000|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-10406|Hegemony Rome: The Rise of Caesar|50.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|32|Indie
-10459|Ironclad Tactics|60.000000|5|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
-10484|King Arthur: Fallen Champions|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-10490|Knights and Merchants: The Peasants Rebellion|88.926346|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-10546|Men of War: Condemned Heroes|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-10593|Nemesis of the Roman Empire|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-10637|Offworld Trading Company|68.480054|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-10644|Order of War|51.652568|2|11|Real Time Strategy (RTS)|15|Strategy
-10646|OTTTD|60.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie|33|Arcade
-10783|Swords \u0026 Soldiers|60.961600|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-10816|Selknam Defense|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-10870|Sins of a Solar Empire: Trinity|60.000000|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-10889|StarDrive|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-10929|Stronghold Crusader II|66.855605|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-11030|Tryst|30.000000|6|7|Music|8|Platform|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-11037|Victoria II|82.001568|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-11104|Battle Realms: Winter of the Wolf|85.652377|2|11|Real Time Strategy (RTS)|15|Strategy
-11134|Gigantic|69.951700|2|11|Real Time Strategy (RTS)|15|Strategy
-11200|Guns Up!|61.135236|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-11205|Anno 2205|73.215685|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-11259|Alien Nations|91.266818|2|11|Real Time Strategy (RTS)|15|Strategy
-11271|Celtic Kings: Rage of War|70.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure
-11336|Warhammer: Dark Omen|79.671290|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical
-11427|18 Wheels of Steel: American Long Haul|60.000000|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-11428|18 Wheels of Steel: Extreme Trucker|60.028881|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-11429|18 Wheels of Steel: Extreme Trucker 2|50.000000|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-11430|Reign: Conflict of Nations|40.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-11436|911: First Responders|80.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-11440|9th Company: Roots of Terror|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-11496|Company of Heroes 2: The British Forces|70.000000|1|11|Real Time Strategy (RTS)
-11524|Hegemony III: Clash of the Ancients|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-11570|Halo Wars 2|75.365308|2|11|Real Time Strategy (RTS)|15|Strategy
-11577|Satellite Reign|83.082283|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-11582|Stellaris|78.031013|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-11585|Executive Assault|80.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-11586|Nightside|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-11619|Tiny Troopers|59.990962|5|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-11620|The Guild 2: Renaissance|60.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-11664|ArcheBlade|50.000000|5|4|Fighting|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-11666|Ashes of the Singularity|69.909809|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-11683|Infinite Space|70.305357|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|24|Tactical|34|Visual Novel
-11814|Grand Ages: Medieval|64.774867|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-11986|Cannon Fodder 2|65.603306|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-12071|Eye of the Beholder II: The Legend of Darkmoon|87.281959|2|11|Real Time Strategy (RTS)|12|Role-playing (RPG)
-12080|Valhalla Hills|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-12183|Tyrants: Fight Through Time|79.925980|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-12300|Total War Battles: Kingdom|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-12519|Tooth and Tail|90.984518|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-13186|Age of Mythology: Tale of the Dragon|61.454719|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-13213|Cossacks: Back to War|74.130238|2|11|Real Time Strategy (RTS)|15|Strategy
-13214|Cossacks II: Battle for Europe|64.115316|2|11|Real Time Strategy (RTS)|15|Strategy
-13215|Cossacks 3|66.246511|2|11|Real Time Strategy (RTS)|15|Strategy
-13221|Interloper|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-13675|Cannon Brawl|80.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-14075|Warshift|60.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-14415|There Came an Echo|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-14464|The Fall of the Dungeon Guardians|80.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-14524|Starcraft II: Nova Covert Ops|72.161039|2|11|Real Time Strategy (RTS)|15|Strategy
-14551|Impossible Creatures|76.720389|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-14674|Valkyria Chronicles 2|73.891027|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-14859|Perimeter 2: New Earth|30.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-14882|Prison Tycoon 4: Supermax|40.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-14913|Hinterland|60.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure
-15027|Armada 2526|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-15030|Stronghold Kingdoms|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-15058|A Game of Thrones: Genesis|40.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-15123|Kohan: Ahriman\u0027s Gift|96.040449|2|11|Real Time Strategy (RTS)|15|Strategy
-15155|Total War: Shogun 2 - Fall of the Samurai|80.479225|2|11|Real Time Strategy (RTS)|15|Strategy
-15187|Toy Soldiers: War Chest|80.000000|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-15289|Arena Wars 2|40.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-15310|Tower Wars|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-15444|Homeworld: Deserts of Kharak|81.598557|2|11|Real Time Strategy (RTS)|15|Strategy
-15707|Clash Royale|76.788724|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|35|Card \u0026 Board Game
-15762|Codename: Panzers - Cold War|64.017634|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-15894|Hearts of Iron IV|79.313594|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-15936|Harvest: Massive Encounter|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16041|Light of Altair|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-16048|Warfare|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-16111|Sacraboar|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16151|Ironclads: High Seas|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-16230|Detour: Highway Simulator|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16255|Super Monday Night Combat|74.174768|5|5|Shooter|11|Real Time Strategy (RTS)|14|Sport|15|Strategy|32|Indie
-16264|Achron|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16285|Hegemony Gold: Wars of Ancient Greece|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16342|Stellar Impact|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16346|Cubemen|60.000000|4|7|Music|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16400|Blood Bowl: Chaos Edition|61.059334|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|14|Sport|15|Strategy|16|Turn-based strategy (TBS)
-16528|UFO: Afterlight|66.125615|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-16648|Unholy Heights|80.000000|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-16664|Wargame: Red Dragon|80.005005|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-16679|Maia|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-16691|Kingdom Wars 2: Battles|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-16705|KnightShift|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-16776|Void Destroyer|50.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-16806|Distant Worlds: Universe|60.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-16914|Infectonator : Survivors|50.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-17027|Crush Your Enemies|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17111|Imagine Earth|34.889683|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-17257|OGame|80.088624|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)
-17338|Arcadecraft|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-17343|Warrior Kings|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-17346|Close Combat: Gateway to Caen|50.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-17432|Call to Arms|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-17485|Machines At War 3|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17509|Servo|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17543|Chainsaw Warrior: Lords of the Night|50.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie
-17577|Battle Mages: Sign of Darkness|70.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-17583|SpellForce 3|56.310515|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-17646|Boid|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17671|Direct Hit: Missile War|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17677|Foresight|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17681|All Guns on Deck|40.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-17731|Prophour23|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17750|SunAge: Battle for Elysium|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-17838|War, the Game|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18165|Command \u0026 Conquer: The First Decade|85.964948|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-18179|Particula|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18264|Lock\u0027s Quest|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-18348|Age of War|60.011944|2|11|Real Time Strategy (RTS)|15|Strategy
-18379|Empires of the Undergrowth|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-18435|Frozen Synapse 2|60.000000|5|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical|32|Indie
-18487|BattleForge|81.819543|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-18494|SimCity 4: Rush Hour|81.263760|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-18538|Zoo Tycoon|66.771301|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-18687|Mushroom Wars|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18727|Transport Fever|89.497285|4|2|Point-and-click|11|Real Time Strategy (RTS)|13|Simulator|24|Tactical
-18785|Command \u0026 Conquer: Red Alert - Retaliation|40.908992|2|11|Real Time Strategy (RTS)|15|Strategy
-18797|Rise of Nations: Rise of Legends|79.218709|2|11|Real Time Strategy (RTS)|15|Strategy
-18855|Armies of Exigo|88.165451|2|11|Real Time Strategy (RTS)|15|Strategy
-18873|Chicago 1930|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-18879|Horde: The Northern Wind|82.317811|2|11|Real Time Strategy (RTS)|32|Indie
-18902|Star Trek - Armada|76.389332|2|11|Real Time Strategy (RTS)|15|Strategy
-18907|8-Bit Armies|80.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-18918|Northgard|70.593081|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|32|Indie
-18955|Nomad Fleet|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18962|Planetary Annihilation: Titans|70.269742|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18976|Iron Marines|67.688599|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-18980|Warhammer 40,000: Dawn of War III|59.969386|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-19077|Ancient Wars: Sparta|69.147210|2|11|Real Time Strategy (RTS)|15|Strategy
-19085|Shadow Tactics: Blades of the Shogun|88.744117|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-19124|Lords of the Realm II|80.341617|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-19170|Star Ruler 2|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-19193|MechCommander|77.814818|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-19277|Savage: Resurrection|50.000000|4|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-19319|Curious Expedition|78.006076|7|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-19354|Joint Task Force|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-19546|DropZone|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-19607|VideoBall|60.000000|4|11|Real Time Strategy (RTS)|14|Sport|15|Strategy|32|Indie
-19767|LEGO Battles: Ninjago|53.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-19820|Fat Princess|69.998461|3|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up
-19899|AirMech: Command|60.000000|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-19939|Blue Dragon Plus|71.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-19975|Swords \u0026 Soldiers II|75.000000|3|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-20070|Aegis of Earth: Protonovus Assault|60.000000|4|9|Puzzle|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-20076|Battlezone 98 Redux|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-20087|AVP: Evolution|90.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|25|Hack and slash/Beat \u0027em up|31|Adventure
-20203|Codename: Panzers - Phase Two|87.983512|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-20453|Meridian: Squad 22|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-20464|Avalon Lords: Dawn Rises|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-20546|Plants vs. Zombies: GOTY Edition|70.276318|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-20776|Imperium Romanum|69.964494|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-20786|Warhammer: Battle March|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-21189|Desktop Tower Defense|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-21205|Command \u0026 Conquer: Red Alert 3 - Ultimate Edition|67.793305|1|11|Real Time Strategy (RTS)
-21273|Multiwinia: Survival of the Flattest|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-21411|Firefight|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-21414|8-Bit Hordes|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-21454|Robocalypse|53.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-21494|Sudden Strike 3: Arms for Victory|50.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-21960|Dead Star|59.842326|5|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-22344|Rise of Nations: Extended Edition|79.858905|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-22399|Sudden Strike 4|60.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-22442|Infinium Strike|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-22586|Travian: Legends|69.972257|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-22689|Sunless Sea: Zubmariner|46.410718|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-22830|Army Men II|63.573775|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-22851|Champions of Anteria|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-23077|Anno 1701: Dawn of Discovery|52.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-23178|Smash + Grab|80.000000|2|11|Real Time Strategy (RTS)|25|Hack and slash/Beat \u0027em up
-23193|Battlerite|79.400062|5|4|Fighting|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up|36|MOBA
-23278|Space Rogue|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-23366|Close Combat: Last Stand Arnhem|60.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-23581|NeuroVoider|79.000000|5|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|32|Indie|33|Arcade
-23627|Vega Conflict|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-23851|Wandersong|93.490653|5|7|Music|8|Platform|11|Real Time Strategy (RTS)|31|Adventure|32|Indie
-23905|Starpoint Gemini Warlords|62.569871|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-23990|Out of Ammo|80.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-24128|Metal Fatigue|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-24179|Warrior Kings: Battles|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-24226|Tropico 4: Gold Edition|70.000000|1|11|Real Time Strategy (RTS)
-24273|Age of Empires: The Age of Kings|69.972448|2|11|Real Time Strategy (RTS)|15|Strategy
-24277|SpellForce: Platinum Edition|60.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-24411|Galaxy Reavers|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-24528|Majesty Gold HD|80.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-24815|Cold Waters|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-24834|Trollskog|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-24953|Crush Online|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-25062|Supreme Ruler 2020 Gold|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-25120|Incoming|79.658584|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|33|Arcade
-25221|Children of a Dead Earth|80.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-25491|PixelJunk Monsters Ultimate|80.000000|3|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy
-25566|Stellaris: Leviathans|70.719766|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-25581|Iron Harvest|70.001258|2|11|Real Time Strategy (RTS)|15|Strategy
-25587|House of the Dying Sun|68.274428|6|5|Shooter|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-25648|AI War 2|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-25683|StarCraft: Remastered|85.726578|2|11|Real Time Strategy (RTS)|15|Strategy
-25741|Ashes of the Singularity: Escalation|70.040324|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|32|Indie
-25850|Hunger Dungeon|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-25903|Screeps|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-25951|Ultimate General: Civil War|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-26183|Halo Wars: Definitive Edition|76.984291|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-26241|The Exiled|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-26551|Fracture the Flag|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-26593|8-Bit Invaders!|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-26810|Siegecraft Commander|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-26814|18 Wheels of Steel: Across America|70.000000|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-27053|Stellaris: Utopia|80.629482|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-27091|Foxhole|70.003389|5|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-27150|Minion Masters|66.540689|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)|31|Adventure|32|Indie
-27333|8-Bit Armies: Arena|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-27353|Dungeons 3|78.236553|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure
-27359|Tower of Time|70.284328|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|31|Adventure|32|Indie
-27408|Heroes of Delum|70.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-27475|Steel Division: Normandy 44|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-27694|Empires Apart|59.521444|2|11|Real Time Strategy (RTS)|15|Strategy
-27793|All Walls Must Fall|70.000000|7|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|32|Indie|33|Arcade
-27828|Imperium Romanum: Gold Edition|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-27830|The Settlers: Rise of an Empire - Gold Edition|55.048723|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-27847|XIII Century: Gold Edition|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-27946|Sengoku|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy
-28028|Total War: Warhammer II|82.247288|2|11|Real Time Strategy (RTS)|15|Strategy
-28060|Corroded|70.000000|4|11|Real Time Strategy (RTS)|15|Strategy|25|Hack and slash/Beat \u0027em up|32|Indie
-28264|Valhalla Hills: Definitive Edition|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-28286|Masters of Anima|74.008504|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure
-28325|Hearthlands|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-28362|Wyrmsun|70.000000|4|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure|32|Indie
-28723|Age of Empires III: Complete Collection|78.987112|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-28794|Ancestors Legacy|70.935227|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-28819|Heroes Evolved|40.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|24|Tactical|36|MOBA
-28981|Warhammer 40,000: Dawn of War - Game of the Year Edition|83.570176|2|11|Real Time Strategy (RTS)|15|Strategy
-28983|Medieval II: Total War - Gold Edition|85.015392|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-29009|Lords Mobile|80.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-29092|The Archotek Project|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-29123|Empires|60.000000|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-29193|BC Kings|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-29209|SpellForce 2: Anniversary Edition|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-29211|Stronghold Crusader HD|83.929832|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-29330|Land Doctrine|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-29770|Total War: Rome II - Emperor Edition|82.209338|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|16|Turn-based strategy (TBS)
-29772|MegaGlest|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-30229|Bannermen|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-30238|Earth 2150 Trilogy|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-31253|Reconquest|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-31480|Command Ops 2|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-31679|Atomic Society|70.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-31696|18 Wheels of Steel: Convoy|79.347300|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-31697|18 Wheels of Steel: Haulin\u0027|50.000000|3|10|Racing|11|Real Time Strategy (RTS)|13|Simulator
-31726|The Pirate: Caribbean Hunt|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-31973|Warcube|80.000000|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|25|Hack and slash/Beat \u0027em up|31|Adventure|32|Indie
-32256|Divided We Fall|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-32361|The Dark Legions|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-32461|Syrian Warfare|57.969283|4|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|32|Indie
-32680|Legion TD 2|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-32768|Uprising: Join or Die|60.000000|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-33074|Soulcaster: Part I \u0026 II|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-33303|Seven Kingdoms: Ancient Adversaries|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-34171|Mytheon|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|31|Adventure
-34213|Day D: Tower Rush|50.000000|4|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-34269|Forts|50.714066|2|11|Real Time Strategy (RTS)|15|Strategy
-34549|Business Tour|58.463914|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-34786|Mitos.is: The Game|60.017082|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-35179|Way of Gold and Steel|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure|32|Indie
-35312|FleetComm|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-35328|Close Combat : Panthers in the Fog|50.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-35362|Company of Heroes 2: Platinum Edition|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-35591|Cuban Missile Crisis|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-35592|Desert Law|50.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-35596|Star Wars: Galactic Battlegrounds Saga|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-35676|Locoland|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-35841|Deadhold|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-35894|Medieval: Total War - Gold Edition|50.000000|4|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-36260|Blitzkrieg 2 Anthology|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36363|Undead Overlord|40.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-36374|Company of Heroes 2: The Western Front Armies - US Forces|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36375|Company of Heroes 2: The Western Front Armies - Oberkommando West|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36382|Shannon Tweed\u0027s Attack of the Groupies|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36455|Warhammer 40,000: Dawn of War II - Retribution: Last Stand|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36607|Argo|60.615264|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-36616|They Are Billions|73.191101|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-36705|Sudden Strike 2 Gold|60.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36717|Sudden Strike Gold|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-36932|Mayday: Conflict Earth|88.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-37059|Age of Empires: Definitive Edition|84.933726|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-37063|South Park: Phone Destroyer|70.077050|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|16|Turn-based strategy (TBS)|35|Card \u0026 Board Game
-37066|Starlink: Battle for Atlas|70.314204|7|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|31|Adventure|33|Arcade
-39257|DomiNations|70.019920|2|11|Real Time Strategy (RTS)|15|Strategy
-41496|Kingdom Rush Origins|70.806219|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-43334|Home Wars|60.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-44102|Total War Saga: Thrones of Britannia|72.342542|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-46457|Emergency 3|70.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-46986|StarCraft II: Trilogy|91.487467|1|11|Real Time Strategy (RTS)
-47076|Age of Empires: Gold Edition|83.361171|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure
-47168|HyperNova: Escape from Hadea|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-47925|JAM sessions|45.000000|4|7|Music|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-50092|Ymir|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-51199|Dark Colony|61.491294|5|4|Fighting|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure
-51206|SpellForce: The Breath of Winter|69.981274|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-51755|Deadnaut|60.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-54817|Hyper Universe|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-55029|Age of Empires IV|74.610123|2|11|Real Time Strategy (RTS)|15|Strategy
-55036|Anno 1800|87.085352|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-55056|Age of Empires II: Definitive Edition|90.522681|2|11|Real Time Strategy (RTS)|15|Strategy
-55057|Age of Empires III: Definitive Edition|86.312518|2|11|Real Time Strategy (RTS)|15|Strategy
-55678|Door Kickers: Action Squad|76.359644|7|5|Shooter|8|Platform|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-55877|Depraved|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-56014|Kingdoms of Heckfire|80.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-56021|Skirmish Line|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-58075|Girls\u0027 Frontline|46.034484|6|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical
-58634|Battle Ages|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-60777|Call of Duty: Heroes|59.842106|2|11|Real Time Strategy (RTS)|15|Strategy
-61163|Demon King Box|72.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-61230|Bug Heroes 2|20.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-62922|Grepolis|69.855161|2|11|Real Time Strategy (RTS)|15|Strategy
-62923|Forge of Empires|76.998322|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-67600|Marshmallow Melee|70.000000|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-67852|Yggdra Unison: Seiken Buyuuden|85.000000|1|11|Real Time Strategy (RTS)
-68158|Age of Empires II: HD Edition - The African Kingdoms|79.961560|2|11|Real Time Strategy (RTS)|15|Strategy
-68819|Rising Kingdoms|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-69455|Driftland: The Magic Revival|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-70843|Rusted Warfare|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-70844|Paladins Strike|38.447830|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-74528|Forged Battalion|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-75016|Lazy Galaxy|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-75298|Age of Empires II: HD Edition - Rise of the Rajas|80.004988|2|11|Real Time Strategy (RTS)|15|Strategy
-75895|Taste of Power|60.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-76066|Golem Gates|70.000000|3|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy
-76192|Summer Islands|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-76424|Battlezone Combat Commander|70.000000|3|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy
-76473|Combat Mission: Battle for Normandy|70.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-77210|Warcraft II: The Dark Saga|80.007569|2|11|Real Time Strategy (RTS)|15|Strategy
-77752|Creeper World 4|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-78550|Bad North|76.891792|6|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-80961|Total War: Three Kingdoms|80.255445|3|11|Real Time Strategy (RTS)|15|Strategy|16|Turn-based strategy (TBS)
-81352|Re-Legion|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-81634|War Party|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-83844|Battlefleet Gothic: Armada 2|59.339866|2|11|Real Time Strategy (RTS)|15|Strategy
-84532|Company of Heroes: Legacy Edition|80.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-84696|New Play Control! Pikmin|86.000000|2|11|Real Time Strategy (RTS)|31|Adventure
-84697|New Play Control! Pikmin 2|90.000000|2|11|Real Time Strategy (RTS)|31|Adventure
-86454|Close Combat: The Bloody First|60.000000|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-86493|The Settlers|57.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-86652|Stronghold HD|80.066920|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-87190|Command \u0026 Conquer: Generals - Deluxe Edition|70.000000|1|11|Real Time Strategy (RTS)
-87701|Starfront: Collision|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-88250|Undead Horde|64.179397|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-90095|Stellaris: Apocalypse|81.922732|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-90270|Death Crown|85.009992|6|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie|35|Card \u0026 Board Game
-93832|Star Wars: Empire at War - Gold Pack|77.304752|2|11|Real Time Strategy (RTS)|15|Strategy
-95386|PixelJunk Monsters 2|69.633028|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-96094|Eximius: Seize the Frontline|50.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-96204|Sea Salt|79.804504|4|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure|32|Indie
-101460|Speed Brawl|70.000000|8|4|Fighting|8|Platform|10|Racing|11|Real Time Strategy (RTS)|25|Hack and slash/Beat \u0027em up|31|Adventure|32|Indie|33|Arcade
-101699|Yorg.io|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-102060|Imperator: Rome|60.609931|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)|24|Tactical
-103290|Gears Pop!|43.655428|1|11|Real Time Strategy (RTS)
-103651|Swords \u0026 Soldiers II: Shawarmageddon|60.000000|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|33|Arcade
-104004|Victory At Sea Pacific|50.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-104819|Mutant Football League: Dynasty Edition|87.000000|4|4|Fighting|11|Real Time Strategy (RTS)|14|Sport|33|Arcade
-104937|Circle Empires|68.178670|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-105010|Poly Universe|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-106112|Steel Division 2|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-107218|Desperados III|86.966105|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-107723|Touhou Big Big Battle|70.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-107875|Radio Commander|80.000000|5|9|Puzzle|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-108656|Shortest Trip to Earth|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|31|Adventure|32|Indie
-109035|Armored Brigade|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
-110573|Executive Assault 2|80.000000|4|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-110879|Starport Delta|60.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-111331|Stellaris: MegaCorp|83.309287|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-111650|Warcraft III: Reforged|59.112533|1|11|Real Time Strategy (RTS)
-111717|One Step From Eden|77.331185|6|5|Shooter|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|31|Adventure|32|Indie
-111928|Loria|70.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-112104|Command \u0026 Conquer Remastered Collection|85.008324|2|11|Real Time Strategy (RTS)|15|Strategy
-112773|Starblazer|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-113161|Spuds Unearthed|70.000000|6|5|Shooter|11|Real Time Strategy (RTS)|15|Strategy|31|Adventure|32|Indie|33|Arcade
-113208|Conan Unconquered|50.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-114152|SD Gundam G Generation Cross Rays|45.195394|5|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)
-114758|S.W.I.N.E. HD Remaster|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-115130|Galaxy Trucker: Extended Edition|70.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-115512|Pax Romana|70.000000|4|11|Real Time Strategy (RTS)|13|Simulator|31|Adventure|32|Indie
-116212|A Year of Rain|50.000000|4|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|15|Strategy|32|Indie
-119368|Stronghold: Warlords|55.826700|3|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy
-119381|Commandos 2: HD Remaster|50.000000|3|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical
-119382|Praetorians HD Remaster|70.000000|2|11|Real Time Strategy (RTS)|15|Strategy
-122064|Necronator: Dead Wrong|70.000000|4|11|Real Time Strategy (RTS)|15|Strategy|32|Indie|35|Card \u0026 Board Game
-122649|A Total War Saga: Troy|69.853683|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|16|Turn-based strategy (TBS)
-122659|Bad North: Jotunn Edition|57.678039|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical|32|Indie
-123395|Arknights|88.506984|6|11|Real Time Strategy (RTS)|12|Role-playing (RPG)|13|Simulator|15|Strategy|24|Tactical|31|Adventure
-123748|Rebel Inc: Escalation|80.000000|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-124215|Circle Empires Rivals|80.000000|3|11|Real Time Strategy (RTS)|15|Strategy|32|Indie
-127782|Warcraft II: Battle.net Edition|89.911554|2|11|Real Time Strategy (RTS)|15|Strategy
-129797|Age of Empires II: Gold Edition|86.450011|3|2|Point-and-click|11|Real Time Strategy (RTS)|15|Strategy
-131676|RimWorld: Royalty|80.813040|4|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie
-132380|Rover Wars: Battle For Mars|60.000000|5|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|32|Indie|36|MOBA
-136498|Pikmin 3 Deluxe|82.814082|2|11|Real Time Strategy (RTS)|31|Adventure
-143114|Total War: Warhammer III|79.477890|2|11|Real Time Strategy (RTS)|15|Strategy
-145060|Shadow Tactics: Blades of the Shogun - Aiko’s Choice|80.356619|6|9|Puzzle|11|Real Time Strategy (RTS)|15|Strategy|24|Tactical|31|Adventure|32|Indie
-159424|Age of Darkness: Final Stand|71.544987|2|11|Real Time Strategy (RTS)|15|Strategy
-196789|Supremacy: The Metaverse Game|87.842605|5|4|Fighting|11|Real Time Strategy (RTS)|13|Simulator|15|Strategy|24|Tactical
+26§X-COM: Apocalypse§71.486105§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+27§X-COM: Interceptor§50.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+34§Giants: Citizen Kabuto§82.834491§4§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§31§Adventure§
+35§Dungeon Keeper§85.990179§2§11§Real Time Strategy (RTS)§15§Strategy§
+36§Dungeon Keeper 2§87.130127§2§11§Real Time Strategy (RTS)§15§Strategy§
+85§Dune§78.210161§4§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§31§Adventure§
+86§Dune II: The Building of a Dynasty§89.882938§2§11§Real Time Strategy (RTS)§15§Strategy§
+87§Dune 2000§79.685123§2§11§Real Time Strategy (RTS)§15§Strategy§
+89§Emperor: Battle for Dune§76.709123§2§11§Real Time Strategy (RTS)§15§Strategy§
+129§Warcraft: Orcs \u0026 Humans§79.372436§2§11§Real Time Strategy (RTS)§15§Strategy§
+130§Warcraft II: Tides of Darkness§85.804031§2§11§Real Time Strategy (RTS)§15§Strategy§
+131§Warcraft II: Beyond the Dark Portal§80.322801§2§11§Real Time Strategy (RTS)§15§Strategy§
+132§Warcraft III: Reign of Chaos§88.759292§2§11§Real Time Strategy (RTS)§15§Strategy§
+133§Warcraft III: The Frozen Throne§88.545369§2§11§Real Time Strategy (RTS)§15§Strategy§
+139§Star Wars: Galactic Battlegrounds§79.745564§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+140§Star Wars: Galactic Battlegrounds - Clone Campaigns§80.369994§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+144§Star Wars: Empire at War§74.840514§2§11§Real Time Strategy (RTS)§15§Strategy§
+151§Star Wars: Rebellion§70.055401§2§11§Real Time Strategy (RTS)§15§Strategy§
+159§Star Wars: Force Commander§80.121303§2§11§Real Time Strategy (RTS)§15§Strategy§
+174§Star Wars: Empire at War - Forces of Corruption§79.833479§2§11§Real Time Strategy (RTS)§15§Strategy§
+212§Brütal Legend§73.197481§5§7§Music§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+230§StarCraft§89.038921§2§11§Real Time Strategy (RTS)§15§Strategy§
+239§StarCraft II: Wings of Liberty§87.315197§2§11§Real Time Strategy (RTS)§15§Strategy§
+242§Cossacks: European Wars§79.382835§2§11§Real Time Strategy (RTS)§15§Strategy§
+245§Command \u0026 Conquer: Red Alert 2§87.180057§2§11§Real Time Strategy (RTS)§15§Strategy§
+248§Populous§67.729309§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+257§Warhammer 40,000: Dawn of War§85.395509§2§11§Real Time Strategy (RTS)§15§Strategy§
+276§Supreme Commander§77.148177§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+283§Theme Park§68.952534§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+287§Patrician III: Rise of the Hanse§70.052983§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+289§Age of Empires§84.194674§2§11§Real Time Strategy (RTS)§15§Strategy§
+290§Imperivm III: Great Battles of Rome§70.034170§2§11§Real Time Strategy (RTS)§24§Tactical§
+291§Age of Empires: The Rise of Rome§80.143472§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+295§Command \u0026 Conquer: Red Alert§86.343385§2§11§Real Time Strategy (RTS)§15§Strategy§
+298§Glory of the Roman Empire§72.570457§2§11§Real Time Strategy (RTS)§15§Strategy§
+299§Age of Empires III§79.072054§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+300§Anno 1503§79.387436§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+302§Empire Earth§78.286302§2§11§Real Time Strategy (RTS)§15§Strategy§
+303§Anno 1602: Creation of a New World§87.477932§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+305§Cossacks II: Napoleonic Wars§66.816338§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+308§Black \u0026 White§75.559929§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+311§Police Quest: SWAT 2§49.550444§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+321§Command \u0026 Conquer 3: Tiberium Wars§83.031541§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+324§Age of Mythology§81.901947§2§11§Real Time Strategy (RTS)§15§Strategy§
+327§Age of Empires II: The Age of Kings§86.383497§2§11§Real Time Strategy (RTS)§15§Strategy§
+340§Command \u0026 Conquer: Tiberian Sun§82.653089§2§11§Real Time Strategy (RTS)§15§Strategy§
+432§Total War: Shogun 2§84.835269§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+436§Shogun: Total War§84.534067§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+437§Medieval: Total War§83.219845§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+438§Rome: Total War§82.280469§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+440§Medieval II: Total War§86.496939§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+441§Empire: Total War§78.057584§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+442§Napoleon: Total War§76.770999§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+443§Shogun: Total War - Mongol Invasion§78.929100§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+444§Medieval: Total War - Viking Invasion§77.114459§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+456§StarCraft: Brood War§89.581981§2§11§Real Time Strategy (RTS)§15§Strategy§
+457§StarCraft II: Heart of the Swarm§86.981442§2§11§Real Time Strategy (RTS)§15§Strategy§
+458§StarCraft II: Legacy of the Void§88.504318§2§11§Real Time Strategy (RTS)§15§Strategy§
+465§Warhammer 40,000: Dawn of War - Winter Assault§73.631844§2§11§Real Time Strategy (RTS)§15§Strategy§
+466§Warhammer 40,000: Dawn of War II§77.455785§2§11§Real Time Strategy (RTS)§15§Strategy§
+467§Warhammer 40,000: Dawn of War - Dark Crusade§78.123218§2§11§Real Time Strategy (RTS)§15§Strategy§
+468§Warhammer 40,000: Dawn of War - Soulstorm§66.741120§2§11§Real Time Strategy (RTS)§15§Strategy§
+469§Warhammer 40,000: Dawn of War II - Chaos Rising§73.864761§2§11§Real Time Strategy (RTS)§15§Strategy§
+470§Warhammer 40,000: Dawn of War II - Retribution§73.890428§2§11§Real Time Strategy (RTS)§15§Strategy§
+587§Act of War: Direct Action§70.154274§2§11§Real Time Strategy (RTS)§15§Strategy§
+596§American Conquest§68.626429§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+599§Age of Empires II: The Conquerors§82.145148§2§11§Real Time Strategy (RTS)§15§Strategy§
+606§Battle Realms§78.112342§2§11§Real Time Strategy (RTS)§15§Strategy§
+613§Battlezone§80.241034§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+640§Codename: Panzers - Phase One§87.206742§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+647§Command \u0026 Conquer§85.097871§2§11§Real Time Strategy (RTS)§15§Strategy§
+648§Command \u0026 Conquer: Red Alert 2 - Yuri\u0027s Revenge§81.668754§2§11§Real Time Strategy (RTS)§15§Strategy§
+649§Command \u0026 Conquer: Generals§80.395920§2§11§Real Time Strategy (RTS)§15§Strategy§
+650§Command \u0026 Conquer: Generals - Zero Hour§83.630315§2§11§Real Time Strategy (RTS)§15§Strategy§
+652§Command \u0026 Conquer: Red Alert - The Aftermath§81.586372§2§11§Real Time Strategy (RTS)§15§Strategy§
+653§Commandos 2: Men of Courage§86.210135§5§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§31§Adventure§
+654§Company of Heroes§85.964446§2§11§Real Time Strategy (RTS)§15§Strategy§
+659§Dark Reign: The Future of War§74.503005§2§11§Real Time Strategy (RTS)§15§Strategy§
+661§Darwinia§70.576801§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+662§Anno 1404§80.229415§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+663§Command \u0026 Conquer: The Covert Operations§78.243584§2§11§Real Time Strategy (RTS)§15§Strategy§
+670§Command \u0026 Conquer 4: Tiberian Twilight§37.570533§2§11§Real Time Strategy (RTS)§15§Strategy§
+676§Command \u0026 Conquer: Red Alert - Counterstrike§81.900437§2§11§Real Time Strategy (RTS)§15§Strategy§
+678§Empires: Dawn of the Modern World§79.995623§2§11§Real Time Strategy (RTS)§15§Strategy§
+681§Europa 1400: The Guild§70.510891§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+682§Europa Universalis II§80.140053§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+683§Europa Universalis III§87.365624§2§11§Real Time Strategy (RTS)§15§Strategy§
+707§Command \u0026 Conquer 3: Kane\u0027s Wrath§79.606585§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+734§Ground Control§81.473958§2§11§Real Time Strategy (RTS)§15§Strategy§
+735§Ground Control II: Operation Exodus§73.926895§3§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+741§Hearts of Iron III§89.461680§2§11§Real Time Strategy (RTS)§15§Strategy§
+749§Homeworld§85.228656§3§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+750§Homeworld 2§87.486983§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+751§Homeworld: Emergence§80.513400§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+759§Command \u0026 Conquer: Red Alert 3 - Uprising§72.869956§2§11§Real Time Strategy (RTS)§15§Strategy§
+766§Kohan II: Kings of War§80.308692§2§11§Real Time Strategy (RTS)§15§Strategy§
+767§Kohan: Immortal Sovereigns§91.063584§2§11§Real Time Strategy (RTS)§15§Strategy§
+775§M.A.X.: Mechanized Assault \u0026 Exploration§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+781§Majesty: The Fantasy Kingdom Sim§79.799326§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+799§Myth II: Soulblighter§80.018981§2§11§Real Time Strategy (RTS)§15§Strategy§
+848§Rise of Nations§81.695744§2§11§Real Time Strategy (RTS)§15§Strategy§
+849§Rise of Nations: Thrones \u0026 Patriots§71.993138§2§11§Real Time Strategy (RTS)§15§Strategy§
+853§Sacrifice§81.460373§2§11§Real Time Strategy (RTS)§15§Strategy§
+860§Seven Kingdoms II: The Fryhtan Wars§79.990020§2§11§Real Time Strategy (RTS)§15§Strategy§
+868§Sid Meier\u0027s Pirates!§81.413007§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
+872§Sins of a Solar Empire§82.502254§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+888§Supreme Commander: Forged Alliance§77.633451§2§11§Real Time Strategy (RTS)§15§Strategy§
+900§Command \u0026 Conquer: Tiberian Sun - Firestorm§84.008796§2§11§Real Time Strategy (RTS)§15§Strategy§
+918§Total Annihilation§82.300701§2§11§Real Time Strategy (RTS)§15§Strategy§
+929§War Wind§73.769443§2§11§Real Time Strategy (RTS)§15§Strategy§
+941§World in Conflict§82.586104§2§11§Real Time Strategy (RTS)§15§Strategy§
+959§Command \u0026 Conquer: Red Alert 3§75.084510§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+964§Stronghold Crusader§83.912328§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+965§Stronghold§82.139782§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+988§Halo Wars§73.972511§2§11§Real Time Strategy (RTS)§15§Strategy§
+1054§Oil Rush§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+1144§Men of War: Assault Squad§79.864367§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+1277§Plants vs. Zombies§78.494973§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+1335§Natural Selection 2§77.800048§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+1357§U.N. Squadron§88.410931§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+1365§AirMech Strike§31.121745§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+1369§Company of Heroes 2§79.931923§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1370§Company of Heroes: Opposing Fronts§83.644636§2§11§Real Time Strategy (RTS)§15§Strategy§
+1371§Company of Heroes: Tales of Valor§83.373078§2§11§Real Time Strategy (RTS)§15§Strategy§
+1378§R.U.S.E.§70.178783§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+1606§Empire Earth III§57.117812§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1608§Empire Earth II§69.405047§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1609§Empire Earth: The Art of Conquest§70.901563§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1624§Theme Hospital§81.287256§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1757§Mega Man Battle Network 3 White§88.498521§2§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§
+1876§Spore§73.209119§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
+1878§War for the Overworld§77.387027§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+1904§Europa Universalis IV§89.921590§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+1921§Black \u0026 White 2§75.908545§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
+2002§Banished§71.324477§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+2007§East vs. West: A Hearts of Iron Game§20.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2009§Arsenal of Democracy§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2011§Crusaders: Thy Kingdom Come§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2012§Darkest Hour: A Hearts of Iron Game§85.393092§2§11§Real Time Strategy (RTS)§15§Strategy§
+2013§East India Company§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2018§A Game of Dwarves§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2027§Sword of the Stars§69.514327§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§
+2036§For the Glory§60.000000§3§10§Racing§11§Real Time Strategy (RTS)§15§Strategy§
+2037§Hearts of Iron II§86.493150§2§11§Real Time Strategy (RTS)§15§Strategy§
+2038§King Arthur: The Role-Playing Wargame§70.209109§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+2039§The Kings Crusade§40.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+2040§Knights of Honor§82.869658§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2043§Majesty 2: The Fantasy Kingdom Sim§61.656524§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2044§Naval War: Arctic Circle§40.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2065§Plague Inc.§74.758826§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+2067§Pirates of Black Cove§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§
+2073§Woody Two-Legs: Attack of the Zombie Pirates§50.000000§1§11§Real Time Strategy (RTS)§
+2108§Sanctum 2§74.886034§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+2116§GrimGrimoire§83.104912§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+2157§LEGO Rock Raiders§70.350069§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+2239§Pikmin§82.569050§2§11§Real Time Strategy (RTS)§31§Adventure§
+2240§Pikmin 2§86.924976§2§11§Real Time Strategy (RTS)§31§Adventure§
+2241§Pikmin 3§79.851793§2§11§Real Time Strategy (RTS)§31§Adventure§
+2243§Savage 2: A Tortured Soul§77.825778§5§4§Fighting§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+2352§Bloodline Champions§84.972896§1§11§Real Time Strategy (RTS)§
+2359§Total War: Rome II§77.016447§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+2360§Artemis: Spaceship Bridge Simulator§80.000000§3§11§Real Time Strategy (RTS)§13§Simulator§32§Indie§
+2524§Eye of the Beholder III: Assault on Myth Drannor§71.388330§2§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§
+2568§Dragon Ball Z: Shin Budokai - Another Road§68.773956§3§4§Fighting§11§Real Time Strategy (RTS)§15§Strategy§
+2592§DEFCON§77.427587§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+2595§Tropico 4§79.633858§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2596§The Settlers II: Veni, Vidi, Vici§82.462679§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2617§The Settlers II: Gold Edition§92.206526§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2619§Fragile Allegiance§70.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2648§LEGO Battles§68.550354§2§11§Real Time Strategy (RTS)§15§Strategy§
+2825§Ninjatown§77.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2902§Dead Island: Epidemic§40.796611§4§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+2905§Divinity: Dragon Commander§68.655360§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+2916§Impire§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+2922§Crusader Kings§85.182131§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2936§March of the Eagles§50.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2950§Age of Empires II: HD Edition§84.636586§2§11§Real Time Strategy (RTS)§15§Strategy§
+2958§Planetary Annihilation§74.539439§2§11§Real Time Strategy (RTS)§15§Strategy§
+2959§Anno 2070§74.902859§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+2968§Dragon Force§86.981676§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§
+2978§Wargame: AirLand Battle§81.302450§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+3017§Age of Empires III: The WarChiefs§80.804351§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3067§Knights and Merchants: The Shattered Kingdom§87.116164§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3081§Evil Genius§74.427386§4§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3099§Door Kickers§71.982384§7§5§Shooter§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+3115§Godus§63.244373§6§2§Point-and-click§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+3129§Gain Ground§70.263908§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§33§Arcade§
+3145§Plants vs. Zombies 2: It\u0027s About Time§71.639023§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§31§Adventure§
+3154§The Lord of the Rings: The Battle for Middle-earth§82.371606§2§11§Real Time Strategy (RTS)§15§Strategy§
+3155§The Lord of the Rings: The Battle for Middle-earth II§82.139637§2§11§Real Time Strategy (RTS)§15§Strategy§
+3156§The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king§85.598346§4§4§Fighting§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+3238§Castle Story§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+3275§Z§70.619215§2§11§Real Time Strategy (RTS)§15§Strategy§
+3276§Z: Steel Soldiers§84.826726§2§11§Real Time Strategy (RTS)§15§Strategy§
+3347§X Rebirth§65.999982§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3568§Ogre Battle 64: Person of Lordly Caliber§95.407374§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§
+3695§The Settlers 7: Paths to a Kingdom§70.245221§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3696§The Settlers III§82.340646§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+3697§The Settlers IV§80.697842§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3698§The Settlers: Heritage of Kings§75.232075§2§11§Real Time Strategy (RTS)§15§Strategy§
+3699§The Settlers II: 10th Anniversary§81.006390§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3700§The Settlers: Rise of an Empire§74.328267§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3797§Battalion Wars§78.514564§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+3930§Generation of Chaos Exceed§25.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+3934§Goblin Commander: Unleash the Horde§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+4050§Odama§69.000000§3§11§Real Time Strategy (RTS)§15§Strategy§30§Pinball§
+4123§KKnD2: Krossfire§73.550322§2§11§Real Time Strategy (RTS)§15§Strategy§
+4222§Battlestations: Pacific§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+4223§Battlestations: Midway§70.307012§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+4582§Yu-Gi-Oh! The Falsebound Kingdom§63.000000§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+4691§Lumines Live!§89.797068§4§7§Music§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+4708§Battalion Wars 2§75.000000§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+4710§Battleship§70.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+4974§Little King\u0027s Story§63.887101§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+5055§Nuclear Dawn§58.286376§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+5384§Advanced Dungeons \u0026 Dragons: Eye of the Beholder§82.029612§2§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§
+5423§PowerMonger§89.373295§2§11§Real Time Strategy (RTS)§15§Strategy§
+5444§PixelJunk Monsters§52.152984§3§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+5447§Stonehearth§75.278862§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+5494§Armored Core: Verdict Day§75.000000§5§4§Fighting§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+5525§Populous: The Beginning§74.983911§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+5570§Strife§46.611572§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§36§MOBA§
+5571§Age of Empires Online§77.714008§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+5572§Men of War: Assault Squad 2§79.913722§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+5587§World of Warships§72.665474§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§24§Tactical§
+5589§Clash of Clans§73.947891§2§11§Real Time Strategy (RTS)§15§Strategy§
+5595§Awesomenauts Assemble!§90.000000§4§4§Fighting§8§Platform§11§Real Time Strategy (RTS)§15§Strategy§
+5598§Super Sanctum TD§70.165993§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+5632§Spacebase DF-9§35.682145§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+5649§Blood Bowl§81.494134§4§11§Real Time Strategy (RTS)§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§
+5720§Aliens Versus Predator: Extinction§68.904834§2§11§Real Time Strategy (RTS)§15§Strategy§
+5840§Full Spectrum Warrior§76.794740§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+5841§Full Spectrum Warrior: Ten Hammers§79.909266§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+5882§Kingdom Under Fire: Heroes§86.274106§3§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§
+5883§Kingdom Under Fire: The Crusaders§63.381720§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§25§Hack and slash/Beat \u0027em up§
+5907§Magic: The Gathering - Battlegrounds§57.611497§2§4§Fighting§11§Real Time Strategy (RTS)§
+6005§Kingdom Rush§76.872201§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+6006§Kingdom Rush Frontiers§71.070015§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+6256§Gratuitous Space Battles§92.899346§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+6258§The Guild 2§79.730401§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+6414§Kingdom Under Fire II§60.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+6844§LEGO Star Wars III: The Clone Wars§73.380741§3§8§Platform§11§Real Time Strategy (RTS)§31§Adventure§
+6919§Bladestorm: The Hundred Years\u0027 War§71.341520§2§11§Real Time Strategy (RTS)§15§Strategy§
+6934§Carrier Command: Gaea Mission§65.000000§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+6985§Three Kingdoms: Fate of the Dragon§79.954136§2§11§Real Time Strategy (RTS)§15§Strategy§
+7021§Iron Sky: Invasion§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+7027§SpellForce: The Order of Dawn§77.082755§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+7031§SpellForce: Shadow of the Phoenix§70.448682§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+7033§SpellForce 2: Shadow Wars§76.082522§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+7037§SpellForce 2: Dragon Storm§70.005743§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+7041§SpellForce 2: Faith in Destiny§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+7193§Star Trek: Legacy§66.235054§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+7197§Stormrise§39.772276§2§11§Real Time Strategy (RTS)§15§Strategy§
+7201§Supreme Commander 2§72.838642§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+7230§Universe at War: Earth Assault§69.262712§2§11§Real Time Strategy (RTS)§15§Strategy§
+7241§Warhammer: Mark of Chaos§60.317393§2§11§Real Time Strategy (RTS)§15§Strategy§
+7260§Desperados: Wanted Dead or Alive§83.542820§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+7261§Desperados 2: Cooper\u0027s Revenge§65.501844§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+7262§Helldorado§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+7322§Lords of the Realm III§40.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+7402§Hoard§59.794285§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+7461§Starhawk§70.013359§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+7468§Tom Clancy\u0027s EndWar§63.071573§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§
+7503§Westward§60.000000§4§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+7510§Pharaoh§86.643653§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+7512§Emperor: Rise of the Middle Kingdom§89.208150§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+7522§0 A.D.§79.634252§3§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+7531§Westward IV: All Aboard§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+7586§King Arthur II: The Role-Playing Wargame§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+7593§Space Rangers 2: Dominators§91.495307§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§33§Arcade§
+7595§Creeper World§98.290516§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+7596§Eufloria§70.797895§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+7676§Ancient Space§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+7687§Battleborn§61.879196§5§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§25§Hack and slash/Beat \u0027em up§
+7720§AI War: Fleet Command§54.577580§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+7811§The History Channel: Great Battles Medieval§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+7812§Patapon§80.076743§3§7§Music§11§Real Time Strategy (RTS)§15§Strategy§
+7813§Patapon 2§79.808440§4§7§Music§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+7870§Boom Beach§60.395344§2§11§Real Time Strategy (RTS)§15§Strategy§
+7892§Guardians of Middle-earth§32.935780§4§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§33§Arcade§
+8111§Anno Online§50.298510§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8190§Defense Grid: The Awakening§71.924498§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+8200§Total War: Attila§70.305767§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+8215§Prismata§70.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§
+8220§Age of Empires III: The Asian Dynasties§81.585004§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8221§Age of Mythology: The Titans§84.908604§2§11§Real Time Strategy (RTS)§15§Strategy§
+8225§Anno 1701§75.532954§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8226§Anno 1701: The Sunken Dragon§80.492029§1§11§Real Time Strategy (RTS)§
+8227§Anno 1404: Venice§80.220920§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8228§Anno 2070: Deep Ocean§70.039858§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8232§Grey Goo§70.292892§2§11§Real Time Strategy (RTS)§15§Strategy§
+8364§InSomnia: The Ark§40.000000§6§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+8374§Aeon Command§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8383§Wargame: European Escalation§73.302080§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+8387§Men of War: Red Tide§69.910359§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+8395§Grand Ages: Rome§72.085039§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8424§Ultimate General: Gettysburg§60.564044§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+8445§Company of Heroes 2: Ardennes Assault§66.108021§2§11§Real Time Strategy (RTS)§15§Strategy§
+8471§Startopia§89.751109§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8498§Army Men: RTS§70.038049§2§11§Real Time Strategy (RTS)§15§Strategy§
+8713§Battlefleet Gothic: Armada§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+8720§Iron Grip: Warlord§80.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8758§Anomaly: Warzone Earth§73.433724§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8759§Anomaly: Warzone Earth - Mobile Campaign§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+8760§Anomaly Korea§55.945503§2§11§Real Time Strategy (RTS)§15§Strategy§
+8773§Homeworld: Remastered Collection§93.385600§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+8785§Haegemonia: Legions of Iron§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8795§Infested Planet§70.245661§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+8849§Dungeons§43.563823§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+8861§Meridian: New World§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8869§Spacecom§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8895§Populous II: Trials of the Olympian Gods§79.896322§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8917§Galcon Fusion§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+8920§Act of Aggression§50.000000§4§11§Real Time Strategy (RTS)§15§Strategy§26§Quiz/Trivia§32§Indie§
+8923§Etherium§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+8925§Sunless Sea§69.401499§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+8926§Tropico 3: Absolute Power§68.293247§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+8931§Earth 2140§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+8932§Earth 2150§79.962921§2§11§Real Time Strategy (RTS)§15§Strategy§
+8935§Earth 2160§53.291470§2§11§Real Time Strategy (RTS)§15§Strategy§
+8964§Perimeter§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9044§Interstellaria§50.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+9058§Praetorians§87.491000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9059§Imperial Glory§76.334096§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+9067§StarCraft 64§80.792827§2§11§Real Time Strategy (RTS)§15§Strategy§
+9226§Dungeon Keeper: The Deeper Dungeons§62.037319§2§11§Real Time Strategy (RTS)§15§Strategy§
+9256§The Lord of the Rings: War of the Ring§66.564265§3§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+9279§Demigod§78.958488§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+9287§iBomber Defense§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9288§iBomber Defense Pacific§62.259435§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9296§Zombie Tycoon 2: Brainhov\u0027s Revenge§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9338§World in Conflict: Soviet Assault§72.863413§2§11§Real Time Strategy (RTS)§15§Strategy§
+9339§Act of War: High Treason§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9360§American Conquest: Fight Back§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9362§Cossacks: The Art of War§72.335642§2§11§Real Time Strategy (RTS)§15§Strategy§
+9363§World War III: Black Gold§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9395§Victory at Sea§60.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9414§Real Warfare 2: Northern Crusades§40.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+9450§Toy Soldiers§68.215216§4§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9459§Tango Fiesta§80.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9460§Stronghold 2§71.967055§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9461§Stronghold 3§46.457294§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9462§Stronghold: Crusader Extreme§70.718665§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9477§Soldiers: Heroes of World War II§77.686952§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+9538§Original War§90.287279§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9542§Poseidon: Master of Atlantis§85.846371§1§11§Real Time Strategy (RTS)§
+9556§Star Ruler§80.000000§4§7§Music§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9588§Revenge of the Titans§79.114741§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9625§LittleWarGame§80.677975§2§11§Real Time Strategy (RTS)§15§Strategy§
+9637§Orcs Must Die! Unchained§75.075365§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+9674§Star Fox 2§69.964095§4§5§Shooter§8§Platform§11§Real Time Strategy (RTS)§15§Strategy§
+9683§Dungeon of the Endless§77.824597§6§8§Platform§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+9691§Tzar: The Burden of the Crown§88.853063§2§11§Real Time Strategy (RTS)§15§Strategy§
+9759§Total War: Warhammer II - Serpent God Edition§89.843435§3§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+9767§Dungeons 2§67.342989§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+9789§RimWorld§85.046222§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+9805§Ogre Battle: The March of the Black Queen§71.277745§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§
+9809§Creeper World 3: Arc Eternal§89.955886§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+9833§Warlords Battlecry II§88.973529§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+9834§Warlords Battlecry III§87.450108§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+9853§UFO: Aftershock§70.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+9854§Men of War§79.908796§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9855§Men of War: Vietnam§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+9856§Real Warfare 1242§40.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9857§Theatre of War§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9858§Theatre of War 2: Africa 1943§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+9859§Theatre of War 3: Korea§40.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9892§Battle of Empires: 1914-1918§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+9895§7th Legion§50.000000§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§
+9898§Total War: Warhammer§85.287060§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+9902§Age of Mythology: Extended Edition§83.557847§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9924§Sins of a Solar Empire: Rebellion§80.196475§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+9926§ParaWorld§82.526097§3§11§Real Time Strategy (RTS)§14§Sport§15§Strategy§
+9932§Stronghold Legends§78.711693§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+9948§Age of Booty§50.167945§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§33§Arcade§
+9950§Age of Empires II: Forgotten Empires§80.254192§2§11§Real Time Strategy (RTS)§15§Strategy§
+9951§Age of Empires II: HD Edition - The Forgotten§80.016394§2§11§Real Time Strategy (RTS)§15§Strategy§
+9981§Apox§40.000000§5§8§Platform§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+9982§Bad Hotel§40.000000§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+10094§Cities XXL§50.052719§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+10107§Corsairs: Conquest at Sea§89.987651§2§11§Real Time Strategy (RTS)§15§Strategy§
+10149§General Chaos§60.415726§2§11§Real Time Strategy (RTS)§15§Strategy§
+10177§Defenders of Ardania§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§33§Arcade§
+10178§Defense Technica§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+10184§Defense Grid 2§75.473098§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+10195§Dragons and Titans§60.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§31§Adventure§32§Indie§
+10242§Blitzkrieg§59.335348§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+10243§Blitzkrieg 3§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+10272§Faces of War§82.746049§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+10387§Habitat§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+10393§Hacker Evolution Duality§40.000000§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+10406§Hegemony Rome: The Rise of Caesar§50.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§32§Indie§
+10459§Ironclad Tactics§60.000000§5§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§32§Indie§
+10484§King Arthur: Fallen Champions§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+10490§Knights and Merchants: The Peasants Rebellion§88.926346§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+10546§Men of War: Condemned Heroes§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+10593§Nemesis of the Roman Empire§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+10637§Offworld Trading Company§68.480054§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+10644§Order of War§51.652568§2§11§Real Time Strategy (RTS)§15§Strategy§
+10646§OTTTD§60.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§33§Arcade§
+10783§Swords \u0026 Soldiers§60.961600§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+10816§Selknam Defense§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+10870§Sins of a Solar Empire: Trinity§60.000000§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+10889§StarDrive§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+10929§Stronghold Crusader II§66.855605§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+11030§Tryst§30.000000§6§7§Music§8§Platform§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+11037§Victoria II§82.001568§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+11104§Battle Realms: Winter of the Wolf§85.652377§2§11§Real Time Strategy (RTS)§15§Strategy§
+11134§Gigantic§69.951700§2§11§Real Time Strategy (RTS)§15§Strategy§
+11200§Guns Up!§61.135236§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+11205§Anno 2205§73.215685§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+11259§Alien Nations§91.266818§2§11§Real Time Strategy (RTS)§15§Strategy§
+11271§Celtic Kings: Rage of War§70.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§
+11336§Warhammer: Dark Omen§79.671290§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§
+11427§18 Wheels of Steel: American Long Haul§60.000000§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+11428§18 Wheels of Steel: Extreme Trucker§60.028881§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+11429§18 Wheels of Steel: Extreme Trucker 2§50.000000§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+11430§Reign: Conflict of Nations§40.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+11436§911: First Responders§80.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+11440§9th Company: Roots of Terror§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+11496§Company of Heroes 2: The British Forces§70.000000§1§11§Real Time Strategy (RTS)§
+11524§Hegemony III: Clash of the Ancients§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+11570§Halo Wars 2§75.365308§2§11§Real Time Strategy (RTS)§15§Strategy§
+11577§Satellite Reign§83.082283§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+11582§Stellaris§78.031013§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+11585§Executive Assault§80.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+11586§Nightside§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+11619§Tiny Troopers§59.990962§5§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+11620§The Guild 2: Renaissance§60.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+11664§ArcheBlade§50.000000§5§4§Fighting§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+11666§Ashes of the Singularity§69.909809§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+11683§Infinite Space§70.305357§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§24§Tactical§34§Visual Novel§
+11814§Grand Ages: Medieval§64.774867§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+11986§Cannon Fodder 2§65.603306§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+12071§Eye of the Beholder II: The Legend of Darkmoon§87.281959§2§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§
+12080§Valhalla Hills§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+12183§Tyrants: Fight Through Time§79.925980§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+12300§Total War Battles: Kingdom§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+12519§Tooth and Tail§90.984518§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+13186§Age of Mythology: Tale of the Dragon§61.454719§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+13213§Cossacks: Back to War§74.130238§2§11§Real Time Strategy (RTS)§15§Strategy§
+13214§Cossacks II: Battle for Europe§64.115316§2§11§Real Time Strategy (RTS)§15§Strategy§
+13215§Cossacks 3§66.246511§2§11§Real Time Strategy (RTS)§15§Strategy§
+13221§Interloper§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+13675§Cannon Brawl§80.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+14075§Warshift§60.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+14415§There Came an Echo§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+14464§The Fall of the Dungeon Guardians§80.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+14524§Starcraft II: Nova Covert Ops§72.161039§2§11§Real Time Strategy (RTS)§15§Strategy§
+14551§Impossible Creatures§76.720389§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+14674§Valkyria Chronicles 2§73.891027§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+14859§Perimeter 2: New Earth§30.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+14882§Prison Tycoon 4: Supermax§40.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+14913§Hinterland§60.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§
+15027§Armada 2526§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+15030§Stronghold Kingdoms§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+15058§A Game of Thrones: Genesis§40.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+15123§Kohan: Ahriman\u0027s Gift§96.040449§2§11§Real Time Strategy (RTS)§15§Strategy§
+15155§Total War: Shogun 2 - Fall of the Samurai§80.479225§2§11§Real Time Strategy (RTS)§15§Strategy§
+15187§Toy Soldiers: War Chest§80.000000§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+15289§Arena Wars 2§40.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+15310§Tower Wars§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+15444§Homeworld: Deserts of Kharak§81.598557§2§11§Real Time Strategy (RTS)§15§Strategy§
+15707§Clash Royale§76.788724§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§35§Card \u0026 Board Game§
+15762§Codename: Panzers - Cold War§64.017634§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+15894§Hearts of Iron IV§79.313594§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+15936§Harvest: Massive Encounter§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16041§Light of Altair§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+16048§Warfare§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+16111§Sacraboar§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16151§Ironclads: High Seas§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+16230§Detour: Highway Simulator§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16255§Super Monday Night Combat§74.174768§5§5§Shooter§11§Real Time Strategy (RTS)§14§Sport§15§Strategy§32§Indie§
+16264§Achron§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16285§Hegemony Gold: Wars of Ancient Greece§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16342§Stellar Impact§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16346§Cubemen§60.000000§4§7§Music§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16400§Blood Bowl: Chaos Edition§61.059334§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§14§Sport§15§Strategy§16§Turn-based strategy (TBS)§
+16528§UFO: Afterlight§66.125615§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+16648§Unholy Heights§80.000000§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+16664§Wargame: Red Dragon§80.005005§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+16679§Maia§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+16691§Kingdom Wars 2: Battles§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+16705§KnightShift§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+16776§Void Destroyer§50.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+16806§Distant Worlds: Universe§60.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+16914§Infectonator : Survivors§50.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+17027§Crush Your Enemies§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17111§Imagine Earth§34.889683§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+17257§OGame§80.088624§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§
+17338§Arcadecraft§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+17343§Warrior Kings§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+17346§Close Combat: Gateway to Caen§50.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+17432§Call to Arms§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+17485§Machines At War 3§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17509§Servo§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17543§Chainsaw Warrior: Lords of the Night§50.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§
+17577§Battle Mages: Sign of Darkness§70.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+17583§SpellForce 3§56.310515§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+17646§Boid§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17671§Direct Hit: Missile War§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17677§Foresight§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17681§All Guns on Deck§40.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+17731§Prophour23§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17750§SunAge: Battle for Elysium§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+17838§War, the Game§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18165§Command \u0026 Conquer: The First Decade§85.964948§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+18179§Particula§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18264§Lock\u0027s Quest§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+18348§Age of War§60.011944§2§11§Real Time Strategy (RTS)§15§Strategy§
+18379§Empires of the Undergrowth§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+18435§Frozen Synapse 2§60.000000§5§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§32§Indie§
+18487§BattleForge§81.819543§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+18494§SimCity 4: Rush Hour§81.263760§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+18538§Zoo Tycoon§66.771301§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+18687§Mushroom Wars§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18727§Transport Fever§89.497285§4§2§Point-and-click§11§Real Time Strategy (RTS)§13§Simulator§24§Tactical§
+18785§Command \u0026 Conquer: Red Alert - Retaliation§40.908992§2§11§Real Time Strategy (RTS)§15§Strategy§
+18797§Rise of Nations: Rise of Legends§79.218709§2§11§Real Time Strategy (RTS)§15§Strategy§
+18855§Armies of Exigo§88.165451§2§11§Real Time Strategy (RTS)§15§Strategy§
+18873§Chicago 1930§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+18879§Horde: The Northern Wind§82.317811§2§11§Real Time Strategy (RTS)§32§Indie§
+18902§Star Trek - Armada§76.389332§2§11§Real Time Strategy (RTS)§15§Strategy§
+18907§8-Bit Armies§80.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+18918§Northgard§70.593081§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§32§Indie§
+18955§Nomad Fleet§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18962§Planetary Annihilation: Titans§70.269742§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18976§Iron Marines§67.688599§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+18980§Warhammer 40,000: Dawn of War III§59.969386§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+19077§Ancient Wars: Sparta§69.147210§2§11§Real Time Strategy (RTS)§15§Strategy§
+19085§Shadow Tactics: Blades of the Shogun§88.744117§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+19124§Lords of the Realm II§80.341617§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+19170§Star Ruler 2§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+19193§MechCommander§77.814818§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+19277§Savage: Resurrection§50.000000§4§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+19319§Curious Expedition§78.006076§7§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+19354§Joint Task Force§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+19546§DropZone§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+19607§VideoBall§60.000000§4§11§Real Time Strategy (RTS)§14§Sport§15§Strategy§32§Indie§
+19767§LEGO Battles: Ninjago§53.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+19820§Fat Princess§69.998461§3§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§
+19899§AirMech: Command§60.000000§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+19939§Blue Dragon Plus§71.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+19975§Swords \u0026 Soldiers II§75.000000§3§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+20070§Aegis of Earth: Protonovus Assault§60.000000§4§9§Puzzle§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+20076§Battlezone 98 Redux§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+20087§AVP: Evolution§90.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§25§Hack and slash/Beat \u0027em up§31§Adventure§
+20203§Codename: Panzers - Phase Two§87.983512§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+20453§Meridian: Squad 22§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+20464§Avalon Lords: Dawn Rises§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+20546§Plants vs. Zombies: GOTY Edition§70.276318§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+20776§Imperium Romanum§69.964494§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+20786§Warhammer: Battle March§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+21189§Desktop Tower Defense§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+21205§Command \u0026 Conquer: Red Alert 3 - Ultimate Edition§67.793305§1§11§Real Time Strategy (RTS)§
+21273§Multiwinia: Survival of the Flattest§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+21411§Firefight§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+21414§8-Bit Hordes§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+21454§Robocalypse§53.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+21494§Sudden Strike 3: Arms for Victory§50.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+21960§Dead Star§59.842326§5§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+22344§Rise of Nations: Extended Edition§79.858905§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+22399§Sudden Strike 4§60.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+22442§Infinium Strike§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+22586§Travian: Legends§69.972257§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+22689§Sunless Sea: Zubmariner§46.410718§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+22830§Army Men II§63.573775§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+22851§Champions of Anteria§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+23077§Anno 1701: Dawn of Discovery§52.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+23178§Smash + Grab§80.000000§2§11§Real Time Strategy (RTS)§25§Hack and slash/Beat \u0027em up§
+23193§Battlerite§79.400062§5§4§Fighting§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§36§MOBA§
+23278§Space Rogue§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+23366§Close Combat: Last Stand Arnhem§60.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+23581§NeuroVoider§79.000000§5§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§32§Indie§33§Arcade§
+23627§Vega Conflict§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+23851§Wandersong§93.490653§5§7§Music§8§Platform§11§Real Time Strategy (RTS)§31§Adventure§32§Indie§
+23905§Starpoint Gemini Warlords§62.569871§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+23990§Out of Ammo§80.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+24128§Metal Fatigue§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+24179§Warrior Kings: Battles§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+24226§Tropico 4: Gold Edition§70.000000§1§11§Real Time Strategy (RTS)§
+24273§Age of Empires: The Age of Kings§69.972448§2§11§Real Time Strategy (RTS)§15§Strategy§
+24277§SpellForce: Platinum Edition§60.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+24411§Galaxy Reavers§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+24528§Majesty Gold HD§80.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+24815§Cold Waters§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+24834§Trollskog§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+24953§Crush Online§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+25062§Supreme Ruler 2020 Gold§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+25120§Incoming§79.658584§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§33§Arcade§
+25221§Children of a Dead Earth§80.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+25491§PixelJunk Monsters Ultimate§80.000000§3§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
+25566§Stellaris: Leviathans§70.719766§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+25581§Iron Harvest§70.001258§2§11§Real Time Strategy (RTS)§15§Strategy§
+25587§House of the Dying Sun§68.274428§6§5§Shooter§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+25648§AI War 2§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+25683§StarCraft: Remastered§85.726578§2§11§Real Time Strategy (RTS)§15§Strategy§
+25741§Ashes of the Singularity: Escalation§70.040324§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§32§Indie§
+25850§Hunger Dungeon§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+25903§Screeps§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+25951§Ultimate General: Civil War§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+26183§Halo Wars: Definitive Edition§76.984291§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+26241§The Exiled§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+26551§Fracture the Flag§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+26593§8-Bit Invaders!§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+26810§Siegecraft Commander§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+26814§18 Wheels of Steel: Across America§70.000000§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+27053§Stellaris: Utopia§80.629482§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+27091§Foxhole§70.003389§5§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+27150§Minion Masters§66.540689§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§31§Adventure§32§Indie§
+27333§8-Bit Armies: Arena§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+27353§Dungeons 3§78.236553§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
+27359§Tower of Time§70.284328§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§31§Adventure§32§Indie§
+27408§Heroes of Delum§70.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+27475§Steel Division: Normandy 44§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+27694§Empires Apart§59.521444§2§11§Real Time Strategy (RTS)§15§Strategy§
+27793§All Walls Must Fall§70.000000§7§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§24§Tactical§32§Indie§33§Arcade§
+27828§Imperium Romanum: Gold Edition§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+27830§The Settlers: Rise of an Empire - Gold Edition§55.048723§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+27847§XIII Century: Gold Edition§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+27946§Sengoku§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§
+28028§Total War: Warhammer II§82.247288§2§11§Real Time Strategy (RTS)§15§Strategy§
+28060§Corroded§70.000000§4§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§32§Indie§
+28264§Valhalla Hills: Definitive Edition§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+28286§Masters of Anima§74.008504§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
+28325§Hearthlands§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+28362§Wyrmsun§70.000000§4§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§32§Indie§
+28723§Age of Empires III: Complete Collection§78.987112§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+28794§Ancestors Legacy§70.935227§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+28819§Heroes Evolved§40.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§36§MOBA§
+28981§Warhammer 40,000: Dawn of War - Game of the Year Edition§83.570176§2§11§Real Time Strategy (RTS)§15§Strategy§
+28983§Medieval II: Total War - Gold Edition§85.015392§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+29009§Lords Mobile§80.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+29092§The Archotek Project§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+29123§Empires§60.000000§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+29193§BC Kings§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+29209§SpellForce 2: Anniversary Edition§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+29211§Stronghold Crusader HD§83.929832§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+29330§Land Doctrine§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+29770§Total War: Rome II - Emperor Edition§82.209338§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§
+29772§MegaGlest§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+30229§Bannermen§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+30238§Earth 2150 Trilogy§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+31253§Reconquest§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+31480§Command Ops 2§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+31679§Atomic Society§70.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+31696§18 Wheels of Steel: Convoy§79.347300§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+31697§18 Wheels of Steel: Haulin\u0027§50.000000§3§10§Racing§11§Real Time Strategy (RTS)§13§Simulator§
+31726§The Pirate: Caribbean Hunt§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+31973§Warcube§80.000000§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§25§Hack and slash/Beat \u0027em up§31§Adventure§32§Indie§
+32256§Divided We Fall§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+32361§The Dark Legions§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+32461§Syrian Warfare§57.969283§4§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§32§Indie§
+32680§Legion TD 2§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+32768§Uprising: Join or Die§60.000000§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+33074§Soulcaster: Part I \u0026 II§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+33303§Seven Kingdoms: Ancient Adversaries§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+34171§Mytheon§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§31§Adventure§
+34213§Day D: Tower Rush§50.000000§4§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+34269§Forts§50.714066§2§11§Real Time Strategy (RTS)§15§Strategy§
+34549§Business Tour§58.463914§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+34786§Mitos.is: The Game§60.017082§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+35179§Way of Gold and Steel§50.000000§4§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§32§Indie§
+35312§FleetComm§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+35328§Close Combat : Panthers in the Fog§50.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+35362§Company of Heroes 2: Platinum Edition§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+35591§Cuban Missile Crisis§50.000000§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+35592§Desert Law§50.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+35596§Star Wars: Galactic Battlegrounds Saga§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+35676§Locoland§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+35841§Deadhold§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+35894§Medieval: Total War - Gold Edition§50.000000§4§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+36260§Blitzkrieg 2 Anthology§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36363§Undead Overlord§40.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+36374§Company of Heroes 2: The Western Front Armies - US Forces§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36375§Company of Heroes 2: The Western Front Armies - Oberkommando West§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36382§Shannon Tweed\u0027s Attack of the Groupies§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36455§Warhammer 40,000: Dawn of War II - Retribution: Last Stand§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36607§Argo§60.615264§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+36616§They Are Billions§73.191101§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+36705§Sudden Strike 2 Gold§60.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36717§Sudden Strike Gold§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+36932§Mayday: Conflict Earth§88.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+37059§Age of Empires: Definitive Edition§84.933726§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+37063§South Park: Phone Destroyer§70.077050§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§16§Turn-based strategy (TBS)§35§Card \u0026 Board Game§
+37066§Starlink: Battle for Atlas§70.314204§7§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§33§Arcade§
+39257§DomiNations§70.019920§2§11§Real Time Strategy (RTS)§15§Strategy§
+41496§Kingdom Rush Origins§70.806219§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+43334§Home Wars§60.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+44102§Total War Saga: Thrones of Britannia§72.342542§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+46457§Emergency 3§70.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+46986§StarCraft II: Trilogy§91.487467§1§11§Real Time Strategy (RTS)§
+47076§Age of Empires: Gold Edition§83.361171§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
+47168§HyperNova: Escape from Hadea§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+47925§JAM sessions§45.000000§4§7§Music§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+50092§Ymir§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+51199§Dark Colony§61.491294§5§4§Fighting§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§
+51206§SpellForce: The Breath of Winter§69.981274§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+51755§Deadnaut§60.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+54817§Hyper Universe§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+55029§Age of Empires IV§74.610123§2§11§Real Time Strategy (RTS)§15§Strategy§
+55036§Anno 1800§87.085352§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+55056§Age of Empires II: Definitive Edition§90.522681§2§11§Real Time Strategy (RTS)§15§Strategy§
+55057§Age of Empires III: Definitive Edition§86.312518§2§11§Real Time Strategy (RTS)§15§Strategy§
+55678§Door Kickers: Action Squad§76.359644§7§5§Shooter§8§Platform§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+55877§Depraved§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+56014§Kingdoms of Heckfire§80.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+56021§Skirmish Line§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+58075§Girls\u0027 Frontline§46.034484§6§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§24§Tactical§
+58634§Battle Ages§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+60777§Call of Duty: Heroes§59.842106§2§11§Real Time Strategy (RTS)§15§Strategy§
+61163§Demon King Box§72.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+61230§Bug Heroes 2§20.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+62922§Grepolis§69.855161§2§11§Real Time Strategy (RTS)§15§Strategy§
+62923§Forge of Empires§76.998322§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+67600§Marshmallow Melee§70.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+67852§Yggdra Unison: Seiken Buyuuden§85.000000§1§11§Real Time Strategy (RTS)§
+68158§Age of Empires II: HD Edition - The African Kingdoms§79.961560§2§11§Real Time Strategy (RTS)§15§Strategy§
+68819§Rising Kingdoms§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+69455§Driftland: The Magic Revival§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+70843§Rusted Warfare§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+70844§Paladins Strike§38.447830§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+74528§Forged Battalion§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+75016§Lazy Galaxy§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+75298§Age of Empires II: HD Edition - Rise of the Rajas§80.004988§2§11§Real Time Strategy (RTS)§15§Strategy§
+75895§Taste of Power§60.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+76066§Golem Gates§70.000000§3§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§
+76192§Summer Islands§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+76424§Battlezone Combat Commander§70.000000§3§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§
+76473§Combat Mission: Battle for Normandy§70.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+77210§Warcraft II: The Dark Saga§80.007569§2§11§Real Time Strategy (RTS)§15§Strategy§
+77752§Creeper World 4§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+78550§Bad North§76.891792§6§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+80961§Total War: Three Kingdoms§80.255445§3§11§Real Time Strategy (RTS)§15§Strategy§16§Turn-based strategy (TBS)§
+81352§Re-Legion§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+81634§War Party§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+83844§Battlefleet Gothic: Armada 2§59.339866§2§11§Real Time Strategy (RTS)§15§Strategy§
+84532§Company of Heroes: Legacy Edition§80.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+84696§New Play Control! Pikmin§86.000000§2§11§Real Time Strategy (RTS)§31§Adventure§
+84697§New Play Control! Pikmin 2§90.000000§2§11§Real Time Strategy (RTS)§31§Adventure§
+86454§Close Combat: The Bloody First§60.000000§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+86493§The Settlers§57.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+86652§Stronghold HD§80.066920§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+87190§Command \u0026 Conquer: Generals - Deluxe Edition§70.000000§1§11§Real Time Strategy (RTS)§
+87701§Starfront: Collision§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+88250§Undead Horde§64.179397§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+90095§Stellaris: Apocalypse§81.922732§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+90270§Death Crown§85.009992§6§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§35§Card \u0026 Board Game§
+93832§Star Wars: Empire at War - Gold Pack§77.304752§2§11§Real Time Strategy (RTS)§15§Strategy§
+95386§PixelJunk Monsters 2§69.633028§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+96094§Eximius: Seize the Frontline§50.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+96204§Sea Salt§79.804504§4§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§32§Indie§
+101460§Speed Brawl§70.000000§8§4§Fighting§8§Platform§10§Racing§11§Real Time Strategy (RTS)§25§Hack and slash/Beat \u0027em up§31§Adventure§32§Indie§33§Arcade§
+101699§Yorg.io§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+102060§Imperator: Rome§60.609931§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§24§Tactical§
+103290§Gears Pop!§43.655428§1§11§Real Time Strategy (RTS)§
+103651§Swords \u0026 Soldiers II: Shawarmageddon§60.000000§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§33§Arcade§
+104004§Victory At Sea Pacific§50.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+104819§Mutant Football League: Dynasty Edition§87.000000§4§4§Fighting§11§Real Time Strategy (RTS)§14§Sport§33§Arcade§
+104937§Circle Empires§68.178670§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+105010§Poly Universe§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+106112§Steel Division 2§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+107218§Desperados III§86.966105§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+107723§Touhou Big Big Battle§70.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+107875§Radio Commander§80.000000§5§9§Puzzle§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+108656§Shortest Trip to Earth§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§32§Indie§
+109035§Armored Brigade§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
+110573§Executive Assault 2§80.000000§4§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+110879§Starport Delta§60.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+111331§Stellaris: MegaCorp§83.309287§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+111650§Warcraft III: Reforged§59.112533§1§11§Real Time Strategy (RTS)§
+111717§One Step From Eden§77.331185§6§5§Shooter§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§31§Adventure§32§Indie§
+111928§Loria§70.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+112104§Command \u0026 Conquer Remastered Collection§85.008324§2§11§Real Time Strategy (RTS)§15§Strategy§
+112773§Starblazer§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+113161§Spuds Unearthed§70.000000§6§5§Shooter§11§Real Time Strategy (RTS)§15§Strategy§31§Adventure§32§Indie§33§Arcade§
+113208§Conan Unconquered§50.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+114152§SD Gundam G Generation Cross Rays§45.195394§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§
+114758§S.W.I.N.E. HD Remaster§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+115130§Galaxy Trucker: Extended Edition§70.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+115512§Pax Romana§70.000000§4§11§Real Time Strategy (RTS)§13§Simulator§31§Adventure§32§Indie§
+116212§A Year of Rain§50.000000§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§32§Indie§
+119368§Stronghold: Warlords§55.826700§3§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
+119381§Commandos 2: HD Remaster§50.000000§3§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§
+119382§Praetorians HD Remaster§70.000000§2§11§Real Time Strategy (RTS)§15§Strategy§
+122064§Necronator: Dead Wrong§70.000000§4§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§35§Card \u0026 Board Game§
+122649§A Total War Saga: Troy§69.853683§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§16§Turn-based strategy (TBS)§
+122659§Bad North: Jotunn Edition§57.678039§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§32§Indie§
+123395§Arknights§88.506984§6§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§13§Simulator§15§Strategy§24§Tactical§31§Adventure§
+123748§Rebel Inc: Escalation§80.000000§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+124215§Circle Empires Rivals§80.000000§3§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
+127782§Warcraft II: Battle.net Edition§89.911554§2§11§Real Time Strategy (RTS)§15§Strategy§
+129797§Age of Empires II: Gold Edition§86.450011§3§2§Point-and-click§11§Real Time Strategy (RTS)§15§Strategy§
+131676§RimWorld: Royalty§80.813040§4§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§
+132380§Rover Wars: Battle For Mars§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§36§MOBA§
+136498§Pikmin 3 Deluxe§82.814082§2§11§Real Time Strategy (RTS)§31§Adventure§
+143114§Total War: Warhammer III§79.477890§2§11§Real Time Strategy (RTS)§15§Strategy§
+145060§Shadow Tactics: Blades of the Shogun - Aiko’s Choice§80.356619§6§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§24§Tactical§31§Adventure§32§Indie§
+159424§Age of Darkness: Final Stand§71.544987§2§11§Real Time Strategy (RTS)§15§Strategy§
+196789§Supremacy: The Metaverse Game§87.842605§5§4§Fighting§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§24§Tactical§
