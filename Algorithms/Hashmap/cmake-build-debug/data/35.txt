@@ -1,4 +1,4 @@
-35|Card \u0026 Board Game
+35`Card \u0026 Board Game
 332`Monopoly`66.021764`1`35`Card \u0026 Board Game`
 1279`Hearthstone`79.189854`3`15`Strategy`16`Turn-based strategy (TBS)`35`Card \u0026 Board Game`
 1891`Magic: The Gathering - Duels of the Planeswalkers 2013`72.149352`4`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`35`Card \u0026 Board Game`
