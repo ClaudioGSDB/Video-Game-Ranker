@@ -1,6 +1,0 @@
-# ninja log v5
-0	212	7039808413076127	CMakeFiles/Algorithms.dir/main.cpp.obj	fbcd004a02a5744f
-214	300	7039808413919116	Algorithms.exe	ef6b7063b883fc52
-2	111	7039811703847200	build.ninja	de0b2cf81204f514
-0	195	7039811706286657	CMakeFiles/Algorithms.dir/Src/main.cpp.obj	a0f1ab9cf526251
-195	254	7039811706842673	Algorithms.exe	2d0326e3fed8fe0
