@@ -1,8 +1,10 @@
 #include <iostream>
+#include "ReadData.h"
+#include "DataNode.h"
 
 int main()
 {
-    std::string hey = "hey";
-    std::cout<<"Hello, World!"<<std::endl;
+    map<int, string> genres;
+    DataNode game(1, "A", 1.0, genres);
     return 0;
 }
