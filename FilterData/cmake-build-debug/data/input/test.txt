@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief II: The Metal Age",
+    "rating": 86.6902706277657
+  },
+  {
+    "id": 2,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Thief: The Dark Project",
+    "rating": 86.52878345378889
+  },
