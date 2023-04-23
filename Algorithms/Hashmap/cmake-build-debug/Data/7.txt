@@ -1,478 +1,478 @@
 7|Music
-212§Brütal Legend§73.197481§5§7§Music§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§31§Adventure§
-1285§Guitar Hero§83.527893§1§7§Music§
-1570§Jet Set Radio Future§83.391491§4§7§Music§8§Platform§10§Racing§14§Sport§
-1892§Pid§60.004459§5§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§
-2259§Boom Blox§86.020317§2§7§Music§9§Puzzle§
-2629§Guitar Hero: Warriors of Rock§74.555198§1§7§Music§
-2664§Just Dance 2§69.947156§1§7§Music§
-2669§Guitar Hero World Tour§74.370936§1§7§Music§
-2670§Guitar Hero II§84.079157§1§7§Music§
-2671§Guitar Hero III: Legends of Rock§84.104292§2§7§Music§13§Simulator§
-2672§Guitar Hero 5§71.522552§1§7§Music§
-2673§Guitar Hero: Aerosmith§74.003843§1§7§Music§
-2674§Guitar Hero: Metallica§78.724527§1§7§Music§
-2675§Guitar Hero: Van Halen§60.459614§1§7§Music§
-2676§Guitar Hero Encore: Rocks the 80s§70.740848§2§7§Music§13§Simulator§
-2677§Guitar Hero: Smash Hits§63.597886§1§7§Music§
-2678§Band Hero§69.145593§1§7§Music§
-2679§DJ Hero§78.672799§1§7§Music§
-2680§DJ Hero 2§76.224954§1§7§Music§
-2685§Rock Band§81.802741§1§7§Music§
-2691§Rock Band 3§82.509741§1§7§Music§
-2692§Rock Band 2§87.129245§1§7§Music§
-2693§The Beatles: Rock Band§85.697942§1§7§Music§
-2694§Green Day: Rock Band§71.301579§1§7§Music§
-2695§LEGO Rock Band§69.190476§1§7§Music§
-2696§Rock Band Blitz§71.341442§2§7§Music§33§Arcade§
-2697§Rocksmith§81.628742§2§7§Music§13§Simulator§
-2704§Just Dance§59.929477§1§7§Music§
-2705§Just Dance 3§74.949072§1§7§Music§
-2721§Rock Band Unplugged§69.880027§1§7§Music§
-2745§Rayman Raving Rabbids 2§66.006874§3§7§Music§8§Platform§9§Puzzle§
-2768§SpongeBob SquarePants: Lights, Camera, Pants!§63.097450§1§7§Music§
-2849§All Star Cheer Squad§45.000000§2§7§Music§13§Simulator§
-2956§Audiosurf§74.848845§3§7§Music§9§Puzzle§32§Indie§
-3012§Osu!§73.488422§2§7§Music§32§Indie§
-3088§Rocksmith 2014§87.530725§1§7§Music§
-3108§Sing Party§63.000000§1§7§Music§
-3151§Electronic Super Joy§73.913101§6§5§Shooter§7§Music§8§Platform§31§Adventure§32§Indie§33§Arcade§
-3244§Wii Music§62.840360§1§7§Music§
-3251§Super Hexagon§79.782815§3§7§Music§32§Indie§33§Arcade§
-3254§Just Dance: Disney Party§70.000000§1§7§Music§
-3255§Just Dance 4§80.071750§1§7§Music§
-3256§Just Dance 2014§79.531996§1§7§Music§
-3300§Just Dance Kids 2§70.000000§1§7§Music§
-3301§Just Dance Kids 2014§60.000000§1§7§Music§
-3302§The Black Eyed Peas Experience§75.000000§1§7§Music§
-3679§Dance Dance Revolution§79.827586§2§7§Music§13§Simulator§
-3680§Dance Dance Revolution Mario Mix§78.545125§1§7§Music§
-3705§Zumba Fitness§70.000000§2§7§Music§14§Sport§
-3889§Donkey Konga§70.842160§2§7§Music§13§Simulator§
-3890§Donkey Konga 2§80.013848§2§7§Music§13§Simulator§
-3891§Donkey Konga 3: All You Can Eat! Spring 50 Music Works Mix§72.000000§2§7§Music§13§Simulator§
-3940§Happy Feet§50.578294§3§7§Music§14§Sport§31§Adventure§
-4075§Puyo Pop Fever§75.141226§3§7§Music§9§Puzzle§15§Strategy§
-4138§Bust A Groove§67.503952§1§7§Music§
-4139§Bust A Groove 2§81.429202§2§4§Fighting§7§Music§
-4669§Alvin and the Chipmunks§70.000000§2§7§Music§9§Puzzle§
-4670§Alvin and the Chipmunks: Chipwrecked§75.000000§1§7§Music§
-4671§Alvin and the Chipmunks: The Squeakquel§55.000000§2§7§Music§31§Adventure§
-4690§Lumines II§79.286129§3§7§Music§9§Puzzle§15§Strategy§
-4691§Lumines Live!§89.797068§4§7§Music§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
-4693§Lumines Electronic Symphony§78.755053§2§7§Music§9§Puzzle§
-4719§Bit.Trip Complete§86.000000§2§5§Shooter§7§Music§
-4803§Def Jam Rapstar§80.000000§2§7§Music§13§Simulator§
-4807§Disney Sing It§60.000000§1§7§Music§
-4912§High School Musical 3: Senior Year Dance§45.000000§2§7§Music§31§Adventure§
-5006§Michael Jackson: The Experience§73.000000§2§7§Music§14§Sport§
-5122§Rhythm Heaven Fever§79.231745§1§7§Music§
-5308§Zumba Fitness World Party§65.000000§2§7§Music§14§Sport§
-5498§BandFuse: Rock Legends§80.000000§1§7§Music§
-5577§Lyne§56.483375§3§7§Music§9§Puzzle§32§Indie§
-5592§Runner2: Future Legend of Rhythm Alien§70.316302§4§7§Music§8§Platform§32§Indie§33§Arcade§
-5679§Theatrhythm Final Fantasy: Curtain Call§80.226998§2§7§Music§12§Role-playing (RPG)§
-6080§PaRappa the Rapper§83.527606§1§7§Music§
-6081§Um Jammer Lammy§71.453357§1§7§Music§
-6082§PaRappa the Rapper 2§76.145257§1§7§Music§
-6200§The Nightmare Before Christmas: Oogie\u0027s Revenge§69.265779§2§7§Music§31§Adventure§
-6246§Bit.Trip Runner§72.226965§4§7§Music§8§Platform§32§Indie§33§Arcade§
-6402§NES Remix 2§82.000000§7§4§Fighting§7§Music§8§Platform§10§Racing§14§Sport§31§Adventure§33§Arcade§
-6467§AC/DC Live: Rock Band - Track Pack§69.874780§2§7§Music§13§Simulator§
-6557§Rhythm Tengoku§81.858609§1§7§Music§
-6602§Space Channel 5§70.899346§2§7§Music§31§Adventure§
-6603§Space Channel 5: Part 2§78.265816§2§7§Music§31§Adventure§
-6777§The Impossible Game§79.958617§4§7§Music§8§Platform§32§Indie§33§Arcade§
-6779§Dance Dance Revolution Supernova§70.078310§2§7§Music§33§Arcade§
-6780§Dance Dance Revolution Supernova 2§79.979489§2§7§Music§33§Arcade§
-6902§Theatrhythm: Final Fantasy§79.890722§2§7§Music§12§Role-playing (RPG)§
-6936§Child of Eden§63.043012§2§5§Shooter§7§Music§
-6953§Dance Dance Revolution Universe§55.000000§1§7§Music§
-6954§Dance Dance Revolution Universe 2§65.000000§1§7§Music§
-6955§Dance Dance Revolution Universe 3§65.000000§1§7§Music§
-6964§Def Jam: Icon§79.120009§2§4§Fighting§7§Music§
-6973§Dreamcast Collection§75.000000§2§7§Music§33§Arcade§
-7006§Hannah Montana: The Movie§50.000000§1§7§Music§
-7053§Lips: Number One Hits§60.000000§1§7§Music§
-7087§Beatbuddy: Tale of the Guardians§62.336244§5§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§
-7088§Guitar Hero: On Tour§58.475152§1§7§Music§
-7089§Guitar Hero: On Tour - Decades§47.762280§1§7§Music§
-7090§Guitar Hero: On Tour - Modern Hits§72.000000§2§7§Music§13§Simulator§
-7163§Rock of the Dead§65.000000§2§5§Shooter§7§Music§
-7164§Rock Revolution§45.000000§1§7§Music§
-7380§Entwined§56.834219§2§7§Music§33§Arcade§
-7401§Symphony§75.291799§3§7§Music§32§Indie§33§Arcade§
-7404§Beat Hazard§80.303573§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-7634§Rush§85.920079§5§7§Music§9§Puzzle§15§Strategy§31§Adventure§32§Indie§
-7683§KickBeat§70.002111§3§4§Fighting§7§Music§32§Indie§
-7724§.Detuned§21.584797§2§7§Music§32§Indie§
-7729§Sound Shapes§73.946004§4§7§Music§8§Platform§9§Puzzle§15§Strategy§
-7812§Patapon§80.076743§3§7§Music§11§Real Time Strategy (RTS)§15§Strategy§
-7813§Patapon 2§79.808440§4§7§Music§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§
-7886§Crypt of the NecroDancer§75.746821§4§7§Music§12§Role-playing (RPG)§31§Adventure§32§Indie§
-7963§Mevo and the Grooveriders§70.000000§4§7§Music§8§Platform§31§Adventure§32§Indie§
-8167§Rhythm Heaven§86.692557§1§7§Music§
-8203§Mario Paint§73.025913§3§7§Music§9§Puzzle§13§Simulator§
-8267§Stuntman§60.169109§4§7§Music§8§Platform§10§Racing§14§Sport§
-8439§Karmaflow: The Rock Opera Videogame§50.000000§5§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§
-8560§Kinect Star Wars§57.913648§5§4§Fighting§7§Music§15§Strategy§31§Adventure§32§Indie§
-8605§Gunman Clive 2§73.643490§5§5§Shooter§7§Music§8§Platform§31§Adventure§32§Indie§
-9011§Rhythm Destruction§50.000000§5§5§Shooter§7§Music§10§Racing§31§Adventure§32§Indie§
-9109§Elite Beat Agents§79.171304§2§7§Music§14§Sport§
-9132§Dyad§80.000000§8§5§Shooter§7§Music§9§Puzzle§10§Racing§14§Sport§15§Strategy§32§Indie§33§Arcade§
-9497§140§70.726905§5§7§Music§8§Platform§9§Puzzle§15§Strategy§32§Indie§
-9535§Bit.Trip Beat§58.724680§4§7§Music§9§Puzzle§32§Indie§33§Arcade§
-9555§Audition Online§79.978453§1§7§Music§
-9556§Star Ruler§80.000000§4§7§Music§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
-9610§Taiko no Tatsujin DS: Touch de Dokodon!§78.000000§1§7§Music§
-9626§Hatsune Miku: Project Diva F 2nd§80.499733§1§7§Music§
-9639§Weapon Shop de Omasse§69.000000§5§7§Music§12§Role-playing (RPG)§13§Simulator§15§Strategy§31§Adventure§
-9676§Vib-Ribbon§73.832046§1§7§Music§
-9707§Audiosurf 2§76.859267§2§7§Music§32§Indie§
-9741§Guitar Hero Live§75.543101§1§7§Music§
-9751§Victorious: Time to Shine§70.000000§1§7§Music§
-9780§Before the Echo§80.758966§3§7§Music§12§Role-playing (RPG)§32§Indie§
-9845§Frederic: Evil Strikes Back§80.000000§3§7§Music§31§Adventure§32§Indie§
-9846§Frederic: Resurrection of Music§80.000000§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-9881§Circuits§65.617940§3§7§Music§9§Puzzle§32§Indie§
-10088§Hohokum§70.132806§3§7§Music§31§Adventure§32§Indie§
-10091§Hatsune Miku: Project Mirai DX§81.272993§1§7§Music§
-10128§Rock Band 4§71.964638§2§7§Music§13§Simulator§
-10373§Azure Striker Gunvolt§73.365444§5§5§Shooter§7§Music§8§Platform§31§Adventure§32§Indie§
-10511§Let\u0027s Sing§50.000000§2§7§Music§32§Indie§
-10960§Thumper§75.619463§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-11030§Tryst§30.000000§6§7§Music§8§Platform§9§Puzzle§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
-11056§Persona 4: Dancing All Night§70.357933§1§7§Music§
-11081§Amplitude§73.236587§2§7§Music§33§Arcade§
-11122§ToeJam \u0026 Earl: Back in the Groove§80.000000§3§7§Music§31§Adventure§32§Indie§
-11206§Just Dance 2016§77.178626§1§7§Music§
-11244§Rez§86.080140§2§5§Shooter§7§Music§
-11338§Gitaroo Man§83.848065§1§7§Music§
-11435§6180 The Moon§80.000000§6§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§33§Arcade§
-11530§Senran Kagura Bon Appétit!§79.206360§1§7§Music§
-11626§Sentinel§50.000000§5§7§Music§9§Puzzle§15§Strategy§24§Tactical§32§Indie§
-11642§Geometry Dash§77.265213§5§7§Music§8§Platform§31§Adventure§32§Indie§33§Arcade§
-11736§Mountain§45.895352§4§7§Music§12§Role-playing (RPG)§13§Simulator§32§Indie§
-11754§Hatsune Miku: Project Diva§70.300856§1§7§Music§
-11755§Hatsune Miku: Project Diva 2nd§83.261241§1§7§Music§
-11767§Hatsune Miku: Project Diva Extend§79.664513§1§7§Music§
-11768§Hatsune Miku: Project Diva F§70.094999§1§7§Music§
-11798§Evoland 2§80.048920§9§4§Fighting§7§Music§8§Platform§12§Role-playing (RPG)§15§Strategy§16§Turn-based strategy (TBS)§25§Hack and slash/Beat \u0027em up§31§Adventure§32§Indie§
-12078§Hatsune Miku: Project Diva X§70.412148§1§7§Music§
-12875§Superbeat: Xonic§83.000000§2§7§Music§33§Arcade§
-12885§Laserlife§60.000000§2§7§Music§32§Indie§
-12890§Sound Shift§60.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-12976§Panoramical§80.000000§2§7§Music§32§Indie§
-13234§Karnov§63.163534§4§5§Shooter§7§Music§8§Platform§31§Adventure§
-13673§Micron§80.000000§4§7§Music§9§Puzzle§30§Pinball§32§Indie§
-14400§Cosmic DJ§80.000000§2§7§Music§32§Indie§
-14408§Soundodger+§80.000000§2§7§Music§32§Indie§
-14848§The UnderGarden§50.000000§3§7§Music§9§Puzzle§31§Adventure§
-14911§Everyday Shooter§80.000000§3§5§Shooter§7§Music§32§Indie§
-14954§Raycatcher§30.000000§2§7§Music§32§Indie§
-15091§SingStar§59.703967§1§7§Music§
-15094§Singstar: \u002780s§79.822224§1§7§Music§
-15120§The Tiny Bang Story§73.746337§4§7§Music§9§Puzzle§31§Adventure§32§Indie§
-15280§Bit.Trip Core§50.000000§5§5§Shooter§7§Music§9§Puzzle§32§Indie§33§Arcade§
-15281§Bit.Trip Flux§50.000000§5§7§Music§8§Platform§9§Puzzle§32§Indie§33§Arcade§
-15282§Auditorium§80.000000§4§7§Music§9§Puzzle§15§Strategy§32§Indie§
-15284§Cladun X2§80.000000§3§7§Music§12§Role-playing (RPG)§32§Indie§
-15288§AVSEQ§50.000000§3§7§Music§9§Puzzle§32§Indie§
-15326§The Way of Life§66.167953§4§4§Fighting§7§Music§31§Adventure§32§Indie§
-15386§Bit.Trip Void§60.000000§5§5§Shooter§7§Music§9§Puzzle§32§Indie§33§Arcade§
-15387§Bit.Trip Fate§50.000000§5§5§Shooter§7§Music§9§Puzzle§32§Indie§33§Arcade§
-15545§Vector§73.585470§4§7§Music§8§Platform§32§Indie§33§Arcade§
-15559§Just Dance 2015§88.756190§1§7§Music§
-15561§The Hip Hop Dance Experience§70.000000§1§7§Music§
-15854§Fract Osc§69.763918§4§7§Music§9§Puzzle§31§Adventure§32§Indie§
-15905§Chiptune Champion§80.000000§3§7§Music§32§Indie§33§Arcade§
-15938§1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby§40.000000§2§7§Music§32§Indie§
-15992§Musaic Box§70.000000§3§7§Music§9§Puzzle§32§Indie§
-16133§LoveBeat§60.000000§1§7§Music§
-16191§Turba§40.000000§5§7§Music§9§Puzzle§13§Simulator§15§Strategy§32§Indie§
-16196§Chime§79.837518§3§7§Music§9§Puzzle§32§Indie§
-16212§The Polynomial§59.397087§3§5§Shooter§7§Music§32§Indie§
-16305§My Singing Monsters§78.267381§3§7§Music§13§Simulator§15§Strategy§
-16346§Cubemen§60.000000§4§7§Music§11§Real Time Strategy (RTS)§15§Strategy§32§Indie§
-16431§Retro/Grade§77.080628§3§5§Shooter§7§Music§32§Indie§
-16526§Intake§80.000000§3§5§Shooter§7§Music§32§Indie§
-16775§Finding Teddy§69.939149§4§7§Music§9§Puzzle§31§Adventure§32§Indie§
-16933§Melody\u0027s Escape§77.466249§3§7§Music§8§Platform§32§Indie§
-17445§Sentris§60.000000§4§7§Music§9§Puzzle§13§Simulator§32§Indie§
-17537§Borealis§30.714286§3§7§Music§32§Indie§33§Arcade§
-17907§Chime Sharp§70.000000§3§7§Music§9§Puzzle§33§Arcade§
-18127§Electric Highways§64.479240§3§7§Music§31§Adventure§32§Indie§
-18139§Michael Jackson\u0027s Moonwalker§66.205758§5§5§Shooter§7§Music§8§Platform§25§Hack and slash/Beat \u0027em up§33§Arcade§
-18156§HarmoKnight§62.457575§2§7§Music§8§Platform§
-18220§Rhythm Heaven Megamix§80.397712§1§7§Music§
-18248§Beat City§60.000000§1§7§Music§
-18340§Electroplankton§61.025885§2§7§Music§13§Simulator§
-18373§Patapon 3§70.153484§2§7§Music§15§Strategy§
-18637§Aaero§69.815474§3§5§Shooter§7§Music§32§Indie§
-18723§Frog Fractions§70.364234§4§5§Shooter§7§Music§13§Simulator§32§Indie§
-18752§Klang§60.000000§3§7§Music§8§Platform§32§Indie§
-18828§No Thing§31.168093§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-18909§Goscurry§70.000000§4§7§Music§10§Racing§32§Indie§33§Arcade§
-18922§Riff Racer§80.000000§4§7§Music§10§Racing§32§Indie§33§Arcade§
-18953§Dance Central§79.528571§1§7§Music§
-18981§Audioshield§80.000000§3§7§Music§32§Indie§33§Arcade§
-19081§The Jackbox Party Pack 2§61.530533§5§7§Music§9§Puzzle§15§Strategy§26§Quiz/Trivia§32§Indie§
-19283§Frets on Fire§61.839399§3§7§Music§13§Simulator§33§Arcade§
-19340§Just Dance: Disney Party 2§65.000000§2§7§Music§14§Sport§
-19550§Just Dance 2017§76.737992§1§7§Music§
-19719§Songs for a Hero§80.207281§4§7§Music§8§Platform§31§Adventure§32§Indie§
-19746§Rez Infinite§60.416148§2§5§Shooter§7§Music§
-19880§The Metronomicon: Slay the Dance Floor§79.953826§3§7§Music§12§Role-playing (RPG)§32§Indie§
-19901§Dance Central Spotlight§80.000000§1§7§Music§
-19910§Dance Central 3§85.000000§1§7§Music§
-19960§Spectra§60.000000§3§7§Music§10§Racing§32§Indie§
-19977§Dub Dash§50.000000§5§7§Music§8§Platform§10§Racing§32§Indie§33§Arcade§
-20059§KickBeat: Special Edition§67.000000§3§4§Fighting§7§Music§31§Adventure§
-20091§Dance Central 2§68.200078§2§7§Music§33§Arcade§
-20121§DanceMasters§65.000000§1§7§Music§
-20169§Dance Paradise§70.000000§1§7§Music§
-20198§BoxesWithGuns§50.000000§3§5§Shooter§7§Music§32§Indie§
-20218§Grease Dance§70.000000§1§7§Music§
-20240§Nickelodeon Dance§70.000000§1§7§Music§
-20329§Figment§72.149345§5§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§
-20685§Honeycomb Beat§47.000000§2§7§Music§9§Puzzle§
-21100§Jam with the Band§73.000000§1§7§Music§
-21141§Dream Trigger 3D§48.000000§2§5§Shooter§7§Music§
-21158§Tomena Sanner§73.000000§2§7§Music§14§Sport§
-21261§Guitar Rock Tour§43.000000§1§7§Music§
-21350§Karaoke Revolution Presents: American Idol Encore§50.000000§1§7§Music§
-21509§Ontamarama§50.000000§1§7§Music§
-21565§Radiohammer§78.000000§2§7§Music§31§Adventure§
-21894§Bit.Trip Saga§75.000000§4§5§Shooter§7§Music§8§Platform§31§Adventure§
-22381§Awkward Dimensions Redux§67.959515§4§7§Music§9§Puzzle§31§Adventure§32§Indie§
-22444§Tadpole Treble§80.000000§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-22980§Maestro! Jump in Music§63.000000§2§7§Music§8§Platform§
-23095§Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2§93.403041§1§7§Music§
-23386§Just Sing§50.000000§1§7§Music§
-23667§Go Vacation§86.000000§5§7§Music§10§Racing§13§Simulator§14§Sport§31§Adventure§
-23851§Wandersong§93.490653§5§7§Music§8§Platform§11§Real Time Strategy (RTS)§31§Adventure§32§Indie§
-24145§Karaoke Revolution Party§30.000000§2§7§Music§13§Simulator§
-24207§Beat Da Beat§70.000000§5§5§Shooter§7§Music§26§Quiz/Trivia§32§Indie§33§Arcade§
-24445§Conga Master§70.000000§2§7§Music§32§Indie§
-24645§Osu! Tatakae! Ouendan§88.647251§1§7§Music§
-24967§Polynomial 2§80.000000§4§5§Shooter§7§Music§13§Simulator§32§Indie§
-25658§Runner3§52.547997§4§7§Music§8§Platform§32§Indie§33§Arcade§
-25821§Hatsune Miku: Project Diva Future Tone§70.189718§1§7§Music§
-25849§Off-Peak§62.428142§3§7§Music§31§Adventure§32§Indie§
-25935§The Artful Escape§82.754201§4§7§Music§8§Platform§31§Adventure§32§Indie§
-25980§Zen Garden§60.000000§3§7§Music§13§Simulator§32§Indie§
-26102§Gnog§75.201094§5§2§Point-and-click§7§Music§9§Puzzle§31§Adventure§32§Indie§
-26232§PaRappa the Rapper Remastered§68.014430§1§7§Music§
-26291§The Voice§65.000000§1§7§Music§
-26770§Akihabara: Feel the Rhythm§70.000000§3§7§Music§9§Puzzle§32§Indie§
-27026§Cytus§84.797995§2§7§Music§33§Arcade§
-27028§Deemo§89.745055§2§7§Music§31§Adventure§
-27206§DvDrum, Ultimate Drum Simulator!§70.000000§4§7§Music§13§Simulator§14§Sport§32§Indie§
-27397§Voez§86.503487§2§7§Music§33§Arcade§
-27573§Beat the Game§70.000000§3§7§Music§31§Adventure§32§Indie§
-27777§SoundStage§80.000000§3§7§Music§13§Simulator§32§Indie§
-27801§64.0§80.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-27907§Rhythm Doctor§90.037060§3§7§Music§31§Adventure§32§Indie§
-28049§The Low Road§45.422070§5§2§Point-and-click§7§Music§9§Puzzle§31§Adventure§32§Indie§
-28266§Solitune§70.000000§3§7§Music§31§Adventure§32§Indie§
-28520§Dark Witch Music Episode: Rudymical§73.000000§3§7§Music§31§Adventure§32§Indie§
-28559§Daigasso! Band Brothers§76.000000§1§7§Music§
-28721§Yar\u0027s Revenge§50.000000§2§5§Shooter§7§Music§
-29019§Rhythm Rush!§50.000000§2§7§Music§32§Indie§
-29388§Ovivo§79.387524§6§7§Music§8§Platform§9§Puzzle§31§Adventure§32§Indie§33§Arcade§
-29511§Double Kick Heroes§67.160216§5§4§Fighting§5§Shooter§7§Music§32§Indie§33§Arcade§
-30155§Rocksmith 2014 Edition: Remastered§92.166702§2§7§Music§13§Simulator§
-30173§Beats Fever§70.000000§3§7§Music§14§Sport§32§Indie§
-31180§Neon Drive§79.309658§3§7§Music§32§Indie§33§Arcade§
-31194§Just Shapes \u0026 Beats§81.692155§3§7§Music§32§Indie§33§Arcade§
-31496§Music Inside: A VR Rhythm Game§60.000000§2§7§Music§32§Indie§
-31786§Intralism§80.000000§2§7§Music§32§Indie§
-31874§To the Top§80.000000§4§7§Music§8§Platform§10§Racing§32§Indie§
-32617§Rec Room§80.267958§10§4§Fighting§5§Shooter§7§Music§8§Platform§12§Role-playing (RPG)§13§Simulator§14§Sport§15§Strategy§31§Adventure§33§Arcade§
-32718§She Wants Me Dead§60.000000§5§7§Music§8§Platform§31§Adventure§32§Indie§33§Arcade§
-33261§Frederic: Resurrection of Music - Director\u0027s Cut§70.000000§2§7§Music§32§Indie§
-34003§Holodance§80.000000§3§7§Music§14§Sport§32§Indie§
-34060§Hiragana Pixel Party§60.000000§3§7§Music§8§Platform§32§Indie§
-34202§Energy Cycle§70.000000§4§7§Music§9§Puzzle§32§Indie§35§Card \u0026 Board Game§
-34567§Let\u0027s Sing 2016§50.000000§1§7§Music§
-34572§Behind You§60.000000§3§7§Music§31§Adventure§32§Indie§
-34744§Stage Presence§60.000000§3§7§Music§13§Simulator§32§Indie§
-34846§MegaSphere§50.000000§4§7§Music§8§Platform§31§Adventure§32§Indie§
-35028§Superstar Dance Club§70.000000§1§7§Music§
-35053§Pump-Action Captain§50.000000§2§7§Music§13§Simulator§
-35061§Big Thinkers 1st Grade§70.000000§3§2§Point-and-click§7§Music§26§Quiz/Trivia§
-35252§Cosmophony§70.000000§3§5§Shooter§7§Music§32§Indie§
-35535§Inside My Radio§80.000000§5§7§Music§8§Platform§31§Adventure§32§Indie§33§Arcade§
-35985§Pulsen§60.000000§4§7§Music§13§Simulator§14§Sport§32§Indie§
-36111§Ephemerid: A Musical Adventure§80.000000§3§7§Music§31§Adventure§32§Indie§
-36348§DubWars§80.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-36482§Symphonic Rain§70.000000§2§7§Music§34§Visual Novel§
-36660§Love Live! School Idol Festival§73.775666§2§7§Music§31§Adventure§
-37067§Just Dance 2018§69.992578§1§7§Music§
-38693§Geometry Dash Meltdown§90.000000§2§7§Music§33§Arcade§
-39209§Color Zen§61.797753§3§7§Music§9§Puzzle§15§Strategy§
-40521§Airtone§70.000000§3§7§Music§10§Racing§31§Adventure§
-41591§Country Dance Kinect§65.000000§1§7§Music§
-42813§Gitaroo Man Lives!§89.427828§1§7§Music§
-43680§Dance Dance Revolution Extreme§92.579614§2§7§Music§33§Arcade§
-43729§Music 2000§89.637991§1§7§Music§
-47380§Happy Feet Two§80.000000§2§7§Music§31§Adventure§
-47389§Zumba Fitness Rush§70.000000§1§7§Music§
-47414§NBA Baller Beats§70.000000§2§7§Music§14§Sport§
-47420§Nickelodeon Dance 2§65.000000§1§7§Music§
-47432§Karaoke Revolution Presents: American Idol Encore 2§70.000000§1§7§Music§
-47603§Rhythm Thief \u0026 the Emperor\u0027s Treasure§82.000000§3§7§Music§9§Puzzle§31§Adventure§
-47644§Cubit: The Hardcore Platformer Robot§63.000000§4§7§Music§8§Platform§31§Adventure§33§Arcade§
-47925§JAM sessions§45.000000§4§7§Music§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§
-50165§Phase Shift§60.000000§3§7§Music§13§Simulator§32§Indie§
-50581§MC Groovz Dance Craze§30.000000§1§7§Music§
-50616§Karaoke Revolution Glee: Volume 3§70.000000§1§7§Music§
-50733§Dance Dance Revolution: Hottest Party 4§75.000000§1§7§Music§
-51311§StepMania§79.245592§3§7§Music§13§Simulator§33§Arcade§
-51408§Old School Musical§70.000000§5§4§Fighting§7§Music§31§Adventure§32§Indie§33§Arcade§
-54217§Persona 3: Dancing in Moonlight§74.930047§1§7§Music§
-54218§Persona 5: Dancing in Starlight§70.871485§1§7§Music§
-54565§Tempest 4000§50.000000§4§5§Shooter§7§Music§9§Puzzle§33§Arcade§
-54613§Shape of the World§70.000000§4§7§Music§13§Simulator§31§Adventure§32§Indie§
-55174§Super Beat Sports§53.000000§2§7§Music§14§Sport§
-55196§Floor Kids§77.000000§3§7§Music§14§Sport§32§Indie§
-56168§Wiz Khalifa\u0027s Weed Farm§90.000000§3§7§Music§13§Simulator§15§Strategy§
-56463§Luna: The Shadow Dust§78.055749§6§2§Point-and-click§7§Music§9§Puzzle§12§Role-playing (RPG)§31§Adventure§32§Indie§
-57142§Gal Metal§73.000000§5§7§Music§12§Role-playing (RPG)§13§Simulator§31§Adventure§33§Arcade§
-57247§Rolling Sky§80.000000§3§7§Music§32§Indie§33§Arcade§
-57303§Beatsplosion! for Kinect§60.000000§2§7§Music§14§Sport§
-57323§Piano Tiles 2§72.852961§3§7§Music§9§Puzzle§33§Arcade§
-58141§Lanota§87.000000§1§7§Music§
-58892§Lost in Harmony§63.000000§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-58946§Baila Latino§90.000000§1§7§Music§
-61319§Dedede\u0027s Drum Dash Deluxe§75.000000§2§7§Music§31§Adventure§
-61400§KORG DSN-12§85.000000§1§7§Music§
-61714§To Leave§70.000000§6§7§Music§8§Platform§9§Puzzle§12§Role-playing (RPG)§31§Adventure§32§Indie§
-64957§Mutazione§63.706804§5§2§Point-and-click§7§Music§12§Role-playing (RPG)§31§Adventure§32§Indie§
-65090§Jam Sessions 2§63.000000§1§7§Music§
-67778§Rock Band: Metal Track Pack§85.000000§1§7§Music§
-68407§Rock Band: Country Track Pack§85.000000§1§7§Music§
-68838§El Tango de la Muerte§70.000000§2§7§Music§32§Indie§
-70087§Samba de Amigo§68.000000§1§7§Music§
-70603§BCFX: The Doug Williams Edition§65.000000§2§7§Music§14§Sport§
-71957§Framed Collection§79.055579§7§2§Point-and-click§7§Music§8§Platform§9§Puzzle§15§Strategy§31§Adventure§32§Indie§
-72548§Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken§78.000000§1§7§Music§
-73009§Korg DS-10§82.000000§1§7§Music§
-74191§Paradiddle§70.000000§3§7§Music§13§Simulator§32§Indie§
-74732§Etterna§87.173220§1§7§Music§
-75172§Slam Fighter II§70.000000§2§7§Music§32§Indie§
-75245§Avicii Invector§79.872892§3§7§Music§32§Indie§33§Arcade§
-75518§Nirvana Pilot Yume§70.000000§5§7§Music§10§Racing§14§Sport§31§Adventure§32§Indie§
-75992§Musynx§70.000000§4§7§Music§13§Simulator§32§Indie§33§Arcade§
-76412§Songbird Symphony§70.000000§4§7§Music§8§Platform§31§Adventure§32§Indie§
-76655§Song of Memories§50.000000§5§7§Music§12§Role-playing (RPG)§13§Simulator§31§Adventure§34§Visual Novel§
-77537§KORG Gadget§93.000000§2§7§Music§13§Simulator§
-78754§Scribblenauts Showdown§50.000000§3§7§Music§9§Puzzle§14§Sport§
-79044§Geometry Dash World§89.859392§2§7§Music§33§Arcade§
-80006§Felix the Reaper§69.842668§4§7§Music§9§Puzzle§31§Adventure§32§Indie§
-80138§BanG Dream! Girls Band Party!§74.387005§3§7§Music§31§Adventure§34§Visual Novel§
-80255§Karaoke§75.000000§1§7§Music§
-80460§Karaoke Revolution§70.000000§2§7§Music§13§Simulator§
-81056§Electronauts§80.000000§2§7§Music§32§Indie§
-81876§Guns \u0026 Notes§70.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-81921§Nekomew\u0027s Potty Trouble§70.000000§2§7§Music§32§Indie§
-82375§Air Guitar Warrior for Kinect§90.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-82421§Rock Band 4: Rivals Bundle§90.000000§2§7§Music§13§Simulator§
-82540§Just Dance 2016 \u0026 Just Dance: Disney Party 2§80.000000§1§7§Music§
-83509§Fantasia: Music Evolved§80.000000§1§7§Music§
-83730§Super One More Jump§90.000000§4§7§Music§8§Platform§31§Adventure§33§Arcade§
-83731§Beat Saber§85.140731§3§7§Music§14§Sport§32§Indie§
-83858§AudioBeats§70.000000§3§7§Music§14§Sport§32§Indie§
-84525§Hello Kitty and the Apron of Magic: Rhythm Cooking§87.000000§3§7§Music§9§Puzzle§13§Simulator§
-84699§New Play Control! Donkey Kong Jungle Beat§80.000000§2§7§Music§8§Platform§
-84922§Clone Hero§83.200000§1§7§Music§
-85154§Frederic 2: Evil Strikes Back§53.000000§2§7§Music§33§Arcade§
-86316§Muse Dash§80.392026§2§7§Music§32§Indie§
-86525§Distortions§50.000000§4§7§Music§12§Role-playing (RPG)§31§Adventure§32§Indie§
-86707§Rhythm Cat Pro§90.000000§1§7§Music§
-86864§Baby\u0027s Musical Hands§80.000000§1§7§Music§
-86886§Thumper: Pocket Edition§90.000000§1§7§Music§
-86913§Pixel Blitz - Impossible Runner§60.000000§2§7§Music§33§Arcade§
-86997§Just Dance Now§90.000000§2§7§Music§33§Arcade§
-87008§White Tiles 4: Piano Master 2§80.000000§2§7§Music§33§Arcade§
-87023§Geometry Dash SubZero§74.606742§3§7§Music§10§Racing§33§Arcade§
-87048§Dancing Line§90.000000§2§7§Music§33§Arcade§
-87123§Musical Studio§40.000000§1§7§Music§
-87128§Flip Run: Second Wave§80.000000§2§7§Music§33§Arcade§
-88775§SongPop 2: Guess the Song§90.000000§1§7§Music§
-88866§Magic Tiles 3: Piano Games 2§80.000000§2§7§Music§33§Arcade§
-88903§Piano Magic 2018 Music Tiles 2§90.000000§1§7§Music§
-88940§Incredibox§90.000000§2§7§Music§32§Indie§
-89095§Cytus II§79.711948§2§7§Music§33§Arcade§
-89767§Pinkalicious Party§70.000000§2§7§Music§12§Role-playing (RPG)§
-89847§Hatsune Miku VR§50.000000§1§7§Music§
-94970§Lumines Remastered§70.375868§4§7§Music§9§Puzzle§32§Indie§33§Arcade§
-95225§Kine§70.000000§4§7§Music§9§Puzzle§15§Strategy§32§Indie§
-95874§Magic Tiles 3§44.874900§1§7§Music§
-96064§SuperStar BTS§48.088408§1§7§Music§
-96353§Odium to the Core§70.000000§3§7§Music§32§Indie§33§Arcade§
-98145§Newt One§70.000000§4§7§Music§8§Platform§31§Adventure§32§Indie§
-99181§My Singing Monsters Composer§42.941175§1§7§Music§
-100767§Wonder Parade§46.842103§2§7§Music§32§Indie§
-100916§Ear Cat§45.942030§1§7§Music§
-101659§Splashy Tiles: Bouncing to the Beat§43.577980§1§7§Music§
-101956§Marshmello \u0026 Anna Marie - Friend Piano Tiles§26.698895§1§7§Music§
-103221§Tetris Effect§87.902947§2§7§Music§9§Puzzle§
-103227§A Story of a Band§70.000000§4§7§Music§13§Simulator§15§Strategy§32§Indie§
-103315§Just Dance 2019§66.029436§1§7§Music§
-103371§Fitness Boxing§83.000000§2§7§Music§14§Sport§
-104523§Groove Coaster for Steam§80.000000§1§7§Music§
-104992§Taiko no Tatsujin: Drum \u0027n\u0027 Fun!§80.007144§2§7§Music§33§Arcade§
-105237§Music Racer§70.000000§4§7§Music§10§Racing§32§Indie§33§Arcade§
-105333§Synth Riders§70.000000§4§7§Music§14§Sport§32§Indie§33§Arcade§
-106027§Golf Club: Wasteland§73.307306§7§7§Music§8§Platform§9§Puzzle§14§Sport§31§Adventure§32§Indie§33§Arcade§
-106290§Cytus Alpha§83.000000§1§7§Music§
-107182§Vectronom§70.000000§5§7§Music§8§Platform§9§Puzzle§32§Indie§33§Arcade§
-107360§Dance Collider§70.000000§3§7§Music§14§Sport§32§Indie§
-109323§Invaxion§50.000000§2§7§Music§32§Indie§
-109361§Morphe§60.000000§2§7§Music§32§Indie§
-109611§Beat Hazard 2§70.000000§3§7§Music§32§Indie§33§Arcade§
-110594§Magic Piano Tiles 2018 - Music Game§66.600694§1§7§Music§
-110700§Tapsonic Bold§50.000000§2§7§Music§10§Racing§
-110857§Super Ledgehop: Double Laser§70.000000§4§5§Shooter§7§Music§31§Adventure§32§Indie§
-111533§Sequence Storm§70.000000§3§7§Music§10§Racing§32§Indie§
-113107§Sayonara Wild Hearts§79.004320§4§7§Music§31§Adventure§32§Indie§33§Arcade§
-113196§Aaero: Complete Edition§67.000000§1§7§Music§
-113485§Octahedron: Transfixed Edition§60.000000§3§7§Music§8§Platform§31§Adventure§
-113557§PowerBeatsVR§70.000000§3§7§Music§14§Sport§32§Indie§
-114392§A Dance of Fire and Ice§83.627375§3§7§Music§32§Indie§33§Arcade§
-114783§No Straight Roads§69.771778§4§7§Music§12§Role-playing (RPG)§25§Hack and slash/Beat \u0027em up§31§Adventure§
-115285§Audica§50.000000§3§5§Shooter§7§Music§32§Indie§
-115925§Freedom Finger§70.000000§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-116187§Lofi Ping Pong§70.000000§5§7§Music§14§Sport§31§Adventure§32§Indie§33§Arcade§
-116305§Himno§54.222925§5§7§Music§8§Platform§31§Adventure§32§Indie§33§Arcade§
-116419§Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda§74.099190§2§7§Music§31§Adventure§
-117458§Neon Beats§58.400000§3§7§Music§8§Platform§32§Indie§
-119256§Just Dance 2020§72.424693§1§7§Music§
-119324§When the Past Was Around§70.014922§5§2§Point-and-click§7§Music§9§Puzzle§31§Adventure§32§Indie§
-119341§Pistol Whip§79.466909§4§5§Shooter§7§Music§32§Indie§33§Arcade§
-119993§Song Beater: Quite My Tempo!§70.000000§3§7§Music§14§Sport§32§Indie§
-121694§Hypnocult§70.000000§2§7§Music§32§Indie§
-122136§Audio Trip§70.000000§4§7§Music§14§Sport§32§Indie§33§Arcade§
-122416§Spin Rhythm XD§80.000000§2§7§Music§32§Indie§
-124490§KORG DS-10 Plus§79.000000§1§7§Music§
-125049§Beat.School: DJ Simulator§50.000000§3§7§Music§13§Simulator§32§Indie§
-125113§Music Killer§60.000000§2§7§Music§32§Indie§
-126100§Bokuten: Why I Became an Angel§70.000000§3§7§Music§31§Adventure§34§Visual Novel§
-126179§DJMax Respect V§80.000000§2§7§Music§14§Sport§
-126420§Love Rhythm§60.000000§4§7§Music§13§Simulator§32§Indie§34§Visual Novel§
-126599§Memody: Sindrel Song§70.000000§2§7§Music§32§Indie§
-127463§Barrage Musical: Basic Danmaku Tutorial§70.000000§3§5§Shooter§7§Music§32§Indie§
-131970§Fuser§78.341979§2§7§Music§13§Simulator§
-132083§Everhood§72.620070§4§7§Music§12§Role-playing (RPG)§31§Adventure§32§Indie§
-133330§BPM: Bullets Per Minute§75.060608§5§5§Shooter§7§Music§31§Adventure§32§Indie§33§Arcade§
-134560§Metal: Hellsinger§81.709161§3§5§Shooter§7§Music§31§Adventure§
-135108§Kingdom Hearts: Melody of Memory§80.482323§2§7§Music§12§Role-playing (RPG)§
-135999§Tetris Effect: Connected§95.124327§4§7§Music§9§Puzzle§32§Indie§33§Arcade§
-137131§Just Dance 2021§70.035393§1§7§Music§
-138851§Not in the Groove§99.033844§1§7§Music§
-139134§Hatsune Miku: Colorful Stage!§80.054805§3§7§Music§31§Adventure§34§Visual Novel§
-139399§Ragnarock§95.000000§5§7§Music§10§Racing§14§Sport§32§Indie§33§Arcade§
-140635§Friday Night Funkin\u0027§80.196322§1§7§Music§
-180960§Kid A Mnesia Exhibition§81.413259§2§7§Music§31§Adventure§
-233585§Hi-Fi Rush§91.667673§4§7§Music§8§Platform§25§Hack and slash/Beat \u0027em up§31§Adventure§
+212`Brütal Legend`73.197481`5`7`Music`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`31`Adventure`
+1285`Guitar Hero`83.527893`1`7`Music`
+1570`Jet Set Radio Future`83.391491`4`7`Music`8`Platform`10`Racing`14`Sport`
+1892`Pid`60.004459`5`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+2259`Boom Blox`86.020317`2`7`Music`9`Puzzle`
+2629`Guitar Hero: Warriors of Rock`74.555198`1`7`Music`
+2664`Just Dance 2`69.947156`1`7`Music`
+2669`Guitar Hero World Tour`74.370936`1`7`Music`
+2670`Guitar Hero II`84.079157`1`7`Music`
+2671`Guitar Hero III: Legends of Rock`84.104292`2`7`Music`13`Simulator`
+2672`Guitar Hero 5`71.522552`1`7`Music`
+2673`Guitar Hero: Aerosmith`74.003843`1`7`Music`
+2674`Guitar Hero: Metallica`78.724527`1`7`Music`
+2675`Guitar Hero: Van Halen`60.459614`1`7`Music`
+2676`Guitar Hero Encore: Rocks the 80s`70.740848`2`7`Music`13`Simulator`
+2677`Guitar Hero: Smash Hits`63.597886`1`7`Music`
+2678`Band Hero`69.145593`1`7`Music`
+2679`DJ Hero`78.672799`1`7`Music`
+2680`DJ Hero 2`76.224954`1`7`Music`
+2685`Rock Band`81.802741`1`7`Music`
+2691`Rock Band 3`82.509741`1`7`Music`
+2692`Rock Band 2`87.129245`1`7`Music`
+2693`The Beatles: Rock Band`85.697942`1`7`Music`
+2694`Green Day: Rock Band`71.301579`1`7`Music`
+2695`LEGO Rock Band`69.190476`1`7`Music`
+2696`Rock Band Blitz`71.341442`2`7`Music`33`Arcade`
+2697`Rocksmith`81.628742`2`7`Music`13`Simulator`
+2704`Just Dance`59.929477`1`7`Music`
+2705`Just Dance 3`74.949072`1`7`Music`
+2721`Rock Band Unplugged`69.880027`1`7`Music`
+2745`Rayman Raving Rabbids 2`66.006874`3`7`Music`8`Platform`9`Puzzle`
+2768`SpongeBob SquarePants: Lights, Camera, Pants!`63.097450`1`7`Music`
+2849`All Star Cheer Squad`45.000000`2`7`Music`13`Simulator`
+2956`Audiosurf`74.848845`3`7`Music`9`Puzzle`32`Indie`
+3012`Osu!`73.488422`2`7`Music`32`Indie`
+3088`Rocksmith 2014`87.530725`1`7`Music`
+3108`Sing Party`63.000000`1`7`Music`
+3151`Electronic Super Joy`73.913101`6`5`Shooter`7`Music`8`Platform`31`Adventure`32`Indie`33`Arcade`
+3244`Wii Music`62.840360`1`7`Music`
+3251`Super Hexagon`79.782815`3`7`Music`32`Indie`33`Arcade`
+3254`Just Dance: Disney Party`70.000000`1`7`Music`
+3255`Just Dance 4`80.071750`1`7`Music`
+3256`Just Dance 2014`79.531996`1`7`Music`
+3300`Just Dance Kids 2`70.000000`1`7`Music`
+3301`Just Dance Kids 2014`60.000000`1`7`Music`
+3302`The Black Eyed Peas Experience`75.000000`1`7`Music`
+3679`Dance Dance Revolution`79.827586`2`7`Music`13`Simulator`
+3680`Dance Dance Revolution Mario Mix`78.545125`1`7`Music`
+3705`Zumba Fitness`70.000000`2`7`Music`14`Sport`
+3889`Donkey Konga`70.842160`2`7`Music`13`Simulator`
+3890`Donkey Konga 2`80.013848`2`7`Music`13`Simulator`
+3891`Donkey Konga 3: All You Can Eat! Spring 50 Music Works Mix`72.000000`2`7`Music`13`Simulator`
+3940`Happy Feet`50.578294`3`7`Music`14`Sport`31`Adventure`
+4075`Puyo Pop Fever`75.141226`3`7`Music`9`Puzzle`15`Strategy`
+4138`Bust A Groove`67.503952`1`7`Music`
+4139`Bust A Groove 2`81.429202`2`4`Fighting`7`Music`
+4669`Alvin and the Chipmunks`70.000000`2`7`Music`9`Puzzle`
+4670`Alvin and the Chipmunks: Chipwrecked`75.000000`1`7`Music`
+4671`Alvin and the Chipmunks: The Squeakquel`55.000000`2`7`Music`31`Adventure`
+4690`Lumines II`79.286129`3`7`Music`9`Puzzle`15`Strategy`
+4691`Lumines Live!`89.797068`4`7`Music`9`Puzzle`11`Real Time Strategy (RTS)`15`Strategy`
+4693`Lumines Electronic Symphony`78.755053`2`7`Music`9`Puzzle`
+4719`Bit.Trip Complete`86.000000`2`5`Shooter`7`Music`
+4803`Def Jam Rapstar`80.000000`2`7`Music`13`Simulator`
+4807`Disney Sing It`60.000000`1`7`Music`
+4912`High School Musical 3: Senior Year Dance`45.000000`2`7`Music`31`Adventure`
+5006`Michael Jackson: The Experience`73.000000`2`7`Music`14`Sport`
+5122`Rhythm Heaven Fever`79.231745`1`7`Music`
+5308`Zumba Fitness World Party`65.000000`2`7`Music`14`Sport`
+5498`BandFuse: Rock Legends`80.000000`1`7`Music`
+5577`Lyne`56.483375`3`7`Music`9`Puzzle`32`Indie`
+5592`Runner2: Future Legend of Rhythm Alien`70.316302`4`7`Music`8`Platform`32`Indie`33`Arcade`
+5679`Theatrhythm Final Fantasy: Curtain Call`80.226998`2`7`Music`12`Role-playing (RPG)`
+6080`PaRappa the Rapper`83.527606`1`7`Music`
+6081`Um Jammer Lammy`71.453357`1`7`Music`
+6082`PaRappa the Rapper 2`76.145257`1`7`Music`
+6200`The Nightmare Before Christmas: Oogie\u0027s Revenge`69.265779`2`7`Music`31`Adventure`
+6246`Bit.Trip Runner`72.226965`4`7`Music`8`Platform`32`Indie`33`Arcade`
+6402`NES Remix 2`82.000000`7`4`Fighting`7`Music`8`Platform`10`Racing`14`Sport`31`Adventure`33`Arcade`
+6467`AC/DC Live: Rock Band - Track Pack`69.874780`2`7`Music`13`Simulator`
+6557`Rhythm Tengoku`81.858609`1`7`Music`
+6602`Space Channel 5`70.899346`2`7`Music`31`Adventure`
+6603`Space Channel 5: Part 2`78.265816`2`7`Music`31`Adventure`
+6777`The Impossible Game`79.958617`4`7`Music`8`Platform`32`Indie`33`Arcade`
+6779`Dance Dance Revolution Supernova`70.078310`2`7`Music`33`Arcade`
+6780`Dance Dance Revolution Supernova 2`79.979489`2`7`Music`33`Arcade`
+6902`Theatrhythm: Final Fantasy`79.890722`2`7`Music`12`Role-playing (RPG)`
+6936`Child of Eden`63.043012`2`5`Shooter`7`Music`
+6953`Dance Dance Revolution Universe`55.000000`1`7`Music`
+6954`Dance Dance Revolution Universe 2`65.000000`1`7`Music`
+6955`Dance Dance Revolution Universe 3`65.000000`1`7`Music`
+6964`Def Jam: Icon`79.120009`2`4`Fighting`7`Music`
+6973`Dreamcast Collection`75.000000`2`7`Music`33`Arcade`
+7006`Hannah Montana: The Movie`50.000000`1`7`Music`
+7053`Lips: Number One Hits`60.000000`1`7`Music`
+7087`Beatbuddy: Tale of the Guardians`62.336244`5`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+7088`Guitar Hero: On Tour`58.475152`1`7`Music`
+7089`Guitar Hero: On Tour - Decades`47.762280`1`7`Music`
+7090`Guitar Hero: On Tour - Modern Hits`72.000000`2`7`Music`13`Simulator`
+7163`Rock of the Dead`65.000000`2`5`Shooter`7`Music`
+7164`Rock Revolution`45.000000`1`7`Music`
+7380`Entwined`56.834219`2`7`Music`33`Arcade`
+7401`Symphony`75.291799`3`7`Music`32`Indie`33`Arcade`
+7404`Beat Hazard`80.303573`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+7634`Rush`85.920079`5`7`Music`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+7683`KickBeat`70.002111`3`4`Fighting`7`Music`32`Indie`
+7724`.Detuned`21.584797`2`7`Music`32`Indie`
+7729`Sound Shapes`73.946004`4`7`Music`8`Platform`9`Puzzle`15`Strategy`
+7812`Patapon`80.076743`3`7`Music`11`Real Time Strategy (RTS)`15`Strategy`
+7813`Patapon 2`79.808440`4`7`Music`9`Puzzle`11`Real Time Strategy (RTS)`15`Strategy`
+7886`Crypt of the NecroDancer`75.746821`4`7`Music`12`Role-playing (RPG)`31`Adventure`32`Indie`
+7963`Mevo and the Grooveriders`70.000000`4`7`Music`8`Platform`31`Adventure`32`Indie`
+8167`Rhythm Heaven`86.692557`1`7`Music`
+8203`Mario Paint`73.025913`3`7`Music`9`Puzzle`13`Simulator`
+8267`Stuntman`60.169109`4`7`Music`8`Platform`10`Racing`14`Sport`
+8439`Karmaflow: The Rock Opera Videogame`50.000000`5`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+8560`Kinect Star Wars`57.913648`5`4`Fighting`7`Music`15`Strategy`31`Adventure`32`Indie`
+8605`Gunman Clive 2`73.643490`5`5`Shooter`7`Music`8`Platform`31`Adventure`32`Indie`
+9011`Rhythm Destruction`50.000000`5`5`Shooter`7`Music`10`Racing`31`Adventure`32`Indie`
+9109`Elite Beat Agents`79.171304`2`7`Music`14`Sport`
+9132`Dyad`80.000000`8`5`Shooter`7`Music`9`Puzzle`10`Racing`14`Sport`15`Strategy`32`Indie`33`Arcade`
+9497`140`70.726905`5`7`Music`8`Platform`9`Puzzle`15`Strategy`32`Indie`
+9535`Bit.Trip Beat`58.724680`4`7`Music`9`Puzzle`32`Indie`33`Arcade`
+9555`Audition Online`79.978453`1`7`Music`
+9556`Star Ruler`80.000000`4`7`Music`11`Real Time Strategy (RTS)`15`Strategy`32`Indie`
+9610`Taiko no Tatsujin DS: Touch de Dokodon!`78.000000`1`7`Music`
+9626`Hatsune Miku: Project Diva F 2nd`80.499733`1`7`Music`
+9639`Weapon Shop de Omasse`69.000000`5`7`Music`12`Role-playing (RPG)`13`Simulator`15`Strategy`31`Adventure`
+9676`Vib-Ribbon`73.832046`1`7`Music`
+9707`Audiosurf 2`76.859267`2`7`Music`32`Indie`
+9741`Guitar Hero Live`75.543101`1`7`Music`
+9751`Victorious: Time to Shine`70.000000`1`7`Music`
+9780`Before the Echo`80.758966`3`7`Music`12`Role-playing (RPG)`32`Indie`
+9845`Frederic: Evil Strikes Back`80.000000`3`7`Music`31`Adventure`32`Indie`
+9846`Frederic: Resurrection of Music`80.000000`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+9881`Circuits`65.617940`3`7`Music`9`Puzzle`32`Indie`
+10088`Hohokum`70.132806`3`7`Music`31`Adventure`32`Indie`
+10091`Hatsune Miku: Project Mirai DX`81.272993`1`7`Music`
+10128`Rock Band 4`71.964638`2`7`Music`13`Simulator`
+10373`Azure Striker Gunvolt`73.365444`5`5`Shooter`7`Music`8`Platform`31`Adventure`32`Indie`
+10511`Let\u0027s Sing`50.000000`2`7`Music`32`Indie`
+10960`Thumper`75.619463`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+11030`Tryst`30.000000`6`7`Music`8`Platform`9`Puzzle`11`Real Time Strategy (RTS)`15`Strategy`32`Indie`
+11056`Persona 4: Dancing All Night`70.357933`1`7`Music`
+11081`Amplitude`73.236587`2`7`Music`33`Arcade`
+11122`ToeJam \u0026 Earl: Back in the Groove`80.000000`3`7`Music`31`Adventure`32`Indie`
+11206`Just Dance 2016`77.178626`1`7`Music`
+11244`Rez`86.080140`2`5`Shooter`7`Music`
+11338`Gitaroo Man`83.848065`1`7`Music`
+11435`6180 The Moon`80.000000`6`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`33`Arcade`
+11530`Senran Kagura Bon Appétit!`79.206360`1`7`Music`
+11626`Sentinel`50.000000`5`7`Music`9`Puzzle`15`Strategy`24`Tactical`32`Indie`
+11642`Geometry Dash`77.265213`5`7`Music`8`Platform`31`Adventure`32`Indie`33`Arcade`
+11736`Mountain`45.895352`4`7`Music`12`Role-playing (RPG)`13`Simulator`32`Indie`
+11754`Hatsune Miku: Project Diva`70.300856`1`7`Music`
+11755`Hatsune Miku: Project Diva 2nd`83.261241`1`7`Music`
+11767`Hatsune Miku: Project Diva Extend`79.664513`1`7`Music`
+11768`Hatsune Miku: Project Diva F`70.094999`1`7`Music`
+11798`Evoland 2`80.048920`9`4`Fighting`7`Music`8`Platform`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`25`Hack and slash/Beat \u0027em up`31`Adventure`32`Indie`
+12078`Hatsune Miku: Project Diva X`70.412148`1`7`Music`
+12875`Superbeat: Xonic`83.000000`2`7`Music`33`Arcade`
+12885`Laserlife`60.000000`2`7`Music`32`Indie`
+12890`Sound Shift`60.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+12976`Panoramical`80.000000`2`7`Music`32`Indie`
+13234`Karnov`63.163534`4`5`Shooter`7`Music`8`Platform`31`Adventure`
+13673`Micron`80.000000`4`7`Music`9`Puzzle`30`Pinball`32`Indie`
+14400`Cosmic DJ`80.000000`2`7`Music`32`Indie`
+14408`Soundodger+`80.000000`2`7`Music`32`Indie`
+14848`The UnderGarden`50.000000`3`7`Music`9`Puzzle`31`Adventure`
+14911`Everyday Shooter`80.000000`3`5`Shooter`7`Music`32`Indie`
+14954`Raycatcher`30.000000`2`7`Music`32`Indie`
+15091`SingStar`59.703967`1`7`Music`
+15094`Singstar: \u002780s`79.822224`1`7`Music`
+15120`The Tiny Bang Story`73.746337`4`7`Music`9`Puzzle`31`Adventure`32`Indie`
+15280`Bit.Trip Core`50.000000`5`5`Shooter`7`Music`9`Puzzle`32`Indie`33`Arcade`
+15281`Bit.Trip Flux`50.000000`5`7`Music`8`Platform`9`Puzzle`32`Indie`33`Arcade`
+15282`Auditorium`80.000000`4`7`Music`9`Puzzle`15`Strategy`32`Indie`
+15284`Cladun X2`80.000000`3`7`Music`12`Role-playing (RPG)`32`Indie`
+15288`AVSEQ`50.000000`3`7`Music`9`Puzzle`32`Indie`
+15326`The Way of Life`66.167953`4`4`Fighting`7`Music`31`Adventure`32`Indie`
+15386`Bit.Trip Void`60.000000`5`5`Shooter`7`Music`9`Puzzle`32`Indie`33`Arcade`
+15387`Bit.Trip Fate`50.000000`5`5`Shooter`7`Music`9`Puzzle`32`Indie`33`Arcade`
+15545`Vector`73.585470`4`7`Music`8`Platform`32`Indie`33`Arcade`
+15559`Just Dance 2015`88.756190`1`7`Music`
+15561`The Hip Hop Dance Experience`70.000000`1`7`Music`
+15854`Fract Osc`69.763918`4`7`Music`9`Puzzle`31`Adventure`32`Indie`
+15905`Chiptune Champion`80.000000`3`7`Music`32`Indie`33`Arcade`
+15938`1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby`40.000000`2`7`Music`32`Indie`
+15992`Musaic Box`70.000000`3`7`Music`9`Puzzle`32`Indie`
+16133`LoveBeat`60.000000`1`7`Music`
+16191`Turba`40.000000`5`7`Music`9`Puzzle`13`Simulator`15`Strategy`32`Indie`
+16196`Chime`79.837518`3`7`Music`9`Puzzle`32`Indie`
+16212`The Polynomial`59.397087`3`5`Shooter`7`Music`32`Indie`
+16305`My Singing Monsters`78.267381`3`7`Music`13`Simulator`15`Strategy`
+16346`Cubemen`60.000000`4`7`Music`11`Real Time Strategy (RTS)`15`Strategy`32`Indie`
+16431`Retro/Grade`77.080628`3`5`Shooter`7`Music`32`Indie`
+16526`Intake`80.000000`3`5`Shooter`7`Music`32`Indie`
+16775`Finding Teddy`69.939149`4`7`Music`9`Puzzle`31`Adventure`32`Indie`
+16933`Melody\u0027s Escape`77.466249`3`7`Music`8`Platform`32`Indie`
+17445`Sentris`60.000000`4`7`Music`9`Puzzle`13`Simulator`32`Indie`
+17537`Borealis`30.714286`3`7`Music`32`Indie`33`Arcade`
+17907`Chime Sharp`70.000000`3`7`Music`9`Puzzle`33`Arcade`
+18127`Electric Highways`64.479240`3`7`Music`31`Adventure`32`Indie`
+18139`Michael Jackson\u0027s Moonwalker`66.205758`5`5`Shooter`7`Music`8`Platform`25`Hack and slash/Beat \u0027em up`33`Arcade`
+18156`HarmoKnight`62.457575`2`7`Music`8`Platform`
+18220`Rhythm Heaven Megamix`80.397712`1`7`Music`
+18248`Beat City`60.000000`1`7`Music`
+18340`Electroplankton`61.025885`2`7`Music`13`Simulator`
+18373`Patapon 3`70.153484`2`7`Music`15`Strategy`
+18637`Aaero`69.815474`3`5`Shooter`7`Music`32`Indie`
+18723`Frog Fractions`70.364234`4`5`Shooter`7`Music`13`Simulator`32`Indie`
+18752`Klang`60.000000`3`7`Music`8`Platform`32`Indie`
+18828`No Thing`31.168093`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+18909`Goscurry`70.000000`4`7`Music`10`Racing`32`Indie`33`Arcade`
+18922`Riff Racer`80.000000`4`7`Music`10`Racing`32`Indie`33`Arcade`
+18953`Dance Central`79.528571`1`7`Music`
+18981`Audioshield`80.000000`3`7`Music`32`Indie`33`Arcade`
+19081`The Jackbox Party Pack 2`61.530533`5`7`Music`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
+19283`Frets on Fire`61.839399`3`7`Music`13`Simulator`33`Arcade`
+19340`Just Dance: Disney Party 2`65.000000`2`7`Music`14`Sport`
+19550`Just Dance 2017`76.737992`1`7`Music`
+19719`Songs for a Hero`80.207281`4`7`Music`8`Platform`31`Adventure`32`Indie`
+19746`Rez Infinite`60.416148`2`5`Shooter`7`Music`
+19880`The Metronomicon: Slay the Dance Floor`79.953826`3`7`Music`12`Role-playing (RPG)`32`Indie`
+19901`Dance Central Spotlight`80.000000`1`7`Music`
+19910`Dance Central 3`85.000000`1`7`Music`
+19960`Spectra`60.000000`3`7`Music`10`Racing`32`Indie`
+19977`Dub Dash`50.000000`5`7`Music`8`Platform`10`Racing`32`Indie`33`Arcade`
+20059`KickBeat: Special Edition`67.000000`3`4`Fighting`7`Music`31`Adventure`
+20091`Dance Central 2`68.200078`2`7`Music`33`Arcade`
+20121`DanceMasters`65.000000`1`7`Music`
+20169`Dance Paradise`70.000000`1`7`Music`
+20198`BoxesWithGuns`50.000000`3`5`Shooter`7`Music`32`Indie`
+20218`Grease Dance`70.000000`1`7`Music`
+20240`Nickelodeon Dance`70.000000`1`7`Music`
+20329`Figment`72.149345`5`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`
+20685`Honeycomb Beat`47.000000`2`7`Music`9`Puzzle`
+21100`Jam with the Band`73.000000`1`7`Music`
+21141`Dream Trigger 3D`48.000000`2`5`Shooter`7`Music`
+21158`Tomena Sanner`73.000000`2`7`Music`14`Sport`
+21261`Guitar Rock Tour`43.000000`1`7`Music`
+21350`Karaoke Revolution Presents: American Idol Encore`50.000000`1`7`Music`
+21509`Ontamarama`50.000000`1`7`Music`
+21565`Radiohammer`78.000000`2`7`Music`31`Adventure`
+21894`Bit.Trip Saga`75.000000`4`5`Shooter`7`Music`8`Platform`31`Adventure`
+22381`Awkward Dimensions Redux`67.959515`4`7`Music`9`Puzzle`31`Adventure`32`Indie`
+22444`Tadpole Treble`80.000000`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+22980`Maestro! Jump in Music`63.000000`2`7`Music`8`Platform`
+23095`Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2`93.403041`1`7`Music`
+23386`Just Sing`50.000000`1`7`Music`
+23667`Go Vacation`86.000000`5`7`Music`10`Racing`13`Simulator`14`Sport`31`Adventure`
+23851`Wandersong`93.490653`5`7`Music`8`Platform`11`Real Time Strategy (RTS)`31`Adventure`32`Indie`
+24145`Karaoke Revolution Party`30.000000`2`7`Music`13`Simulator`
+24207`Beat Da Beat`70.000000`5`5`Shooter`7`Music`26`Quiz/Trivia`32`Indie`33`Arcade`
+24445`Conga Master`70.000000`2`7`Music`32`Indie`
+24645`Osu! Tatakae! Ouendan`88.647251`1`7`Music`
+24967`Polynomial 2`80.000000`4`5`Shooter`7`Music`13`Simulator`32`Indie`
+25658`Runner3`52.547997`4`7`Music`8`Platform`32`Indie`33`Arcade`
+25821`Hatsune Miku: Project Diva Future Tone`70.189718`1`7`Music`
+25849`Off-Peak`62.428142`3`7`Music`31`Adventure`32`Indie`
+25935`The Artful Escape`82.754201`4`7`Music`8`Platform`31`Adventure`32`Indie`
+25980`Zen Garden`60.000000`3`7`Music`13`Simulator`32`Indie`
+26102`Gnog`75.201094`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+26232`PaRappa the Rapper Remastered`68.014430`1`7`Music`
+26291`The Voice`65.000000`1`7`Music`
+26770`Akihabara: Feel the Rhythm`70.000000`3`7`Music`9`Puzzle`32`Indie`
+27026`Cytus`84.797995`2`7`Music`33`Arcade`
+27028`Deemo`89.745055`2`7`Music`31`Adventure`
+27206`DvDrum, Ultimate Drum Simulator!`70.000000`4`7`Music`13`Simulator`14`Sport`32`Indie`
+27397`Voez`86.503487`2`7`Music`33`Arcade`
+27573`Beat the Game`70.000000`3`7`Music`31`Adventure`32`Indie`
+27777`SoundStage`80.000000`3`7`Music`13`Simulator`32`Indie`
+27801`64.0`80.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+27907`Rhythm Doctor`90.037060`3`7`Music`31`Adventure`32`Indie`
+28049`The Low Road`45.422070`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+28266`Solitune`70.000000`3`7`Music`31`Adventure`32`Indie`
+28520`Dark Witch Music Episode: Rudymical`73.000000`3`7`Music`31`Adventure`32`Indie`
+28559`Daigasso! Band Brothers`76.000000`1`7`Music`
+28721`Yar\u0027s Revenge`50.000000`2`5`Shooter`7`Music`
+29019`Rhythm Rush!`50.000000`2`7`Music`32`Indie`
+29388`Ovivo`79.387524`6`7`Music`8`Platform`9`Puzzle`31`Adventure`32`Indie`33`Arcade`
+29511`Double Kick Heroes`67.160216`5`4`Fighting`5`Shooter`7`Music`32`Indie`33`Arcade`
+30155`Rocksmith 2014 Edition: Remastered`92.166702`2`7`Music`13`Simulator`
+30173`Beats Fever`70.000000`3`7`Music`14`Sport`32`Indie`
+31180`Neon Drive`79.309658`3`7`Music`32`Indie`33`Arcade`
+31194`Just Shapes \u0026 Beats`81.692155`3`7`Music`32`Indie`33`Arcade`
+31496`Music Inside: A VR Rhythm Game`60.000000`2`7`Music`32`Indie`
+31786`Intralism`80.000000`2`7`Music`32`Indie`
+31874`To the Top`80.000000`4`7`Music`8`Platform`10`Racing`32`Indie`
+32617`Rec Room`80.267958`10`4`Fighting`5`Shooter`7`Music`8`Platform`12`Role-playing (RPG)`13`Simulator`14`Sport`15`Strategy`31`Adventure`33`Arcade`
+32718`She Wants Me Dead`60.000000`5`7`Music`8`Platform`31`Adventure`32`Indie`33`Arcade`
+33261`Frederic: Resurrection of Music - Director\u0027s Cut`70.000000`2`7`Music`32`Indie`
+34003`Holodance`80.000000`3`7`Music`14`Sport`32`Indie`
+34060`Hiragana Pixel Party`60.000000`3`7`Music`8`Platform`32`Indie`
+34202`Energy Cycle`70.000000`4`7`Music`9`Puzzle`32`Indie`35`Card \u0026 Board Game`
+34567`Let\u0027s Sing 2016`50.000000`1`7`Music`
+34572`Behind You`60.000000`3`7`Music`31`Adventure`32`Indie`
+34744`Stage Presence`60.000000`3`7`Music`13`Simulator`32`Indie`
+34846`MegaSphere`50.000000`4`7`Music`8`Platform`31`Adventure`32`Indie`
+35028`Superstar Dance Club`70.000000`1`7`Music`
+35053`Pump-Action Captain`50.000000`2`7`Music`13`Simulator`
+35061`Big Thinkers 1st Grade`70.000000`3`2`Point-and-click`7`Music`26`Quiz/Trivia`
+35252`Cosmophony`70.000000`3`5`Shooter`7`Music`32`Indie`
+35535`Inside My Radio`80.000000`5`7`Music`8`Platform`31`Adventure`32`Indie`33`Arcade`
+35985`Pulsen`60.000000`4`7`Music`13`Simulator`14`Sport`32`Indie`
+36111`Ephemerid: A Musical Adventure`80.000000`3`7`Music`31`Adventure`32`Indie`
+36348`DubWars`80.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+36482`Symphonic Rain`70.000000`2`7`Music`34`Visual Novel`
+36660`Love Live! School Idol Festival`73.775666`2`7`Music`31`Adventure`
+37067`Just Dance 2018`69.992578`1`7`Music`
+38693`Geometry Dash Meltdown`90.000000`2`7`Music`33`Arcade`
+39209`Color Zen`61.797753`3`7`Music`9`Puzzle`15`Strategy`
+40521`Airtone`70.000000`3`7`Music`10`Racing`31`Adventure`
+41591`Country Dance Kinect`65.000000`1`7`Music`
+42813`Gitaroo Man Lives!`89.427828`1`7`Music`
+43680`Dance Dance Revolution Extreme`92.579614`2`7`Music`33`Arcade`
+43729`Music 2000`89.637991`1`7`Music`
+47380`Happy Feet Two`80.000000`2`7`Music`31`Adventure`
+47389`Zumba Fitness Rush`70.000000`1`7`Music`
+47414`NBA Baller Beats`70.000000`2`7`Music`14`Sport`
+47420`Nickelodeon Dance 2`65.000000`1`7`Music`
+47432`Karaoke Revolution Presents: American Idol Encore 2`70.000000`1`7`Music`
+47603`Rhythm Thief \u0026 the Emperor\u0027s Treasure`82.000000`3`7`Music`9`Puzzle`31`Adventure`
+47644`Cubit: The Hardcore Platformer Robot`63.000000`4`7`Music`8`Platform`31`Adventure`33`Arcade`
+47925`JAM sessions`45.000000`4`7`Music`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`
+50165`Phase Shift`60.000000`3`7`Music`13`Simulator`32`Indie`
+50581`MC Groovz Dance Craze`30.000000`1`7`Music`
+50616`Karaoke Revolution Glee: Volume 3`70.000000`1`7`Music`
+50733`Dance Dance Revolution: Hottest Party 4`75.000000`1`7`Music`
+51311`StepMania`79.245592`3`7`Music`13`Simulator`33`Arcade`
+51408`Old School Musical`70.000000`5`4`Fighting`7`Music`31`Adventure`32`Indie`33`Arcade`
+54217`Persona 3: Dancing in Moonlight`74.930047`1`7`Music`
+54218`Persona 5: Dancing in Starlight`70.871485`1`7`Music`
+54565`Tempest 4000`50.000000`4`5`Shooter`7`Music`9`Puzzle`33`Arcade`
+54613`Shape of the World`70.000000`4`7`Music`13`Simulator`31`Adventure`32`Indie`
+55174`Super Beat Sports`53.000000`2`7`Music`14`Sport`
+55196`Floor Kids`77.000000`3`7`Music`14`Sport`32`Indie`
+56168`Wiz Khalifa\u0027s Weed Farm`90.000000`3`7`Music`13`Simulator`15`Strategy`
+56463`Luna: The Shadow Dust`78.055749`6`2`Point-and-click`7`Music`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+57142`Gal Metal`73.000000`5`7`Music`12`Role-playing (RPG)`13`Simulator`31`Adventure`33`Arcade`
+57247`Rolling Sky`80.000000`3`7`Music`32`Indie`33`Arcade`
+57303`Beatsplosion! for Kinect`60.000000`2`7`Music`14`Sport`
+57323`Piano Tiles 2`72.852961`3`7`Music`9`Puzzle`33`Arcade`
+58141`Lanota`87.000000`1`7`Music`
+58892`Lost in Harmony`63.000000`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+58946`Baila Latino`90.000000`1`7`Music`
+61319`Dedede\u0027s Drum Dash Deluxe`75.000000`2`7`Music`31`Adventure`
+61400`KORG DSN-12`85.000000`1`7`Music`
+61714`To Leave`70.000000`6`7`Music`8`Platform`9`Puzzle`12`Role-playing (RPG)`31`Adventure`32`Indie`
+64957`Mutazione`63.706804`5`2`Point-and-click`7`Music`12`Role-playing (RPG)`31`Adventure`32`Indie`
+65090`Jam Sessions 2`63.000000`1`7`Music`
+67778`Rock Band: Metal Track Pack`85.000000`1`7`Music`
+68407`Rock Band: Country Track Pack`85.000000`1`7`Music`
+68838`El Tango de la Muerte`70.000000`2`7`Music`32`Indie`
+70087`Samba de Amigo`68.000000`1`7`Music`
+70603`BCFX: The Doug Williams Edition`65.000000`2`7`Music`14`Sport`
+71957`Framed Collection`79.055579`7`2`Point-and-click`7`Music`8`Platform`9`Puzzle`15`Strategy`31`Adventure`32`Indie`
+72548`Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken`78.000000`1`7`Music`
+73009`Korg DS-10`82.000000`1`7`Music`
+74191`Paradiddle`70.000000`3`7`Music`13`Simulator`32`Indie`
+74732`Etterna`87.173220`1`7`Music`
+75172`Slam Fighter II`70.000000`2`7`Music`32`Indie`
+75245`Avicii Invector`79.872892`3`7`Music`32`Indie`33`Arcade`
+75518`Nirvana Pilot Yume`70.000000`5`7`Music`10`Racing`14`Sport`31`Adventure`32`Indie`
+75992`Musynx`70.000000`4`7`Music`13`Simulator`32`Indie`33`Arcade`
+76412`Songbird Symphony`70.000000`4`7`Music`8`Platform`31`Adventure`32`Indie`
+76655`Song of Memories`50.000000`5`7`Music`12`Role-playing (RPG)`13`Simulator`31`Adventure`34`Visual Novel`
+77537`KORG Gadget`93.000000`2`7`Music`13`Simulator`
+78754`Scribblenauts Showdown`50.000000`3`7`Music`9`Puzzle`14`Sport`
+79044`Geometry Dash World`89.859392`2`7`Music`33`Arcade`
+80006`Felix the Reaper`69.842668`4`7`Music`9`Puzzle`31`Adventure`32`Indie`
+80138`BanG Dream! Girls Band Party!`74.387005`3`7`Music`31`Adventure`34`Visual Novel`
+80255`Karaoke`75.000000`1`7`Music`
+80460`Karaoke Revolution`70.000000`2`7`Music`13`Simulator`
+81056`Electronauts`80.000000`2`7`Music`32`Indie`
+81876`Guns \u0026 Notes`70.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+81921`Nekomew\u0027s Potty Trouble`70.000000`2`7`Music`32`Indie`
+82375`Air Guitar Warrior for Kinect`90.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+82421`Rock Band 4: Rivals Bundle`90.000000`2`7`Music`13`Simulator`
+82540`Just Dance 2016 \u0026 Just Dance: Disney Party 2`80.000000`1`7`Music`
+83509`Fantasia: Music Evolved`80.000000`1`7`Music`
+83730`Super One More Jump`90.000000`4`7`Music`8`Platform`31`Adventure`33`Arcade`
+83731`Beat Saber`85.140731`3`7`Music`14`Sport`32`Indie`
+83858`AudioBeats`70.000000`3`7`Music`14`Sport`32`Indie`
+84525`Hello Kitty and the Apron of Magic: Rhythm Cooking`87.000000`3`7`Music`9`Puzzle`13`Simulator`
+84699`New Play Control! Donkey Kong Jungle Beat`80.000000`2`7`Music`8`Platform`
+84922`Clone Hero`83.200000`1`7`Music`
+85154`Frederic 2: Evil Strikes Back`53.000000`2`7`Music`33`Arcade`
+86316`Muse Dash`80.392026`2`7`Music`32`Indie`
+86525`Distortions`50.000000`4`7`Music`12`Role-playing (RPG)`31`Adventure`32`Indie`
+86707`Rhythm Cat Pro`90.000000`1`7`Music`
+86864`Baby\u0027s Musical Hands`80.000000`1`7`Music`
+86886`Thumper: Pocket Edition`90.000000`1`7`Music`
+86913`Pixel Blitz - Impossible Runner`60.000000`2`7`Music`33`Arcade`
+86997`Just Dance Now`90.000000`2`7`Music`33`Arcade`
+87008`White Tiles 4: Piano Master 2`80.000000`2`7`Music`33`Arcade`
+87023`Geometry Dash SubZero`74.606742`3`7`Music`10`Racing`33`Arcade`
+87048`Dancing Line`90.000000`2`7`Music`33`Arcade`
+87123`Musical Studio`40.000000`1`7`Music`
+87128`Flip Run: Second Wave`80.000000`2`7`Music`33`Arcade`
+88775`SongPop 2: Guess the Song`90.000000`1`7`Music`
+88866`Magic Tiles 3: Piano Games 2`80.000000`2`7`Music`33`Arcade`
+88903`Piano Magic 2018 Music Tiles 2`90.000000`1`7`Music`
+88940`Incredibox`90.000000`2`7`Music`32`Indie`
+89095`Cytus II`79.711948`2`7`Music`33`Arcade`
+89767`Pinkalicious Party`70.000000`2`7`Music`12`Role-playing (RPG)`
+89847`Hatsune Miku VR`50.000000`1`7`Music`
+94970`Lumines Remastered`70.375868`4`7`Music`9`Puzzle`32`Indie`33`Arcade`
+95225`Kine`70.000000`4`7`Music`9`Puzzle`15`Strategy`32`Indie`
+95874`Magic Tiles 3`44.874900`1`7`Music`
+96064`SuperStar BTS`48.088408`1`7`Music`
+96353`Odium to the Core`70.000000`3`7`Music`32`Indie`33`Arcade`
+98145`Newt One`70.000000`4`7`Music`8`Platform`31`Adventure`32`Indie`
+99181`My Singing Monsters Composer`42.941175`1`7`Music`
+100767`Wonder Parade`46.842103`2`7`Music`32`Indie`
+100916`Ear Cat`45.942030`1`7`Music`
+101659`Splashy Tiles: Bouncing to the Beat`43.577980`1`7`Music`
+101956`Marshmello \u0026 Anna Marie - Friend Piano Tiles`26.698895`1`7`Music`
+103221`Tetris Effect`87.902947`2`7`Music`9`Puzzle`
+103227`A Story of a Band`70.000000`4`7`Music`13`Simulator`15`Strategy`32`Indie`
+103315`Just Dance 2019`66.029436`1`7`Music`
+103371`Fitness Boxing`83.000000`2`7`Music`14`Sport`
+104523`Groove Coaster for Steam`80.000000`1`7`Music`
+104992`Taiko no Tatsujin: Drum \u0027n\u0027 Fun!`80.007144`2`7`Music`33`Arcade`
+105237`Music Racer`70.000000`4`7`Music`10`Racing`32`Indie`33`Arcade`
+105333`Synth Riders`70.000000`4`7`Music`14`Sport`32`Indie`33`Arcade`
+106027`Golf Club: Wasteland`73.307306`7`7`Music`8`Platform`9`Puzzle`14`Sport`31`Adventure`32`Indie`33`Arcade`
+106290`Cytus Alpha`83.000000`1`7`Music`
+107182`Vectronom`70.000000`5`7`Music`8`Platform`9`Puzzle`32`Indie`33`Arcade`
+107360`Dance Collider`70.000000`3`7`Music`14`Sport`32`Indie`
+109323`Invaxion`50.000000`2`7`Music`32`Indie`
+109361`Morphe`60.000000`2`7`Music`32`Indie`
+109611`Beat Hazard 2`70.000000`3`7`Music`32`Indie`33`Arcade`
+110594`Magic Piano Tiles 2018 - Music Game`66.600694`1`7`Music`
+110700`Tapsonic Bold`50.000000`2`7`Music`10`Racing`
+110857`Super Ledgehop: Double Laser`70.000000`4`5`Shooter`7`Music`31`Adventure`32`Indie`
+111533`Sequence Storm`70.000000`3`7`Music`10`Racing`32`Indie`
+113107`Sayonara Wild Hearts`79.004320`4`7`Music`31`Adventure`32`Indie`33`Arcade`
+113196`Aaero: Complete Edition`67.000000`1`7`Music`
+113485`Octahedron: Transfixed Edition`60.000000`3`7`Music`8`Platform`31`Adventure`
+113557`PowerBeatsVR`70.000000`3`7`Music`14`Sport`32`Indie`
+114392`A Dance of Fire and Ice`83.627375`3`7`Music`32`Indie`33`Arcade`
+114783`No Straight Roads`69.771778`4`7`Music`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`31`Adventure`
+115285`Audica`50.000000`3`5`Shooter`7`Music`32`Indie`
+115925`Freedom Finger`70.000000`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+116187`Lofi Ping Pong`70.000000`5`7`Music`14`Sport`31`Adventure`32`Indie`33`Arcade`
+116305`Himno`54.222925`5`7`Music`8`Platform`31`Adventure`32`Indie`33`Arcade`
+116419`Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda`74.099190`2`7`Music`31`Adventure`
+117458`Neon Beats`58.400000`3`7`Music`8`Platform`32`Indie`
+119256`Just Dance 2020`72.424693`1`7`Music`
+119324`When the Past Was Around`70.014922`5`2`Point-and-click`7`Music`9`Puzzle`31`Adventure`32`Indie`
+119341`Pistol Whip`79.466909`4`5`Shooter`7`Music`32`Indie`33`Arcade`
+119993`Song Beater: Quite My Tempo!`70.000000`3`7`Music`14`Sport`32`Indie`
+121694`Hypnocult`70.000000`2`7`Music`32`Indie`
+122136`Audio Trip`70.000000`4`7`Music`14`Sport`32`Indie`33`Arcade`
+122416`Spin Rhythm XD`80.000000`2`7`Music`32`Indie`
+124490`KORG DS-10 Plus`79.000000`1`7`Music`
+125049`Beat.School: DJ Simulator`50.000000`3`7`Music`13`Simulator`32`Indie`
+125113`Music Killer`60.000000`2`7`Music`32`Indie`
+126100`Bokuten: Why I Became an Angel`70.000000`3`7`Music`31`Adventure`34`Visual Novel`
+126179`DJMax Respect V`80.000000`2`7`Music`14`Sport`
+126420`Love Rhythm`60.000000`4`7`Music`13`Simulator`32`Indie`34`Visual Novel`
+126599`Memody: Sindrel Song`70.000000`2`7`Music`32`Indie`
+127463`Barrage Musical: Basic Danmaku Tutorial`70.000000`3`5`Shooter`7`Music`32`Indie`
+131970`Fuser`78.341979`2`7`Music`13`Simulator`
+132083`Everhood`72.620070`4`7`Music`12`Role-playing (RPG)`31`Adventure`32`Indie`
+133330`BPM: Bullets Per Minute`75.060608`5`5`Shooter`7`Music`31`Adventure`32`Indie`33`Arcade`
+134560`Metal: Hellsinger`81.709161`3`5`Shooter`7`Music`31`Adventure`
+135108`Kingdom Hearts: Melody of Memory`80.482323`2`7`Music`12`Role-playing (RPG)`
+135999`Tetris Effect: Connected`95.124327`4`7`Music`9`Puzzle`32`Indie`33`Arcade`
+137131`Just Dance 2021`70.035393`1`7`Music`
+138851`Not in the Groove`99.033844`1`7`Music`
+139134`Hatsune Miku: Colorful Stage!`80.054805`3`7`Music`31`Adventure`34`Visual Novel`
+139399`Ragnarock`95.000000`5`7`Music`10`Racing`14`Sport`32`Indie`33`Arcade`
+140635`Friday Night Funkin\u0027`80.196322`1`7`Music`
+180960`Kid A Mnesia Exhibition`81.413259`2`7`Music`31`Adventure`
+233585`Hi-Fi Rush`91.667673`4`7`Music`8`Platform`25`Hack and slash/Beat \u0027em up`31`Adventure`

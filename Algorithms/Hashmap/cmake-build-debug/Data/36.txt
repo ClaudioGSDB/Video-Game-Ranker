@@ -1,25 +1,25 @@
 36|MOBA
-115§League of Legends§76.854394§3§12§Role-playing (RPG)§15§Strategy§36§MOBA§
-763§Heroes of Newerth§84.012489§1§36§MOBA§
-1281§Awesomenauts§66.904138§4§8§Platform§15§Strategy§32§Indie§36§MOBA§
-2963§Dota 2§79.984257§2§15§Strategy§36§MOBA§
-5570§Strife§46.611572§4§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§36§MOBA§
-5607§Smite§69.273714§4§5§Shooter§15§Strategy§31§Adventure§36§MOBA§
-7004§Guilty Gear 2: Overture§75.000000§1§36§MOBA§
-7313§Heroes of the Storm§73.701769§1§36§MOBA§
-9689§The Witcher Battle Arena§69.942144§1§36§MOBA§
-9815§Fractured Space§62.128510§5§5§Shooter§15§Strategy§31§Adventure§32§Indie§36§MOBA§
-13174§Vainglory§69.995663§1§36§MOBA§
-14410§Paragon§77.648836§1§36§MOBA§
-23193§Battlerite§79.400062§5§4§Fighting§11§Real Time Strategy (RTS)§15§Strategy§25§Hack and slash/Beat \u0027em up§36§MOBA§
-28819§Heroes Evolved§40.000000§5§11§Real Time Strategy (RTS)§12§Role-playing (RPG)§15§Strategy§24§Tactical§36§MOBA§
-55044§Arena of Valor§72.211586§2§15§Strategy§36§MOBA§
-55945§Brawl Stars§77.017775§3§5§Shooter§15§Strategy§36§MOBA§
-77277§Fault: Elder Orb§50.000000§2§15§Strategy§36§MOBA§
-79392§Mobile Legends: Bang Bang§59.755312§3§15§Strategy§31§Adventure§36§MOBA§
-90661§Awesomenauts Assemble!: Fully Loaded Pack§20.000000§1§36§MOBA§
-90662§Fully Loaded Collector\u0027s Pack - Awesomenauts Assemble! Game Bundle§70.000000§1§36§MOBA§
-124700§League of Legends: Wild Rift§70.392033§2§15§Strategy§36§MOBA§
-132380§Rover Wars: Battle For Mars§60.000000§5§11§Real Time Strategy (RTS)§13§Simulator§15§Strategy§32§Indie§36§MOBA§
-135381§Pokémon Unite§73.088018§2§15§Strategy§36§MOBA§
-135842§Eternal Return§69.567464§2§15§Strategy§36§MOBA§
+115`League of Legends`76.854394`3`12`Role-playing (RPG)`15`Strategy`36`MOBA`
+763`Heroes of Newerth`84.012489`1`36`MOBA`
+1281`Awesomenauts`66.904138`4`8`Platform`15`Strategy`32`Indie`36`MOBA`
+2963`Dota 2`79.984257`2`15`Strategy`36`MOBA`
+5570`Strife`46.611572`4`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`36`MOBA`
+5607`Smite`69.273714`4`5`Shooter`15`Strategy`31`Adventure`36`MOBA`
+7004`Guilty Gear 2: Overture`75.000000`1`36`MOBA`
+7313`Heroes of the Storm`73.701769`1`36`MOBA`
+9689`The Witcher Battle Arena`69.942144`1`36`MOBA`
+9815`Fractured Space`62.128510`5`5`Shooter`15`Strategy`31`Adventure`32`Indie`36`MOBA`
+13174`Vainglory`69.995663`1`36`MOBA`
+14410`Paragon`77.648836`1`36`MOBA`
+23193`Battlerite`79.400062`5`4`Fighting`11`Real Time Strategy (RTS)`15`Strategy`25`Hack and slash/Beat \u0027em up`36`MOBA`
+28819`Heroes Evolved`40.000000`5`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`24`Tactical`36`MOBA`
+55044`Arena of Valor`72.211586`2`15`Strategy`36`MOBA`
+55945`Brawl Stars`77.017775`3`5`Shooter`15`Strategy`36`MOBA`
+77277`Fault: Elder Orb`50.000000`2`15`Strategy`36`MOBA`
+79392`Mobile Legends: Bang Bang`59.755312`3`15`Strategy`31`Adventure`36`MOBA`
+90661`Awesomenauts Assemble!: Fully Loaded Pack`20.000000`1`36`MOBA`
+90662`Fully Loaded Collector\u0027s Pack - Awesomenauts Assemble! Game Bundle`70.000000`1`36`MOBA`
+124700`League of Legends: Wild Rift`70.392033`2`15`Strategy`36`MOBA`
+132380`Rover Wars: Battle For Mars`60.000000`5`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`32`Indie`36`MOBA`
+135381`Pokémon Unite`73.088018`2`15`Strategy`36`MOBA`
+135842`Eternal Return`69.567464`2`15`Strategy`36`MOBA`
