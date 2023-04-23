@@ -16,12 +16,14 @@ ReadData::ReadData(string pathToFolder)
     int key;
     string value;
 
-    for(int i = 0; i < 50; i++)
+
+    for(int i = 0; i < 36; i++)
     {
         string fileName = pathToFolder + "/" + to_string(i) + ".txt";
+        cout << fileName << endl;
         ifstream file(fileName);
 
-        if (file.good()) //if file exists
+        if (file.is_open()) //if file exists
         {
             string line;
 
