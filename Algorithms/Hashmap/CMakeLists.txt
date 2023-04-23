@@ -3,4 +3,4 @@ project(Hashmap)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Hashmap main.cpp Src/ReadData.cpp Src/ReadData.h)
+add_executable(Hashmap main.cpp Src/ReadData.cpp Src/ReadData.h Src/DataNode.cpp Src/DataNode.h)
