@@ -49,11 +49,27 @@ cmake_ninja_workdir = C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algori
 
 build cmake_object_order_depends_target_Graph: phony || CMakeFiles/Graph.dir
 
-build CMakeFiles/Graph.dir/main.cpp.obj: CXX_COMPILER__Graph_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Graph/main.cpp || cmake_object_order_depends_target_Graph
-  DEP_FILE = CMakeFiles\Graph.dir\main.cpp.obj.d
+build CMakeFiles/Graph.dir/Src/main.cpp.obj: CXX_COMPILER__Graph_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Graph/Src/main.cpp || cmake_object_order_depends_target_Graph
+  DEP_FILE = CMakeFiles\Graph.dir\Src\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Graph.dir
-  OBJECT_FILE_DIR = CMakeFiles\Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles\Graph.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\Graph.dir\
+  TARGET_PDB = Graph.pdb
+
+build CMakeFiles/Graph.dir/Src/DataNode.cpp.obj: CXX_COMPILER__Graph_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Graph/Src/DataNode.cpp || cmake_object_order_depends_target_Graph
+  DEP_FILE = CMakeFiles\Graph.dir\Src\DataNode.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles\Graph.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\Graph.dir\
+  TARGET_PDB = Graph.pdb
+
+build CMakeFiles/Graph.dir/Src/ReadData.cpp.obj: CXX_COMPILER__Graph_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Graph/Src/ReadData.cpp || cmake_object_order_depends_target_Graph
+  DEP_FILE = CMakeFiles\Graph.dir\Src\ReadData.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles\Graph.dir\Src
   TARGET_COMPILE_PDB = CMakeFiles\Graph.dir\
   TARGET_PDB = Graph.pdb
 
@@ -65,7 +81,7 @@ build CMakeFiles/Graph.dir/main.cpp.obj: CXX_COMPILER__Graph_Debug C$:/Users/Cla
 #############################################
 # Link the executable Graph.exe
 
-build Graph.exe: CXX_EXECUTABLE_LINKER__Graph_Debug CMakeFiles/Graph.dir/main.cpp.obj
+build Graph.exe: CXX_EXECUTABLE_LINKER__Graph_Debug CMakeFiles/Graph.dir/Src/main.cpp.obj CMakeFiles/Graph.dir/Src/DataNode.cpp.obj CMakeFiles/Graph.dir/Src/ReadData.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Graph.dir
