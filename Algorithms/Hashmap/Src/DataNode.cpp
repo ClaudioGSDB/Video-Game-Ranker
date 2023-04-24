@@ -1,6 +1,7 @@
 #include "DataNode.h"
 #include "ReadData.h"
 
+DataNode::DataNode(){}
 DataNode::DataNode(int ID, string title, double rating, map<int, string> genres)
 {
     this->ID = ID;
