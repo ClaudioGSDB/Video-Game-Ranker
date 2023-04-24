@@ -1,7 +1,12 @@
 30`Pinball`
 838`Pro Pinball: Big Race USA`70.628150`3`10`Racing`13`Simulator`30`Pinball`
 1109`Metroid Prime Pinball`60.131339`2`9`Puzzle`30`Pinball`
+1948`Sorcerer`0.000000`3`15`Strategy`30`Pinball`31`Adventure`
+2641`Atari: 80 Classic Games in One!`0.000000`9`5`Shooter`9`Puzzle`10`Racing`12`Role-playing (RPG)`14`Sport`26`Quiz/Trivia`30`Pinball`33`Arcade`35`Card \u0026 Board Game`
+2752`Gee Bee`0.000000`1`30`Pinball`
 3024`Pinball Dreams`80.776532`1`30`Pinball`
+3229`Retro World`0.000000`20`2`Point-and-click`4`Fighting`5`Shooter`7`Music`8`Platform`9`Puzzle`10`Racing`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`13`Simulator`14`Sport`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`30`Pinball`31`Adventure`32`Indie`33`Arcade`
+3657`Rollerball`0.000000`1`30`Pinball`
 3715`Kirby\u0027s Pinball Land`70.633729`2`30`Pinball`33`Arcade`
 3996`MaxPlay Classic Games Volume 1`25.000000`6`5`Shooter`12`Role-playing (RPG)`14`Sport`15`Strategy`30`Pinball`33`Arcade`
 4050`Odama`69.000000`3`11`Real Time Strategy (RTS)`15`Strategy`30`Pinball`
@@ -9,46 +14,149 @@
 4068`Pokémon Pinball`69.510440`3`5`Shooter`9`Puzzle`30`Pinball`
 4069`Pokémon Pinball: Ruby \u0026 Sapphire`79.944494`3`30`Pinball`31`Adventure`33`Arcade`
 4093`Rocky`69.990753`4`4`Fighting`8`Platform`14`Sport`30`Pinball`
+4266`Real Pinball`0.000000`1`30`Pinball`
+4333`PaTaank`0.000000`1`30`Pinball`
+4430`Dino Land`0.000000`2`14`Sport`30`Pinball`
+4458`Virtual Pinball`0.000000`2`30`Pinball`33`Arcade`
 4487`Mercs`79.037891`4`5`Shooter`8`Platform`30`Pinball`33`Arcade`
+4553`Psycho Pinball`0.000000`2`14`Sport`30`Pinball`
 4742`Calling`83.000000`2`30`Pinball`31`Adventure`
 4823`Dream Pinball 3D`40.000000`3`13`Simulator`30`Pinball`33`Arcade`
 5099`Pinball Hall of Fame: The Williams Collection`87.000000`1`30`Pinball`
+5403`Mary Shelley\u0027s Frankenstein`0.000000`3`8`Platform`30`Pinball`31`Adventure`
 5667`Circus Atari`57.639219`3`13`Simulator`30`Pinball`33`Arcade`
+5995`Pure Pinball`0.000000`1`30`Pinball`
 6008`Zen Pinball 2`77.000000`4`13`Simulator`15`Strategy`30`Pinball`33`Arcade`
 6023`Pinball Fantasies`80.371722`2`13`Simulator`30`Pinball`
+6025`Pinball Illusions`0.000000`1`30`Pinball`
+6130`Sega Flipper`0.000000`1`30`Pinball`
+6266`Mile High Pinball`0.000000`1`30`Pinball`
 6503`Mario Pinball Land`59.325298`4`14`Sport`30`Pinball`31`Adventure`33`Arcade`
+6529`Pac-Man Pinball Advance`0.000000`1`30`Pinball`
+6534`The Pinball of the Dead`0.000000`2`14`Sport`30`Pinball`
+6601`Sonic Pinball Party`0.000000`2`14`Sport`30`Pinball`
+6667`Equilibrio`0.000000`2`9`Puzzle`30`Pinball`
 6827`Devil\u0027s Crush`76.000000`2`30`Pinball`33`Arcade`
 6861`Pac-Man \u0026 Galaga Dimensions`72.000000`3`5`Shooter`8`Platform`30`Pinball`
+7427`Gotcha`0.000000`3`15`Strategy`30`Pinball`33`Arcade`
+7513`Ultimate Quest: Journey to the Far Side of Possible`0.000000`4`9`Puzzle`13`Simulator`30`Pinball`31`Adventure`
+7549`Adventure Pinball: Forgotten Island`0.000000`1`30`Pinball`
 8476`Hocus Pocus`71.648069`3`8`Platform`30`Pinball`31`Adventure`
 8516`Back to the Future`45.226633`2`30`Pinball`33`Arcade`
 8801`Wings! Remastered Edition`60.000000`5`5`Shooter`13`Simulator`14`Sport`30`Pinball`33`Arcade`
+9131`True Pinball`0.000000`2`9`Puzzle`30`Pinball`
 9335`Worms Pinball`81.517421`3`13`Simulator`30`Pinball`33`Arcade`
 9420`Slamit Pinball: Big Score`40.000000`1`30`Pinball`
+10507`Laxius Power`0.000000`2`12`Role-playing (RPG)`30`Pinball`
 10704`Platypus`70.332002`3`5`Shooter`15`Strategy`30`Pinball`
+10744`Southern Belle`0.000000`2`13`Simulator`30`Pinball`
 10786`Royal Quest`60.000000`2`12`Role-playing (RPG)`30`Pinball`
+10956`The Mark`0.000000`2`5`Shooter`30`Pinball`
+11017`Trainz Simulator 2010: Engineers Edition`0.000000`2`13`Simulator`30`Pinball`
+11097`Balls of Steel`0.000000`3`13`Simulator`14`Sport`30`Pinball`
+11301`Spacewar!`0.000000`3`5`Shooter`13`Simulator`30`Pinball`
+11322`Nim`0.000000`2`15`Strategy`30`Pinball`
+11485`Star Trek`0.000000`3`5`Shooter`15`Strategy`30`Pinball`
+11511`Qwak!`0.000000`3`5`Shooter`14`Sport`30`Pinball`
+11532`Ski`0.000000`3`7`Music`14`Sport`30`Pinball`
+11534`Hockey`0.000000`2`14`Sport`30`Pinball`
+11722`Rock \u0027n\u0027 Roll`0.000000`3`9`Puzzle`15`Strategy`30`Pinball`
+11929`Baal`0.000000`4`5`Shooter`8`Platform`9`Puzzle`30`Pinball`
+12104`Flood`0.000000`4`8`Platform`9`Puzzle`30`Pinball`31`Adventure`
+12121`Gold Rush!`0.000000`3`5`Shooter`30`Pinball`31`Adventure`
+12152`Hydra`0.000000`3`5`Shooter`10`Racing`30`Pinball`
+12250`Alice in Wonderland`0.000000`3`30`Pinball`31`Adventure`33`Arcade`
+12376`Absolute Pinball`0.000000`1`30`Pinball`
+12406`Booly`0.000000`4`9`Puzzle`14`Sport`15`Strategy`30`Pinball`
+12429`1st Person Pinball`0.000000`1`30`Pinball`
 12492`Alien Crush`66.578947`2`30`Pinball`33`Arcade`
+12722`Prime Mover`0.000000`2`10`Racing`30`Pinball`
+12804`The Twilight Zone`0.000000`2`30`Pinball`31`Adventure`
+12865`Time Scanner`0.000000`1`30`Pinball`
 12905`Pro Pinball: Timeshock!`70.041803`1`30`Pinball`
 13209`Coast Guard`40.000000`3`13`Simulator`30`Pinball`31`Adventure`
+13242`ArcPinball`0.000000`1`30`Pinball`
+13289`Advanced Pinball Simulator`0.000000`2`13`Simulator`30`Pinball`
+13345`Atlantis`0.000000`3`9`Puzzle`15`Strategy`30`Pinball`
+13501`Cobra Pinball`0.000000`1`30`Pinball`
+13656`Eye`0.000000`3`9`Puzzle`13`Simulator`30`Pinball`
 13673`Micron`80.000000`4`7`Music`9`Puzzle`30`Pinball`32`Indie`
+13814`Big Ben`0.000000`2`30`Pinball`31`Adventure`
+14139`Jumping Jack`0.000000`1`30`Pinball`
+14169`Arena`0.000000`2`14`Sport`30`Pinball`
 14207`The Addams Family`73.686906`2`8`Platform`30`Pinball`
+14274`Atax`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
+14503`Klondike`0.000000`1`30`Pinball`
+14574`Time Zone`0.000000`2`30`Pinball`31`Adventure`
+14656`Doodlebug`0.000000`3`5`Shooter`8`Platform`30`Pinball`
 14813`Peggle Nights`83.924285`2`9`Puzzle`30`Pinball`
+15327`Obsession`0.000000`1`30`Pinball`
 15646`Peggle Extreme`63.140347`4`9`Puzzle`10`Racing`15`Strategy`30`Pinball`
 16036`Sonic the Hedgehog: Spinball`68.482426`3`8`Platform`9`Puzzle`30`Pinball`
 16492`Wake`40.000000`2`30`Pinball`32`Indie`
 16823`Rollers of the Realm`80.000000`6`9`Puzzle`12`Role-playing (RPG)`30`Pinball`31`Adventure`32`Indie`33`Arcade`
+16968`Microsoft Pinball Arcade`0.000000`2`30`Pinball`33`Arcade`
+16977`Rebound`0.000000`4`14`Sport`30`Pinball`32`Indie`33`Arcade`
 17219`Duet`71.611378`2`30`Pinball`32`Indie`
+18333`Pro Pinball: The Web`0.000000`2`30`Pinball`33`Arcade`
+18606`Tank/Plane Battle`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
+18607`Attack`0.000000`2`5`Shooter`30`Pinball`
+18652`Springer`0.000000`4`11`Real Time Strategy (RTS)`15`Strategy`30`Pinball`33`Arcade`
+18708`Solar Fox`0.000000`3`30`Pinball`31`Adventure`33`Arcade`
+18764`Borg`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
+19166`Monster Strike`0.000000`4`9`Puzzle`12`Role-playing (RPG)`15`Strategy`30`Pinball`
+19274`Angry Birds Action!`0.000000`3`9`Puzzle`30`Pinball`33`Arcade`
+19651`Marvel Pinball`0.000000`2`30`Pinball`33`Arcade`
+19671`Simple 1500 Series Vol. 11: The Pinball 3D`0.000000`1`30`Pinball`
+19737`Digital Pinball: Last Gladiators`0.000000`2`13`Simulator`30`Pinball`
+20004`Pinball FX3: Star Wars Pinball`0.000000`2`13`Simulator`30`Pinball`
+20005`Pinball FX3: Star Wars Pinball - Balance of the Force`0.000000`3`13`Simulator`15`Strategy`30`Pinball`
+20381`Galactic Pinball`0.000000`2`9`Puzzle`30`Pinball`
+20385`Mario Clash`0.000000`4`8`Platform`10`Racing`30`Pinball`33`Arcade`
 20581`Contact`77.936866`3`9`Puzzle`12`Role-playing (RPG)`30`Pinball`
 20693`Flipper Critters`45.000000`1`30`Pinball`
 20730`Zen Pinball`66.000000`2`30`Pinball`33`Arcade`
 20799`Pro-Pinball`70.000000`1`30`Pinball`
+20812`Grand Slam`0.000000`2`14`Sport`30`Pinball`
+20821`Marvel Pinball: Avengers Chronicles`0.000000`1`30`Pinball`
 21667`Siesta Fiesta`69.000000`4`9`Puzzle`30`Pinball`31`Adventure`33`Arcade`
+21674`Cutie Q`0.000000`1`30`Pinball`
+21718`Marvel Pinball: Captain America`0.000000`1`30`Pinball`
 22182`Momonga Pinball Adventures`60.000000`4`30`Pinball`31`Adventure`32`Indie`33`Arcade`
 22392`Arrow Heads`70.000000`5`4`Fighting`5`Shooter`30`Pinball`32`Indie`33`Arcade`
+22523`Rollercoaster`0.000000`4`8`Platform`13`Simulator`15`Strategy`30`Pinball`
+22735`Flash Gordon`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
 22785`Hyperspace Pinball`50.000000`4`13`Simulator`30`Pinball`32`Indie`33`Arcade`
+23237`Infinite Pinball`0.000000`2`30`Pinball`33`Arcade`
+23335`Full Tilt! Pinball`0.000000`1`30`Pinball`
+23576`Spin Ball`0.000000`2`13`Simulator`30`Pinball`
 23672`Marvel Pinball 3D`57.000000`3`13`Simulator`30`Pinball`33`Arcade`
+23911`Sea Hawk`0.000000`4`5`Shooter`30`Pinball`31`Adventure`33`Arcade`
 23956`Shiny`60.000000`3`8`Platform`30`Pinball`32`Indie`
+24000`Galaxy`0.000000`5`5`Shooter`13`Simulator`15`Strategy`16`Turn-based strategy (TBS)`30`Pinball`
+24218`Pinball FX2: Ant-Man`0.000000`2`10`Racing`30`Pinball`
+24229`Pinball FX 2: Marvel Civil War`0.000000`1`30`Pinball`
+24231`Pinball FX2: Plants vs. Zombies`0.000000`2`15`Strategy`30`Pinball`
+24305`Zen Pinball 2: South Park - Super-Sweet Pinball`0.000000`2`30`Pinball`33`Arcade`
+24377`Pinball Construction Set`0.000000`1`30`Pinball`
+24828`Targ`0.000000`4`5`Shooter`14`Sport`30`Pinball`33`Arcade`
+24866`Pinball FX2: Marvel\u0027s Women of Power`0.000000`1`30`Pinball`
+24879`Raster Blaster`0.000000`1`30`Pinball`
+24986`Paratroopers`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
+25138`Night Mission Pinball`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+25204`Moonflight`0.000000`3`5`Shooter`30`Pinball`32`Indie`
+25243`ABM`0.000000`4`5`Shooter`14`Sport`30`Pinball`33`Arcade`
+25306`Super Flip`0.000000`4`9`Puzzle`30`Pinball`32`Indie`33`Arcade`
+25535`Alien Stars`0.000000`1`30`Pinball`
+25612`Gumball`0.000000`2`30`Pinball`33`Arcade`
+25691`Fracas`0.000000`2`12`Role-playing (RPG)`30`Pinball`
+25778`Mindwheel`0.000000`2`30`Pinball`31`Adventure`
 26292`Pinball FX2 VR`80.000000`3`13`Simulator`30`Pinball`33`Arcade`
+26928`Pinball FX3: Star Wars Pinball - Rogue One`0.000000`1`30`Pinball`
+27110`Akira Psycho Ball`0.000000`1`30`Pinball`
 27367`Yoku\u0027s Island Express`83.276424`6`8`Platform`9`Puzzle`30`Pinball`31`Adventure`32`Indie`33`Arcade`
+28053`Pinball Yeah!`0.000000`1`30`Pinball`
+28530`Flipnic: Ultimate Pinball`0.000000`1`30`Pinball`
 29729`Retro Pinball`50.000000`4`13`Simulator`30`Pinball`32`Indie`33`Arcade`
 29818`Phantom`50.000000`4`12`Role-playing (RPG)`30`Pinball`31`Adventure`32`Indie`
 29831`Quantic Pinball`70.000000`1`30`Pinball`
@@ -57,27 +165,401 @@
 31468`Quick Draw`70.000000`1`30`Pinball`
 31684`Pinball Parlor`50.000000`2`30`Pinball`32`Indie`
 31800`Cubway`50.000000`3`30`Pinball`31`Adventure`32`Indie`
+31845`Bumper`0.000000`2`30`Pinball`32`Indie`
+32056`Stars`0.000000`3`13`Simulator`30`Pinball`32`Indie`
 32062`Francisca`50.000000`3`30`Pinball`31`Adventure`32`Indie`
+32666`.Exe`0.000000`4`16`Turn-based strategy (TBS)`30`Pinball`31`Adventure`32`Indie`
 33114`Zombie Pinball`50.000000`1`30`Pinball`
 33463`Zaccaria Pinball`70.000000`4`13`Simulator`30`Pinball`32`Indie`33`Arcade`
+34051`Eye of the Owl`0.000000`2`13`Simulator`30`Pinball`
 34874`Evil`30.000000`2`30`Pinball`32`Indie`
+35133`Fantastic Pinball Thrills`0.000000`1`30`Pinball`
+35134`Hot Pinball Thrills`0.000000`1`30`Pinball`
 36277`Worlds`70.000000`3`30`Pinball`31`Adventure`32`Indie`
+36548`Brain Ball: Big Data`0.000000`4`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`30`Pinball`
+36742`Judge Dredd`0.000000`3`5`Shooter`30`Pinball`33`Arcade`
+37205`Battle Pinball`0.000000`2`9`Puzzle`30`Pinball`
+38036`Bomb Bee`0.000000`2`30`Pinball`33`Arcade`
+38053`Pinball Magic`0.000000`1`30`Pinball`
+38272`Super Pinball II: The Amazing Odyssey`0.000000`1`30`Pinball`
+38361`Jaki Crush`0.000000`2`30`Pinball`33`Arcade`
+38609`China Town`0.000000`2`9`Puzzle`30`Pinball`
+38842`Thomas the Tank Engine \u0026 Friends`0.000000`1`30`Pinball`
+39249`Aliens vs. Pinball`0.000000`1`30`Pinball`
+39356`Galaxy Ranger`0.000000`2`5`Shooter`30`Pinball`
+39419`Pinball Action`0.000000`1`30`Pinball`
+40118`Vs. Pinball`0.000000`2`30`Pinball`33`Arcade`
+40121`Speed Ball`0.000000`1`30`Pinball`
+40324`Grand Champion`0.000000`2`10`Racing`30`Pinball`
+40329`Flyball`0.000000`2`14`Sport`30`Pinball`
+40630`Bumper bash`0.000000`1`30`Pinball`
+40676`Super Baseball`0.000000`2`14`Sport`30`Pinball`
+40825`Ruiner Pinball`0.000000`1`30`Pinball`
+40850`Pinball Jam`0.000000`1`30`Pinball`
 41051`Pinball FX3`78.990836`3`13`Simulator`30`Pinball`33`Arcade`
+41109`Midnight Magic`0.000000`2`30`Pinball`33`Arcade`
+41402`Moon Ball Magic`0.000000`2`14`Sport`30`Pinball`
+41552`Thunderball`0.000000`1`30`Pinball`
+41567`Laser War`0.000000`2`5`Shooter`30`Pinball`
+42455`Super Pinball: Behind the Mask`0.000000`1`30`Pinball`
+42623`Claymates`0.000000`3`8`Platform`30`Pinball`31`Adventure`
+42817`Pinball Heroes`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+43245`Pinball Fun`0.000000`1`30`Pinball`
+43733`Power Rangers Zeo - Full Tilt Battle Pinball`0.000000`2`13`Simulator`30`Pinball`
+43740`Pinball Power`0.000000`1`30`Pinball`
+43804`Airgrave`0.000000`2`5`Shooter`30`Pinball`
+43847`Patriotic Pinball`0.000000`1`30`Pinball`
+43877`Pro Pinball: Fantastic Journey`0.000000`1`30`Pinball`
+43917`Kiss Pinball`0.000000`1`30`Pinball`
+44345`Popcorn`0.000000`2`30`Pinball`33`Arcade`
+44451`American Battle Dome`0.000000`2`30`Pinball`33`Arcade`
+44636`Play It Pinball`0.000000`2`9`Puzzle`30`Pinball`
+44987`The Flintstones: Bedrock Bowling`0.000000`3`10`Racing`14`Sport`30`Pinball`
+45085`Austin Powers Pinball`0.000000`1`30`Pinball`
 45346`Terminator 2: Judgement Day`69.000000`1`30`Pinball`
+45453`Digital Pinball: Necronomicon`0.000000`2`9`Puzzle`30`Pinball`
+45586`Dragon\u0027s Fury`0.000000`1`30`Pinball`
+46042`Earth Shaker`0.000000`2`9`Puzzle`30`Pinball`
+46219`Dragon\u0027s Revenge`0.000000`1`30`Pinball`
+46282`Crue Ball: Heavy Metal Pinball`0.000000`1`30`Pinball`
+46372`Pro Pinball Trilogy`0.000000`1`30`Pinball`
+46686`World Championship Soccer II`0.000000`2`14`Sport`30`Pinball`
+46814`Baby Pac-Man`0.000000`1`30`Pinball`
+46846`Egg Hunt`0.000000`2`9`Puzzle`30`Pinball`
+46877`Video Pinball`0.000000`2`9`Puzzle`30`Pinball`
+47082`Flying Corps`0.000000`2`13`Simulator`30`Pinball`
+47116`Crystal Caliburn`0.000000`1`30`Pinball`
+47151`Wiz`0.000000`4`5`Shooter`30`Pinball`31`Adventure`33`Arcade`
+47179`F-14 Tomcat`0.000000`3`5`Shooter`13`Simulator`30`Pinball`
+47241`GEOS`0.000000`1`30`Pinball`
+47288`Flipper Game`0.000000`1`30`Pinball`
+47362`Ultimate Pro Pinball`0.000000`1`30`Pinball`
+48026`Pinball Quest`0.000000`1`30`Pinball`
+48122`Fun House`0.000000`2`5`Shooter`30`Pinball`
+48206`Rock \u0027n\u0027 Ball`0.000000`2`14`Sport`30`Pinball`
 48239`Star Trek: The Next Generation`59.000000`2`13`Simulator`30`Pinball`
 48916`Revenge of the \u0027Gator`79.734283`5`9`Puzzle`13`Simulator`15`Strategy`30`Pinball`33`Arcade`
 48998`The Getaway: High Speed II`50.000000`1`30`Pinball`
 49073`Pinball Mania`43.000000`1`30`Pinball`
+49088`Power Racer`0.000000`2`10`Racing`30`Pinball`
+49296`Hardcore Pinball`0.000000`2`14`Sport`30`Pinball`
+49316`Pinball Advance`0.000000`2`30`Pinball`33`Arcade`
+49322`Muppet Pinball Mayhem`0.000000`2`14`Sport`30`Pinball`
+49528`Bomberman Jetters: Game Collection`0.000000`1`30`Pinball`
+49862`Hollywood Pinball`0.000000`2`14`Sport`30`Pinball`
+49881`3-D Ultra Pinball: Thrillride`0.000000`1`30`Pinball`
+49919`Disney\u0027s The Little Mermaid II: Pinball Frenzy`0.000000`1`30`Pinball`
+50470`3-D Ultra Pinball: The Lost Continent`0.000000`1`30`Pinball`
+50471`3-D Ultra Pinball: Creep Night`0.000000`1`30`Pinball`
+50472`3-D Ultra Pinball`0.000000`1`30`Pinball`
+50595`Space Pinball`0.000000`2`13`Simulator`30`Pinball`
+50763`Epic Pinball`0.000000`2`10`Racing`30`Pinball`
+51097`Alien Crush Returns`0.000000`1`30`Pinball`
+51346`Jack in the Dark`0.000000`2`30`Pinball`31`Adventure`
+51881`Pure Pinball 2 Redux`0.000000`2`13`Simulator`30`Pinball`
+51887`Pinball World`0.000000`2`13`Simulator`30`Pinball`
+52654`Pinballistik`0.000000`2`30`Pinball`33`Arcade`
+52877`Pinball FX3: Star Wars Pinball - Heroes Within`0.000000`2`13`Simulator`30`Pinball`
+54365`Sky Aces`0.000000`1`30`Pinball`
 54521`Senran Kagura Peach Ball`75.000000`3`30`Pinball`33`Arcade`35`Card \u0026 Board Game`
 54649`Star Wars`77.718872`2`8`Platform`30`Pinball`
+54790`Indy 500`0.000000`2`10`Racing`30`Pinball`
+55062`Super Street Fighter II Turbo Pinball FX`0.000000`1`30`Pinball`
+55290`Watch Out`0.000000`3`10`Racing`30`Pinball`32`Indie`
+56075`Pinball`0.000000`4`13`Simulator`30`Pinball`32`Indie`33`Arcade`
+56401`Blasty Bubs`0.000000`2`9`Puzzle`30`Pinball`
+56739`Sonic 2 In 1`0.000000`2`8`Platform`30`Pinball`
+57322`Pinball Breakout`0.000000`1`30`Pinball`
+57862`Justice Monsters 5`0.000000`1`30`Pinball`
 58356`Inks`80.000000`3`9`Puzzle`30`Pinball`33`Arcade`
+58545`Crazy Ball`0.000000`2`30`Pinball`32`Indie`
+58665`Ghostbusters Pinball`0.000000`1`30`Pinball`
+59014`Shin Megami Tensei Pinball: Judgement`0.000000`1`30`Pinball`
+59548`BeatNiks`0.000000`2`13`Simulator`30`Pinball`
+59709`Crossroads`0.000000`4`13`Simulator`15`Strategy`30`Pinball`34`Visual Novel`
+60083`G.G Series: Air Pinball Hockey`0.000000`2`14`Sport`30`Pinball`
+61308`Pinball Spectacular`0.000000`1`30`Pinball`
+62126`Jissen Pachinko Hisshouhou! CR Sakura Taisen`0.000000`1`30`Pinball`
+62342`Ski Champ`0.000000`2`14`Sport`30`Pinball`
+62398`Total Pinball 3D`0.000000`1`30`Pinball`
+62845`Go Series: Pinball Attack!`0.000000`1`30`Pinball`
+63097`Shariki`0.000000`2`9`Puzzle`30`Pinball`
+63197`Nuke the Dinosaurs Blueprint Prototype`0.000000`1`30`Pinball`
+63353`Frontiers`0.000000`1`30`Pinball`
+63464`Toy Cars`0.000000`2`10`Racing`30`Pinball`
+63920`Frogger Pinball`0.000000`1`30`Pinball`
+64353`Super Pinball`0.000000`1`30`Pinball`
+64461`Goindol`0.000000`1`30`Pinball`
+64477`Pinball Tycoon`0.000000`1`30`Pinball`
+64479`Love Tore: Sweet`0.000000`1`30`Pinball`
+64529`Dream Pinball 3D II`0.000000`1`30`Pinball`
+64647`Mystic Mayhem`0.000000`2`8`Platform`30`Pinball`
+65061`3D Pinball Space Attack`0.000000`1`30`Pinball`
+65062`Ottifanten Pinball`0.000000`1`30`Pinball`
+65065`101 Pinball World`0.000000`1`30`Pinball`
+65077`Larry\u0027s Big Score`0.000000`1`30`Pinball`
+65588`Paper Pinball`0.000000`1`30`Pinball`
+66030`Pokémon Pinball Mini`0.000000`2`30`Pinball`33`Arcade`
+66089`Time Cruise`0.000000`1`30`Pinball`
+66494`Pinball Soccer \u002798`0.000000`2`14`Sport`30`Pinball`
+66965`G.G Series Collection Plus`0.000000`6`8`Platform`9`Puzzle`10`Racing`14`Sport`25`Hack and slash/Beat \u0027em up`30`Pinball`
 67355`Pinball Pulse: The Ancients Beckon`83.000000`1`30`Pinball`
+67441`Red Sails`0.000000`3`30`Pinball`31`Adventure`32`Indie`
+67462`Manhattan`0.000000`1`30`Pinball`
+67511`Eight Ball Deluxe`0.000000`1`30`Pinball`
+67539`Bow and Arrow`0.000000`1`30`Pinball`
+67635`Naxat Super Pinball: Jaki Hakai`0.000000`1`30`Pinball`
+68354`Arcade Archives: Pinball`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+68735`Monsters Inc.: Pinball Panic`0.000000`2`13`Simulator`30`Pinball`
+68920`Pinball Planet`0.000000`1`30`Pinball`
+69141`Mystery Mansion Pinball`0.000000`1`30`Pinball`
+69186`Simon the Sorcerer\u0027s Pinball`0.000000`1`30`Pinball`
+69377`Super Street Fighter IV: Pachislot Edition`0.000000`2`30`Pinball`33`Arcade`
+69691`Sci-Fi Pinball`0.000000`2`13`Simulator`30`Pinball`
+69860`Addiction Pinball`0.000000`1`30`Pinball`
+70809`Silver Flash - Pinball 1`0.000000`1`30`Pinball`
+70944`Slam Tilt`0.000000`2`13`Simulator`30`Pinball`
+71332`Kyuutenkai: Fantastic Pinball`0.000000`2`30`Pinball`31`Adventure`
+71606`Super Robot Pinball`0.000000`1`30`Pinball`
+72037`Score 3020`0.000000`1`30`Pinball`
+72809`Pin-Bot`0.000000`2`13`Simulator`30`Pinball`
+72860`Powershot Pinball Constructor`0.000000`1`30`Pinball`
+73203`Blasterball 2: Revolution`0.000000`1`30`Pinball`
+73381`Pinball 2000`0.000000`2`13`Simulator`30`Pinball`
+73688`Take a Break! Pinball`0.000000`1`30`Pinball`
+73754`Dragon Beat: Legend of Pinball`0.000000`1`30`Pinball`
+74032`Special Edition Pinball Dreams Pinball Fantasies`0.000000`2`13`Simulator`30`Pinball`
+74316`Full Tilt! Pinball 2`0.000000`1`30`Pinball`
+74336`Pinball Hazard`0.000000`1`30`Pinball`
+74963`Pinball FX3: Star Wars Pinball - Unsung Heroes`0.000000`2`13`Simulator`30`Pinball`
+74964`Pinball FX3: Star Wars Pinball - The Force Awakens`0.000000`2`13`Simulator`30`Pinball`
+74976`Star Wars Episode I`0.000000`1`30`Pinball`
+75000`Online Circle Pong`0.000000`2`30`Pinball`32`Indie`
+76466`Silverball`0.000000`1`30`Pinball`
+77022`Peggle: World of Warcraft Edition`0.000000`2`9`Puzzle`30`Pinball`
+78364`Kings`0.000000`3`15`Strategy`30`Pinball`32`Indie`
+78624`Pinball Fantasies Deluxe`0.000000`1`30`Pinball`
+79020`Queen of Hearts`0.000000`1`30`Pinball`
+79036`Astro`0.000000`2`30`Pinball`31`Adventure`
+79182`Royal Flush`0.000000`1`30`Pinball`
 79247`3D Pinball: Space Cadet`71.400883`1`30`Pinball`
 79328`Pinball FX2`80.000000`1`30`Pinball`
+79463`Power Pinball`0.000000`1`30`Pinball`
+79507`Flash`0.000000`1`30`Pinball`
+80065`Juke Box`0.000000`2`7`Music`30`Pinball`
+80119`Mega Pinball`0.000000`1`30`Pinball`
 80185`Sega Mega Drive \u0026 Genesis Classics`89.864186`9`5`Shooter`8`Platform`9`Puzzle`10`Racing`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`30`Pinball`31`Adventure`33`Arcade`
+80210`Winter Sports`0.000000`1`30`Pinball`
+80298`Flipper`0.000000`1`30`Pinball`
+80833`F-14 Tomcat Pinball`0.000000`1`30`Pinball`
+81939`Piwall`0.000000`3`13`Simulator`30`Pinball`32`Indie`
 82093`Pinball`30.000000`1`30`Pinball`
+86004`Pinball FX 2: Marvel Pinball`0.000000`1`30`Pinball`
 86247`Pinball Arcade`81.000000`2`13`Simulator`30`Pinball`
 86260`Star Wars Pinball`77.000000`3`13`Simulator`30`Pinball`33`Arcade`
 86428`Pinball`69.493065`1`30`Pinball`
+88315`Pinball Shuffle`0.000000`2`30`Pinball`33`Arcade`
+88728`Pinball Massacre`0.000000`2`30`Pinball`33`Arcade`
+90499`Hyperballoid 2: Time Rider`0.000000`2`30`Pinball`33`Arcade`
+93409`Living Ball`0.000000`2`30`Pinball`33`Arcade`
+94423`Angel Egg`0.000000`1`30`Pinball`
+94525`Lula Flipper`0.000000`1`30`Pinball`
+96532`Tristan Pinball`0.000000`1`30`Pinball`
+97104`3D Pinball Express`0.000000`1`30`Pinball`
+98559`Graffiti Smash`0.000000`2`12`Role-playing (RPG)`30`Pinball`
+100088`Sleepwalker \u0026 Pinball Fantasies`0.000000`3`8`Platform`30`Pinball`33`Arcade`
+100104`Pinball Wizard 2000`0.000000`2`30`Pinball`33`Arcade`
+102306`Jurassic Pinball`0.000000`4`13`Simulator`14`Sport`30`Pinball`33`Arcade`
+104407`Pinball Frenzy 3D`0.000000`1`30`Pinball`
 106363`Demon\u0027s Tilt`70.000000`6`5`Shooter`12`Role-playing (RPG)`13`Simulator`30`Pinball`32`Indie`33`Arcade`
+107595`Lilo \u0026 Stitch Pinball`0.000000`1`30`Pinball`
+110838`Super Flipper`0.000000`1`30`Pinball`
+115058`Pirates Pinball`0.000000`4`13`Simulator`14`Sport`30`Pinball`33`Arcade`
 116417`Creature in the Well`82.715575`7`4`Fighting`9`Puzzle`25`Hack and slash/Beat \u0027em up`30`Pinball`31`Adventure`32`Indie`33`Arcade`
+116569`Retro Space Ball`0.000000`4`5`Shooter`30`Pinball`32`Indie`33`Arcade`
+116671`Pinball!`0.000000`1`30`Pinball`
+117226`Original`0.000000`4`8`Platform`30`Pinball`31`Adventure`32`Indie`
+117938`Dragon Pinball`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+122307`Loony Labyrinth`0.000000`1`30`Pinball`
+122308`GamePack 2`0.000000`5`2`Point-and-click`9`Puzzle`10`Racing`30`Pinball`33`Arcade`
+122572`Justice Monsters Five`0.000000`1`30`Pinball`
+123266`ParanoiaScape`0.000000`1`30`Pinball`
+127641`Aladdin Pinball`0.000000`2`30`Pinball`33`Arcade`
+128067`Pinball Universe`0.000000`3`13`Simulator`30`Pinball`32`Indie`
+129804`Touchdown Pinball`0.000000`4`13`Simulator`14`Sport`30`Pinball`33`Arcade`
+130653`World Flipper`0.000000`5`9`Puzzle`12`Role-playing (RPG)`15`Strategy`30`Pinball`31`Adventure`
+131033`Sega Classics for Amazon Fire TV`0.000000`3`5`Shooter`8`Platform`30`Pinball`
+131178`Robocop Pinball`0.000000`1`30`Pinball`
+131474`Star Trek: Pinball`0.000000`1`30`Pinball`
+131482`Pinball`0.000000`2`30`Pinball`33`Arcade`
+131483`Pinball`0.000000`1`30`Pinball`
+133434`Hard Rock Pinball`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+133972`Best of Sierra Nr. 7`0.000000`2`13`Simulator`30`Pinball`
+134452`Kirby no Omochabako: Pinball`0.000000`1`30`Pinball`
+135310`Pinball Wizard`0.000000`1`30`Pinball`
+135933`Brave Pinball`0.000000`3`12`Role-playing (RPG)`30`Pinball`32`Indie`
+136662`Sonic Generations: Collector\u0027s Edition`0.000000`2`30`Pinball`31`Adventure`
+136874`Sega Smash Pack: Twin Pack`0.000000`8`5`Shooter`8`Platform`9`Puzzle`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`30`Pinball`31`Adventure`33`Arcade`
+136875`Sega Smash Pack`0.000000`3`8`Platform`25`Hack and slash/Beat \u0027em up`30`Pinball`
+138114`Wild West`0.000000`1`30`Pinball`
+138134`Flipper Volcano`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+138530`Smash Ball`0.000000`4`4`Fighting`14`Sport`30`Pinball`33`Arcade`
+140476`Square Dancer`0.000000`1`30`Pinball`
+141166`jetPin`0.000000`4`8`Platform`30`Pinball`31`Adventure`33`Arcade`
+141486`iCarly: Gibby Pinball`0.000000`1`30`Pinball`
+141861`Pinball Arcade Season 2`0.000000`1`30`Pinball`
+142871`Infinity Pinball`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+143696`Pachi Pachi: On a Roll`0.000000`5`9`Puzzle`30`Pinball`31`Adventure`33`Arcade`35`Card \u0026 Board Game`
+144035`Avatar Pinball`0.000000`1`30`Pinball`
+145219`Pinball`0.000000`2`30`Pinball`33`Arcade`
+145395`Bomb Bee N`0.000000`2`30`Pinball`33`Arcade`
+145426`Beast Breaker`0.000000`6`9`Puzzle`15`Strategy`25`Hack and slash/Beat \u0027em up`30`Pinball`31`Adventure`33`Arcade`
+145834`Codemasters Collection 1`0.000000`7`5`Shooter`8`Platform`12`Role-playing (RPG)`14`Sport`30`Pinball`31`Adventure`33`Arcade`
+145835`Intellivision Collection 1`0.000000`3`8`Platform`9`Puzzle`30`Pinball`
+145988`Fat Rat Pinball`0.000000`2`30`Pinball`33`Arcade`
+146363`Star Wars Pinball VR`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+146423`500,000 Games 3.0`0.000000`5`8`Platform`9`Puzzle`10`Racing`30`Pinball`35`Card \u0026 Board Game`
+151943`Rollers of the Realm: Reunion`0.000000`5`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`30`Pinball`32`Indie`33`Arcade`
+152304`Bricky Boy`0.000000`2`30`Pinball`33`Arcade`
+154819`Peggo!`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+155278`Pinball Gold Pack`0.000000`2`13`Simulator`30`Pinball`
+155331`Epic Pinball: The Complete Collection`0.000000`2`30`Pinball`33`Arcade`
+156105`Zaccaria Pinball: Pool Champion 2018 Table`0.000000`2`30`Pinball`32`Indie`
+157521`Renovation Products Collection 1`0.000000`5`4`Fighting`5`Shooter`8`Platform`12`Role-playing (RPG)`30`Pinball`
+158423`Zaccaria Pinball: Magic Castle Table`0.000000`4`13`Simulator`14`Sport`30`Pinball`32`Indie`
+158425`Zaccaria Pinball: Future World 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158426`Zaccaria Pinball: Farfalla Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158428`Zaccaria Pinball: Mexico \u002786 Table`0.000000`2`30`Pinball`32`Indie`
+158429`Zaccaria Pinball: Circus Table`0.000000`2`30`Pinball`32`Indie`
+158430`Zaccaria Pinball: Clown 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158431`Zaccaria Pinball: Devil Riders Table`0.000000`2`30`Pinball`32`Indie`
+158432`Zaccaria Pinball: Space Shuttle 2016 Table`0.000000`2`30`Pinball`32`Indie`
+158433`Zaccaria Pinball: Space Shuttle Table`0.000000`2`30`Pinball`32`Indie`
+158434`Zaccaria Pinball: Magic Castle 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158435`Zaccaria Pinball: Robot 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158436`Zaccaria Pinball: Circus 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158437`Zaccaria Pinball: Star\u0027s Phoenix Table`0.000000`2`30`Pinball`32`Indie`
+158438`Zaccaria Pinball: Star\u0027s Phoenix 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158439`Zaccaria Pinball: Winter Sports Table`0.000000`2`30`Pinball`32`Indie`
+158440`Zaccaria Pinball: Time Machine 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158441`Zaccaria Pinball: Earth Wind Fire Table`0.000000`2`30`Pinball`32`Indie`
+158442`Zaccaria Pinball: Strike Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158443`Zaccaria Pinball: Star God 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158444`Zaccaria Pinball: Spooky 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158445`Zaccaria Pinball: Pool Champion Table`0.000000`2`30`Pinball`32`Indie`
+158446`Zaccaria Pinball: Red Show Table`0.000000`2`30`Pinball`32`Indie`
+158447`Zaccaria Pinball: Combat Table`0.000000`2`30`Pinball`32`Indie`
+158448`Zaccaria Pinball: Supersonic Table`0.000000`2`30`Pinball`32`Indie`
+158449`Zaccaria Pinball: Combat Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158450`Zaccaria Pinball: Farfalla 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158451`Zaccaria Pinball: Nautilus 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158452`Zaccaria Pinball: Lucky Fruit Table`0.000000`2`30`Pinball`32`Indie`
+158453`Zaccaria Pinball: Locomotion Table`0.000000`2`30`Pinball`32`Indie`
+158454`Zaccaria Pinball: Hot Wheels Table`0.000000`2`30`Pinball`32`Indie`
+158455`Zaccaria Pinball: Robot Table`0.000000`2`30`Pinball`32`Indie`
+158456`Zaccaria Pinball: Top Hand Table`0.000000`2`30`Pinball`32`Indie`
+158457`Zaccaria Pinball: Robot Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158458`Zaccaria Pinball: Fire Mountain 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158459`Zaccaria Pinball: Universe Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158460`Zaccaria Pinball: House of Diamonds Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158461`Zaccaria Pinball: Pinball Champ Table Pack`0.000000`2`30`Pinball`32`Indie`
+158462`Zaccaria Pinball: Hot Wheels 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158463`Zaccaria Pinball: Earth Wind Fire 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158464`Zaccaria Pinball: Moon Flight Table`0.000000`2`30`Pinball`32`Indie`
+158465`Zaccaria Pinball: Mystic Star Table`0.000000`2`30`Pinball`32`Indie`
+158466`Zaccaria Pinball: House of Diamonds 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158467`Zaccaria Pinball: House of Diamonds Table`0.000000`2`30`Pinball`32`Indie`
+158468`Zaccaria Pinball: Granada Table`0.000000`2`30`Pinball`32`Indie`
+158469`Zaccaria Pinball: Combat 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158470`Zaccaria Pinball: Devil Riders 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158471`Zaccaria Pinball: Soccer Kings Table`0.000000`3`14`Sport`30`Pinball`32`Indie`
+158472`Zaccaria Pinball: Star God Table`0.000000`2`30`Pinball`32`Indie`
+158473`Zaccaria Pinball: Pool Champion Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158474`Zaccaria Pinball: Spooky Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158475`Zaccaria Pinball: Blackbelt 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158476`Zaccaria Pinball: Future World Table`0.000000`2`30`Pinball`32`Indie`
+158477`Zaccaria Pinball: Tropical 2019 Table`0.000000`2`30`Pinball`32`Indie`
+158478`Zaccaria Pinball: Cine Star Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158479`Zaccaria Pinball: Red Show Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+158480`Zaccaria Pinball: Strike Table`0.000000`2`30`Pinball`32`Indie`
+158481`Zaccaria Pinball: Farfalla Table`0.000000`2`30`Pinball`32`Indie`
+158482`Zaccaria Pinball: Winter Sports 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158483`Zaccaria Pinball: Zankor 2017 Table`0.000000`2`30`Pinball`32`Indie`
+158484`Zaccaria Pinball: Fire Mountain Table`0.000000`2`30`Pinball`32`Indie`
+158486`Zaccaria Pinball: Cine Star Table`0.000000`2`30`Pinball`32`Indie`
+158487`Zaccaria Pinball: Tropical Table`0.000000`2`30`Pinball`32`Indie`
+158488`Zaccaria Pinball: Universe Table`0.000000`2`30`Pinball`32`Indie`
+158489`Zaccaria Pinball: Locomotion 2018 Table`0.000000`2`30`Pinball`32`Indie`
+158490`Zaccaria Pinball: Aerobatics Table`0.000000`2`30`Pinball`32`Indie`
+158491`Zaccaria Pinball: Zankor Table`0.000000`2`30`Pinball`32`Indie`
+158492`Zaccaria Pinball: Clown Table`0.000000`2`30`Pinball`32`Indie`
+158493`Zaccaria Pinball: Nautilus Table`0.000000`2`30`Pinball`32`Indie`
+158494`Zaccaria Pinball: Blackbelt Table`0.000000`2`30`Pinball`32`Indie`
+158495`Zaccaria Pinball: Wood\u0027s Queen 2019 Table`0.000000`2`30`Pinball`32`Indie`
+159166`Flex`0.000000`1`30`Pinball`
+159272`Danny\u0027s Mirror Magic`0.000000`1`30`Pinball`
+161226`Stern Pinball Arcade: Starship Troopers`0.000000`2`13`Simulator`30`Pinball`
+161227`Stern Pinball Arcade: Phantom of the Opera`0.000000`2`13`Simulator`30`Pinball`
+161228`Stern Pinball Arcade: Last Action Hero`0.000000`2`13`Simulator`30`Pinball`
+161229`Stern Pinball Arcade: AC/DC`0.000000`2`13`Simulator`30`Pinball`
+161230`Stern Pinball Arcade: Harley Davidson`0.000000`2`13`Simulator`30`Pinball`
+161231`Stern Pinball Arcade: Star Trek`0.000000`2`13`Simulator`30`Pinball`
+161232`Stern Pinball Arcade: Ghostbusters Premium`0.000000`2`13`Simulator`30`Pinball`
+161233`Stern Pinball Arcade: High Roller Casino`0.000000`2`13`Simulator`30`Pinball`
+161234`Stern Pinball Arcade: Ripley\u0027s Believe It or Not!`0.000000`2`13`Simulator`30`Pinball`
+161235`Stern Pinball Arcade: Mary Shelley\u0027s Frankenstein`0.000000`2`13`Simulator`30`Pinball`
+161236`Stern Pinball Arcade: Mustang`0.000000`2`13`Simulator`30`Pinball`
+161775`Fire Ball`0.000000`1`30`Pinball`
+163668`Pinball Arcade: Stern Pack 1`0.000000`2`13`Simulator`30`Pinball`
+163669`Pinball Arcade: Stern Pack 2`0.000000`2`13`Simulator`30`Pinball`
+163670`Pinball Arcade: Stern Pack 3`0.000000`2`13`Simulator`30`Pinball`
+163998`Pinball FX3: Marvel Pinball - Avengers Chronicles`0.000000`2`13`Simulator`30`Pinball`
+166684`Wild Pinball Bundle`0.000000`4`9`Puzzle`13`Simulator`30`Pinball`33`Arcade`
+170009`Pinball-e`0.000000`1`30`Pinball`
+172419`3D Realms Anthology`0.000000`10`5`Shooter`8`Platform`9`Puzzle`10`Racing`12`Role-playing (RPG)`14`Sport`15`Strategy`30`Pinball`31`Adventure`33`Arcade`
+173132`Sports \u0026 Adventure Pinball`0.000000`4`13`Simulator`14`Sport`30`Pinball`33`Arcade`
+173857`Pretty Girls Breakout!`0.000000`2`30`Pinball`33`Arcade`
+174187`Battle Pinball`0.000000`1`30`Pinball`
+174389`Zaccaria Pinball: Zankor Deluxe Pinball Table`0.000000`2`30`Pinball`32`Indie`
+174587`Zen Pinball Party`0.000000`1`30`Pinball`
+176148`Horror \u0026 Adventure Pinball`0.000000`4`13`Simulator`14`Sport`30`Pinball`33`Arcade`
+178265`Cyborgirl Pinball`0.000000`1`30`Pinball`
+185795`Pinball FX`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+187855`Zombie Rollerz: Pinball Heroes`0.000000`6`5`Shooter`12`Role-playing (RPG)`13`Simulator`30`Pinball`32`Indie`33`Arcade`
+191344`Sega Mega Drive \u0026 Genesis Classics`0.000000`9`5`Shooter`8`Platform`9`Puzzle`10`Racing`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`30`Pinball`31`Adventure`33`Arcade`
+194279`Pinball Dreams`0.000000`2`30`Pinball`33`Arcade`
+198054`Bomberman Pinball`0.000000`1`30`Pinball`
+198583`Sonic the Hedgehog Spinball`0.000000`1`30`Pinball`
+202261`Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold`0.000000`3`8`Platform`9`Puzzle`30`Pinball`
+202266`Sonic the Hedgehog Chaos \u0026 Spinball`0.000000`2`8`Platform`30`Pinball`
+202880`Brain Games Colour`0.000000`4`8`Platform`9`Puzzle`30`Pinball`33`Arcade`
+203169`Super Monkey Ball Gaiden`0.000000`3`9`Puzzle`15`Strategy`30`Pinball`
+204577`Jinni Zeala Pinball`0.000000`1`30`Pinball`
+206324`Zaccaria Pinball: Shooting the Rapids Table`0.000000`2`30`Pinball`32`Indie`
+208619`Pinball: Our Church and Halloween RPG - Machine #1`0.000000`3`14`Sport`30`Pinball`33`Arcade`
+212891`Elf Girl Pinball`0.000000`3`13`Simulator`30`Pinball`32`Indie`
+213269`Duotone`0.000000`2`8`Platform`30`Pinball`
+213376`MoonPong: Tales of Epic Lunacy`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+213497`Pinball Girls`0.000000`2`30`Pinball`32`Indie`
+213631`Pinball: Our Church and Halloween RPG - Machine #2`0.000000`2`30`Pinball`33`Arcade`
+213632`Pinball: Our Church and Halloween RPG - Machine #3`0.000000`2`30`Pinball`33`Arcade`
+215390`Zaccaria Pinball: Postal 2 Table Pack`0.000000`1`30`Pinball`
+216248`Pinball Science`0.000000`1`30`Pinball`
+217664`Pinball`0.000000`1`30`Pinball`
+218154`Golden Logres`0.000000`1`30`Pinball`
+218156`Monster Fair`0.000000`1`30`Pinball`
+218159`Fairy Tower`0.000000`1`30`Pinball`
+218160`Mad Daedalus`0.000000`1`30`Pinball`
+218441`Stewie Talking Electronic Pinball`0.000000`1`30`Pinball`
+219100`Evil Dead Pinball`0.000000`2`30`Pinball`33`Arcade`
+220536`Classic Arcade Pinball`0.000000`1`30`Pinball`
+222896`Austin Powers Pinball`0.000000`1`30`Pinball`
+224249`FlipScapes`0.000000`3`30`Pinball`32`Indie`33`Arcade`
+225438`Nasu Pinball`0.000000`1`30`Pinball`
+227827`Space Jam: A New Legacy - Full Court Pinball`0.000000`1`30`Pinball`
+228639`Hero Shuugou!! Pinball Party`0.000000`1`30`Pinball`
+228672`The Little Mermaid Pinball`0.000000`1`30`Pinball`
+229012`Re:Bound`0.000000`3`12`Role-playing (RPG)`30`Pinball`33`Arcade`
+229161`Pinball Heroes`0.000000`3`13`Simulator`30`Pinball`33`Arcade`
+229332`Brick Odyssey`0.000000`5`12`Role-playing (RPG)`15`Strategy`30`Pinball`31`Adventure`32`Indie`
+231447`Zen Pinball Party: My Little Pony Pinball`0.000000`1`30`Pinball`
