@@ -1,6 +1,7 @@
 #include <string>
 #include "ReadData.h"
 #include "DataNode.h"
+#include "HashMap.h"
 
 using namespace std;
 
@@ -9,6 +10,9 @@ ReadData::ReadData(string pathToFolder)
     char delim = '`';
     int genNum;
     string genName;
+    int numOfGenres;
+    int key;
+    string value;
 
     //game data
     int ID = 0;
@@ -16,9 +20,8 @@ ReadData::ReadData(string pathToFolder)
     float rating;
     map<int, string> genres;
 
-    int numOfGenres;
-    int key;
-    string value;
+    //Data structure
+    HashMap fullMap;
 
 
     for(int i = 0; i < 50; i++)
@@ -62,9 +65,10 @@ ReadData::ReadData(string pathToFolder)
                     genres[key] = value;
                 }
 
-                //CUSTOM HERE
-                //insert the data directly into the hashmap[
-                DataNode(ID, title, rating, genres);
+                //HASHMAP CUSTOM HERE
+
+                DataNode node(ID, title, rating, genres);
+                fullMap.insert(node, genNum);
 
                 //CUSTOM END HERE
             }

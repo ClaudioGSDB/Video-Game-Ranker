@@ -12,6 +12,7 @@ private:
     double rating;
     map<int, string> genres;
 public:
+    DataNode();
     DataNode(int ID, string title, double rating, map<int, string> genres);
 
     int getId() const;

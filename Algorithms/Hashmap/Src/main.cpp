@@ -4,6 +4,5 @@
 int main()
 {
     ReadData("Data");
-
     return 0;
 }
