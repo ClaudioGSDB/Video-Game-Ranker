@@ -10,39 +10,41 @@ ReadData::ReadData(string pathToFolder)
     int genNum;
     string genName;
 
-    int ID;
+    //game data
+    int ID = 0;
     string title;
     float rating;
-    int numOfGenres;
     map<int, string> genres;
+
+    int numOfGenres;
     int key;
     string value;
 
 
-    for(int i = 0; i < 36; i++)
+    for(int i = 0; i < 50; i++)
     {
         string fileName = pathToFolder + "/" + to_string(i) + ".txt";
         ifstream file(fileName);
-        if(i == 15){
-            cout << "reach" << endl;
-        }
+
 
         if (file.is_open()) //if file exists
         {
             string line;
-
             //store the genre first
             getline(file, line, delim);
             genNum = stoi(line);
-            getline(file, line);
+            getline(file, line, delim);
             //line.substr(line.find('|') + 1); NOT NEEDED I THINK
             string genName = line;
 
             while (getline(file, line, delim))
             {
+                if(line == "\n")
+                {
+                    break;
+                }
                 //get ID
                 ID = stoi(line);
-                if(i == 15){cout << ID << endl;}
                 //get title
                 getline(file, title, delim);
                 //get rating
@@ -59,6 +61,12 @@ ReadData::ReadData(string pathToFolder)
                     getline(file, value, delim);
                     genres[key] = value;
                 }
+
+                //CUSTOM HERE
+                //insert the data directly into the hashmap[
+                DataNode(ID, title, rating, genres);
+
+                //CUSTOM END HERE
             }
             //cout << "File " << i << ".txt exists. Performing action A." << endl;
             file.close();
