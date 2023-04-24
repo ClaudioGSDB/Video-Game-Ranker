@@ -1,6 +1,7 @@
 36`MOBA`
 115`League of Legends`76.854394`3`12`Role-playing (RPG)`15`Strategy`36`MOBA`
 763`Heroes of Newerth`84.012489`1`36`MOBA`
+1053`Rise of Immortals`0.000000`1`36`MOBA`
 1281`Awesomenauts`66.904138`4`8`Platform`15`Strategy`32`Indie`36`MOBA`
 2963`Dota 2`79.984257`2`15`Strategy`36`MOBA`
 5570`Strife`46.611572`4`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`36`MOBA`
@@ -9,17 +10,137 @@
 7313`Heroes of the Storm`73.701769`1`36`MOBA`
 9689`The Witcher Battle Arena`69.942144`1`36`MOBA`
 9815`Fractured Space`62.128510`5`5`Shooter`15`Strategy`31`Adventure`32`Indie`36`MOBA`
+11327`Dawngate`0.000000`1`36`MOBA`
 13174`Vainglory`69.995663`1`36`MOBA`
+13175`Call of Champions`0.000000`5`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`31`Adventure`36`MOBA`
 14410`Paragon`77.648836`1`36`MOBA`
+16327`Crasher`0.000000`4`10`Racing`11`Real Time Strategy (RTS)`15`Strategy`36`MOBA`
 23193`Battlerite`79.400062`5`4`Fighting`11`Real Time Strategy (RTS)`15`Strategy`25`Hack and slash/Beat \u0027em up`36`MOBA`
+24653`Crucible`0.000000`2`5`Shooter`36`MOBA`
+27285`Bombergirl`0.000000`2`33`Arcade`36`MOBA`
+27655`Bloodline Champions: Warchief Pack`0.000000`1`36`MOBA`
+27656`Bloodline Champions: Warrior Pack`0.000000`1`36`MOBA`
+27657`Bloodline Champions: Huntress Pack`0.000000`1`36`MOBA`
 28819`Heroes Evolved`40.000000`5`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`24`Tactical`36`MOBA`
+39181`Heroes of Order \u0026 Chaos`0.000000`3`11`Real Time Strategy (RTS)`15`Strategy`36`MOBA`
+44097`Honor of Kings`0.000000`2`15`Strategy`36`MOBA`
+50241`Transformers Universe`0.000000`1`36`MOBA`
+50814`Battle for Graxia`0.000000`1`36`MOBA`
 55044`Arena of Valor`72.211586`2`15`Strategy`36`MOBA`
 55945`Brawl Stars`77.017775`3`5`Shooter`15`Strategy`36`MOBA`
+57808`Planet of Heroes`0.000000`3`11`Real Time Strategy (RTS)`15`Strategy`36`MOBA`
+60565`Shards of War`0.000000`3`11`Real Time Strategy (RTS)`15`Strategy`36`MOBA`
+61206`Wind of Luck: Arena`0.000000`1`36`MOBA`
+62012`Dethroned!`0.000000`2`11`Real Time Strategy (RTS)`36`MOBA`
+62524`HeroWarz`0.000000`3`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`36`MOBA`
+62633`Cyphers`0.000000`2`12`Role-playing (RPG)`36`MOBA`
+65721`Warhammer Online: Wrath of Heroes`0.000000`2`12`Role-playing (RPG)`36`MOBA`
 77277`Fault: Elder Orb`50.000000`2`15`Strategy`36`MOBA`
 79392`Mobile Legends: Bang Bang`59.755312`3`15`Strategy`31`Adventure`36`MOBA`
 90661`Awesomenauts Assemble!: Fully Loaded Pack`20.000000`1`36`MOBA`
 90662`Fully Loaded Collector\u0027s Pack - Awesomenauts Assemble! Game Bundle`70.000000`1`36`MOBA`
+90983`Rocket\u0027s Renegades - Awesomenauts Assemble! Character Pack`0.000000`1`36`MOBA`
+91797`Realm of the Titans`0.000000`1`36`MOBA`
+95765`The Machines`0.000000`1`36`MOBA`
+101144`Legendary Heroes`0.000000`4`12`Role-playing (RPG)`15`Strategy`31`Adventure`36`MOBA`
+105192`Onmyoji Arena`0.000000`3`12`Role-playing (RPG)`15`Strategy`36`MOBA`
+109468`Awesomenauts Overdrive`0.000000`1`36`MOBA`
+109469`Awesomenauts Starstorm`0.000000`1`36`MOBA`
+113371`Royal Crown`0.000000`2`15`Strategy`36`MOBA`
+114738`Kingshunt`0.000000`2`15`Strategy`36`MOBA`
+115078`Predecessor`0.000000`2`15`Strategy`36`MOBA`
+115391`Extraordinary Ones`0.000000`1`36`MOBA`
+115984`Genesis`0.000000`2`15`Strategy`36`MOBA`
+119172`Marvel Super War`0.000000`4`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`36`MOBA`
+123682`Zooba`0.000000`2`15`Strategy`36`MOBA`
+124624`Legend of Ace`0.000000`1`36`MOBA`
 124700`League of Legends: Wild Rift`70.392033`2`15`Strategy`36`MOBA`
+125779`Caliber`0.000000`4`5`Shooter`24`Tactical`32`Indie`36`MOBA`
+130120`Heat and Run`0.000000`5`5`Shooter`8`Platform`15`Strategy`32`Indie`36`MOBA`
+130500`Paragon: The Overprime`0.000000`4`5`Shooter`14`Sport`15`Strategy`36`MOBA`
+130682`Overdox`0.000000`4`4`Fighting`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`36`MOBA`
+131342`Revn`0.000000`4`5`Shooter`15`Strategy`32`Indie`36`MOBA`
 132380`Rover Wars: Battle For Mars`60.000000`5`11`Real Time Strategy (RTS)`13`Simulator`15`Strategy`32`Indie`36`MOBA`
+133815`Rust Racers`0.000000`3`4`Fighting`10`Racing`36`MOBA`
 135381`Pokémon Unite`73.088018`2`15`Strategy`36`MOBA`
 135842`Eternal Return`69.567464`2`15`Strategy`36`MOBA`
+136750`Vainglory All Stars`0.000000`1`36`MOBA`
+137600`DC Battle Arena`0.000000`1`36`MOBA`
+138238`Team:Cars`0.000000`3`10`Racing`24`Tactical`36`MOBA`
+140446`All-Time Battle`0.000000`3`5`Shooter`32`Indie`36`MOBA`
+141479`Genesis`0.000000`2`15`Strategy`36`MOBA`
+141638`Donut Punks`0.000000`4`5`Shooter`24`Tactical`33`Arcade`36`MOBA`
+141967`Sheep Tag 2`0.000000`4`11`Real Time Strategy (RTS)`15`Strategy`32`Indie`36`MOBA`
+142065`A.I.M.$ (All You Need Is Money)`0.000000`4`4`Fighting`5`Shooter`12`Role-playing (RPG)`36`MOBA`
+142862`Farlight 84`0.000000`4`5`Shooter`12`Role-playing (RPG)`31`Adventure`36`MOBA`
+143611`Star Wars: Hunters`0.000000`3`5`Shooter`15`Strategy`36`MOBA`
+144898`Farseer\u0027s Domain`0.000000`3`16`Turn-based strategy (TBS)`24`Tactical`36`MOBA`
+145146`Monarchs Dawn`0.000000`5`5`Shooter`12`Role-playing (RPG)`24`Tactical`32`Indie`36`MOBA`
+145436`Hexia`0.000000`5`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`32`Indie`36`MOBA`
+145805`Hero Tails`0.000000`4`12`Role-playing (RPG)`31`Adventure`32`Indie`36`MOBA`
+146399`Battle of Hunters: Beast Zone`0.000000`5`4`Fighting`12`Role-playing (RPG)`13`Simulator`32`Indie`36`MOBA`
+146723`Frayhem`0.000000`1`36`MOBA`
+150706`Moonlight Blade Mobile`0.000000`3`12`Role-playing (RPG)`31`Adventure`36`MOBA`
+151123`SuperCTF`0.000000`3`5`Shooter`32`Indie`36`MOBA`
+152427`Sparkball`0.000000`4`14`Sport`25`Hack and slash/Beat \u0027em up`32`Indie`36`MOBA`
+165283`The Machines Arena`0.000000`4`5`Shooter`15`Strategy`24`Tactical`36`MOBA`
+171767`Combat Magic: Spells and Swords`0.000000`6`5`Shooter`13`Simulator`15`Strategy`24`Tactical`25`Hack and slash/Beat \u0027em up`36`MOBA`
+172477`Fangs`0.000000`6`4`Fighting`11`Real Time Strategy (RTS)`15`Strategy`25`Hack and slash/Beat \u0027em up`32`Indie`36`MOBA`
+172547`Thetan Arena`0.000000`3`15`Strategy`32`Indie`36`MOBA`
+173412`Hero Mission`0.000000`2`5`Shooter`36`MOBA`
+174640`Chaos Arena`0.000000`3`5`Shooter`12`Role-playing (RPG)`36`MOBA`
+174769`Re: Aetatis`0.000000`1`36`MOBA`
+174789`Shining Arena`0.000000`1`36`MOBA`
+175670`Glory Heyday`0.000000`1`36`MOBA`
+175671`Soul of the Soul`0.000000`2`15`Strategy`36`MOBA`
+175681`Battlefield of Eternal`0.000000`1`36`MOBA`
+175687`Heroes of the Multiverse`0.000000`1`36`MOBA`
+177035`Dead Event`0.000000`5`12`Role-playing (RPG)`13`Simulator`31`Adventure`32`Indie`36`MOBA`
+178128`Beodara`0.000000`7`4`Fighting`11`Real Time Strategy (RTS)`15`Strategy`24`Tactical`31`Adventure`32`Indie`36`MOBA`
+179390`Crowned`0.000000`1`36`MOBA`
+180289`Adversator`0.000000`6`4`Fighting`11`Real Time Strategy (RTS)`15`Strategy`31`Adventure`32`Indie`36`MOBA`
+182234`PunchMan Online`0.000000`4`4`Fighting`25`Hack and slash/Beat \u0027em up`32`Indie`36`MOBA`
+183864`Super Nanaru`0.000000`6`8`Platform`12`Role-playing (RPG)`31`Adventure`32`Indie`33`Arcade`36`MOBA`
+185954`Crystal Clash`0.000000`4`11`Real Time Strategy (RTS)`15`Strategy`35`Card \u0026 Board Game`36`MOBA`
+186656`Bapbap`0.000000`4`5`Shooter`15`Strategy`32`Indie`36`MOBA`
+186715`Dragoncrest RPG: Arc 1`0.000000`4`12`Role-playing (RPG)`31`Adventure`32`Indie`36`MOBA`
+188089`Clan Wars`0.000000`5`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`15`Strategy`32`Indie`36`MOBA`
+188283`Kids vs Zombies: Donuts Brawl`0.000000`3`5`Shooter`12`Role-playing (RPG)`36`MOBA`
+188326`Free War`0.000000`3`11`Real Time Strategy (RTS)`31`Adventure`36`MOBA`
+188405`Fierce Tide`0.000000`2`15`Strategy`36`MOBA`
+193826`ShellFire`0.000000`1`36`MOBA`
+194056`Wonderers: Eternal World`0.000000`2`31`Adventure`36`MOBA`
+194418`Pokémon Unite: Season 2`0.000000`2`15`Strategy`36`MOBA`
+194419`Pokémon Unite: Season 1`0.000000`2`15`Strategy`36`MOBA`
+194420`Pokémon Unite: Season 3`0.000000`2`15`Strategy`36`MOBA`
+194630`Mini Basketball`0.000000`4`13`Simulator`32`Indie`33`Arcade`36`MOBA`
+194678`Fantasy All Stars`0.000000`1`36`MOBA`
+195169`Thunder League Online`0.000000`3`15`Strategy`32`Indie`36`MOBA`
+197814`Project F4E`0.000000`4`12`Role-playing (RPG)`31`Adventure`32`Indie`36`MOBA`
+198340`Galaxy Fight Club`0.000000`3`5`Shooter`25`Hack and slash/Beat \u0027em up`36`MOBA`
+199952`Clash of Titans`0.000000`1`36`MOBA`
+200845`Skyraid`0.000000`6`13`Simulator`15`Strategy`24`Tactical`32`Indie`33`Arcade`36`MOBA`
+201964`Modern Ops`0.000000`3`5`Shooter`15`Strategy`36`MOBA`
+205584`Nova Battles`0.000000`3`5`Shooter`15`Strategy`36`MOBA`
+208082`Time and Summon`0.000000`2`15`Strategy`36`MOBA`
+208126`Superpower Squad`0.000000`3`5`Shooter`12`Role-playing (RPG)`36`MOBA`
+209279`Spellcraft`0.000000`3`11`Real Time Strategy (RTS)`15`Strategy`36`MOBA`
+209467`Gunstars`0.000000`2`5`Shooter`36`MOBA`
+210661`Revoland`0.000000`1`36`MOBA`
+211811`Hit and Boom`0.000000`2`15`Strategy`36`MOBA`
+214564`Okubi`0.000000`3`25`Hack and slash/Beat \u0027em up`32`Indie`36`MOBA`
+214984`Rooniverse`0.000000`1`36`MOBA`
+215835`Warlander`0.000000`3`24`Tactical`25`Hack and slash/Beat \u0027em up`36`MOBA`
+216085`BattleLive: ZombieGhetto`0.000000`1`36`MOBA`
+216087`Battlefield Pioneer`0.000000`2`5`Shooter`36`MOBA`
+219104`AutoChess Moba`0.000000`2`15`Strategy`36`MOBA`
+224409`MagicCraft`0.000000`1`36`MOBA`
+224526`Metagates`0.000000`2`12`Role-playing (RPG)`36`MOBA`
+228754`Arena Battle Champions`0.000000`1`36`MOBA`
+229112`Spark Era`0.000000`3`4`Fighting`5`Shooter`36`MOBA`
+230265`Schmaragon`0.000000`2`15`Strategy`36`MOBA`
+230312`Nightmare Breaker`0.000000`3`12`Role-playing (RPG)`25`Hack and slash/Beat \u0027em up`36`MOBA`
+233348`Lootfest2`0.000000`2`31`Adventure`36`MOBA`
+234453`Battle Rivals`0.000000`1`36`MOBA`
+235171`Dummy Pirates`0.000000`4`5`Shooter`24`Tactical`32`Indie`36`MOBA`
+236052`Spark Defense`0.000000`2`15`Strategy`36`MOBA`

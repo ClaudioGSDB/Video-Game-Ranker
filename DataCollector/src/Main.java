@@ -15,12 +15,13 @@ public class Main
 
         int id = 0;
 
-        FileWriter DataFile = new FileWriter("src/Data/DataTEST.txt");
+        FileWriter DataFile = new FileWriter("src/Data/Data.txt");
+        //FileWriter DataFile = new FileWriter("src/Data/DataTEST.txt");
 
-        //for(int i = 0; i < 474; i++){ //real
-        for(int i = 0; i < 1; i++){ //TEST
+        for(int i = 0; i < 474; i++){ //real
+        //for(int i = 0; i < 1; i++){ //TEST
 
-            String query = "fields name, rating, genres.name; where id > " + id + " & genres != null & rating != null; sort id asc; limit 500;";
+            String query = "fields name, rating, genres.name; where id > " + id + " & genres != null; sort id asc; limit 500;";
 
             RequestBody body = RequestBody.create(query, JSON);
             Request request = new Request.Builder()

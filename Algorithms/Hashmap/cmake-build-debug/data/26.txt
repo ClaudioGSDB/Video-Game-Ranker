@@ -3,36 +3,79 @@
 1196`Crash Boom Bang!`22.253398`2`9`Puzzle`26`Quiz/Trivia`
 1258`South Park: Chef\u0027s Luv Shack`75.565412`2`9`Puzzle`26`Quiz/Trivia`
 1825`Dragon Quest Wars`63.000000`3`12`Role-playing (RPG)`15`Strategy`26`Quiz/Trivia`
+2297`Advanced Xoru`0.000000`2`26`Quiz/Trivia`31`Adventure`
 2337`Mario Party Advance`59.377500`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+2641`Atari: 80 Classic Games in One!`0.000000`9`5`Shooter`9`Puzzle`10`Racing`12`Role-playing (RPG)`14`Sport`26`Quiz/Trivia`30`Pinball`33`Arcade`35`Card \u0026 Board Game`
+2711`Brain Age 2: More Training in Minutes a Day!`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 2712`Brain Age: Train Your Brain in Minutes a Day!`58.450399`2`9`Puzzle`26`Quiz/Trivia`
+3229`Retro World`0.000000`20`2`Point-and-click`4`Fighting`5`Shooter`7`Music`8`Platform`9`Puzzle`10`Racing`11`Real Time Strategy (RTS)`12`Role-playing (RPG)`13`Simulator`14`Sport`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`30`Pinball`31`Adventure`32`Indie`33`Arcade`
+3396`Jeopardy!`0.000000`2`13`Simulator`26`Quiz/Trivia`
+3594`Saikyou Habu Shogi`0.000000`2`15`Strategy`26`Quiz/Trivia`
 3888`Dokapon DX: Wataru Sekai ha Oni Darake`33.000000`1`26`Quiz/Trivia`
 3973`The Legend of the Quiz Tournament of Champions`23.000000`1`26`Quiz/Trivia`
 4079`Vexx`60.967742`2`8`Platform`26`Quiz/Trivia`
+4305`Idol Janshi Suchie-Pai Special`0.000000`1`26`Quiz/Trivia`
 4319`D`31.400754`5`5`Shooter`9`Puzzle`15`Strategy`26`Quiz/Trivia`31`Adventure`
+4380`Clue`0.000000`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+4453`Jantei Monogatari`0.000000`1`26`Quiz/Trivia`
+4485`Tel-Tel Mahjong`0.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+4665`Alan Hansen\u0027s Sports Challenge`0.000000`2`14`Sport`26`Quiz/Trivia`
 4713`Big Brain Academy: Wii Degree`60.592883`2`9`Puzzle`26`Quiz/Trivia`
+4800`Deal or No Deal`0.000000`1`26`Quiz/Trivia`
+4806`Disney Channel: All Star Party`0.000000`1`26`Quiz/Trivia`
 4816`Dokapon Kingdom`88.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+4908`Hasbro Family Game Night`0.000000`1`26`Quiz/Trivia`
+5103`Pool Party`0.000000`4`9`Puzzle`13`Simulator`14`Sport`26`Quiz/Trivia`
+5141`Scene It? Bright Lights! Big Screen!`0.000000`1`26`Quiz/Trivia`
+5142`Scene It? Twilight`0.000000`1`26`Quiz/Trivia`
+5161`Smarty Pants`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+5218`Disney Think Fast: The Ultimate Trivia Showdown`0.000000`2`13`Simulator`26`Quiz/Trivia`
+5248`TV Show King Party`0.000000`1`26`Quiz/Trivia`
 5304`You Don\u0027t Know Jack`81.505618`2`15`Strategy`26`Quiz/Trivia`
 5604`Hive`80.000000`4`5`Shooter`15`Strategy`26`Quiz/Trivia`32`Indie`
 5738`Batman: Dark Tomorrow`39.000000`4`15`Strategy`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`31`Adventure`
+5746`The Bible Game`0.000000`1`26`Quiz/Trivia`
+5834`Fight Club`0.000000`2`4`Fighting`26`Quiz/Trivia`
+5859`The Guy Game`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+6113`Home Mahjong`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+6216`Trivial Pursuit: Unhinged`0.000000`2`15`Strategy`26`Quiz/Trivia`
+6311`Atari Anniversary Edition`0.000000`3`8`Platform`26`Quiz/Trivia`33`Arcade`
+6463`The $1,000,000 Pyramid`0.000000`2`13`Simulator`26`Quiz/Trivia`
+6521`Are You Smarter Than a 5th Grader? Game Time`0.000000`1`26`Quiz/Trivia`
+6644`Ultimate Brain Games`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+6677`Family Feud: 2010 Edition`0.000000`2`15`Strategy`26`Quiz/Trivia`
 6678`Family Feud: 2012 Edition`80.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+6679`Family Feud: Decades`0.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+6846`Mahjong Cub3d`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 6949`Culdcept Saga`80.000000`4`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`35`Card \u0026 Board Game`
 7181`Scene It? Box Office Smash`76.536543`1`26`Quiz/Trivia`
 7182`Scene It? Lights, Camera, Action`75.000000`1`26`Quiz/Trivia`
+7282`Buzz!: Brain of the World`0.000000`1`26`Quiz/Trivia`
 7283`Buzz!: Quiz TV`63.512276`1`26`Quiz/Trivia`
+7284`Buzz!: Quiz World`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 7473`Jones in the Fast Lane`70.172837`3`12`Role-playing (RPG)`13`Simulator`26`Quiz/Trivia`
 7539`Luxor MahJong`70.000000`4`2`Point-and-click`9`Puzzle`15`Strategy`26`Quiz/Trivia`
 7782`Fibbage`80.000000`1`26`Quiz/Trivia`
 8130`Adventures in the Magic Kingdom`60.041548`2`26`Quiz/Trivia`31`Adventure`
+8460`Beavis and Butt-head: Wiener Take All`0.000000`1`26`Quiz/Trivia`
+8493`The Princess Bride Game`0.000000`5`2`Point-and-click`8`Platform`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+8521`A Question of Sport`0.000000`4`9`Puzzle`13`Simulator`14`Sport`26`Quiz/Trivia`
+8624`A-Men 2`0.000000`5`8`Platform`9`Puzzle`26`Quiz/Trivia`31`Adventure`32`Indie`
 8660`Backgammon Blitz`50.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
 8725`Continue?9876543210`50.000000`3`26`Quiz/Trivia`31`Adventure`32`Indie`
 8765`The Witcher: Adventure Game`56.200943`5`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`31`Adventure`
 8920`Act of Aggression`50.000000`4`11`Real Time Strategy (RTS)`15`Strategy`26`Quiz/Trivia`32`Indie`
+8946`Anticipation`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
 8977`Microsoft Mahjong`66.140082`2`9`Puzzle`26`Quiz/Trivia`
 9292`Zooloretto`50.000000`3`26`Quiz/Trivia`33`Arcade`35`Card \u0026 Board Game`
 9467`Strategic War in Europe`40.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
 9487`QuizUp`82.567268`1`26`Quiz/Trivia`
 9711`Risk II`70.028261`3`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
 9939`Abalone`50.000000`2`15`Strategy`26`Quiz/Trivia`
+10062`Bounders and Cads`0.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+10159`Classroom Aquatic`0.000000`3`13`Simulator`26`Quiz/Trivia`32`Indie`
+10611`Sesame Street: Elmo\u0027s Letter Adventure`0.000000`1`26`Quiz/Trivia`
+10898`Google Feud`0.000000`1`26`Quiz/Trivia`
 10952`Talisman: Digital Edition`60.331043`6`12`Role-playing (RPG)`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`35`Card \u0026 Board Game`
 10953`Talisman: Prologue`50.000000`4`12`Role-playing (RPG)`15`Strategy`26`Quiz/Trivia`32`Indie`
 10985`The 39 Steps`65.617978`4`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
@@ -44,10 +87,34 @@
 11529`The Jackbox Party Pack`64.180772`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
 11588`Quiplash`76.316487`3`15`Strategy`26`Quiz/Trivia`32`Indie`
 11854`3-D Tic-Tac-Toe`49.032996`2`15`Strategy`26`Quiz/Trivia`
+12142`HeroQuest`0.000000`4`12`Role-playing (RPG)`15`Strategy`26`Quiz/Trivia`31`Adventure`
+12372`The $100,000 Pyramid`0.000000`2`13`Simulator`26`Quiz/Trivia`
 12512`Magical Eyes - Red is for Anguish`70.000000`4`26`Quiz/Trivia`31`Adventure`32`Indie`34`Visual Novel`
 12909`The Chessmaster`55.000000`2`15`Strategy`26`Quiz/Trivia`
+12940`Blockbusters`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+12951`The Election Game`0.000000`1`26`Quiz/Trivia`
+12955`The Krypton Factor`0.000000`2`13`Simulator`26`Quiz/Trivia`
 12970`Trivial Pursuit`70.000000`1`26`Quiz/Trivia`
+13328`Arcade Trivia Quiz`0.000000`1`26`Quiz/Trivia`
+13408`Blockbusters: Gold Run`0.000000`2`15`Strategy`26`Quiz/Trivia`
+13416`Bob\u0027s Full House`0.000000`1`26`Quiz/Trivia`
+13636`Emlyn Hughes Arcade Quiz`0.000000`1`26`Quiz/Trivia`
+13648`Every Second Counts`0.000000`1`26`Quiz/Trivia`
+13722`Go`0.000000`1`26`Quiz/Trivia`
+13830`Chinese Juggler`0.000000`1`26`Quiz/Trivia`
+13869`Battle Ships`0.000000`4`13`Simulator`16`Turn-based strategy (TBS)`24`Tactical`26`Quiz/Trivia`
+13930`16k Superchess`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+14182`10 out of 10: Dinosaurs`0.000000`4`2`Point-and-click`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+14226`The Adventures of Sinbad`0.000000`2`26`Quiz/Trivia`31`Adventure`
+14245`All About America`0.000000`1`26`Quiz/Trivia`
+14256`The Wonders of the Animal Kingdom`0.000000`1`26`Quiz/Trivia`
+14257`Answer Back: Junior Quiz`0.000000`1`26`Quiz/Trivia`
+14258`Answer Back: Senior Quiz`0.000000`1`26`Quiz/Trivia`
+14280`Backgammon`0.000000`2`14`Sport`26`Quiz/Trivia`
+15210`Checkmate`0.000000`2`15`Strategy`26`Quiz/Trivia`
+15228`Gambler Jiko Chuushinha`0.000000`1`26`Quiz/Trivia`
 15362`Scrabble`60.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+15883`Chessmaster 10th Edition`0.000000`3`14`Sport`15`Strategy`26`Quiz/Trivia`
 15990`Dangerous High School Girls in Trouble!`60.000000`3`12`Role-playing (RPG)`26`Quiz/Trivia`32`Indie`
 16458`Risk`52.400000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
 16537`7 Grand Steps: What Ancients Begat`40.209643`4`13`Simulator`15`Strategy`26`Quiz/Trivia`32`Indie`
@@ -56,29 +123,78 @@
 16782`You Don\u0027t Know Jack Vol. 2`70.000000`2`26`Quiz/Trivia`32`Indie`
 16783`You Don\u0027t Know Jack Vol. 3`70.000000`2`26`Quiz/Trivia`32`Indie`
 16785`You Don\u0027t Know Jack Movies`60.000000`2`26`Quiz/Trivia`32`Indie`
+17254`Backgammon`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 17590`Racer Mini Yonku: Japan Cup`70.000000`3`10`Racing`26`Quiz/Trivia`32`Indie`
 17781`Magnifico`70.000000`2`15`Strategy`26`Quiz/Trivia`
+18019`MTV Remote Control`0.000000`1`26`Quiz/Trivia`
 18086`Talisman: The Horus Heresy`50.000000`3`12`Role-playing (RPG)`15`Strategy`26`Quiz/Trivia`
 18124`Akinator`66.975546`1`26`Quiz/Trivia`
 18597`Clubhouse Games`78.129751`5`9`Puzzle`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`35`Card \u0026 Board Game`
 18715`Buzz! The Music Quiz`72.051905`2`9`Puzzle`26`Quiz/Trivia`
 18716`Buzz! The Big Quiz`63.049258`1`26`Quiz/Trivia`
+18817`Reversi`0.000000`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
 19081`The Jackbox Party Pack 2`61.530533`5`7`Music`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
 19082`The Jackbox Party Pack 3`82.324403`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
 19083`Drawful 2`79.885841`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+19111`Board Game Classics`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+19184`Risk: Global Domination`0.000000`2`15`Strategy`26`Quiz/Trivia`
+19435`Catan`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+19745`The Weakest Link`0.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+20213`The Price is Right: Decades`0.000000`1`26`Quiz/Trivia`
 20220`Family Game Night 4: The Game Show`75.000000`1`26`Quiz/Trivia`
+20390`Disney\u0027s Ready to Read with Pooh`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+20501`Hardwood Backgammon`0.000000`1`26`Quiz/Trivia`
+20777`Chessmaster: The Art of Learning`0.000000`4`9`Puzzle`14`Sport`15`Strategy`26`Quiz/Trivia`
+21281`Armageddon Empires`0.000000`4`8`Platform`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+21360`Buzz!: The Pop Quiz`0.000000`1`26`Quiz/Trivia`
+21624`Mario\u0027s Game Gallery`0.000000`4`9`Puzzle`13`Simulator`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+21687`Grobda`0.000000`2`5`Shooter`26`Quiz/Trivia`
 21700`Pokédex 3D Pro`63.000000`1`26`Quiz/Trivia`
+21819`Wits \u0026 Wagers`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 21825`TV Show King`73.000000`2`9`Puzzle`26`Quiz/Trivia`
+21828`Pop`0.000000`7`8`Platform`9`Puzzle`12`Role-playing (RPG)`14`Sport`16`Turn-based strategy (TBS)`26`Quiz/Trivia`31`Adventure`
+21830`Catan`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
 21969`Sonic Shuffle`62.587549`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+22015`Who Wants to Be a Millionaire: 2nd Edition`0.000000`1`26`Quiz/Trivia`
 22023`Majotori`75.757123`3`26`Quiz/Trivia`31`Adventure`32`Indie`
+22534`Uno Rush`0.000000`4`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`35`Card \u0026 Board Game`
 22569`Sega Casino`33.000000`3`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+22570`Sega Classics Collection`0.000000`5`5`Shooter`9`Puzzle`10`Racing`15`Strategy`26`Quiz/Trivia`
+22946`We Dare`0.000000`1`26`Quiz/Trivia`
+23065`Buzz! The Hollywood Quiz`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+23089`Buzz! The Mega Quiz`0.000000`1`26`Quiz/Trivia`
+23528`Kasparov Chessmate`0.000000`2`15`Strategy`26`Quiz/Trivia`
+23903`Guess the Movie :- Funnier One`0.000000`1`26`Quiz/Trivia`
+23909`eTabu`0.000000`1`26`Quiz/Trivia`
+23932`Espial`0.000000`3`5`Shooter`26`Quiz/Trivia`33`Arcade`
+23983`What\u0027s in the Picture: Animals`0.000000`1`26`Quiz/Trivia`
 24025`Agricola: All Creatures Big and Small`50.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+24027`Le Havre: The Inland Port`0.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+24075`Power Play: Sports Trivia`0.000000`2`14`Sport`26`Quiz/Trivia`
 24207`Beat Da Beat`70.000000`5`5`Shooter`7`Music`26`Quiz/Trivia`32`Indie`33`Arcade`
+24308`Are You Smarter Than A 5th Grader?: Make the Grade`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+24790`CEO Test`0.000000`5`12`Role-playing (RPG)`13`Simulator`15`Strategy`26`Quiz/Trivia`31`Adventure`
+25099`Wonderbook: Book of Potions`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+25126`Chess`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+25217`Truth or Lies`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+26022`Eiyu Senki Gold: A New Conquest`0.000000`7`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`24`Tactical`26`Quiz/Trivia`31`Adventure`34`Visual Novel`
+26159`Road Trip Bingo`0.000000`1`26`Quiz/Trivia`
+26754`TV Superstars`0.000000`1`26`Quiz/Trivia`
 27052`Pokémon Duel`66.070399`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
 27093`Yu-Gi-Oh! Duel Links`76.325230`7`12`Role-playing (RPG)`13`Simulator`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+27127`Sudice`0.000000`3`9`Puzzle`26`Quiz/Trivia`32`Indie`
 27258`Culdcept Revolt`90.000000`4`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`35`Card \u0026 Board Game`
+27469`Classic Car Racing`0.000000`5`10`Racing`13`Simulator`14`Sport`15`Strategy`26`Quiz/Trivia`
+27731`Test Your Math`0.000000`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
+27784`94%`0.000000`1`26`Quiz/Trivia`
+27787`94 Degrees: fun trivia quiz`0.000000`1`26`Quiz/Trivia`
+27788`94 Seconds: category word game`0.000000`1`26`Quiz/Trivia`
+28161`Legaia 2: Duel Saga`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
 28213`The Jackbox Party Pack 4`76.546158`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
 28278`Catan Universe`97.426201`2`15`Strategy`26`Quiz/Trivia`
+28352`Backpacker`0.000000`3`13`Simulator`26`Quiz/Trivia`31`Adventure`
+28411`Backpacker 3`0.000000`2`26`Quiz/Trivia`31`Adventure`
+28456`MindJam! The Knowledge Guru`0.000000`1`26`Quiz/Trivia`
 28472`Jeopardy!`78.000000`1`26`Quiz/Trivia`
 29260`ReThink`70.000000`2`26`Quiz/Trivia`32`Indie`
 29429`Steam: Rails to Riches`50.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
@@ -86,47 +202,1275 @@
 30236`You Don\u0027t Know Jack Vol. 1 XL`80.000000`2`26`Quiz/Trivia`32`Indie`
 31561`Chess Ultra`60.000000`7`9`Puzzle`13`Simulator`14`Sport`15`Strategy`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
 31590`King of Booze: Drinking Game`70.000000`2`26`Quiz/Trivia`32`Indie`
+31624`Cards of Chaos`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`32`Indie`
+32599`Airship Asunder`0.000000`5`13`Simulator`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
+32921`Sumer`0.000000`4`15`Strategy`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
 33468`Tatsu`70.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
 33900`Tibetan Quest: Beyond the World\u0027s End`50.000000`4`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+34018`Mech Anarchy`0.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+34565`BattleQuiz`0.000000`2`26`Quiz/Trivia`32`Indie`
 35058`Splendor`60.000000`4`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`35`Card \u0026 Board Game`
 35061`Big Thinkers 1st Grade`70.000000`3`2`Point-and-click`7`Music`26`Quiz/Trivia`
 35247`Black Home`60.000000`4`12`Role-playing (RPG)`26`Quiz/Trivia`31`Adventure`32`Indie`
+35440`Are You Smarter Than a 5th Grader`0.000000`1`26`Quiz/Trivia`
+36548`Brain Ball: Big Data`0.000000`4`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`30`Pinball`
+37112`Family Feud`0.000000`1`26`Quiz/Trivia`
 37141`That\u0027s You!`78.437165`1`26`Quiz/Trivia`
+37323`Name that tune`0.000000`4`7`Music`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+37459`Pro Mahjong Kiwame for WonderSwan`0.000000`2`14`Sport`26`Quiz/Trivia`
+37636`Bishoujo Senshi Sailor Moon`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+37649`Yuu Yuu Jinsei`0.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+37652`Wai Wai Mahjong`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37672`Morita Shogi PC`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37676`Mahjong Shikaku Retsuden: Mahjong Wars`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37677`Mahjong Gokuu Special`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37682`Kattobi! Takuhai Kun`0.000000`3`13`Simulator`26`Quiz/Trivia`31`Adventure`
+37740`Monopoly`0.000000`4`13`Simulator`14`Sport`15`Strategy`26`Quiz/Trivia`
+37742`Katou Hifumi Kudan Shogi Club`0.000000`2`14`Sport`26`Quiz/Trivia`
+37743`Mahjong Sengoku Monogatari`0.000000`2`14`Sport`26`Quiz/Trivia`
+37745`Zengoku Juudan Ultra Shinri Game`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37750`Yuuyu no Quiz de Go! Go!`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+37751`U-jin no Furi-furi Girls`0.000000`2`15`Strategy`26`Quiz/Trivia`
+37752`U-jin: Janjuu Gakuen 2`0.000000`2`14`Sport`26`Quiz/Trivia`
+37757`Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki`0.000000`2`15`Strategy`26`Quiz/Trivia`
+37783`Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+37784`Toride`0.000000`2`14`Sport`26`Quiz/Trivia`
+37794`Takemiya Masaki Kudan no Igo Taishou`0.000000`2`14`Sport`26`Quiz/Trivia`
+37796`Taikyoku Igo: Idaten`0.000000`2`14`Sport`26`Quiz/Trivia`
+37797`Taikyoku Igo: Goliath`0.000000`2`14`Sport`26`Quiz/Trivia`
+37799`Tadaima Yuusha Boshuuchuu Okawari`0.000000`2`15`Strategy`26`Quiz/Trivia`
+37802`Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen`0.000000`2`14`Sport`26`Quiz/Trivia`
+37803`Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen`0.000000`2`14`Sport`26`Quiz/Trivia`
+37804`Super Nichibutsu Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+37807`Sugoro Quest++ Dicenics`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37810`Super Momotaro Dentetsu II`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37811`Super Mahjong Taikai`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37813`Super Mahjong 2: Honkaku 4-nin Uchi`0.000000`2`14`Sport`26`Quiz/Trivia`
+37814`Super Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+37823`The Game of Life: Super Jinsei Game 3`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37824`The Game of Life: Super Jinsei Game 2`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37825`The Game of Life: Super Jinsei Game`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37828`Super Igo Go-ou`0.000000`2`14`Sport`26`Quiz/Trivia`
+37831`Super Gomoku Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+37832`Super Gomoku Narabe: Renju`0.000000`2`14`Sport`26`Quiz/Trivia`
+37838`Super Double Yakuman II`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37839`Super Double Yakuman`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37845`Sugoroku Ginga Senki`0.000000`3`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+37853`Super Real Mahjong PIV`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37855`Super Pachinko Taisen`0.000000`2`14`Sport`26`Quiz/Trivia`
+37856`Super Pachi-Slot Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+37858`Super Okuman Chouja Game`0.000000`2`15`Strategy`26`Quiz/Trivia`
+37859`Super Nichibutsu Mahjong 4: Kiso Kenkyu-hen`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37865`Saikousoku Shikou Shogi Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+37866`Saibara Rieko no Mahjong Hourouki`0.000000`2`14`Sport`26`Quiz/Trivia`
+37868`Rin Kaihou Kudan no Igo Daidou`0.000000`2`14`Sport`26`Quiz/Trivia`
+37874`Pro Mahjong Tsuwamono`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37875`Pro Mahjong Kiwame II`0.000000`2`14`Sport`26`Quiz/Trivia`
+37876`Pro Kishi Jinsei Simulation: Shogi no Hanamichi`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+37910`Naruhodo! The World`0.000000`2`15`Strategy`26`Quiz/Trivia`
+37912`Naki no Ryuu: Mahjong Hishou-den`0.000000`2`14`Sport`26`Quiz/Trivia`
+37919`Motteke Oh! Dorobou`0.000000`2`26`Quiz/Trivia`31`Adventure`
+37923`Momotaro Dentetsu Happy`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37924`Mizuki Shigeru no Yokai Hyakki Yakou`0.000000`2`26`Quiz/Trivia`31`Adventure`
+37926`Miracle Casino Paradise`0.000000`2`14`Sport`26`Quiz/Trivia`
+37935`The Mahjong Touhai-den`0.000000`2`14`Sport`26`Quiz/Trivia`
+37936`Mahjong Taikai II`0.000000`2`14`Sport`26`Quiz/Trivia`
+37938`Mahjong Hanjouki`0.000000`2`14`Sport`26`Quiz/Trivia`
+37939`Mahjong Club`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37950`Kousoku Shikou Shogi-ou`0.000000`2`14`Sport`26`Quiz/Trivia`
+37956`Kiteretsu Daihyakka: Choujikuu Sugoroku`0.000000`3`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+37959`Kingyo Chuuihou! Tobidase! Game Gakuen`0.000000`1`26`Quiz/Trivia`
+37960`Kindai Mahjong Special`0.000000`2`14`Sport`26`Quiz/Trivia`
+37961`Kikuni Masahiko no Jantoushi Dora-ou 2`0.000000`2`14`Sport`26`Quiz/Trivia`
+37963`Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+37968`Kakinoki Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+37980`Igo Club`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+37987`Honkakuha Igo: Gosei`0.000000`2`14`Sport`26`Quiz/Trivia`
+37988`Honkaku Shogi: Fuuunji Ryuou`0.000000`2`14`Sport`26`Quiz/Trivia`
+37989`Honkaku Mahjong: Tetsuman II`0.000000`2`14`Sport`26`Quiz/Trivia`
+37990`Honkaku Mahjong: Tetsuman`0.000000`2`14`Sport`26`Quiz/Trivia`
+38006`Heisei Gunjin Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+38007`Hebereke no Oishii Puzzle ha Irimasen ka`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+38008`Hayazashi Nidan Morita Shogi 2`0.000000`2`14`Sport`26`Quiz/Trivia`
+38009`Hayazashi Nidan Morita Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+38013`Habu Meijin no Omoshiro Shogi`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38068`Super Momotaro Dentetsu`0.000000`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38098`Mahjong Haouden: Kaiser\u0027s Quest`0.000000`2`15`Strategy`26`Quiz/Trivia`
+38132`Dokapon Gaiden: Honoo no Audition`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+38133`Dokapon 3-2-1: Arashi wo Yobu Yuujou`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+38145`Daibakushou: Jinsei Gekijoh - Ooedo Nikki`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38151`Chinhai`0.000000`1`26`Quiz/Trivia`
+38152`Chibi Maruko-chan: Mezase! Minami no Island!!`0.000000`1`26`Quiz/Trivia`
+38201`Pro Mahjong Kiwame III`0.000000`2`14`Sport`26`Quiz/Trivia`
+38248`Shijou Saikyou no Quiz-ou Ketteisen Super`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+38249`Shanghai III`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+38252`Shin Togenkyo`0.000000`2`14`Sport`26`Quiz/Trivia`
+38256`The Shinri Game 3`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+38299`Shogi Saikyou`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38310`Popeye: Ijiwaru Majo Seahag no Maki`0.000000`5`8`Platform`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+38343`Super Momotaro Dentetsu III`0.000000`5`9`Puzzle`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38345`Itadaki Street 2: Neon Sign ha Bara Iro ni`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+38360`Kishin Douji Zenki: Tenchi Meidou`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+38368`Shodankurai Nintei: Shodan Pro Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+38372`Shodan Morita Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+38402`Wedding Peach`0.000000`2`26`Quiz/Trivia`31`Adventure`
+38600`Adventure Quiz: Capcom World`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+38652`Geo Storm`0.000000`2`5`Shooter`26`Quiz/Trivia`
 38763`Flagsplosion`70.000000`2`26`Quiz/Trivia`32`Indie`
+39040`Trivial Pursuit: The CD32 Edition`0.000000`1`26`Quiz/Trivia`
+39094`Megachess`0.000000`2`15`Strategy`26`Quiz/Trivia`
 39204`Trivia Crack`89.753476`1`26`Quiz/Trivia`
+39364`Curious George In Outer Space`0.000000`1`26`Quiz/Trivia`
+40224`Kosodate Quiz My Angel`0.000000`3`12`Role-playing (RPG)`13`Simulator`26`Quiz/Trivia`
+40575`Pigs in Space`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+40616`The Stacks`0.000000`2`26`Quiz/Trivia`31`Adventure`
+40720`Bee-Ball`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+41135`Remote Control`0.000000`2`15`Strategy`26`Quiz/Trivia`
+41225`Videocart-19: Checkers`0.000000`2`15`Strategy`26`Quiz/Trivia`
+41364`Mahjong Kazoku`0.000000`2`14`Sport`26`Quiz/Trivia`
+41367`Igo: Kyuu Roban Taikyoku`0.000000`2`14`Sport`26`Quiz/Trivia`
+41373`Emi-chan no Moero Yakyuuken`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+41397`Nazoler Land Special!! Quiz-Ou wo Ikuse`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+41575`The Quest for the Rings`0.000000`2`26`Quiz/Trivia`31`Adventure`
+41581`Scene It? Movie Night`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+41745`Konami\u0027s Mahjong`0.000000`3`9`Puzzle`13`Simulator`26`Quiz/Trivia`
+42032`Shogi Shodan Icchokusen`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+42210`U-jin: Janjuu Gakuen`0.000000`2`14`Sport`26`Quiz/Trivia`
+42219`Super Tsume Shogi 1000`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42223`Super Shogi 3: Kitaihei`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42224`Super Shogi 2`0.000000`2`14`Sport`26`Quiz/Trivia`
+42225`Super Shogi`0.000000`3`14`Sport`15`Strategy`26`Quiz/Trivia`
+42228`Pachio-kun Special`0.000000`2`26`Quiz/Trivia`31`Adventure`
+42230`Pachinko Wars`0.000000`2`14`Sport`26`Quiz/Trivia`
+42231`Pachinko Tetsujin: Shichiban Shoubu`0.000000`2`14`Sport`26`Quiz/Trivia`
+42234`Pachinko Monogatari: Pachi-Slot mo Aru de yo!!`0.000000`2`14`Sport`26`Quiz/Trivia`
+42237`Pachinko Challenger`0.000000`2`14`Sport`26`Quiz/Trivia`
+42242`Fortune Quest: Dice wo Korogase`0.000000`3`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+42251`Jissen! Mahjong Shinan`0.000000`2`14`Sport`26`Quiz/Trivia`
+42309`Sotsugyou Bangai-hen: Nee Mahjong Shiyo!`0.000000`2`14`Sport`26`Quiz/Trivia`
+42310`Bing Bing! Bingo`0.000000`3`4`Fighting`9`Puzzle`26`Quiz/Trivia`
+42313`Shin Shogi Club`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42318`Shinzui Taikyoku Igo: Go Sennin`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42380`Shounin yo, Taishi wo Idake!!`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42382`Shogi Saikyou II: Jissen Taikyoku-hen`0.000000`2`14`Sport`26`Quiz/Trivia`
+42423`Joushou Mahjong Tenpai`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+42424`Wheel of Fortune: Deluxe Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+42512`Jeopardy! Deluxe Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+42515`Othello World`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+42718`Blokus Portable: Steambot Championship`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+43056`Sekai Saikyou Ginsei Igo: Hybrid Monte Carlo`0.000000`2`15`Strategy`26`Quiz/Trivia`
+43216`Cheggers\u0027 Party Quiz`0.000000`1`26`Quiz/Trivia`
+43506`Buzz! Junior: Monster Rumble`0.000000`3`9`Puzzle`10`Racing`26`Quiz/Trivia`
+43507`Buzz! Junior: Dino Den`0.000000`2`10`Racing`26`Quiz/Trivia`
+43520`Buzz! The Sports Quiz`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+43623`Friends: The One With All The Trivia`0.000000`1`26`Quiz/Trivia`
+43786`Championship Manager Quiz`0.000000`2`14`Sport`26`Quiz/Trivia`
+43909`Who Wants to be a Millionaire: 3rd Edition`0.000000`1`26`Quiz/Trivia`
+43911`Jeopardy! 2nd Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+43918`Jigsaw Madness`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+43989`Pocket Reversi`0.000000`1`26`Quiz/Trivia`
+44036`Mahjong 64`0.000000`2`15`Strategy`26`Quiz/Trivia`
+44041`AI Shogi 3`0.000000`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+44070`Florist Shop`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+44404`Game no Tatsujin`0.000000`2`14`Sport`26`Quiz/Trivia`
+44406`Gambler Jiko Chuushinha 2: Dorapon Quest`0.000000`2`14`Sport`26`Quiz/Trivia`
+44409`Janyuuki Goku Randa`0.000000`2`15`Strategy`26`Quiz/Trivia`
+44415`Daibakushou: Jinsei Gekijoh`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+44433`Honkakuha Taikyoku Shogi: Shogi Club`0.000000`3`14`Sport`26`Quiz/Trivia`35`Card \u0026 Board Game`
+44443`Mahjong Gokuu Tenjiku`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+44586`Buzz! The Ultimate Music Quiz`0.000000`1`26`Quiz/Trivia`
+44587`Brain Challenge Deluxe`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+44631`Who Wants to be a Millionaire: Party Edition`0.000000`1`26`Quiz/Trivia`
+44675`Formula Challenge`0.000000`3`10`Racing`14`Sport`26`Quiz/Trivia`
+44710`Buzz! Junior: Robo Jam`0.000000`4`9`Puzzle`10`Racing`15`Strategy`26`Quiz/Trivia`
+44892`Top Shop`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+44911`Street Fighter Collection 2`0.000000`3`4`Fighting`15`Strategy`26`Quiz/Trivia`
+44947`Easter Bunny\u0027s Big Day`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+45321`3 2 1 Quiz Game`0.000000`1`26`Quiz/Trivia`
+45442`America Oudan Ultra Quiz`0.000000`2`13`Simulator`26`Quiz/Trivia`
+45614`Mahjong Cop Ryuu: Shiro Ookami no Yabou`0.000000`1`26`Quiz/Trivia`
+45644`Chibi Maruko-chan: Waku-waku Shopping`0.000000`1`26`Quiz/Trivia`
+45728`Hyper Marbles`0.000000`1`26`Quiz/Trivia`
+45764`Show do Milhão Volume 2`0.000000`1`26`Quiz/Trivia`
+45848`Who Wants to Beat Up a Millionaire`0.000000`2`4`Fighting`26`Quiz/Trivia`
+45888`The Joker\u0027s Wild Jr.`0.000000`1`26`Quiz/Trivia`
+45935`Connect Four`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+46135`Parlour Games`0.000000`2`14`Sport`26`Quiz/Trivia`
+46141`Mahjong Sengoku Jidai`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+46333`Super Golf`0.000000`2`14`Sport`26`Quiz/Trivia`
+46392`Capcom no Quiz: Tonosama no Yabou`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+46410`The San Diego Zoo Presents: The Animals!`0.000000`1`26`Quiz/Trivia`
+46562`The Joker\u0027s Wild`0.000000`1`26`Quiz/Trivia`
+47182`Wheel of Fortune: New 3rd Edition`0.000000`1`26`Quiz/Trivia`
+47251`Hong Kong`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+47531`Computer Chess`0.000000`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
+47630`American Mensa Academy`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+47639`Classic Games Overload: Card \u0026 Puzzle Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48056`Hollywood Squares`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48094`Wheel of Fortune: Junior Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48329`Hayauchi Suupaa Igo`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+48330`Famicom Meijinsen`0.000000`2`14`Sport`26`Quiz/Trivia`
+48336`Foolio: Fool your friends`0.000000`3`24`Tactical`26`Quiz/Trivia`32`Indie`
+48362`Bakushou!! Jinsei Gekijoh`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+48496`Family Quiz 4-nin wa Rival`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48694`Jeopardy!: 25th Anniversary Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48709`Jeopardy!: Junior Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+48713`Famicom Shogi: Ryuu-Ou-Sen`0.000000`3`14`Sport`15`Strategy`26`Quiz/Trivia`
+48727`Bakushou!! Jinsei Gekijoh 2`0.000000`3`13`Simulator`26`Quiz/Trivia`35`Card \u0026 Board Game`
+48728`Bakushou!! Ai no Gekijou`0.000000`2`13`Simulator`26`Quiz/Trivia`
+48748`Kamen Rider SD: GranShocker no Yabou`0.000000`2`15`Strategy`26`Quiz/Trivia`
+48749`Kaettekita! Gunjin Shogi: Nanya Sore!?`0.000000`2`15`Strategy`26`Quiz/Trivia`
+48751`Itadaki Street: Watashi no Oten ni Yottette`0.000000`2`15`Strategy`26`Quiz/Trivia`
+48754`Ide Yosuke Meijin no Jissen Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+48756`Hon Shogi: Naitou Kudan Shogi Hiden`0.000000`2`14`Sport`26`Quiz/Trivia`
+48768`Family Mahjong II: Shanghai he no Michi`0.000000`2`14`Sport`26`Quiz/Trivia`
+48769`Family Mahjong`0.000000`2`14`Sport`26`Quiz/Trivia`
+48771`Momotaro Dentetsu`0.000000`2`15`Strategy`26`Quiz/Trivia`
+48788`Mahjong Taikai`0.000000`2`14`Sport`26`Quiz/Trivia`
+48817`Morita Kazuo no Shogi`0.000000`2`14`Sport`26`Quiz/Trivia`
+48880`Tetsudou-ou`0.000000`2`15`Strategy`26`Quiz/Trivia`
+48884`Tanigawa Kouji no Shogi Shinan III`0.000000`3`14`Sport`15`Strategy`26`Quiz/Trivia`
+48887`Takeshi no Sengoku Fuuunko`0.000000`2`15`Strategy`26`Quiz/Trivia`
 48976`Jeopardy! Teen Tournament`30.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
 48977`Jeopardy! Sports Edition`20.000000`4`9`Puzzle`14`Sport`15`Strategy`26`Quiz/Trivia`
 48978`Jeopardy! Platinum Edition`43.000000`1`26`Quiz/Trivia`
 49065`Super Scrabble`37.000000`2`9`Puzzle`26`Quiz/Trivia`
+49123`Tokyo Disneyland: Fantasy Tour`0.000000`2`8`Platform`26`Quiz/Trivia`
+49145`Cult Jump`0.000000`3`9`Puzzle`26`Quiz/Trivia`31`Adventure`
 49211`Yu-Gi-Oh!: Dungeon Dice Monsters`49.974578`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+49337`Scrabble Blast!`0.000000`2`15`Strategy`26`Quiz/Trivia`
 49380`Yu-Gi-Oh! GX Duel Academy`79.752153`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+49458`Who Wants to Be a Millionaire: Junior`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+49586`Dokodemo Taikyoku: Yakuman Advance`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+49596`Guranbo`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+49629`Hikaru no Go 2`0.000000`2`14`Sport`26`Quiz/Trivia`
+49630`Hikaru no Go`0.000000`2`14`Sport`26`Quiz/Trivia`
+49720`Momotaro Dentetsu G: Gold Deck wo Tsukure!`0.000000`2`15`Strategy`26`Quiz/Trivia`
+50158`Gartic`0.000000`4`9`Puzzle`14`Sport`15`Strategy`26`Quiz/Trivia`
 50217`NarcoGuerra`80.000000`2`15`Strategy`26`Quiz/Trivia`
+50273`Hoyle Official Book of Games: Volume 3`0.000000`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
+50552`Othello Millennium`0.000000`2`15`Strategy`26`Quiz/Trivia`
+50606`Hasbro Family Game Night 2`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 50649`Who Wants to be a Millionaire: 1st Edition`43.000000`1`26`Quiz/Trivia`
+50724`TV Show King 2`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+50730`Kamen Rider: Dragon Knight`0.000000`4`4`Fighting`15`Strategy`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`
+50741`Are You Smarter Than a 5th Grader: Back to School`0.000000`1`26`Quiz/Trivia`
+50876`Nat Geo Quiz! Wild Life`0.000000`1`26`Quiz/Trivia`
+51028`Family Gameshow`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+51058`Vegas Party`0.000000`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
+51061`MegaMind: Mega Team Unite`0.000000`2`25`Hack and slash/Beat \u0027em up`26`Quiz/Trivia`
+51126`Chess Challenge!`0.000000`2`15`Strategy`26`Quiz/Trivia`
+51157`Scrabble Interactive: 2009 Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+51331`Who Wants to Be a Millionaire: Sports Edition`0.000000`1`26`Quiz/Trivia`
+51692`Quiz King of Fighters`0.000000`1`26`Quiz/Trivia`
+52154`Battle Trivia Knockout`0.000000`1`26`Quiz/Trivia`
+52194`Hollywood Squares`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+52523`Treasure Island`0.000000`2`26`Quiz/Trivia`31`Adventure`
+52599`Armello: Collector\u0027s Edition`0.000000`7`12`Role-playing (RPG)`15`Strategy`16`Turn-based strategy (TBS)`26`Quiz/Trivia`31`Adventure`32`Indie`35`Card \u0026 Board Game`
+52646`Press Your Luck`0.000000`1`26`Quiz/Trivia`
+54067`Gourmania 3: Zoo Zoom`0.000000`3`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`
+54544`Canada 150 Trivia Quiz`0.000000`1`26`Quiz/Trivia`
+54550`Itadaki Street: Dragon Quest \u0026 Final Fantasy 30th Anniversary`0.000000`1`26`Quiz/Trivia`
+54560`Readback`0.000000`1`26`Quiz/Trivia`
+54692`Triad`0.000000`2`15`Strategy`26`Quiz/Trivia`
+54739`Battle Squares`0.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+54900`Hello Mr. President`0.000000`2`4`Fighting`26`Quiz/Trivia`
+54936`3D Reversi`0.000000`1`26`Quiz/Trivia`
+54937`Othello`0.000000`1`26`Quiz/Trivia`
+54938`SuperLite 2000: Othello`0.000000`1`26`Quiz/Trivia`
+54939`Umesawa Yukari no Igo Seminar`0.000000`1`26`Quiz/Trivia`
+54943`Nakashima Tetsunari no Othello Seminar`0.000000`1`26`Quiz/Trivia`
+54944`Takahashi Akiko no Mahjong Seminar`0.000000`1`26`Quiz/Trivia`
+54948`Reversi also known as Othello`0.000000`1`26`Quiz/Trivia`
+54949`Othello World II: Yume to Michi e no Chousen`0.000000`2`26`Quiz/Trivia`31`Adventure`
+55087`Boggle With Friends`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+55117`Mah-Jong Fight Club Sp`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+55136`Guess the Flags: A Fun Quiz`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+55158`Disney Magical Dice`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+55266`Mahjong Challenge`0.000000`6`13`Simulator`14`Sport`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
+55944`Monopoly One`0.000000`1`26`Quiz/Trivia`
+56052`Rettou Juudan Nekkyoku Janshi: Higashi Nippon Hen`0.000000`1`26`Quiz/Trivia`
+56054`Mahjong Daiyogen`0.000000`1`26`Quiz/Trivia`
+56055`Idol-Mahjong Final Romance`0.000000`1`26`Quiz/Trivia`
+56058`Quiz \u0026 Variety SukuSuku Inufuku`0.000000`1`26`Quiz/Trivia`
+56188`Sketcharama`0.000000`1`26`Quiz/Trivia`
+56307`Quiz RPG: The World of Mystic Wiz`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+56439`Table Game Daishuugo!!`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+56468`Gimme Five`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+56569`Happy Chess`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+56656`Food Mahjong`0.000000`5`14`Sport`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
+56805`Lion and the King 2`0.000000`1`26`Quiz/Trivia`
+56928`Gamble Hourouki`0.000000`1`26`Quiz/Trivia`
+56980`Yu-Gi-Oh! Monster Capsule: Breed \u0026 Battle`0.000000`2`13`Simulator`26`Quiz/Trivia`
+57119`QuizWitz`0.000000`2`26`Quiz/Trivia`32`Indie`
+57248`Super Slam: POGS Battle`0.000000`1`26`Quiz/Trivia`
+57320`Steel Lords`0.000000`4`4`Fighting`15`Strategy`26`Quiz/Trivia`31`Adventure`
+57371`Checkmates`0.000000`1`26`Quiz/Trivia`
+57442`21 Emon: Mezase! Hotel Ou`0.000000`1`26`Quiz/Trivia`
+57740`Shogi Shoshinsha Muyou`0.000000`1`26`Quiz/Trivia`
+57827`Simple 1500 Series Vol. 3: The Gomoku Narabe`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+58072`Wyatt Earp\u0027s Old West`0.000000`2`26`Quiz/Trivia`33`Arcade`
+58129`Scrivalry`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+58251`Psi Chess`0.000000`2`15`Strategy`26`Quiz/Trivia`
+58316`Hissatsu Pachinko Station 3`0.000000`1`26`Quiz/Trivia`
+58317`Hissatsu Pachinko Station: Monster House Special`0.000000`1`26`Quiz/Trivia`
+58319`Hissatsu Pachi-Slot Station`0.000000`1`26`Quiz/Trivia`
+58320`Hissatsu Pachinko Station 2`0.000000`1`26`Quiz/Trivia`
+58321`Hissatsu Pachinko Station`0.000000`1`26`Quiz/Trivia`
+58322`Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V`0.000000`1`26`Quiz/Trivia`
+58323`Hissatsu Pachinko Evolution 2: Osomatsu-kun`0.000000`1`26`Quiz/Trivia`
+58550`Super Dungeon Explore`0.000000`1`26`Quiz/Trivia`
+58679`Super Real Mahjong PV Paradise: All-Star 4-nin Uchi`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+58790`The Shinri Game 2: Magical Trip`0.000000`1`26`Quiz/Trivia`
+58913`Stop`0.000000`1`26`Quiz/Trivia`
+58969`Trivial Pursuit \u0026 Friends`0.000000`1`26`Quiz/Trivia`
+59054`Anpanman Niko Niko Party`0.000000`1`26`Quiz/Trivia`
+59121`MB Bingo`0.000000`2`13`Simulator`26`Quiz/Trivia`
+59135`Weapon and Armor: Mahjong`0.000000`4`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
+59153`Gaia Master`0.000000`1`26`Quiz/Trivia`
+59220`Ancient Game Treasures: Mill`0.000000`1`26`Quiz/Trivia`
+59327`Sugoro Chronicle`0.000000`1`26`Quiz/Trivia`
+59334`EX Monopoly`0.000000`1`26`Quiz/Trivia`
+59400`Warauinu no Bouken GB: Silly Go Lucky!`0.000000`1`26`Quiz/Trivia`
+59429`Mahjong Gakuen Touma Soushirou Toujou`0.000000`1`26`Quiz/Trivia`
+59506`Clarence: Thirty Days \u0026 Seven Seas`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+59756`Double Yakuman`0.000000`1`26`Quiz/Trivia`
+59834`Super Zugan 2: Tsukanpo Fighter`0.000000`1`26`Quiz/Trivia`
+59886`Mychess II`0.000000`2`15`Strategy`26`Quiz/Trivia`
+59894`Touhou Unreal Mahjong`0.000000`1`26`Quiz/Trivia`
+59955`Super Mahjong 3: Karakuchi`0.000000`1`26`Quiz/Trivia`
 59965`Boggle`60.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+60050`The Urinal Game`0.000000`1`26`Quiz/Trivia`
+60225`Super Tact`0.000000`1`26`Quiz/Trivia`
+60303`Sky Sports Football Quiz: Season 02`0.000000`1`26`Quiz/Trivia`
 60449`Fantasy Slots: Adventure Slots and Games`80.000000`1`26`Quiz/Trivia`
+60477`Itadaki Street 3`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+60478`Itadaki Street: Gorgeous King`0.000000`1`26`Quiz/Trivia`
+60498`Super Zugan: Hakotenjou kara no Shoutai`0.000000`3`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+60538`Galaxy Trucker`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+60628`Which Comes First?`0.000000`1`26`Quiz/Trivia`
+60632`Tottemo! Lucky Man: Lucky Cookie Minna Daisuki!!`0.000000`1`26`Quiz/Trivia`
+60697`Indiemon Battlegrounds`0.000000`2`13`Simulator`26`Quiz/Trivia`
+60748`Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!!`0.000000`1`26`Quiz/Trivia`
+60809`Board Game Online`0.000000`2`26`Quiz/Trivia`31`Adventure`
+60835`Quiz Tonosama no Yabou`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+60899`God Hates Charades`0.000000`1`26`Quiz/Trivia`
+61152`Bonza`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+61209`100 World Story`0.000000`1`26`Quiz/Trivia`
+61266`Jesus Pang`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+61359`MicroGo`0.000000`2`15`Strategy`26`Quiz/Trivia`
+61676`Shinseiki Evangelion Mahjong Hokan Keikaku`0.000000`1`26`Quiz/Trivia`
+61677`Hello Kitty no Waku-waku Quiz`0.000000`1`26`Quiz/Trivia`
+61684`The Shinri Game: Akuma no Kokoroji`0.000000`1`26`Quiz/Trivia`
+61825`That Trivia Game`0.000000`1`26`Quiz/Trivia`
+61828`Battlegammon`0.000000`1`26`Quiz/Trivia`
+61896`Let\u0027s Quip`0.000000`2`13`Simulator`26`Quiz/Trivia`
+62048`Yahtzee Adventures`0.000000`1`26`Quiz/Trivia`
+62292`Shanghai Amigo`0.000000`1`26`Quiz/Trivia`
+62359`Pachi-Slot Tekken 2nd`0.000000`1`26`Quiz/Trivia`
+62360`Guilty Gear Vastedge XT`0.000000`1`26`Quiz/Trivia`
+62364`CR Tekken`0.000000`1`26`Quiz/Trivia`
 62379`Hikaru no Go 3`36.000000`1`26`Quiz/Trivia`
+62388`Net Versus Reversi`0.000000`2`13`Simulator`26`Quiz/Trivia`
+62392`Gin Rummy`0.000000`1`26`Quiz/Trivia`
+62397`Mind Grind`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+62557`Initial D: Takahashi Ryosuke no Typing Saisoku Riron`0.000000`2`10`Racing`26`Quiz/Trivia`
+62558`Initial D: Second Stage Typing Game`0.000000`2`10`Racing`26`Quiz/Trivia`
+62597`Kizuchida Quiz da Gen-San Da!`0.000000`1`26`Quiz/Trivia`
+62704`Quizania`0.000000`1`26`Quiz/Trivia`
+62952`Tetsudoh-Oh 2: Sekai Seifuku no Yabou`0.000000`1`26`Quiz/Trivia`
+62953`Tetsudou-Oh \u002796: Ikuze Okuban Chouja`0.000000`1`26`Quiz/Trivia`
+63074`Turbo Chess`0.000000`2`15`Strategy`26`Quiz/Trivia`
+63167`Desperate Gods`0.000000`1`26`Quiz/Trivia`
+63178`Just a Button`0.000000`1`26`Quiz/Trivia`
+63350`GeoGuessr`0.000000`2`15`Strategy`26`Quiz/Trivia`
+63362`Douche Defender`0.000000`1`26`Quiz/Trivia`
+63389`Igo-Shinan \u002793`0.000000`2`15`Strategy`26`Quiz/Trivia`
+63391`Igo-Shinan \u002794`0.000000`2`15`Strategy`26`Quiz/Trivia`
+63392`Igo-Shinan \u002792`0.000000`2`15`Strategy`26`Quiz/Trivia`
 63590`Pachi-Slot Winning Post`90.000000`1`26`Quiz/Trivia`
+63614`Tanigawa Kouji no Shogi Shinan`0.000000`2`15`Strategy`26`Quiz/Trivia`
+63775`Playing With Language: Games in English`0.000000`1`26`Quiz/Trivia`
+63890`Igo Shinan`0.000000`1`26`Quiz/Trivia`
+63900`We Sing Superstar Quiz`0.000000`1`26`Quiz/Trivia`
+64009`Quiz Meitantei Neo \u0026 Geo`0.000000`1`26`Quiz/Trivia`
+64010`Quiz Daisousa Sen`0.000000`1`26`Quiz/Trivia`
+64014`Professor Pac-Man`0.000000`4`8`Platform`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+64020`GoMoku Narabe`0.000000`1`26`Quiz/Trivia`
+64042`Gambling Lord`0.000000`1`26`Quiz/Trivia`
+64107`GeGeGe no Kitaro: Yokai Donjara`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64151`AlphaJax`0.000000`1`26`Quiz/Trivia`
+64217`Videogames! The Videogame Trivia Videogame`0.000000`1`26`Quiz/Trivia`
+64287`Bikkuriman Daijikai`0.000000`1`26`Quiz/Trivia`
+64315`Sega Ages: Puzzle \u0026 Action - Shukudai ga Tant-R`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+64323`You Are the Ref`0.000000`2`14`Sport`26`Quiz/Trivia`
+64324`You Are the Umpire`0.000000`2`14`Sport`26`Quiz/Trivia`
+64340`Gambler Jiko Chuushinha`0.000000`1`26`Quiz/Trivia`
+64358`Pachislot Sengoku Musou`0.000000`1`26`Quiz/Trivia`
+64398`Fortune Street Smart`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64408`Momotaro Dentetsu Japan+`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64410`Momotaro Dentetsu 7`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64414`Momotaro Dentetsu Jr.: Zenkoku Ramen Meguri no Maki`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64421`Momotaro Douchuuki`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64475`Monopoly Millionaire`0.000000`1`26`Quiz/Trivia`
+64476`Super Jeopardy!`0.000000`1`26`Quiz/Trivia`
+64692`1500DS Spirits Vol. 10: Igo`0.000000`1`26`Quiz/Trivia`
+64704`Chill Manor`0.000000`2`5`Shooter`26`Quiz/Trivia`
+64738`Tower Dream`0.000000`2`15`Strategy`26`Quiz/Trivia`
+64812`Princess Maker: Go! Go! Princess`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+64822`Pussy Flip: Purrfect Reversi`0.000000`1`26`Quiz/Trivia`
+64845`Crazy Quiz`0.000000`2`13`Simulator`26`Quiz/Trivia`
+64927`Quiz Sekai wa Show by Shoubai!!`0.000000`1`26`Quiz/Trivia`
+64938`NextRev: Shakai Fukushishi Shiken`0.000000`1`26`Quiz/Trivia`
+64939`NextRev: Takken Shiken`0.000000`1`26`Quiz/Trivia`
+64940`NextRev: FP Ginoukentei Shiken 3-Kyuu`0.000000`1`26`Quiz/Trivia`
+64941`NextRev: FP Ginoukentei Shiken 2-Kyuu`0.000000`1`26`Quiz/Trivia`
+64942`NextRev: Kihonjouhou Gijutsusha Shiken`0.000000`1`26`Quiz/Trivia`
+64943`NextRev: Ouyou Jouhougijutsusha Shiken`0.000000`1`26`Quiz/Trivia`
+64945`NextRev: IT Passport Shiken`0.000000`1`26`Quiz/Trivia`
+65063`Epic Tic Tac Toe`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+65075`Academy: Tic-Tac-Toe`0.000000`2`15`Strategy`26`Quiz/Trivia`
+65126`The Book of Biblets: Part 1 - In the Beginning`0.000000`1`26`Quiz/Trivia`
+65133`Bible Trivia: Avatar Edition`0.000000`1`26`Quiz/Trivia`
+65137`The Bunny Game`0.000000`2`26`Quiz/Trivia`31`Adventure`
+65139`Quiz Nihon Mukashi Banashi: Athena no Hatena`0.000000`2`26`Quiz/Trivia`31`Adventure`
+65163`Neopets: Quizara\u0027s Curse`0.000000`1`26`Quiz/Trivia`
+65171`Capcom Quiz: Hatena? no Daibouken`0.000000`1`26`Quiz/Trivia`
+65198`NextRev: Gyouseishoshi Shiken`0.000000`1`26`Quiz/Trivia`
+65206`Adventure Quiz 2: Hatena? No Dai-Bouken`0.000000`1`26`Quiz/Trivia`
+65234`Dakko-chan House`0.000000`1`26`Quiz/Trivia`
+65242`The Ultimate Battle of the Sexes: Quiz \u0026 Play!`0.000000`1`26`Quiz/Trivia`
+65291`TOEIC Test: Jissen Tokkun`0.000000`1`26`Quiz/Trivia`
+65315`Hany Party Game`0.000000`1`26`Quiz/Trivia`
+65511`Scene It? Movie Night: Mega Movies`0.000000`1`26`Quiz/Trivia`
+65557`Ultra Hot!! Pachi Game Spirit CR Evangelion ~The First Gospel~`0.000000`1`26`Quiz/Trivia`
+65559`Janline R`0.000000`1`26`Quiz/Trivia`
+65561`Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1`0.000000`2`13`Simulator`26`Quiz/Trivia`
+65565`Tencho no Igo`0.000000`1`26`Quiz/Trivia`
+65583`Disney\u0027s Beauty and the Beast: A Board Game Adventure`0.000000`2`26`Quiz/Trivia`33`Arcade`
+65596`Who Wants to Be a Millionaire: 2012 Edition`0.000000`1`26`Quiz/Trivia`
+65644`Burger Burger Pocket: Hamburger Simulation`0.000000`1`26`Quiz/Trivia`
+65752`South Park Mega Millionaire`0.000000`1`26`Quiz/Trivia`
+66070`Adventures in Odyssey! Answer That!`0.000000`1`26`Quiz/Trivia`
+66094`MTV\u0027s Beavis and Butt-Head: Wiener Takes All`0.000000`1`26`Quiz/Trivia`
+66154`Scene It? Comedy Movies`0.000000`1`26`Quiz/Trivia`
+66155`Scene It? Harry Potter`0.000000`1`26`Quiz/Trivia`
+66225`The Path of Go`0.000000`1`26`Quiz/Trivia`
+66263`Love Love Paradise`0.000000`1`26`Quiz/Trivia`
+66447`Adventure Quiz: Capcom World 2`0.000000`1`26`Quiz/Trivia`
+66619`Finger Connection`0.000000`1`26`Quiz/Trivia`
+66752`The Magic School Bus Explores the Rainforest`0.000000`1`26`Quiz/Trivia`
+66761`Depict`0.000000`1`26`Quiz/Trivia`
+66868`Pachinko Ren-chan Tengoku: Super CR Special`0.000000`1`26`Quiz/Trivia`
+66870`Pachi-Slot Shoubushi`0.000000`1`26`Quiz/Trivia`
+66903`Sonny with a Chance`0.000000`1`26`Quiz/Trivia`
+66918`Rockman no Huángjīn Dìguó`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+66919`Saki Portable`0.000000`3`26`Quiz/Trivia`31`Adventure`34`Visual Novel`
+66940`Mighty Mulan`0.000000`1`26`Quiz/Trivia`
+66992`Carcassonne DS`0.000000`4`15`Strategy`24`Tactical`26`Quiz/Trivia`35`Card \u0026 Board Game`
+67011`Sudoku 4Pockets`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+67012`Extreme Hangman`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+67026`Satella-Q`0.000000`1`26`Quiz/Trivia`
+67060`Imasugu Tsukaeru Mamechishiki: Quiz Zatsugaku-Ou`0.000000`1`26`Quiz/Trivia`
+67175`Mahjong Wisdom`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+67280`NHK Kouhaku Quiz Kassen`0.000000`1`26`Quiz/Trivia`
+67343`100 All-Time Favorites`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+67393`High Rollers`0.000000`1`26`Quiz/Trivia`
+67394`Pairs and Rotors`0.000000`1`26`Quiz/Trivia`
+67412`AX-3: Microthello`0.000000`1`26`Quiz/Trivia`
+67430`Nana: Subete wa Daimaou no Omichibiki!?`0.000000`2`13`Simulator`26`Quiz/Trivia`
+67561`Family Fortunes`0.000000`1`26`Quiz/Trivia`
+67564`Mahjong Fight Club DS: Wi-Fi Taiou`0.000000`1`26`Quiz/Trivia`
+67565`Mahjong Fight Club 7.77`0.000000`1`26`Quiz/Trivia`
+67566`Mahjong Fight Club 6`0.000000`1`26`Quiz/Trivia`
+67567`Mahjong Fight Club 7`0.000000`1`26`Quiz/Trivia`
+67568`Mahjong Fight Club 5`0.000000`1`26`Quiz/Trivia`
+67569`Mahjong Fight Club 4`0.000000`1`26`Quiz/Trivia`
+67570`Mahjong Fight Club 3`0.000000`1`26`Quiz/Trivia`
+67571`Mahjong Fight Club 2`0.000000`1`26`Quiz/Trivia`
+67592`Monster Maker Kids: Ou-sama ni Naritai`0.000000`1`26`Quiz/Trivia`
+67593`The Monopoly Game 2`0.000000`1`26`Quiz/Trivia`
+67709`Kabuki Machi Reach Mahjong`0.000000`1`26`Quiz/Trivia`
+67758`Yahtzee: Roll the Bones`0.000000`1`26`Quiz/Trivia`
+67763`Football Genius: The Ultimate Quiz`0.000000`2`14`Sport`26`Quiz/Trivia`
+67782`South Park 101 - Quizner\u0027s Trivia`0.000000`1`26`Quiz/Trivia`
+67963`Silver Star Reversi`0.000000`1`26`Quiz/Trivia`
+67980`King of Football`0.000000`1`26`Quiz/Trivia`
+67983`Chinese Checkers Deluxe`0.000000`1`26`Quiz/Trivia`
+67990`A Morons Challenge`0.000000`1`26`Quiz/Trivia`
+68045`Cosmic Consensus`0.000000`1`26`Quiz/Trivia`
+68245`What The?! Party Trivia Game`0.000000`1`26`Quiz/Trivia`
+68397`Family Feud`0.000000`1`26`Quiz/Trivia`
+68426`Solicheck`0.000000`1`26`Quiz/Trivia`
+68559`No Frills Cross Sums`0.000000`1`26`Quiz/Trivia`
+68624`Go 3D`0.000000`2`15`Strategy`26`Quiz/Trivia`
+68742`Phraze Daze: Famous Quotes Word Game`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+68752`Animalia: The Quiz Game`0.000000`1`26`Quiz/Trivia`
+68786`Next King: Koi no Sen-nen Oukoku`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+68885`Redhook\u0027s Revenge`0.000000`2`15`Strategy`26`Quiz/Trivia`
+68940`Brain Quest Grades 5 \u0026 6`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+68941`Brain Quest Grades 3 \u0026 4`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+68959`Kardinal \u0026 König`0.000000`2`15`Strategy`26`Quiz/Trivia`
+69010`ESPN\u0027s 2-Minute Drill`0.000000`2`14`Sport`26`Quiz/Trivia`
 69177`Wheel of Fortune`63.000000`1`26`Quiz/Trivia`
+69228`Star Trek: The Game Show`0.000000`1`26`Quiz/Trivia`
+69474`Schlag den Raab`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+69669`Dr. Ruth\u0027s Computer Game of Good Sex`0.000000`1`26`Quiz/Trivia`
+69766`The Aeronautics Quiz MK 2`0.000000`1`26`Quiz/Trivia`
+69824`Trivial Pursuit 2: A New Beginning`0.000000`2`15`Strategy`26`Quiz/Trivia`
+70011`Head Rush`0.000000`1`26`Quiz/Trivia`
+70026`Sky Sports Football Quiz`0.000000`1`26`Quiz/Trivia`
+70140`Powerplay: The Game of the Gods`0.000000`2`15`Strategy`26`Quiz/Trivia`
+70171`Sargon III`0.000000`3`14`Sport`15`Strategy`26`Quiz/Trivia`
+70428`Re-wind 2005`0.000000`1`26`Quiz/Trivia`
+70433`Simple 2000 Series Vol. 18: The Party Sugoroku`0.000000`1`26`Quiz/Trivia`
+70436`Combination Lock`0.000000`1`26`Quiz/Trivia`
+70545`VeggieTales: Veg-Out! Family Tournament`0.000000`3`9`Puzzle`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+70546`Re-wind 2006`0.000000`1`26`Quiz/Trivia`
+70636`Deal or No Deal: The Banker is Back`0.000000`1`26`Quiz/Trivia`
+70655`Quiz Nanairo Dreams`0.000000`1`26`Quiz/Trivia`
+70687`Zombies!!!`0.000000`2`15`Strategy`26`Quiz/Trivia`
+70716`The $100,000 Pyramid`0.000000`1`26`Quiz/Trivia`
 70833`Knowledge is Power`76.643822`1`26`Quiz/Trivia`
+71016`Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi`0.000000`1`26`Quiz/Trivia`
+71032`Anpanman to Touch de Waku-waku Training`0.000000`3`7`Music`9`Puzzle`26`Quiz/Trivia`
+71088`Football Strip`0.000000`2`14`Sport`26`Quiz/Trivia`
+71296`Monopoly 3`0.000000`2`15`Strategy`26`Quiz/Trivia`
+71325`Don\u0027t Get Angry! 2`0.000000`2`15`Strategy`26`Quiz/Trivia`
+71344`Classic Compendium`0.000000`3`13`Simulator`15`Strategy`26`Quiz/Trivia`
+71376`Scrabble`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+71485`Brainstorm: The Game Show`0.000000`1`26`Quiz/Trivia`
+71570`Minna de Asobo: Shanghai DS 2`0.000000`1`26`Quiz/Trivia`
+71706`Mike Read\u0027s Computer Pop Quiz`0.000000`1`26`Quiz/Trivia`
+71866`Världsmästarna`0.000000`1`26`Quiz/Trivia`
+71868`LoveChess: The Greek Era`0.000000`2`15`Strategy`26`Quiz/Trivia`
+72012`Beer Trivia`0.000000`1`26`Quiz/Trivia`
+72163`Computer Diplomacy`0.000000`2`15`Strategy`26`Quiz/Trivia`
+72479`Kimo Kawa E!`0.000000`2`26`Quiz/Trivia`31`Adventure`
+72618`Lucky Star: Moe Drill`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+72619`Shin Lucky Star Moe Drill: Tabidachi`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+72769`Loving Deads: The House of the Dead EX`0.000000`4`5`Shooter`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+72799`Mizuiro Blood`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+72892`Bakushou Jinsei 64`0.000000`1`26`Quiz/Trivia`
 72912`My Spanish Coach`62.000000`1`26`Quiz/Trivia`
+72949`Starship Catan`0.000000`3`16`Turn-based strategy (TBS)`26`Quiz/Trivia`31`Adventure`
+72970`Professor Brainmaniac`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+72996`Superman: The Greatest Hero`0.000000`1`26`Quiz/Trivia`
+73028`MotionX Poker`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+73061`Virtual Chess 2`0.000000`2`15`Strategy`26`Quiz/Trivia`
+73124`Wallace \u0026 Gromit Fun Pack`0.000000`1`26`Quiz/Trivia`
+73213`You Don\u0027t Know Jack: Louder! Faster! Funnier!`0.000000`1`26`Quiz/Trivia`
+73222`Conquest of Chesterwoode`0.000000`2`15`Strategy`26`Quiz/Trivia`
+73301`Mychess`0.000000`2`15`Strategy`26`Quiz/Trivia`
+73383`You Don\u0027t Know Jack: 5th Dementia`0.000000`1`26`Quiz/Trivia`
+73689`Vintage Gaming Trivia Challenge`0.000000`1`26`Quiz/Trivia`
+73728`Handy Caps`0.000000`1`26`Quiz/Trivia`
+73787`Radio Active`0.000000`1`26`Quiz/Trivia`
+73840`Connect Four Cities`0.000000`2`15`Strategy`26`Quiz/Trivia`
+73878`Globetrotter 2`0.000000`2`26`Quiz/Trivia`31`Adventure`
+73995`Scrabble 2003 Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+74038`Dragon Ball Z: Super Goku-den - Kakusei-hen`0.000000`1`26`Quiz/Trivia`
 74406`1 vs. 100`57.000000`1`26`Quiz/Trivia`
+74418`Absolute Chess`0.000000`1`26`Quiz/Trivia`
+74498`Askutron Quiz Show`0.000000`2`26`Quiz/Trivia`32`Indie`
+74767`Touhai Densetsu Akagi: Yami ni Maiorita Tensai`0.000000`1`26`Quiz/Trivia`
+75510`Quiz Daisousa Sen: The Last Count Down`0.000000`1`26`Quiz/Trivia`
+75511`Quiz Meitantei Neo \u0026 Geo: Quiz Daisousasen Part 2`0.000000`1`26`Quiz/Trivia`
+76465`Now You See It`0.000000`1`26`Quiz/Trivia`
+76472`Trivial Pursuit: Millennium Edition`0.000000`1`26`Quiz/Trivia`
+76610`Idol Janshi Suchie-Pai III`0.000000`1`26`Quiz/Trivia`
+76755`Cranium Kabookii`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+76859`Doraemon no Quiz Boy`0.000000`1`26`Quiz/Trivia`
+76981`South Park 201 - Quizner\u0027s Trivia`0.000000`1`26`Quiz/Trivia`
+76982`Game Party 3`0.000000`2`14`Sport`26`Quiz/Trivia`
+77011`Bible Trivia`0.000000`1`26`Quiz/Trivia`
+77012`Adventure Quiz: Capcom World - Hatena no Daibouken`0.000000`1`26`Quiz/Trivia`
+77013`Simple 2000 Series Vol. 12: The Quiz 20000 Mon`0.000000`1`26`Quiz/Trivia`
+77014`Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki`0.000000`2`13`Simulator`26`Quiz/Trivia`
+77018`1500DS Spirits Vol. 9: 2 Nin-uchi Mahjong`0.000000`1`26`Quiz/Trivia`
+77020`1500DS Spirits Vol. 2: Shogi`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+77021`1500 DS Spirits Vol. 1: Mahjong`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+77045`Nickelodeon Bingo`0.000000`1`26`Quiz/Trivia`
+77065`Party Fun Pirate`0.000000`1`26`Quiz/Trivia`
+77126`Ghost Mansion Party`0.000000`1`26`Quiz/Trivia`
+77127`PictureBook Games: The Royal Bluff`0.000000`1`26`Quiz/Trivia`
+77128`Ultra Yon-nin Mahjong`0.000000`1`26`Quiz/Trivia`
+77146`Axis \u0026 Allies`0.000000`2`15`Strategy`26`Quiz/Trivia`
+77159`Jankyou`0.000000`1`26`Quiz/Trivia`
+77217`Where in the World is Carmen Sandiego?: Deluxe Edition`0.000000`2`26`Quiz/Trivia`31`Adventure`
+77281`Buzz! De slimste van Nederland`0.000000`1`26`Quiz/Trivia`
+77326`You Don\u0027t Know Jack: Mock 2`0.000000`1`26`Quiz/Trivia`
+77638`Connect Four / Perfection / Trouble`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+77791`You Don\u0027t Know Jack: Offline`0.000000`1`26`Quiz/Trivia`
+77877`Hoyle Solitaire \u0026 Mahjong Tiles`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+78045`Schlag den Star: Das Spiel`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+78078`Net Versus Shogi`0.000000`2`13`Simulator`26`Quiz/Trivia`
+78089`Jansou Ou`0.000000`1`26`Quiz/Trivia`
+78120`Test Yourself: Psychology`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+78138`Kiki Trick`0.000000`3`7`Music`9`Puzzle`26`Quiz/Trivia`
 78334`Hasbro Family Fun Pack`70.000000`1`26`Quiz/Trivia`
+78426`Mahjong Elements`0.000000`1`26`Quiz/Trivia`
+78530`Backgammon`0.000000`1`26`Quiz/Trivia`
+78592`Jeopardy!`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+78654`Big Bang Board Games`0.000000`1`26`Quiz/Trivia`
+78701`Daily Quizz`0.000000`1`26`Quiz/Trivia`
+78729`CR Shinseiki Evangelion: Shito, Futatabi`0.000000`1`26`Quiz/Trivia`
 78873`Jeopardy!: America\u0027s Favorite Quiz Show`70.000000`1`26`Quiz/Trivia`
+78874`Rock and Roll Jeopardy!`0.000000`1`26`Quiz/Trivia`
+78983`Hugo in Space`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+79012`PictureBook Games: Pop-Up Pursuit`0.000000`1`26`Quiz/Trivia`
+79015`Simple 2000 Series Vol. 46: The Kanji Quiz - Challenge Kanji Kentei`0.000000`1`26`Quiz/Trivia`
+79123`Ata Hoshev SheAta Haham`0.000000`1`26`Quiz/Trivia`
 79172`Spin the Bottle: Bumpie\u0027s Party`64.000000`1`26`Quiz/Trivia`
+79201`Nomark Baku Paitou: Shijou Saikyou no Jakushi Tatsu`0.000000`1`26`Quiz/Trivia`
+79378`Quiz Show`0.000000`1`26`Quiz/Trivia`
+79384`Gaia Master Duel Card Attacks`0.000000`1`26`Quiz/Trivia`
+79428`Are You Smarter Than a 5th Grader? \u0026 Friends`0.000000`1`26`Quiz/Trivia`
+79447`Chrono Trigger: Character Library`0.000000`1`26`Quiz/Trivia`
+79454`Check Mate`0.000000`1`26`Quiz/Trivia`
+79478`AI Shogi`0.000000`1`26`Quiz/Trivia`
+79491`Press Your Luck`0.000000`2`13`Simulator`26`Quiz/Trivia`
+79529`CompuChess 2004`0.000000`1`26`Quiz/Trivia`
+79544`Jeopardy! New Sports Edition`0.000000`2`15`Strategy`26`Quiz/Trivia`
+79632`2 in 1 Trivia All-Stars`0.000000`1`26`Quiz/Trivia`
+79689`Mahjong Fight Club`0.000000`1`26`Quiz/Trivia`
+79732`Othello`0.000000`1`26`Quiz/Trivia`
+79822`Hippo`0.000000`1`26`Quiz/Trivia`
+79823`Heads Up!`0.000000`1`26`Quiz/Trivia`
+79874`5 in 1 Mahjong`0.000000`2`15`Strategy`26`Quiz/Trivia`
+79907`Chess \u0026 Backgammon Classics`0.000000`1`26`Quiz/Trivia`
+79921`Chess With Friends`0.000000`2`15`Strategy`26`Quiz/Trivia`
+79945`Connect 4`0.000000`1`26`Quiz/Trivia`
 79959`1500DS Spirits Vol. 7: Chess`50.000000`2`15`Strategy`26`Quiz/Trivia`
+79964`Microsoft Entertainment Pack 4`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+80162`Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou`0.000000`3`8`Platform`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+80176`Urban Soldier`0.000000`1`26`Quiz/Trivia`
+80200`Excite Mahjong`0.000000`1`26`Quiz/Trivia`
+80222`Lodoss Tou Senki: Eiyuu Kishiden`0.000000`1`26`Quiz/Trivia`
+80333`Act It Out! A Game of Charades`0.000000`1`26`Quiz/Trivia`
+80442`Atari Anniversary Advance`0.000000`1`26`Quiz/Trivia`
 80453`Mahjong Solitaire`60.000000`2`26`Quiz/Trivia`32`Indie`
+80801`Yu-Gi-Oh! Double Pack 2`0.000000`2`15`Strategy`26`Quiz/Trivia`
+80855`Quote Codes`0.000000`3`9`Puzzle`26`Quiz/Trivia`32`Indie`
+80863`Who Wants to Be a Millionaire: Kids Edition`0.000000`1`26`Quiz/Trivia`
+80892`3-D Tic-Tac-Toe`0.000000`2`15`Strategy`26`Quiz/Trivia`
+81411`Dokapon! Ikari no Tetsuken`0.000000`1`26`Quiz/Trivia`
+81447`Schlag den Raab: Das 2. Spiel`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+81512`Who Wants to Be a Millionaire`0.000000`1`26`Quiz/Trivia`
+81544`Trivial Pursuit`0.000000`1`26`Quiz/Trivia`
+82039`Reksio i Skarb Piratów`0.000000`5`2`Point-and-click`5`Shooter`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+82265`Mahjong Touryuumon`0.000000`1`26`Quiz/Trivia`
+82266`Simple 1500 Series Vol. 5: The Igo`0.000000`1`26`Quiz/Trivia`
+82267`Simple 1500 Series Vol. 8: The Solitaire`0.000000`1`26`Quiz/Trivia`
+82269`Nihon Pro Mahjong Renmei: Kounin Dojo Yaburi`0.000000`1`26`Quiz/Trivia`
+82270`Game no Tatsujin 2`0.000000`1`26`Quiz/Trivia`
+82271`Honkaku Pro Mahjong: Tetsuman Special`0.000000`1`26`Quiz/Trivia`
+82272`Kurubushi Kyoudai Gekijou: 1st Maki Mahjong-hen`0.000000`1`26`Quiz/Trivia`
+82273`Mahjong Station Mazin`0.000000`1`26`Quiz/Trivia`
+82274`Professional Mahjong`0.000000`1`26`Quiz/Trivia`
 82281`Monopoly / Boggle / Yahtzee / Battleship`68.000000`1`26`Quiz/Trivia`
+82288`MonoChronicle`0.000000`1`26`Quiz/Trivia`
+82292`Grand Order Mahjong`0.000000`1`26`Quiz/Trivia`
+82303`Sorry! / Aggravation / Scrabble Junior`0.000000`1`26`Quiz/Trivia`
+82736`Bang Bang Homeroom`0.000000`1`26`Quiz/Trivia`
+82912`Knockout Checkers Chamber`0.000000`1`26`Quiz/Trivia`
+83056`100 People Said`0.000000`1`26`Quiz/Trivia`
+83057`Name That Song`0.000000`1`26`Quiz/Trivia`
+83138`2007: A Spectrum Odyssey`0.000000`1`26`Quiz/Trivia`
+83156`Mahjong Match`0.000000`5`14`Sport`15`Strategy`26`Quiz/Trivia`31`Adventure`32`Indie`
+83199`Milky Princess`0.000000`2`26`Quiz/Trivia`33`Arcade`
+83263`Sargon I`0.000000`2`15`Strategy`26`Quiz/Trivia`
+83421`Osomatsu-san: Matsumatsuri!`0.000000`1`26`Quiz/Trivia`
+83428`Ginsei Shogi Portable: Silver Star Japan Ginsei Shogi Series`0.000000`1`26`Quiz/Trivia`
+83434`Sekai Saikyo Ginsei Shogi Roku: Soto no Ryu`0.000000`1`26`Quiz/Trivia`
+83435`Saikyo Ginsei Shogi Go`0.000000`1`26`Quiz/Trivia`
+83436`Saikyo Ginsei Shogi Go: New Standard`0.000000`1`26`Quiz/Trivia`
+83443`Asonde Shogi ga Tsuyoku-naru!! Ginsei Shogi DS`0.000000`1`26`Quiz/Trivia`
+83444`Saikyou Ginsei Shogi 3`0.000000`1`26`Quiz/Trivia`
+83446`Saikyou Ginsei Shogi 4`0.000000`1`26`Quiz/Trivia`
+83447`Saikyou Ginsei Shogi 2`0.000000`1`26`Quiz/Trivia`
+83448`Ginsei Table Games Wii`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+83453`Saikyo Ginsei Chess`0.000000`1`26`Quiz/Trivia`
+83455`Phase 10 Dice`0.000000`1`26`Quiz/Trivia`
+83461`Saikyou Ginsei Shogi`0.000000`1`26`Quiz/Trivia`
+83462`Sekai Saikyou Gensei Shogi Nana`0.000000`1`26`Quiz/Trivia`
+83469`Sekai Saikyou Ginsei Igo 6`0.000000`1`26`Quiz/Trivia`
+83470`Sekai Saikyou Ginsei Igo 5`0.000000`1`26`Quiz/Trivia`
+83472`Family Igo: Super Strong`0.000000`1`26`Quiz/Trivia`
+83473`Saikyou Ginsei Mahjong`0.000000`1`26`Quiz/Trivia`
+83474`Saikyou Ginsei Gomoku Narabe`0.000000`1`26`Quiz/Trivia`
+83580`Brain Wars`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+83683`Kids Learn Math`0.000000`1`26`Quiz/Trivia`
 83774`The Jackbox Party Quadpack`80.000000`2`9`Puzzle`26`Quiz/Trivia`
+84373`Movie Challenge`0.000000`1`26`Quiz/Trivia`
+84824`PictoImage`0.000000`1`26`Quiz/Trivia`
+84835`Quiz Party`0.000000`1`26`Quiz/Trivia`
+84964`Word Search 10K`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 85254`Lola\u0027s Math Train`60.000000`2`9`Puzzle`26`Quiz/Trivia`
+85832`Vegas Party`0.000000`5`9`Puzzle`13`Simulator`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+85933`Doraemon no Quiz Boy 2`0.000000`1`26`Quiz/Trivia`
+86059`3 In Three`0.000000`1`26`Quiz/Trivia`
+86078`Schlag den Raab: Das 3. Spiel`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+88280`Reader Rabbit 1st Grade`0.000000`2`26`Quiz/Trivia`31`Adventure`
+88992`Crossword Puzzle - Redstone`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+89199`Penny Dell Jumbo Crosswords`0.000000`1`26`Quiz/Trivia`
+89514`Cross Word`0.000000`1`26`Quiz/Trivia`
+89582`Capitals Quizzer`0.000000`1`26`Quiz/Trivia`
+89588`Presidents Quizzer`0.000000`1`26`Quiz/Trivia`
+90835`Face au train`0.000000`2`13`Simulator`26`Quiz/Trivia`
+92052`Pictionary`0.000000`1`26`Quiz/Trivia`
+92206`Family Feud`0.000000`2`15`Strategy`26`Quiz/Trivia`
+92655`4 Degrees: Vol 2`0.000000`1`26`Quiz/Trivia`
+92657`4 Degrees: Vol 1`0.000000`1`26`Quiz/Trivia`
+92658`Re-wind`0.000000`1`26`Quiz/Trivia`
+92680`Tv Star`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+93008`Show do Milhão`0.000000`1`26`Quiz/Trivia`
+93319`Speedway! / Spin-Out! / Crypto-Logic!`0.000000`2`26`Quiz/Trivia`33`Arcade`
+94127`Who Wants to Be a Millionaire: Special Editions`0.000000`1`26`Quiz/Trivia`
+94614`Wizard of Id\u0027s WizType`0.000000`1`26`Quiz/Trivia`
+94638`Crosswords \u0026 More for Windows`0.000000`1`26`Quiz/Trivia`
+94823`MindMaze`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+95480`Star Wars: DroidWorks`0.000000`1`26`Quiz/Trivia`
 96213`The Jackbox Party Pack 5`79.797872`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
+98059`Azu Quiz Daioh`0.000000`2`26`Quiz/Trivia`34`Visual Novel`
+98839`Party Trivia`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+99324`Penny Dell Jumbo Crosswords 3`0.000000`1`26`Quiz/Trivia`
+100072`You Don\u0027t Know Jack`0.000000`1`26`Quiz/Trivia`
+100119`Monster Trivia`0.000000`1`26`Quiz/Trivia`
 100611`Steph IQ`40.784316`1`26`Quiz/Trivia`
 100885`Cryptic Crosswords`50.000000`1`26`Quiz/Trivia`
 100911`Dummy Test`50.000000`1`26`Quiz/Trivia`
+102065`PolitiTruth`0.000000`1`26`Quiz/Trivia`
+102760`Algebra Fish`0.000000`1`26`Quiz/Trivia`
+102855`Chef Wars Journeys`0.000000`1`26`Quiz/Trivia`
+103388`Wordhunters`0.000000`1`26`Quiz/Trivia`
 103402`Knowledge is Power: Decades`79.795804`1`26`Quiz/Trivia`
+104725`Find the difference - Very difficult Images`0.000000`1`26`Quiz/Trivia`
 104929`Guess who ?`50.000000`2`26`Quiz/Trivia`32`Indie`
+105633`Perfect Memento of Touhou Question`0.000000`2`26`Quiz/Trivia`32`Indie`
+106204`Hangman`0.000000`1`26`Quiz/Trivia`
+106269`Crush the Numbers`0.000000`1`26`Quiz/Trivia`
+106283`Cookie\u0027s Quiz Carnival`0.000000`1`26`Quiz/Trivia`
+106284`Quiz Carnival 2 -Meguriai Version-`0.000000`1`26`Quiz/Trivia`
+106955`Word Land - Crosswords`0.000000`1`26`Quiz/Trivia`
+108180`Tokimeki no Houkago`0.000000`1`26`Quiz/Trivia`
+108630`Crossword Safari: Word Hunt`0.000000`1`26`Quiz/Trivia`
+108748`Tokimeki Memorial Private Collection`0.000000`1`26`Quiz/Trivia`
+109172`Dinosaur Discovery`0.000000`3`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+109351`Touhou Asked`0.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+110394`Hasbro Game Night for Nintendo Switch`0.000000`1`26`Quiz/Trivia`
+110499`Wer Weiß Denn Sowas?`0.000000`3`13`Simulator`26`Quiz/Trivia`32`Indie`
+110820`Trivia`0.000000`1`26`Quiz/Trivia`
+111056`Palm Reading Premium`0.000000`1`26`Quiz/Trivia`
+112143`Quiz Magic Academy`0.000000`2`26`Quiz/Trivia`33`Arcade`
+112182`America\u0027s Greatest Game Shows: Wheel of Fortune \u0026 Jeopardy!`0.000000`1`26`Quiz/Trivia`
+112889`Quiz Show`0.000000`1`26`Quiz/Trivia`
+113469`Schoolhouse Rock!: America Rock`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+115068`Guess Game`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+115655`Partivity!`0.000000`3`15`Strategy`24`Tactical`26`Quiz/Trivia`
+116250`Schlag den Raab: Das Spiel`0.000000`3`13`Simulator`14`Sport`26`Quiz/Trivia`
+116896`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+116957`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+117024`Animation Hangman`0.000000`1`26`Quiz/Trivia`
+118165`The Sun Crosswords: Volume 1 \u0026 2`0.000000`1`26`Quiz/Trivia`
+118315`Le Schmilblick`0.000000`1`26`Quiz/Trivia`
+119135`Keotoshi! Treasure Hunter!`0.000000`2`8`Platform`26`Quiz/Trivia`
+119255`Wheel of Fortune`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+119412`The Longest Game Ever 2`0.000000`4`9`Puzzle`12`Role-playing (RPG)`26`Quiz/Trivia`32`Indie`
 119580`The Expression Amrilato`70.000000`5`13`Simulator`26`Quiz/Trivia`31`Adventure`32`Indie`34`Visual Novel`
 120083`Forgetful Dictator`70.000000`3`15`Strategy`26`Quiz/Trivia`32`Indie`
+122102`FBI: Paranormal Case`0.000000`3`2`Point-and-click`26`Quiz/Trivia`31`Adventure`
+122110`NHK Academy: Space School - Math 4th Grade Part 1`0.000000`1`26`Quiz/Trivia`
+122111`NHK Academy: Space School - Math 4th Grade Part 2`0.000000`1`26`Quiz/Trivia`
+122112`NHK Academy: Space School - Math 5th Grade Part 1`0.000000`1`26`Quiz/Trivia`
+122113`NHK Academy: Space School - Math 5th Grade Part 2`0.000000`1`26`Quiz/Trivia`
+122114`NHK Academy: Space School - Math 6th Grade Part 1`0.000000`1`26`Quiz/Trivia`
+122115`NHK Academy: Space School - Math 6th Grade Part 2`0.000000`1`26`Quiz/Trivia`
+122116`Idemitsu: Space College - Easy Physics and Chemisty of Dangerous Goods`0.000000`1`26`Quiz/Trivia`
+122283`Wetten Dass..?`0.000000`1`26`Quiz/Trivia`
+122331`Show do Milhão`0.000000`1`26`Quiz/Trivia`
+122333`Show do Milhão Volume 2`0.000000`1`26`Quiz/Trivia`
+122362`Show do Milhão Volume 3`0.000000`1`26`Quiz/Trivia`
+122500`Quiz Magic Academy DS: Futatsu no Jikuuseki`0.000000`1`26`Quiz/Trivia`
+122533`Miyasu Nonki no Quiz 18-kin`0.000000`1`26`Quiz/Trivia`
+122616`Show do Milhão`0.000000`1`26`Quiz/Trivia`
+122627`Word Maker`0.000000`1`26`Quiz/Trivia`
+122923`Master of the Grid`0.000000`1`26`Quiz/Trivia`
+123023`Flight Rising`0.000000`4`4`Fighting`9`Puzzle`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+123779`Wer Weiß Denn Sowas?: Das 2. Spiel`0.000000`2`13`Simulator`26`Quiz/Trivia`
+124288`Make Me Laugh`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+124437`Trivial Pursuit: CD-ROM Edition`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 125021`The Jackbox Party Pack 6`83.994412`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
+125193`Ryuuo no Oshigoto!`0.000000`3`26`Quiz/Trivia`31`Adventure`34`Visual Novel`
+125279`RedCat: De Spannende Stedentocht`0.000000`1`26`Quiz/Trivia`
+125775`Riddle Wired`0.000000`1`26`Quiz/Trivia`
+126123`Duel Quiz`0.000000`1`26`Quiz/Trivia`
+127485`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+127940`Girls Free`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+128485`Dino Numbers`0.000000`1`26`Quiz/Trivia`
+128548`16 Zhang Mahjong`0.000000`1`26`Quiz/Trivia`
+128549`16 Zhang Mahjong II`0.000000`1`26`Quiz/Trivia`
+128877`Chao Ji Da Fu Weng`0.000000`1`26`Quiz/Trivia`
+128878`Chao Ji Mahjong Club`0.000000`1`26`Quiz/Trivia`
+128891`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+130030`Kazoete`0.000000`1`26`Quiz/Trivia`
+130072`Seterra`0.000000`1`26`Quiz/Trivia`
+130623`Mahjong Kyoushitsu`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+131061`Anime Music Quiz`0.000000`2`7`Music`26`Quiz/Trivia`
+131471`Jeopardy!`0.000000`1`26`Quiz/Trivia`
+131472`Jeopardy!`0.000000`1`26`Quiz/Trivia`
+131547`Jeopardy!`0.000000`1`26`Quiz/Trivia`
+132717`Alter Ego`0.000000`4`2`Point-and-click`13`Simulator`26`Quiz/Trivia`34`Visual Novel`
+133254`99 Nendohan: Eitango Center 1500`0.000000`1`26`Quiz/Trivia`
+134095`CartoGráfico`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+134225`Qual é a Música`0.000000`2`7`Music`26`Quiz/Trivia`
+134433`BS Parlor! Parlor!`0.000000`2`26`Quiz/Trivia`33`Arcade`
+134496`Bakushou Mondai no Totsugeki Star Pirates`0.000000`1`26`Quiz/Trivia`
+134558`Asicaso`0.000000`2`26`Quiz/Trivia`32`Indie`
+134931`Blank It!`0.000000`1`26`Quiz/Trivia`
+135126`Logo Quiz`0.000000`1`26`Quiz/Trivia`
+135500`Show do Milhão Júnior`0.000000`1`26`Quiz/Trivia`
+135812`Friquiz`0.000000`1`26`Quiz/Trivia`
+136893`Funanigans`0.000000`2`26`Quiz/Trivia`32`Indie`
+137033`Globetrotter`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+137268`Thomas the Tank Engine \u0026 Friends`0.000000`3`9`Puzzle`10`Racing`26`Quiz/Trivia`
+137688`Words on Stream`0.000000`1`26`Quiz/Trivia`
+137967`sQuiz`0.000000`1`26`Quiz/Trivia`
 138375`The Jackbox Party Pack 7`73.638837`4`9`Puzzle`15`Strategy`26`Quiz/Trivia`32`Indie`
+139533`Quién Habla`0.000000`2`26`Quiz/Trivia`32`Indie`
+139718`Fibby.io`0.000000`4`15`Strategy`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+139810`Wild Honesty: A Party Game for Deeper Conversations`0.000000`3`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+139936`Who Wants to Be a Millionaire`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+140027`Stream Quiz`0.000000`1`26`Quiz/Trivia`
+140371`Freerice`0.000000`1`26`Quiz/Trivia`
+140534`Trivia Tricks`0.000000`1`26`Quiz/Trivia`
+140547`Who Wants to Strip This Babe? Hentai Streamer Girl`0.000000`1`26`Quiz/Trivia`
+140551`Jeopardy! PlayShow`0.000000`2`9`Puzzle`26`Quiz/Trivia`
 140781`Gartic Phone`83.301410`1`26`Quiz/Trivia`
+141196`eCrew Development Program`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+141330`Hangman Adventure`0.000000`3`9`Puzzle`15`Strategy`26`Quiz/Trivia`
+141396`Ten of the best: Educational Programs`0.000000`1`26`Quiz/Trivia`
+141427`Atsumare! Oekaki no Mori`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+141476`TOEIC Test: Jissen Tokkun 2`0.000000`1`26`Quiz/Trivia`
+141800`Verse Surf`0.000000`4`7`Music`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+141922`Quiz Impact: Habitto no Daibouken`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+141991`Naitei! Syukatsu Kanzen Taisaku (ES SPI Mensetsu)`0.000000`1`26`Quiz/Trivia`
+142026`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+142177`Papa\u0027s Quiz`0.000000`2`26`Quiz/Trivia`32`Indie`
+142282`Dora Kazu: Nobita no Suuji Daibouken`0.000000`1`26`Quiz/Trivia`
+142283`Dora Chie: Mini-Dora Ongakutai to 7-tsu no Chie`0.000000`1`26`Quiz/Trivia`
+142284`Dora Eigo: Nobita to Yousei no Fushigi Collection`0.000000`1`26`Quiz/Trivia`
+142285`Dora Moji: Nobita no Kanji Daisakusen`0.000000`1`26`Quiz/Trivia`
+142722`Geotastic`0.000000`1`26`Quiz/Trivia`
+142785`Stream Toys by Zokya`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+142838`Save Farty`0.000000`1`26`Quiz/Trivia`
+143015`GeoQuiz`0.000000`2`26`Quiz/Trivia`32`Indie`
+143375`iSketch`0.000000`1`26`Quiz/Trivia`
+143640`Where in the World is Carmen Sandiego? Enhanced Edition`0.000000`2`26`Quiz/Trivia`31`Adventure`
+143754`KKuTuDotNet`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+144230`Wheel of Fortune`0.000000`1`26`Quiz/Trivia`
+144249`Drivrooom`0.000000`1`26`Quiz/Trivia`
+144256`What\u0027s Wrong With You?`0.000000`4`13`Simulator`15`Strategy`26`Quiz/Trivia`32`Indie`
+144353`Aquascapes`0.000000`3`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+144474`Fortunas Rad`0.000000`1`26`Quiz/Trivia`
+144486`Survival Quiz City`0.000000`2`26`Quiz/Trivia`32`Indie`
+144617`Schlag den Star: Das 2. Spiel`0.000000`4`13`Simulator`14`Sport`26`Quiz/Trivia`32`Indie`
+144678`Crazy Killer`0.000000`1`26`Quiz/Trivia`
+144785`You Don\u0027t Know Jack`0.000000`1`26`Quiz/Trivia`
+144792`You Don\u0027t Know Jack: Question Pack`0.000000`1`26`Quiz/Trivia`
+144808`What the Dub?!`0.000000`3`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+144842`Country Discoverer`0.000000`3`26`Quiz/Trivia`32`Indie`33`Arcade`
+145283`Drawy`0.000000`2`26`Quiz/Trivia`32`Indie`
+145390`NextRev: Hisho Kentei Shiken`0.000000`1`26`Quiz/Trivia`
+145409`Quantum Castle`0.000000`1`26`Quiz/Trivia`
+145649`The Trivial Dead`0.000000`2`26`Quiz/Trivia`32`Indie`
+145753`FoxInTheBox`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+145825`Family Feud`0.000000`1`26`Quiz/Trivia`
+145827`Shin Megami Tensei: Devil Summoner - Akuma Zensho`0.000000`1`26`Quiz/Trivia`
+145852`Devil Summoner: Soul Hackers - Akuma Zensho`0.000000`2`26`Quiz/Trivia`34`Visual Novel`
+146063`Maitre des Fleurs`0.000000`1`26`Quiz/Trivia`
+146071`CitronRapide`0.000000`3`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+146243`Koliquest`0.000000`3`26`Quiz/Trivia`32`Indie`33`Arcade`
+146276`Cho-Nazo-Oh`0.000000`1`26`Quiz/Trivia`
+146655`Lasy Podpoduszańskie`0.000000`4`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+146785`Shin Megami Tensei: Devil Summoner Digital Collection`0.000000`1`26`Quiz/Trivia`
+146811`Falling Sand!`0.000000`2`26`Quiz/Trivia`32`Indie`
+147213`Bagasaurus`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+147214`Return of the Dinosaurs`0.000000`2`26`Quiz/Trivia`31`Adventure`
+151465`The Chatters Show`0.000000`1`26`Quiz/Trivia`
+151633`SatellaWalker: Satebou wo Sukuidase!`0.000000`3`12`Role-playing (RPG)`26`Quiz/Trivia`31`Adventure`
+151634`SatellaWalker: Machi no Heiwa wo Torimodose!`0.000000`3`12`Role-playing (RPG)`26`Quiz/Trivia`31`Adventure`
+151710`Kanji Searcher`0.000000`1`26`Quiz/Trivia`
+151716`The Crystal Rainforest`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+151857`Ken-chan to Chie Asobi`0.000000`1`26`Quiz/Trivia`
+151859`Yocchan to Chie Asobi`0.000000`1`26`Quiz/Trivia`
+152022`Time Navigator`0.000000`1`26`Quiz/Trivia`
+152024`Fossil Hunter`0.000000`1`26`Quiz/Trivia`
+152025`Mystery Objects`0.000000`1`26`Quiz/Trivia`
+152026`Conquering Percents`0.000000`1`26`Quiz/Trivia`
+152485`Bullseye`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+153018`World Quiz`0.000000`3`9`Puzzle`26`Quiz/Trivia`35`Card \u0026 Board Game`
+153128`Coin Hunt World!`0.000000`3`9`Puzzle`26`Quiz/Trivia`31`Adventure`
+153511`QuizKnock Stadium`0.000000`1`26`Quiz/Trivia`
+153548`Quiz Magic Academy 2`0.000000`1`26`Quiz/Trivia`
+153549`Quiz Magic Academy 3`0.000000`1`26`Quiz/Trivia`
+153611`Quiz Magic Academy 4`0.000000`1`26`Quiz/Trivia`
+153612`Quiz Magic Academy 5`0.000000`1`26`Quiz/Trivia`
+153628`Quiz Magic Academy 6`0.000000`1`26`Quiz/Trivia`
+153630`Quiz Magic Academy 7`0.000000`1`26`Quiz/Trivia`
+153638`Quiz Magic Academy 8`0.000000`1`26`Quiz/Trivia`
+156785`Hentai Milf Quiz 2`0.000000`3`14`Sport`26`Quiz/Trivia`32`Indie`
+157897`Hentai Milf Quiz 3`0.000000`2`26`Quiz/Trivia`32`Indie`
+159004`Reksio i Ortografia`0.000000`3`10`Racing`26`Quiz/Trivia`33`Arcade`
+159176`Earth Science`0.000000`1`26`Quiz/Trivia`
+159244`Family Feud`0.000000`1`26`Quiz/Trivia`
+159320`Science Simulator`0.000000`6`9`Puzzle`10`Racing`13`Simulator`26`Quiz/Trivia`31`Adventure`32`Indie`
+163144`Gefragt Gejagt`0.000000`3`13`Simulator`26`Quiz/Trivia`32`Indie`
+163161`Family Feud`0.000000`1`26`Quiz/Trivia`
+163341`Show do Milhão 2006`0.000000`1`26`Quiz/Trivia`
+166146`Dotsubo-chan`0.000000`1`26`Quiz/Trivia`
+166459`Vast Trivia of the Void`0.000000`4`26`Quiz/Trivia`32`Indie`33`Arcade`35`Card \u0026 Board Game`
+169134`Check-In`0.000000`1`26`Quiz/Trivia`
+170534`Hidden Words`0.000000`3`9`Puzzle`26`Quiz/Trivia`32`Indie`
+171285`Koh Lanta: Les Aventuriers`0.000000`4`13`Simulator`26`Quiz/Trivia`31`Adventure`35`Card \u0026 Board Game`
+171897`Quizee`0.000000`2`26`Quiz/Trivia`32`Indie`
+172403`GeoBingo.io`0.000000`5`9`Puzzle`24`Tactical`26`Quiz/Trivia`31`Adventure`32`Indie`
+172472`Putzgrila: Mestre dos Esportes`0.000000`2`14`Sport`26`Quiz/Trivia`
+173801`Subwords`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+175630`Family Feud`0.000000`1`26`Quiz/Trivia`
+176012`JumpStart Adventures: 3rd Grade - Mystery Mountain`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+176070`Brain Battle Q`0.000000`1`26`Quiz/Trivia`
+176078`Greatest Moments of Our Time`0.000000`1`26`Quiz/Trivia`
+176097`Jeopardy!`0.000000`1`26`Quiz/Trivia`
+177553`Master Break`0.000000`1`26`Quiz/Trivia`
+177624`Down for a Cross`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+178304`Wordfish`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+178767`Who Wants to Be a Millionaire: New Edition`0.000000`1`26`Quiz/Trivia`
+179215`Bakushou Mondai no Silicon Chounaikai`0.000000`1`26`Quiz/Trivia`
+179218`Bakushou Mondai no Houkago no Ou-sama`0.000000`1`26`Quiz/Trivia`
+179232`Satella-Q: Nouryou! Natsumatsuri!`0.000000`1`26`Quiz/Trivia`
+179233`Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-1-shuu`0.000000`1`26`Quiz/Trivia`
+179234`Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-2-shuu`0.000000`1`26`Quiz/Trivia`
+179235`Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-3-shuu`0.000000`1`26`Quiz/Trivia`
+179236`Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-4-shuu`0.000000`1`26`Quiz/Trivia`
+179237`Satella-Q: Kokumin no Q-jitsu`0.000000`1`26`Quiz/Trivia`
+179238`Satella-Q: Cho-Q! Henka-Q!`0.000000`1`26`Quiz/Trivia`
+179239`Satella-Q: Qko-tachi no Koushien`0.000000`1`26`Quiz/Trivia`
+179240`Satella-Q: Nihon Series Q-kaiura 2 Out Manrui! Naze ka Squeeze!`0.000000`1`26`Quiz/Trivia`
+179241`Satella-Q: Sayonara Heisei Q-nen Nenmatsu Soukessan!`0.000000`1`26`Quiz/Trivia`
+179242`Satella-Q: MusiQ Fair`0.000000`2`7`Music`26`Quiz/Trivia`
+179243`Satella-Q: Mou Sugu Haru desu ne - Chotto Sate-Q Shimasen ka?`0.000000`1`26`Quiz/Trivia`
+179244`Satella-Q: Q-1 Grand Prix Manatsu no Revenge`0.000000`1`26`Quiz/Trivia`
+179245`Satella-Q: 1QQQ Q-nenjuu ha O-sewa ni Narimashita. Kotoshi mo Yoroshi Quiz!`0.000000`1`26`Quiz/Trivia`
+179246`Satella-Q: Shin Q Omedetou Pika-pika no Q Ninsei`0.000000`1`26`Quiz/Trivia`
+179247`Wai-wai de Q: Dai-1-kai`0.000000`1`26`Quiz/Trivia`
+179248`Wai-wai de Q: Dai-2-kai`0.000000`1`26`Quiz/Trivia`
+179249`Wai-wai de Q: Dai-3-kai`0.000000`1`26`Quiz/Trivia`
+179250`Wai-wai de Q: Dai-4-kai`0.000000`1`26`Quiz/Trivia`
+179251`Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-1-kai`0.000000`1`26`Quiz/Trivia`
+179252`Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-2-kai`0.000000`1`26`Quiz/Trivia`
+179253`Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-3-kai`0.000000`1`26`Quiz/Trivia`
+179254`Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-4-kai`0.000000`1`26`Quiz/Trivia`
+179255`Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-5-kai`0.000000`1`26`Quiz/Trivia`
+179256`Wai-wai de Q: Haru no Saiten Special - Dai-1-kai`0.000000`1`26`Quiz/Trivia`
+179257`Wai-wai de Q: Haru no Saiten Special - Dai-2-kai`0.000000`1`26`Quiz/Trivia`
+179258`Wai-wai de Q: Haru no Saiten Special - Dai-3-kai`0.000000`1`26`Quiz/Trivia`
+179259`Wai-wai de Q: Haru no Saiten Special - Dai-4-kai`0.000000`1`26`Quiz/Trivia`
+179474`NextRev: Chuushokigyou Shindanshi Shiken 1`0.000000`1`26`Quiz/Trivia`
+179475`NextRev: Chuushokigyou Shindanshi Shiken 2`0.000000`1`26`Quiz/Trivia`
+179476`NextRev: Jouhou Security Specialist Shiken / Network Specialist Shiken`0.000000`1`26`Quiz/Trivia`
+179477`NextRev: Takken Shiken 2015`0.000000`1`26`Quiz/Trivia`
+179482`NextRev: Care Manager Shiken`0.000000`1`26`Quiz/Trivia`
+179499`NextRev: Kaigo Fukushishi Shiken`0.000000`1`26`Quiz/Trivia`
+179522`NextRev: Sharoushi Shiken`0.000000`1`26`Quiz/Trivia`
+179523`NextRev: Eiken`0.000000`1`26`Quiz/Trivia`
+179956`Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai`0.000000`1`26`Quiz/Trivia`
+179957`Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai`0.000000`1`26`Quiz/Trivia`
+179958`Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai`0.000000`1`26`Quiz/Trivia`
+179959`Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai`0.000000`1`26`Quiz/Trivia`
+180052`Crankies Workshop: Whirlbot Assembly`0.000000`2`26`Quiz/Trivia`32`Indie`
+180057`Crankies Workshop: Bozzbot Assembly`0.000000`2`26`Quiz/Trivia`32`Indie`
+180067`Crankies Workshop: Grizzbot Assembly`0.000000`2`26`Quiz/Trivia`32`Indie`
+180068`Crankies Workshop: Grizzbot Assembly 2`0.000000`2`26`Quiz/Trivia`32`Indie`
+181146`World Map Quiz`0.000000`1`26`Quiz/Trivia`
+181186`LoL Sketch`0.000000`1`26`Quiz/Trivia`
+181314`Drawing Evolution`0.000000`3`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+181552`Dinosaur Dig`0.000000`1`26`Quiz/Trivia`
+181575`Soletrando`0.000000`1`26`Quiz/Trivia`
+181940`Soletrando: Nova Ortografia`0.000000`1`26`Quiz/Trivia`
+182214`Who Has the Biggest Brain?`0.000000`1`26`Quiz/Trivia`
+183247`Job Application Simulator`0.000000`2`26`Quiz/Trivia`34`Visual Novel`
+184285`Gartic Show`0.000000`1`26`Quiz/Trivia`
+185740`Phrased Out`0.000000`3`12`Role-playing (RPG)`26`Quiz/Trivia`32`Indie`
+185865`Star Wars: Early Learning Activity Center`0.000000`1`26`Quiz/Trivia`
+185866`Star Wars: Jar Jar\u0027s Journey Adventure Book`0.000000`1`26`Quiz/Trivia`
+185972`QuizPoker: Mix of Quiz and Poker`0.000000`2`16`Turn-based strategy (TBS)`26`Quiz/Trivia`
+186044`PopSauce`0.000000`3`26`Quiz/Trivia`32`Indie`33`Arcade`
+186090`Wordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+186133`Go Fetch!`0.000000`1`26`Quiz/Trivia`
+186463`Ganbare Goemon: Hijutsu! Sansuu Juku`0.000000`1`26`Quiz/Trivia`
+186526`Draw Battle!`0.000000`1`26`Quiz/Trivia`
+186614`The Higher Lower Game`0.000000`1`26`Quiz/Trivia`
+186906`Journalist`0.000000`1`26`Quiz/Trivia`
+187076`Benjamin Blumchen: Ein Tag im Zoo`0.000000`5`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`32`Indie`33`Arcade`
+187449`3M Spain Foundation: Stem + VR`0.000000`1`26`Quiz/Trivia`
+187456`Trivia for Dummies`0.000000`1`26`Quiz/Trivia`
+187494`Planet Quiz: Learn \u0026 Discover`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+187541`Picture Party VR`0.000000`1`26`Quiz/Trivia`
+188552`Hide \u0026 Seek World`0.000000`4`2`Point-and-click`15`Strategy`26`Quiz/Trivia`32`Indie`
+191423`GeoChatter`0.000000`1`26`Quiz/Trivia`
+191442`Kahoot!`0.000000`1`26`Quiz/Trivia`
+191503`Scrabble Sprint`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+191640`Who\u0027s That Pokémon?`0.000000`1`26`Quiz/Trivia`
+191695`Gartic.io`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+191853`Chosung Quiz`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+191883`PokéSmash`0.000000`1`26`Quiz/Trivia`
+192471`Help Me Remember, Satori-sama!`0.000000`2`26`Quiz/Trivia`32`Indie`
+193524`Worldle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+193526`Heardle`0.000000`3`7`Music`9`Puzzle`26`Quiz/Trivia`
+194295`IQ Jump`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+194414`Estadi.ooo`0.000000`3`9`Puzzle`14`Sport`26`Quiz/Trivia`
+194440`Be Funny Now!`0.000000`2`26`Quiz/Trivia`32`Indie`
+194441`Multimedia Cats`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+194462`RiffTrax: The Game`0.000000`3`26`Quiz/Trivia`32`Indie`35`Card \u0026 Board Game`
+194494`Trivial Pursuit Live! 2`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+194523`Quordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+194563`SongPop Party`0.000000`2`7`Music`26`Quiz/Trivia`
+194654`Squirdle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+194710`WikiArena`0.000000`2`26`Quiz/Trivia`32`Indie`
+194748`Mini Words: Collection`0.000000`1`26`Quiz/Trivia`
+194839`Globle`0.000000`1`26`Quiz/Trivia`
+194841`Tradle`0.000000`1`26`Quiz/Trivia`
+194870`Mwizz`0.000000`1`26`Quiz/Trivia`
+194880`Octordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+194881`Sedecordle`0.000000`1`26`Quiz/Trivia`
+194882`Hexadecordle`0.000000`1`26`Quiz/Trivia`
+194883`Wordle Peaks`0.000000`1`26`Quiz/Trivia`
+194885`Squardle`0.000000`1`26`Quiz/Trivia`
+194912`Pole Chudes: Capital Show`0.000000`1`26`Quiz/Trivia`
+195511`MilioNESy`0.000000`1`26`Quiz/Trivia`
+196629`Rainbow`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+197384`Redactle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+197449`SongTrivia 2: Guess the song`0.000000`3`7`Music`26`Quiz/Trivia`32`Indie`
+197867`Lewdle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+197903`Xordle`0.000000`1`26`Quiz/Trivia`
+198109`Love Live Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+198203`Taisen IQ`0.000000`1`26`Quiz/Trivia`
+198204`Taisen IQ +`0.000000`1`26`Quiz/Trivia`
+198251`Sonic Heardle`0.000000`3`7`Music`9`Puzzle`26`Quiz/Trivia`
+198258`Lingo Legend`0.000000`2`15`Strategy`26`Quiz/Trivia`
+198339`R Place Guesser`0.000000`1`26`Quiz/Trivia`
+198360`Quiz Realm`0.000000`1`26`Quiz/Trivia`
+198736`Family Feud`0.000000`1`26`Quiz/Trivia`
+198771`Jeopardy! Deluxe Edition`0.000000`1`26`Quiz/Trivia`
+198772`Jeopardy! Cartridge #1`0.000000`1`26`Quiz/Trivia`
+198773`Jeopardy! Cartridge #2`0.000000`1`26`Quiz/Trivia`
+198774`Jeopardy! Cartridge #3`0.000000`1`26`Quiz/Trivia`
+198775`Jeopardy! Cartridge #4`0.000000`1`26`Quiz/Trivia`
+198776`Jeopardy! Cartridge #5`0.000000`1`26`Quiz/Trivia`
+198777`Jeopardy! Cartridge #6`0.000000`1`26`Quiz/Trivia`
+199428`Jeopardy!`0.000000`1`26`Quiz/Trivia`
+199432`Quiz Wiz: Cyber Trivia`0.000000`1`26`Quiz/Trivia`
+200060`Twordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+200419`Panel Quiz Attack 25`0.000000`1`26`Quiz/Trivia`
+200481`The Felix the Cat Trivia Quiz`0.000000`1`26`Quiz/Trivia`
+200664`Yeardle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+200774`Hentai Milf Quiz`0.000000`2`26`Quiz/Trivia`32`Indie`
+201906`Risk`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+202387`Guess Pony Cartoon`0.000000`1`26`Quiz/Trivia`
+202812`Framed: The daily movie guessing game`0.000000`1`26`Quiz/Trivia`
+203001`Simple 1500 Series: Vol.12 - The Quiz`0.000000`1`26`Quiz/Trivia`
+203018`Simple 1500 Series Vol. 34: The Quiz Bangumi`0.000000`1`26`Quiz/Trivia`
+203055`Simple 1500 Series Vol. 61: The Quiz 2`0.000000`1`26`Quiz/Trivia`
+203079`Simple 1500 Series Vol. 84: The Intro Quiz`0.000000`1`26`Quiz/Trivia`
+203137`Simple Characters 2000 Series Vol. 07: Ikkyuu-san - The Quiz`0.000000`1`26`Quiz/Trivia`
+203175`Whyville`0.000000`2`12`Role-playing (RPG)`26`Quiz/Trivia`
+203193`Videogame Heardle`0.000000`1`26`Quiz/Trivia`
+203194`Zelda Heardle`0.000000`1`26`Quiz/Trivia`
+203284`Simple 2000 Series Vol. 76: The Hanasou Eigo no Tabi`0.000000`1`26`Quiz/Trivia`
+203319`Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi`0.000000`1`26`Quiz/Trivia`
+203320`Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz`0.000000`1`26`Quiz/Trivia`
+203324`Simple 2000 Series Vol. 85: The Sekai Meisaku Gekijou Quiz`0.000000`1`26`Quiz/Trivia`
+203327`Simple 2000 Series Vol. 93: The Unou Drill`0.000000`1`26`Quiz/Trivia`
+203815`Kirby Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203816`Mega Man Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203817`Donkey Kong Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203820`Mario Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203821`Mario Heardle 2`0.000000`2`7`Music`26`Quiz/Trivia`
+203823`Yoshi Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203826`Super Mario Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203827`Metroid Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203828`Mario Party Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+203829`Morbius Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+204494`Penny Dell Jumbo Crosswords 2`0.000000`1`26`Quiz/Trivia`
+204658`Gamedle`0.000000`3`9`Puzzle`26`Quiz/Trivia`32`Indie`
+205207`Sega Ages Vol. 5: Rouka ni Ichidant-R`0.000000`1`26`Quiz/Trivia`
+205617`Touhou Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+205622`Live Mathletics`0.000000`2`26`Quiz/Trivia`33`Arcade`
 205624`Dr. Doe\u0027s Chemistry Quiz`88.000000`1`26`Quiz/Trivia`
+205625`The Idolmaster Heardle`0.000000`3`7`Music`9`Puzzle`26`Quiz/Trivia`
+205777`Musicle`0.000000`2`7`Music`26`Quiz/Trivia`
+205795`Quick, Draw!`0.000000`1`26`Quiz/Trivia`
+206661`Trivial Pursuit: Bring on the 90\u0027s Edition`0.000000`1`26`Quiz/Trivia`
+206738`Stream Typers`0.000000`1`26`Quiz/Trivia`
+207225`PopCultured`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+208029`Quiz Minister`0.000000`1`26`Quiz/Trivia`
+208320`Saturday Night Live: The Game`0.000000`2`26`Quiz/Trivia`33`Arcade`
+209244`Family Feud II`0.000000`1`26`Quiz/Trivia`
+209293`The Dog Master`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+209617`Wheel of Fortune: New Second Edition`0.000000`1`26`Quiz/Trivia`
+209979`Weaver`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+210169`JumpStart Study Helpers: Spelling Bee`0.000000`2`2`Point-and-click`26`Quiz/Trivia`
+210366`Arcano: El juego de Galicia`0.000000`1`26`Quiz/Trivia`
+210398`Guess the Game`0.000000`1`26`Quiz/Trivia`
+210420`2012`0.000000`2`15`Strategy`26`Quiz/Trivia`
+210722`Who Wants to Be a Millionaire`0.000000`1`26`Quiz/Trivia`
+210741`Eyes First: Match Two`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+210742`Eyes First: Double Up`0.000000`1`26`Quiz/Trivia`
+210743`Eyes First: Tile Slide`0.000000`1`26`Quiz/Trivia`
+210808`Quiz Gakumon no Susume`0.000000`1`26`Quiz/Trivia`
+212691`Wikitrivia`0.000000`1`26`Quiz/Trivia`
+212767`Are You Smarter Than a 5th Grader?`0.000000`1`26`Quiz/Trivia`
+213552`Buzz! Quem é o Génio Português?`0.000000`1`26`Quiz/Trivia`
+213732`Private Idol Disc Vol. 1: Kinoshita Yuu`0.000000`1`26`Quiz/Trivia`
+213733`Private Idol Disc Vol. 2: Uchiyama Miki`0.000000`1`26`Quiz/Trivia`
+213734`Private Idol Disc Vol. 3: Oshima Akemi`0.000000`1`26`Quiz/Trivia`
+213735`Private Idol Disc Vol. 4: Kuroda Mirei`0.000000`1`26`Quiz/Trivia`
+213736`Private Idol Disc Vol. 5: Fujisaki Nanako`0.000000`1`26`Quiz/Trivia`
+213737`Private Idol Disc Vol. 6: Yoshida Satomi`0.000000`1`26`Quiz/Trivia`
+213738`Private Idol Disc Vol. 7: Asou Kaori`0.000000`1`26`Quiz/Trivia`
+213739`Private Idol Disc Vol. 8: Furukawa Emiko`0.000000`1`26`Quiz/Trivia`
+213740`Private Idol Disc Vol. 9: Nagamatsu Keiko`0.000000`1`26`Quiz/Trivia`
+213742`Private Idol Disc: Data-hen Race Queen F`0.000000`1`26`Quiz/Trivia`
+213743`Private Idol Disc: Tokobetsu-hen Cosplayers`0.000000`1`26`Quiz/Trivia`
+213744`Private Idol Disc: Tokubetsu-hen Campaign Girl \u002797`0.000000`1`26`Quiz/Trivia`
+213745`Private Idol Disc: Tokubetsu-hen Kogyaru Daihyakka 100`0.000000`1`26`Quiz/Trivia`
+213746`Private Idol Disc: Data-hen Race Queen G`0.000000`1`26`Quiz/Trivia`
+213748`Private Idol Disc Vol. 10: Masaki Mai`0.000000`1`26`Quiz/Trivia`
+213749`Private Idol Disc Vol. 11: Mayumi Hirose`0.000000`1`26`Quiz/Trivia`
+213958`Ankhet`0.000000`2`26`Quiz/Trivia`31`Adventure`
+214468`AnotherQuizzGame`0.000000`3`9`Puzzle`26`Quiz/Trivia`33`Arcade`
+214770`HQ Trivia`0.000000`1`26`Quiz/Trivia`
+214905`Partypit Games`0.000000`3`9`Puzzle`26`Quiz/Trivia`32`Indie`
+215154`Hanx101 Trivia`0.000000`1`26`Quiz/Trivia`
+215310`Streamonaire`0.000000`1`26`Quiz/Trivia`
+215370`Geostatic`0.000000`1`26`Quiz/Trivia`
+215783`Questions Pour un Champion: Edition Spéciale 20 Ans`0.000000`1`26`Quiz/Trivia`
+216177`World Geography`0.000000`1`26`Quiz/Trivia`
+216258`Party Quiz Mega Q 2022`0.000000`1`26`Quiz/Trivia`
+216450`Nik and Kit\u0027s Math Quiz: Breakthrough Gaming Activity Center`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+216458`Zutto Atai no Turn!`0.000000`3`12`Role-playing (RPG)`26`Quiz/Trivia`32`Indie`
+217569`The Chicken Quiz`0.000000`1`26`Quiz/Trivia`
+217996`Archeon CD-i Quiz`0.000000`1`26`Quiz/Trivia`
+218001`Goal!`0.000000`2`14`Sport`26`Quiz/Trivia`
+218002`CD-i Golgo 13`0.000000`2`26`Quiz/Trivia`34`Visual Novel`
+218108`Unscramble Heroes`0.000000`1`26`Quiz/Trivia`
+218212`Garfield: Lasagna Party`0.000000`4`9`Puzzle`26`Quiz/Trivia`31`Adventure`33`Arcade`
+218742`KKuTuIO`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+218806`Parlor`0.000000`2`26`Quiz/Trivia`32`Indie`
+218986`Nazotoki Mail`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+219040`18+`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+220070`1 vs. 100`0.000000`1`26`Quiz/Trivia`
+220072`Are You Smarter Than A 5th Grader?`0.000000`1`26`Quiz/Trivia`
+220081`Deal or No Deal`0.000000`1`26`Quiz/Trivia`
+220841`Planet Crossword`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+221270`The Simpsons Trivia`0.000000`1`26`Quiz/Trivia`
+221313`Uridongne Goyangi Chrreul Joahae: Gillyangi Meokbang Choseongkwijeu`0.000000`1`26`Quiz/Trivia`
+221386`Quiz.com`0.000000`1`26`Quiz/Trivia`
+222006`Show do Milhão 4`0.000000`1`26`Quiz/Trivia`
+222050`Show do Milhão Volume 5`0.000000`1`26`Quiz/Trivia`
+222352`Colecionador Show do Milhão`0.000000`1`26`Quiz/Trivia`
+222358`Show do Milhão Júnior Volume 2`0.000000`1`26`Quiz/Trivia`
+222860`Duel Toys 2`0.000000`5`4`Fighting`26`Quiz/Trivia`31`Adventure`32`Indie`33`Arcade`
+222874`Jogo do Banquinho do Raul Gil`0.000000`1`26`Quiz/Trivia`
+225272`Quizl`0.000000`1`26`Quiz/Trivia`
+225402`Jeopardy! Deluxe`0.000000`2`26`Quiz/Trivia`33`Arcade`
+225574`The Bible Game`0.000000`2`26`Quiz/Trivia`31`Adventure`
+225622`Harry Styles Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+225641`Perfect Memento of Touhou Question: More 50 Questions Part 1`0.000000`2`26`Quiz/Trivia`32`Indie`
+225642`Perfect Memento of Touhou Question: More 50 Questions Part 2`0.000000`2`26`Quiz/Trivia`32`Indie`
+225839`One Direction Heardle`0.000000`2`7`Music`26`Quiz/Trivia`
+226091`Quiz Thiz USA`0.000000`1`26`Quiz/Trivia`
+227214`Google Feudle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+227215`Almanaque Recreio`0.000000`1`26`Quiz/Trivia`
+227489`Qual a Capa?`0.000000`1`26`Quiz/Trivia`
+227881`Quiz Thiz USA: Gold Edition`0.000000`1`26`Quiz/Trivia`
+228047`Gensmak!`0.000000`3`15`Strategy`26`Quiz/Trivia`35`Card \u0026 Board Game`
+228290`Europe Geography`0.000000`1`26`Quiz/Trivia`
+228371`Quiz Thiz United Kingdom`0.000000`1`26`Quiz/Trivia`
+228419`High School Musical: DVD Game`0.000000`1`26`Quiz/Trivia`
+228432`Hello Kitty no Oshare Party: Sanrio Character Zukan DS`0.000000`1`26`Quiz/Trivia`
+228447`Disney Classics: Master Mouse - Show Time Quiz`0.000000`1`26`Quiz/Trivia`
+228557`Hayaoshi Quiz: Ouza Ketteisen`0.000000`1`26`Quiz/Trivia`
+228573`Kanji Boy`0.000000`1`26`Quiz/Trivia`
+228574`Kanji Boy 2`0.000000`1`26`Quiz/Trivia`
+228632`Oyatsu Quiz: Mogu Mogu Q - The Quiz Game`0.000000`1`26`Quiz/Trivia`
+228657`The Quiz Room`0.000000`1`26`Quiz/Trivia`
+228714`Fibble`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+228715`Tridle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+228716`ScrabWordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+228717`Subwaydle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+228718`Duotrigordle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+228731`Blinest`0.000000`2`7`Music`26`Quiz/Trivia`
+228767`Quiz Thiz United Kingdom: Bronze Edition`0.000000`1`26`Quiz/Trivia`
+228786`Math Rabbit`0.000000`1`26`Quiz/Trivia`
+229068`Stellaluna`0.000000`4`2`Point-and-click`26`Quiz/Trivia`31`Adventure`34`Visual Novel`
+229072`Where\u0027s Worldo?!`0.000000`5`2`Point-and-click`9`Puzzle`26`Quiz/Trivia`31`Adventure`32`Indie`
+229169`Quiz Thiz United Kingdom: Silver Edition`0.000000`1`26`Quiz/Trivia`
+229563`Movie to Movie`0.000000`1`26`Quiz/Trivia`
+229669`The Spidy Quiz`0.000000`1`26`Quiz/Trivia`
+229778`Framed`0.000000`1`26`Quiz/Trivia`
+229884`IPL Quiz 2022 Cricket Champion`0.000000`2`26`Quiz/Trivia`32`Indie`
+229944`Road Trip Europe`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+230054`GeGeGe no Kitaro`0.000000`1`26`Quiz/Trivia`
+230271`Miburi and Teburi`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+230272`Hello Kitty no Tanoshii Tabemono`0.000000`1`26`Quiz/Trivia`
+230278`Soreike! Anpanman: Karada no Naka no Daibouken`0.000000`1`26`Quiz/Trivia`
+230279`Soreike! Anpanman: Yukai nao Tanjoue`0.000000`1`26`Quiz/Trivia`
+230281`Super Mario World Mario to Yoshi no Bouken Land`0.000000`1`26`Quiz/Trivia`
+230282`Dragon Ball Z: Gather Together! Goku\u0027s World`0.000000`1`26`Quiz/Trivia`
+230284`Sailor Moon S: Kotaete Moon Call!`0.000000`1`26`Quiz/Trivia`
+230286`Q-Taro Channel`0.000000`1`26`Quiz/Trivia`
+230313`Foster\u0027s Home for Imaginary Friends`0.000000`1`26`Quiz/Trivia`
+230540`Which Naruto Character Are You?`0.000000`4`2`Point-and-click`13`Simulator`26`Quiz/Trivia`34`Visual Novel`
+230665`Pense Bem`0.000000`1`26`Quiz/Trivia`
+230758`Esse Mundo é um Colosso`0.000000`1`26`Quiz/Trivia`
+230776`Quiz Thiz France: Bronze Edition`0.000000`1`26`Quiz/Trivia`
+231412`Drawing From Memory`0.000000`2`26`Quiz/Trivia`32`Indie`
+231455`SongPop`0.000000`2`7`Music`26`Quiz/Trivia`
+231463`Guessmoji`0.000000`1`26`Quiz/Trivia`
+231504`Lostgamer.io`0.000000`2`15`Strategy`26`Quiz/Trivia`
+231601`Mario Trivia`0.000000`1`26`Quiz/Trivia`
+231602`Mario Party 7 Bon Voyage Quiz`0.000000`1`26`Quiz/Trivia`
+231604`Mario Memory`0.000000`1`26`Quiz/Trivia`
+231606`Greed School Test`0.000000`1`26`Quiz/Trivia`
+231609`Donkey Kong 64 Lore Quiz`0.000000`1`26`Quiz/Trivia`
+231622`Crazy Counting`0.000000`1`26`Quiz/Trivia`
+231628`Ask Madame Clairvoya`0.000000`1`26`Quiz/Trivia`
+231629`Are You Smarter Than Mario?`0.000000`1`26`Quiz/Trivia`
+231638`Cine2Nerdle`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+231639`CineNerdle`0.000000`1`26`Quiz/Trivia`
+231762`Santa-kun`0.000000`1`26`Quiz/Trivia`
+231832`Video Ezy: In the Movies - Interactive DVD Trivia Game`0.000000`1`26`Quiz/Trivia`
+231988`Korean Flower Name Game`0.000000`1`26`Quiz/Trivia`
+232652`Hugo: The Secrets of The Forest`0.000000`2`9`Puzzle`26`Quiz/Trivia`
+232658`Nu pogodi! Vypusk 3: Pesnya dlya zajca`0.000000`2`26`Quiz/Trivia`31`Adventure`
+232687`EmoteGuesser`0.000000`2`26`Quiz/Trivia`32`Indie`
+232713`Quiz Thiz Spain`0.000000`1`26`Quiz/Trivia`
+232827`Zatsugaku Olympic Watanabe Wataru-Hen`0.000000`1`26`Quiz/Trivia`
+232860`Nu, pogodi! Vypusk 1: Pogonya`0.000000`2`26`Quiz/Trivia`31`Adventure`
+232861`Nu, pogodi! Vypusk 2: Kruglyj schet`0.000000`2`26`Quiz/Trivia`31`Adventure`
+232871`Super X-Day X: The New challengers`0.000000`1`26`Quiz/Trivia`
+232874`Awkward 2`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+232875`Befuddle`0.000000`2`26`Quiz/Trivia`35`Card \u0026 Board Game`
+232905`Nikki no Tabisuru Quiz`0.000000`1`26`Quiz/Trivia`
+233650`Brain Tester: Mind trick quiz`0.000000`1`26`Quiz/Trivia`
+233977`Wai-wai de Q: Haru no Saiten Special`0.000000`1`26`Quiz/Trivia`
+233979`Wai-wai de Q`0.000000`1`26`Quiz/Trivia`
+233980`Wai-wai de Q: Aki no Daikansha Matsuri!`0.000000`1`26`Quiz/Trivia`
+234040`Satella-Q: Nenmatsu Jumbo Takara Quiz`0.000000`1`26`Quiz/Trivia`
+234521`PixelQuiz`0.000000`1`26`Quiz/Trivia`
+234689`WDYK? 3: Urban Lingo`0.000000`1`26`Quiz/Trivia`
+234730`Dudeology 1`0.000000`1`26`Quiz/Trivia`
+234731`Row of Numbers`0.000000`1`26`Quiz/Trivia`
+234968`Mini Words: Top Movies`0.000000`1`26`Quiz/Trivia`
