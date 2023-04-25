@@ -119,18 +119,6 @@ vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap)
                 }
                 sort(outputGames.begin(), outputGames.end(), compareByRating);
             }
-/*            if(genres == node.getGenres())                                                  //BUG HERE FIX THIS;
-            {
-                if(outputGames.size() < 5)
-                {
-                    outputGames.emplace_back(node);
-                }
-                else if(node.getRating() > outputGames.back().getRating())
-                {
-                    outputGames.back() = node;
-                }
-                sort(outputGames.begin(), outputGames.end(), compareByRating);
-            }*/
         }
     }
     return outputGames;
