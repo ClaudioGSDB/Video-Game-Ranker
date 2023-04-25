@@ -11,7 +11,7 @@ int main()
     GenreMap* fullMap = ReadData("Data");
 
     //Search for top 5 games
-    vector<DataNode> outputGames = findTop(inputGenMap, fullMap); //BUG HERE
+    vector<DataNode> outputGames = findTop(inputGenMap, fullMap);
 
     for (auto elem : outputGames) {
         cout << elem.getTitle() << " = " << elem.getRating() << endl;

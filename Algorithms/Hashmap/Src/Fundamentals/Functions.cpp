@@ -84,53 +84,53 @@ GenreMap* ReadData(string pathToFolder)
     return fullMap;
 }
 
-vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap) //BUG HERE
+vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap)
 {
     vector<DataNode> outputGames;
 
-    //find the smallest nodeMap
-    int smallNodeMap = INT_MAX;
+    //find the smallest nodeMap's index in between the inputted genres
+    int smallNodeMapSize = INT_MAX;
     int smallNodeMapIndex;
-    bool found = false;
 
-    for(int i = 0; i < fullMap->getGenreMap().size(); i++)
+    for(auto element : genres)
     {
-        if(fullMap->getGenreMap()[i] != nullptr)
+        if(smallNodeMapSize > fullMap->getGenreMap()[element.first]->getNumOfElements())
         {
-            for (int j = 0; j < genres.size(); j++) {
-                if (genres[j] == fullMap->getGenreMap()[i]) { //look for the genres in genre before doing the next if statement
-                    found = true;
-                    break;
-                }
-            }
-            if(smallNodeMap > fullMap->getGenreMap()[i]->getNumOfElements())
-            {
-                smallNodeMap = fullMap->getGenreMap()[i]->getNumOfElements();
-                smallNodeMapIndex = i;
-            }
+            smallNodeMapSize = fullMap->getGenreMap()[element.first]->getNumOfElements();
+            smallNodeMapIndex = element.first;
         }
-
     }
+    //find the elements in the smallest node with highest ratings
     for(auto key : fullMap->getGenreMap()[smallNodeMapIndex]->getNodeMap())
     {
         for(auto node : key) //check to input node
         {
-            if(genres == node.getGenres())
+            if(all_of(genres.begin(), genres.end(), [&node](const auto& genre) {
+                return node.getGenres().count(genre.first) != 0;
+            }))
             {
                 if(outputGames.size() < 5)
                 {
                     outputGames.emplace_back(node);
                 }
-                else
+                else if(node.getRating() > outputGames.back().getRating())
                 {
-                        if(node.getRating() > outputGames[4].getRating())
-                        {
-                            outputGames[4] = node;
-                            break;
-                        }
+                    outputGames.back() = node;
                 }
                 sort(outputGames.begin(), outputGames.end(), compareByRating);
             }
+/*            if(genres == node.getGenres())                                                  //BUG HERE FIX THIS;
+            {
+                if(outputGames.size() < 5)
+                {
+                    outputGames.emplace_back(node);
+                }
+                else if(node.getRating() > outputGames.back().getRating())
+                {
+                    outputGames.back() = node;
+                }
+                sort(outputGames.begin(), outputGames.end(), compareByRating);
+            }*/
         }
     }
     return outputGames;
