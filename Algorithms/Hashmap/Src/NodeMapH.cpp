@@ -1,12 +1,12 @@
-#include "NodeMap.h"
+#include "NodeMapH.h"
 
 
-NodeMap::NodeMap()
+NodeMapH::NodeMapH()
 {
     nodeMap.resize(TABLE_SIZE);
 }
 
-void NodeMap::insert(DataNode node)
+void NodeMapH::insert(DataNodeH node)
 {
     int key = hashing(node.getId());
 
@@ -21,15 +21,15 @@ void NodeMap::insert(DataNode node)
     numOfElements++;
 }
 
-int NodeMap::hashing(int key)
+int NodeMapH::hashing(int key)
 {
     return key % TABLE_SIZE;
 }
 
-int NodeMap::getNumOfElements() const {
+int NodeMapH::getNumOfElements() const {
     return numOfElements;
 }
 
-const vector<vector<DataNode>> &NodeMap::getNodeMap() const {
+const vector<vector<DataNodeH>> &NodeMapH::getNodeMap() const {
     return nodeMap;
 }

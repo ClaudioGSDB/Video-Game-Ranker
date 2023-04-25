@@ -3,15 +3,15 @@
 
 using namespace std;
 
-class DataNode{
+class DataNodeH{
 private:
     int ID;
     string title;
     double rating;
     map<int, string> genres;
 public:
-    DataNode();
-    DataNode(int ID, string title, double rating, map<int, string> genres);
+    DataNodeH();
+    DataNodeH(int ID, string title, double rating, map<int, string> genres);
 
     int getId() const;
     const string &getTitle() const;

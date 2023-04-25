@@ -1,11 +1,11 @@
 #include <string>
 #include <algorithm>
-#include "Functions.h"
+#include "FunctionsH.h"
 
 
 using namespace std;
 
-GenreMap* ReadData(string pathToFolder)
+GenreMapH* ReadData(string pathToFolder)
 {
     char delim = '=';
     int genNum;
@@ -21,7 +21,7 @@ GenreMap* ReadData(string pathToFolder)
     map<int, string> genres;
 
     //Data structure
-    GenreMap* fullMap = new GenreMap();
+    GenreMapH* fullMap = new GenreMapH();
 
 
     for(int i = 0; i < 38; i++)
@@ -71,7 +71,7 @@ GenreMap* ReadData(string pathToFolder)
 
                 //HASHMAP CUSTOM HERE
 
-                DataNode* node = new DataNode(ID, title, rating, genres);
+                DataNodeH* node = new DataNodeH(ID, title, rating, genres);
                 fullMap->insert(node); //initialized outside main for loop
 
                 //CUSTOM END HERE
@@ -84,9 +84,9 @@ GenreMap* ReadData(string pathToFolder)
     return fullMap;
 }
 
-vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap)
+vector<DataNodeH> findTop(map<int, string> genres, GenreMapH* fullMap)
 {
-    vector<DataNode> outputGames;
+    vector<DataNodeH> outputGames;
 
     //find the smallest nodeMap's index in between the inputted genres
     int smallNodeMapSize = INT_MAX;
@@ -124,7 +124,7 @@ vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap)
     return outputGames;
 }
 
-bool compareByRating(const DataNode& a, const DataNode& b) {
+bool compareByRating(const DataNodeH& a, const DataNodeH& b) {
     return a.getRating() > b.getRating();
 }
 

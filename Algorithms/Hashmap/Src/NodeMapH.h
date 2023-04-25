@@ -2,20 +2,20 @@
 #include <string>
 #include <vector>
 #include <list>
-#include "Fundamentals/DataNode.h"
+#include "Fundamentals/DataNodeH.h"
 
 using namespace std;
 
-class NodeMap{
+class NodeMapH{
 private:
     const int TABLE_SIZE = 1000;
     int numOfElements = 0;
-    vector<vector<DataNode>> nodeMap;
+    vector<vector<DataNodeH>> nodeMap;
 
 public:
-    NodeMap();
-    void insert(DataNode node);
+    NodeMapH();
+    void insert(DataNodeH node);
     int hashing(int key);
     int getNumOfElements() const;
-    const vector<vector<DataNode>> &getNodeMap() const;
+    const vector<vector<DataNodeH>> &getNodeMap() const;
 };

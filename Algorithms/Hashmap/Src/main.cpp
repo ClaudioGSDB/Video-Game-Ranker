@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Fundamentals/Functions.h"
+#include "Fundamentals/FunctionsH.h"
 
 
 int main()
@@ -8,13 +8,15 @@ int main()
     map<int, string> inputGenMap = genrePick();
 
     //creates the entire data structure
-    GenreMap* fullMap = ReadData("Data");
+    GenreMapH* fullMap = ReadData("Data");
 
     //Search for top 5 games
-    vector<DataNode> outputGames = findTop(inputGenMap, fullMap);
+    vector<DataNodeH> outputGames = findTop(inputGenMap, fullMap);
 
+    int index = 0;
     for (auto elem : outputGames) {
-        cout << elem.getTitle() << " = " << elem.getRating() << endl;
+        cout << index++ << " " << elem.getTitle() << endl;
+        //cout << elem.getTitle() << " = " << elem.getRating() << endl;
     }
     return 0;
 }
