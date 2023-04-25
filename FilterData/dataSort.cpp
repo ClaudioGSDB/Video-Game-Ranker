@@ -157,7 +157,7 @@ dataSort::dataSort(string inputFile, string ouputPath) {
 				if(gamesVisited.count(id) > 0){
 					continue;
 				}
-				string delim = "`";
+				string delim = "=";
 				for(auto &genre : gameGenres){
 					push = "";
 					// if the genre file has not been created

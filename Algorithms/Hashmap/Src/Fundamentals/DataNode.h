@@ -17,4 +17,6 @@ public:
     const string &getTitle() const;
     float getRating() const;
     const map<int, string> &getGenres() const;
+
+
 };

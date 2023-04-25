@@ -30,7 +30,7 @@ float DataNode::getRating() const
     return rating;
 }
 
-const map<int, string> &DataNode::getGenres() const
+const map<int, string>& DataNode::getGenres() const
 {
     return genres;
 }

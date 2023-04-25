@@ -3,4 +3,4 @@ project (Hashmap)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Hashmap Src/main.cpp Src/Fundamentals/DataNode.cpp Src/Fundamentals/DataNode.h Src/Fundamentals/ReadData.cpp Src/Fundamentals/ReadData.h Src/NodeMap.cpp Src/NodeMap.h Src/GenreMap.cpp Src/GenreMap.h)
+add_executable(Hashmap Src/main.cpp Src/Fundamentals/DataNode.cpp Src/Fundamentals/DataNode.h Src/Fundamentals/Functions.cpp Src/Fundamentals/Functions.h Src/NodeMap.cpp Src/NodeMap.h Src/GenreMap.cpp Src/GenreMap.h)

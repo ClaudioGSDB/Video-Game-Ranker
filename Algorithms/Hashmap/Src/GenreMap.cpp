@@ -2,7 +2,10 @@
 
 using namespace std;
 
-GenreMap::GenreMap() : genreMap(37, nullptr) {}
+GenreMap::GenreMap()
+{
+
+}
 
 void GenreMap::insert(DataNode* node)
 {
@@ -14,5 +17,11 @@ void GenreMap::insert(DataNode* node)
             genreMap[gen.first] = new NodeMap();
         }
         genreMap[gen.first]->insert(*node);
+        genreCode[gen.first] = gen.second;
     }
 }
+
+const vector<NodeMap *> &GenreMap::getGenreMap() const {
+    return genreMap;
+}
+
