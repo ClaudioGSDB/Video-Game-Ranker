@@ -1,8 +1,8 @@
 #include <iostream>
-#include "ReadData.h"
+#include "Fundamentals/ReadData.h"
 
 int main()
 {
-    ReadData("Data");
+    ReadData("Data"); //creates the entire data structure
     return 0;
 }
