@@ -14,7 +14,7 @@ int main()
     vector<DataNode> outputGames = findTop(inputGenMap, fullMap); //BUG HERE
 
     for (auto elem : outputGames) {
-        cout << elem.getTitle() << " " << elem.getRating() << endl;
+        cout << elem.getTitle() << " = " << elem.getRating() << endl;
     }
     return 0;
 }

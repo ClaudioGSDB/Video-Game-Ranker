@@ -91,10 +91,18 @@ vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap) //BUG HERE
     //find the smallest nodeMap
     int smallNodeMap = INT_MAX;
     int smallNodeMapIndex;
+    bool found = false;
+
     for(int i = 0; i < fullMap->getGenreMap().size(); i++)
     {
         if(fullMap->getGenreMap()[i] != nullptr)
         {
+            for (int j = 0; j < genres.size(); j++) {
+                if (genres[j] == fullMap->getGenreMap()[i]) { //look for the genres in genre before doing the next if statement
+                    found = true;
+                    break;
+                }
+            }
             if(smallNodeMap > fullMap->getGenreMap()[i]->getNumOfElements())
             {
                 smallNodeMap = fullMap->getGenreMap()[i]->getNumOfElements();
@@ -115,14 +123,11 @@ vector<DataNode> findTop(map<int, string> genres, GenreMap* fullMap) //BUG HERE
                 }
                 else
                 {
-                    for(int i = 4; i >= 0; i--)
-                    {
-                        if(node.getRating() > outputGames[i].getRating())
+                        if(node.getRating() > outputGames[4].getRating())
                         {
-                            outputGames[i] = node;
+                            outputGames[4] = node;
                             break;
                         }
-                    }
                 }
                 sort(outputGames.begin(), outputGames.end(), compareByRating);
             }
