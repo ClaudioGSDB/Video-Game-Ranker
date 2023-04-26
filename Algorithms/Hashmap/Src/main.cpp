@@ -1,8 +1,10 @@
-#include <iostream>
-#include "ReadData.h"
+#include "Fundamentals/FunctionsH.h"
+
+using namespace std;
 
 int main()
 {
-    ReadData("Data");
+    mainH();
+
     return 0;
 }

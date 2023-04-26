@@ -55,20 +55,26 @@ build CMakeFiles/Hashmap.dir/Src/main.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/U
   OBJECT_DIR = CMakeFiles\Hashmap.dir
   OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src
 
-build CMakeFiles/Hashmap.dir/Src/DataNode.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/DataNode.cpp || cmake_object_order_depends_target_Hashmap
-  DEP_FILE = CMakeFiles\Hashmap.dir\Src\DataNode.cpp.obj.d
+build CMakeFiles/Hashmap.dir/Src/Fundamentals/DataNodeH.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/DataNodeH.cpp || cmake_object_order_depends_target_Hashmap
+  DEP_FILE = CMakeFiles\Hashmap.dir\Src\Fundamentals\DataNodeH.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Hashmap.dir
+  OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src\Fundamentals
+
+build CMakeFiles/Hashmap.dir/Src/Fundamentals/FunctionsH.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/FunctionsH.cpp || cmake_object_order_depends_target_Hashmap
+  DEP_FILE = CMakeFiles\Hashmap.dir\Src\Fundamentals\FunctionsH.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Hashmap.dir
+  OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src\Fundamentals
+
+build CMakeFiles/Hashmap.dir/Src/NodeMapH.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/NodeMapH.cpp || cmake_object_order_depends_target_Hashmap
+  DEP_FILE = CMakeFiles\Hashmap.dir\Src\NodeMapH.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Hashmap.dir
   OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src
 
-build CMakeFiles/Hashmap.dir/Src/ReadData.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/ReadData.cpp || cmake_object_order_depends_target_Hashmap
-  DEP_FILE = CMakeFiles\Hashmap.dir\Src\ReadData.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Hashmap.dir
-  OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src
-
-build CMakeFiles/Hashmap.dir/Src/HashMap.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/HashMap.cpp || cmake_object_order_depends_target_Hashmap
-  DEP_FILE = CMakeFiles\Hashmap.dir\Src\HashMap.cpp.obj.d
+build CMakeFiles/Hashmap.dir/Src/GenreMapH.cpp.obj: CXX_COMPILER__Hashmap_Debug C$:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/Algorithms/Hashmap/Src/GenreMapH.cpp || cmake_object_order_depends_target_Hashmap
+  DEP_FILE = CMakeFiles\Hashmap.dir\Src\GenreMapH.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Hashmap.dir
   OBJECT_FILE_DIR = CMakeFiles\Hashmap.dir\Src
@@ -81,7 +87,7 @@ build CMakeFiles/Hashmap.dir/Src/HashMap.cpp.obj: CXX_COMPILER__Hashmap_Debug C$
 #############################################
 # Link the executable Hashmap.exe
 
-build Hashmap.exe: CXX_EXECUTABLE_LINKER__Hashmap_Debug CMakeFiles/Hashmap.dir/Src/main.cpp.obj CMakeFiles/Hashmap.dir/Src/DataNode.cpp.obj CMakeFiles/Hashmap.dir/Src/ReadData.cpp.obj CMakeFiles/Hashmap.dir/Src/HashMap.cpp.obj
+build Hashmap.exe: CXX_EXECUTABLE_LINKER__Hashmap_Debug CMakeFiles/Hashmap.dir/Src/main.cpp.obj CMakeFiles/Hashmap.dir/Src/Fundamentals/DataNodeH.cpp.obj CMakeFiles/Hashmap.dir/Src/Fundamentals/FunctionsH.cpp.obj CMakeFiles/Hashmap.dir/Src/NodeMapH.cpp.obj CMakeFiles/Hashmap.dir/Src/GenreMapH.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Hashmap.dir
