@@ -1,25 +1,26 @@
 #include <string>
 #include "ReadData.h"
-#include "DataNode.h"
+
+#include "gameTree.h"
 
 using namespace std;
 
 ReadData::ReadData(string pathToFolder)
 {
-    char delim = '`';
+    char delim = '=';
     int genNum;
     string genName;
 
     //game data
     int ID = 0;
     string title;
-    float rating;
+    double rating;
     map<int, string> genres;
 
     int numOfGenres;
     int key;
     string value;
-
+	map<int, gameTree*> genreTree;
 
     for(int i = 0; i < 50; i++)
     {
@@ -35,7 +36,9 @@ ReadData::ReadData(string pathToFolder)
             genNum = stoi(line);
             getline(file, line, delim);
             //line.substr(line.find('|') + 1); NOT NEEDED I THINK
-            string genName = line;
+            genName = line;
+
+			genreTree[genNum] = new gameTree();
 
             while (getline(file, line, delim))
             {
@@ -64,11 +67,16 @@ ReadData::ReadData(string pathToFolder)
 
                 //CUSTOM HERE
                 //insert the data directly into the hashmap[
-                DataNode(ID, title, rating, genres);
+                DataNode game(ID, title, rating, genres);
+
+
+				genreTree[genNum]->insert(game);
+
 
                 //CUSTOM END HERE
+				genres.clear();
             }
-            //cout << "File " << i << ".txt exists. Performing action A." << endl;
+            cout << "File " << i << ".txt exists. Performing action A." << endl;
             file.close();
         }
         else

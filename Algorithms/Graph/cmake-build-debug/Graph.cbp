@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/ReadData.h">
 			<Option target="Graph"/>
 		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/gameTree.cpp">
+			<Option target="Graph"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/gameTree.h">
+			<Option target="Graph"/>
+		</Unit>
 		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/main.cpp">
 			<Option target="Graph"/>
 		</Unit>

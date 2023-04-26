@@ -176,6 +176,30 @@ Src/ReadData.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/ReadData.cpp.s
 .PHONY : Src/ReadData.cpp.s
 
+Src/gameTree.obj: Src/gameTree.cpp.obj
+.PHONY : Src/gameTree.obj
+
+# target to build an object file
+Src/gameTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/gameTree.cpp.obj
+.PHONY : Src/gameTree.cpp.obj
+
+Src/gameTree.i: Src/gameTree.cpp.i
+.PHONY : Src/gameTree.i
+
+# target to preprocess a source file
+Src/gameTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/gameTree.cpp.i
+.PHONY : Src/gameTree.cpp.i
+
+Src/gameTree.s: Src/gameTree.cpp.s
+.PHONY : Src/gameTree.s
+
+# target to generate assembly for a file
+Src/gameTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/gameTree.cpp.s
+.PHONY : Src/gameTree.cpp.s
+
 Src/main.obj: Src/main.cpp.obj
 .PHONY : Src/main.obj
 
@@ -215,6 +239,9 @@ help:
 	@echo ... Src/ReadData.obj
 	@echo ... Src/ReadData.i
 	@echo ... Src/ReadData.s
+	@echo ... Src/gameTree.obj
+	@echo ... Src/gameTree.i
+	@echo ... Src/gameTree.s
 	@echo ... Src/main.obj
 	@echo ... Src/main.i
 	@echo ... Src/main.s

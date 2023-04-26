@@ -80,12 +80,12 @@ clean: CMakeFiles/Graph.dir/clean
 CMakeFiles/Graph.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\torre\OneDrive\Documents\GitHub\GameCAAD\Algorithms\Graph\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target Graph"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\torre\OneDrive\Documents\GitHub\GameCAAD\Algorithms\Graph\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target Graph"
 .PHONY : CMakeFiles/Graph.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Graph.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\torre\OneDrive\Documents\GitHub\GameCAAD\Algorithms\Graph\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\torre\OneDrive\Documents\GitHub\GameCAAD\Algorithms\Graph\cmake-build-debug\CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Graph.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\torre\OneDrive\Documents\GitHub\GameCAAD\Algorithms\Graph\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Graph.dir/rule

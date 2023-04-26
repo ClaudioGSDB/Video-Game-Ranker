@@ -1,6 +1,14 @@
 #include "DataNode.h"
 #include "ReadData.h"
 
+DataNode::DataNode()
+{
+	ID = 0;
+	title = "";
+	rating = 0.0;
+	genres.emplace(make_pair(0, ""));
+}
+
 DataNode::DataNode(int ID, string title, double rating, map<int, string> genres)
 {
     this->ID = ID;
@@ -28,3 +36,10 @@ const map<int, string> &DataNode::getGenres() const
 {
     return genres;
 }
+bool DataNode::operator==(const DataNode &other) const {
+	if(this->ID == other.ID){
+		return true;
+	}
+	return false;
+}
+

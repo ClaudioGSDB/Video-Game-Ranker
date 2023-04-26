@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/DataNode.cpp" "CMakeFiles/Graph.dir/Src/DataNode.cpp.obj" "gcc" "CMakeFiles/Graph.dir/Src/DataNode.cpp.obj.d"
   "C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/ReadData.cpp" "CMakeFiles/Graph.dir/Src/ReadData.cpp.obj" "gcc" "CMakeFiles/Graph.dir/Src/ReadData.cpp.obj.d"
+  "C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/gameTree.cpp" "CMakeFiles/Graph.dir/Src/gameTree.cpp.obj" "gcc" "CMakeFiles/Graph.dir/Src/gameTree.cpp.obj.d"
   "C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/main.cpp" "CMakeFiles/Graph.dir/Src/main.cpp.obj" "gcc" "CMakeFiles/Graph.dir/Src/main.cpp.obj.d"
   )
 
