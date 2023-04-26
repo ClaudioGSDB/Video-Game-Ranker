@@ -1,9 +1,37 @@
 #include <string>
 #include <algorithm>
+#include <chrono>
 #include "FunctionsH.h"
 
 
 using namespace std;
+
+void mainH()
+{
+    //input - put in function
+    map<int, string> inputGenMap = genrePick();
+
+    //---Start Chrono
+    auto start = chrono::high_resolution_clock::now();
+
+    //creates the entire data structure
+    GenreMapH* fullMap = ReadData("Data");
+
+    //Search for top 5 games
+    vector<DataNodeH> outputGames = findTop(inputGenMap, fullMap);
+
+    int index = 0;
+    for (auto elem : outputGames) {
+        cout << index++ << " " << elem.getTitle() << endl;
+        //cout << elem.getTitle() << " = " << elem.getRating() << endl;
+    }
+
+    //---End Chrono
+    auto stop = chrono::high_resolution_clock::now();
+    auto duration = chrono::duration_cast<chrono::microseconds>(stop - start); // Calculate the duration
+    double seconds = duration.count() / 1000000.0;
+    cout << "Time taken by function: " << seconds << " seconds" << endl;
+}
 
 GenreMapH* ReadData(string pathToFolder)
 {

@@ -6,6 +6,8 @@
 
 using namespace std;
 
+void mainH();
+
 GenreMapH* ReadData(string pathToFolder);
 
 vector<DataNodeH> findTop(map<int, string> genres, GenreMapH* fullMap);
