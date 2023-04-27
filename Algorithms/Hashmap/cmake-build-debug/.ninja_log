@@ -1,14 +1,9 @@
 # ninja log v5
-13	577	7042462476551880	CMakeFiles/Hashmap.dir/Src/main.cpp.obj	bb6719f61d383bcd
-18	733	7042462478088146	CMakeFiles/Hashmap.dir/Src/NodeMapH.cpp.obj	86bb1cb97d5d9169
-980	1144	7042462482190802	Hashmap.exe	dbe8451f5efae381
-6	608	7042462476866303	CMakeFiles/Hashmap.dir/Src/Fundamentals/DataNodeH.cpp.obj	7516654e9c73d2e2
-1	704	7043059333063203	build.ninja	9744a91934941417
-28	638	7042462477165490	CMakeFiles/Hashmap.dir/Src/GenreMapH.cpp.obj	17bd7209c2da5e79
-0	980	7042462480565381	CMakeFiles/Hashmap.dir/Src/Fundamentals/FunctionsH.cpp.obj	aa2ad3f4c4b007bd
 2	320	7043059372385249	CMakeFiles/Hashmap.dir/Src/main.cpp.obj	bb6719f61d383bcd
+656	775	7043059376902463	Hashmap.exe	dbe8451f5efae381
+13	452	7043059373693565	CMakeFiles/Hashmap.dir/Src/NodeMapH.cpp.obj	86bb1cb97d5d9169
+1	704	7043063626385968	build.ninja	9744a91934941417
 6	357	7043059372750851	CMakeFiles/Hashmap.dir/Src/Fundamentals/DataNodeH.cpp.obj	7516654e9c73d2e2
 9	395	7043059373125086	CMakeFiles/Hashmap.dir/Src/GenreMapH.cpp.obj	17bd7209c2da5e79
-13	452	7043059373693565	CMakeFiles/Hashmap.dir/Src/NodeMapH.cpp.obj	86bb1cb97d5d9169
 16	655	7043059375720361	CMakeFiles/Hashmap.dir/Src/Fundamentals/FunctionsH.cpp.obj	aa2ad3f4c4b007bd
-656	775	7043059376902463	Hashmap.exe	dbe8451f5efae381
+1	121	7043063626385968	build.ninja	9744a91934941417

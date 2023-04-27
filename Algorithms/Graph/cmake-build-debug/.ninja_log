@@ -4,3 +4,8 @@
 7	615	7043061754423048	CMakeFiles/Graph.dir/Src/gameTreeT.cpp.obj	2372e582a3ab3a1b
 2	356	7043062243046590	CMakeFiles/Graph.dir/Src/DataNodeT.cpp.obj	b58cfb7cb62f0fe0
 357	502	7043062244477938	Graph.exe	22c9dffb2090af0a
+0	301	7043063479375002	CMakeFiles/Graph.dir/Src/main.cpp.obj	d10cf991e8d8ae53
+3	336	7043063479714097	CMakeFiles/Graph.dir/Src/DataNodeT.cpp.obj	b58cfb7cb62f0fe0
+6	521	7043063481552146	CMakeFiles/Graph.dir/Src/FunctionsT.cpp.obj	82e00b05b738f3cb
+9	621	7043063482564612	CMakeFiles/Graph.dir/Src/gameTreeT.cpp.obj	2372e582a3ab3a1b
+621	763	7043063483956179	Graph.exe	22c9dffb2090af0a
