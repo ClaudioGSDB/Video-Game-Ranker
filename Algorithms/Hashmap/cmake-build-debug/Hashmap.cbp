@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Hashmap"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hashmap">
+				<Option output="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Hashmap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hashmap"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hashmap/fast">
+				<Option output="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Hashmap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hashmap/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/DataNodeH.cpp">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/DataNodeH.h">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/FunctionsH.cpp">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/Fundamentals/FunctionsH.h">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/GenreMapH.cpp">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/GenreMapH.h">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/NodeMapH.cpp">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/NodeMapH.h">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/Src/main.cpp">
+			<Option target="Hashmap"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Hashmap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

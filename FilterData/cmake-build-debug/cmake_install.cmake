@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/FilterData
+# Install script for directory: C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/FilterData
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Claudio/Desktop/COP3530/Projects/GameCAAD/FilterData/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/FilterData/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

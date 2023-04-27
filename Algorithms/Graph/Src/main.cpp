@@ -1,6 +1,10 @@
 #include <iostream>
+#include "FunctionsT.h"
+#include "gameTreeT.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+	mainT();
+
     return 0;
 }
