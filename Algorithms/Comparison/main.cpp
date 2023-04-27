@@ -6,6 +6,5 @@ using namespace std;
 int main()
 {
     mainC();
-
     return 0;
 }

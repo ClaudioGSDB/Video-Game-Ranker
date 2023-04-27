@@ -9,6 +9,7 @@ using namespace std;
 
 void mainC()
 {
+    cout << "WELCOME TO GAME FINDER" << endl;
     //input - put in function
     map<int, string> inputGenMap = genrePick();
 
@@ -17,15 +18,15 @@ void mainC()
     GenreMapH* fullMap = ReadDataH("Data");
     auto stop = chrono::high_resolution_clock::now();
     auto durationH = chrono::duration_cast<chrono::microseconds>(stop - start); // Calculate the duration
-    double secondsH = durationH.count() / 1000000.0;
-    cout << "Build time for the HashMap: " << secondsH << " seconds";
+    double secondsH = durationH.count() / 1000.0;
+    cout << "Build time for the HashMap: " << secondsH << " miliseconds";
 
     start = chrono::high_resolution_clock::now();
     map<int, gameTreeT*> genreMap = ReadDataT("Data");
     stop = chrono::high_resolution_clock::now();
     auto durationT = chrono::duration_cast<chrono::microseconds>(stop - start); // Calculate the duration
-    double secondsT = durationT.count() / 1000000.0;
-    cout << "Build Time for the B+ Tree: " << secondsT << " seconds" << endl << endl;
+    double secondsT = durationT.count() / 1000.0;
+    cout << "Build Time for the B+ Tree: " << secondsT << " miliseconds" << endl << endl;
 
     //HashMap
     //---Start Chrono
@@ -35,8 +36,8 @@ void mainC()
     //---End Chrono
     stop = chrono::high_resolution_clock::now();
     durationH = chrono::duration_cast<chrono::microseconds>(stop - start); // Calculate the duration
-    secondsH = durationH.count() / 1000000.0;
-    cout << "Search time by HashMap: " << secondsH << " seconds" << endl;
+    secondsH = durationH.count() / 1000.0;
+    cout << "Search time by HashMap: " << secondsH << " miliseconds" << endl;
 
     //B+ Tree
     start = chrono::high_resolution_clock::now();
@@ -44,8 +45,8 @@ void mainC()
     vector<DataNodeT> outputGamesT = findTopT(inputGenMap, genreMap);
     stop = chrono::high_resolution_clock::now();
     durationT = chrono::duration_cast<chrono::microseconds>(stop - start); // Calculate the duration
-    secondsT = durationT.count() / 1000000.0;
-    cout << "Search time by B+ Tree: " << secondsT << " seconds" << endl;
+    secondsT = durationT.count() / 1000.0;
+    cout << "Search time by B+ Tree: " << secondsT << " miliseconds" << endl;
 
     //RESULTS
     int index = 1;
@@ -208,7 +209,7 @@ bool compareByRating(const DataNodeH& a, const DataNodeH& b) {
 
 map<int, string> genrePick() //for inputting the genres
 {
-    cout << "How many genres: " << endl;
+    cout << "Number of genres you want for your game: " << endl;
     int numOfGen;
     cin >> numOfGen;
     int genres;
