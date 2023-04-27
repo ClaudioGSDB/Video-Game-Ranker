@@ -3,4 +3,4 @@ project(Graph)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Graph Src/main.cpp Src/DataNode.cpp Src/DataNode.h Src/ReadData.cpp Src/ReadData.h Src/gameTree.cpp Src/gameTree.h Src/FunctionsH.h Src/FunctionsH.cpp)
+add_executable(Graph Src/main.cpp Src/DataNodeT.cpp Src/DataNodeT.h Src/gameTreeT.cpp Src/gameTreeT.h Src/FunctionsT.h Src/FunctionsT.cpp)

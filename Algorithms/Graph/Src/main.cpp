@@ -1,6 +1,6 @@
 #include <iostream>
-#include "FunctionsH.h"
-#include "gameTree.h"
+#include "FunctionsT.h"
+#include "gameTreeT.h"
 
 int main() {
 
