@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/DataNode.h">
 			<Option target="Graph"/>
 		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/FunctionsH.cpp">
+			<Option target="Graph"/>
+		</Unit>
+		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/FunctionsH.h">
+			<Option target="Graph"/>
+		</Unit>
 		<Unit filename="C:/Users/torre/OneDrive/Documents/GitHub/GameCAAD/Algorithms/Graph/Src/ReadData.cpp">
 			<Option target="Graph"/>
 		</Unit>

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Graph.dir/Src/DataNode.cpp.obj"
   "CMakeFiles/Graph.dir/Src/DataNode.cpp.obj.d"
+  "CMakeFiles/Graph.dir/Src/FunctionsH.cpp.obj"
+  "CMakeFiles/Graph.dir/Src/FunctionsH.cpp.obj.d"
   "CMakeFiles/Graph.dir/Src/ReadData.cpp.obj"
   "CMakeFiles/Graph.dir/Src/ReadData.cpp.obj.d"
   "CMakeFiles/Graph.dir/Src/gameTree.cpp.obj"

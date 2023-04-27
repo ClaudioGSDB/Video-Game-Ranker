@@ -10,7 +10,7 @@ gameTree::gameTree() = default;
 
 // given a game, and a parent node (root by default)
 bool gameTree::insert(DataNode &game, treeNode* parent, bool correct) {
-	count++;
+
 	int belowi = -1;
 
 	// this makes recursion works :)
@@ -276,4 +276,38 @@ bool gameTree::insert(DataNode &game, treeNode* parent, bool correct) {
 	}
 
 	return correct;
+}
+int gameTree::leafAmount() {
+	return count;
+}
+void gameTree::findMatch(map<int, string> const &genres, vector<DataNode> &ret, gameTree::treeNode *parent) {
+	if(!parent){
+		parent = root;
+	}
+
+	// if branch node, go through all the childs
+	if(!parent->isLeaf){
+		for(auto i : parent->children){
+			findMatch(genres, ret, i);
+		}
+	}
+	else{
+		// for every game stored
+		for(auto node : parent->games){
+			if(all_of(genres.begin(), genres.end(), [&node](const auto& genre) {
+				return node.second.getGenres().count(genre.first) != 0;
+			}))
+			{
+				if(ret.size() < 5)
+				{
+					ret.emplace_back(node.second);
+				}
+				else if(node.second.getRating() > ret.back().getRating())
+				{
+					ret.back() = node.second;
+				}
+				sort(ret.begin(), ret.end(), [](auto &a, auto &b){return a.getRating() > b.getRating();});
+			}
+		}
+	}
 }

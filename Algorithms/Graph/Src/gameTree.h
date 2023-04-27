@@ -39,14 +39,18 @@ class gameTree {
 	// total amount of data elements on the tree.
 	int count = 0;
 
+	treeNode* root = nullptr;
 
 
 public:
-	treeNode* root = nullptr;
 
 	gameTree();
 
 	bool insert(DataNode &game, treeNode* parent = nullptr, bool correct = true);
+
+	int leafAmount();
+
+	void findMatch(map<int, string> const &genres, vector<DataNode> &ret, treeNode* parent = nullptr);
 
 };
 

@@ -152,6 +152,30 @@ Src/DataNode.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/DataNode.cpp.s
 .PHONY : Src/DataNode.cpp.s
 
+Src/FunctionsH.obj: Src/FunctionsH.cpp.obj
+.PHONY : Src/FunctionsH.obj
+
+# target to build an object file
+Src/FunctionsH.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/FunctionsH.cpp.obj
+.PHONY : Src/FunctionsH.cpp.obj
+
+Src/FunctionsH.i: Src/FunctionsH.cpp.i
+.PHONY : Src/FunctionsH.i
+
+# target to preprocess a source file
+Src/FunctionsH.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/FunctionsH.cpp.i
+.PHONY : Src/FunctionsH.cpp.i
+
+Src/FunctionsH.s: Src/FunctionsH.cpp.s
+.PHONY : Src/FunctionsH.s
+
+# target to generate assembly for a file
+Src/FunctionsH.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Graph.dir\build.make CMakeFiles/Graph.dir/Src/FunctionsH.cpp.s
+.PHONY : Src/FunctionsH.cpp.s
+
 Src/ReadData.obj: Src/ReadData.cpp.obj
 .PHONY : Src/ReadData.obj
 
@@ -236,6 +260,9 @@ help:
 	@echo ... Src/DataNode.obj
 	@echo ... Src/DataNode.i
 	@echo ... Src/DataNode.s
+	@echo ... Src/FunctionsH.obj
+	@echo ... Src/FunctionsH.i
+	@echo ... Src/FunctionsH.s
 	@echo ... Src/ReadData.obj
 	@echo ... Src/ReadData.i
 	@echo ... Src/ReadData.s
