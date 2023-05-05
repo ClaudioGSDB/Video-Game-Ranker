@@ -87,7 +87,7 @@
       }
     ],
     "name": "Baldur\u0027s Gate II: Shadows of Amn",
-    "rating": 88.1810003818792
+    "rating": 88.18001638297581
   },
   {
     "id": 7,
@@ -216,7 +216,7 @@
       }
     ],
     "name": "Fallout",
-    "rating": 85.86047754225041
+    "rating": 85.972886286793
   },
   {
     "id": 14,
@@ -246,7 +246,7 @@
       }
     ],
     "name": "Fallout 3",
-    "rating": 83.40018699015101
+    "rating": 83.3990658560792
   },
   {
     "id": 16,
@@ -261,7 +261,7 @@
       }
     ],
     "name": "Fallout: New Vegas",
-    "rating": 87.2477906496274
+    "rating": 87.24820982190691
   },
   {
     "id": 17,
@@ -325,7 +325,7 @@
       }
     ],
     "name": "BioShock",
-    "rating": 87.0127729645563
+    "rating": 87.01240460623721
   },
   {
     "id": 21,
@@ -344,7 +344,7 @@
       }
     ],
     "name": "BioShock 2",
-    "rating": 80.8992752036707
+    "rating": 80.8984709510335
   },
   {
     "id": 22,
@@ -359,7 +359,7 @@
       }
     ],
     "name": "System Shock 2",
-    "rating": 89.84350708135639
+    "rating": 89.8424978965865
   },
   {
     "id": 23,
@@ -673,7 +673,7 @@
       }
     ],
     "name": "Mafia II",
-    "rating": 81.676426227096
+    "rating": 81.6767219695339
   },
   {
     "id": 41,
@@ -688,7 +688,7 @@
       }
     ],
     "name": "Deus Ex",
-    "rating": 86.9927062483464
+    "rating": 86.99246308858801
   },
   {
     "id": 42,
@@ -1082,7 +1082,7 @@
       }
     ],
     "name": "The Secret of Monkey Island: Special Edition",
-    "rating": 84.2223551736339
+    "rating": 84.228940733946
   },
   {
     "id": 66,
@@ -1184,7 +1184,7 @@
       }
     ],
     "name": "Portal",
-    "rating": 86.8563911528513
+    "rating": 86.9052070519554
   },
   {
     "id": 72,
@@ -1207,7 +1207,7 @@
       }
     ],
     "name": "Portal 2",
-    "rating": 91.7926288495906
+    "rating": 91.7933554721713
   },
   {
     "id": 73,
@@ -1222,7 +1222,7 @@
       }
     ],
     "name": "Mass Effect",
-    "rating": 86.4932705074543
+    "rating": 86.4917173460714
   },
   {
     "id": 74,
@@ -1241,7 +1241,7 @@
       }
     ],
     "name": "Mass Effect 2",
-    "rating": 91.47273112721649
+    "rating": 91.4747212110781
   },
   {
     "id": 75,
@@ -1260,7 +1260,7 @@
       }
     ],
     "name": "Mass Effect 3",
-    "rating": 85.2430791005458
+    "rating": 85.2445345174249
   },
   {
     "id": 76,
@@ -1271,7 +1271,7 @@
       }
     ],
     "name": "Dragon Age: Origins",
-    "rating": 86.9971361089528
+    "rating": 86.9969060701773
   },
   {
     "id": 77,
@@ -1580,7 +1580,7 @@
       }
     ],
     "name": "Need for Speed: Most Wanted",
-    "rating": 84.95597278381351
+    "rating": 84.95435716137538
   },
   {
     "id": 99,
@@ -1856,7 +1856,7 @@
       }
     ],
     "name": "Star Wars: Knights of the Old Republic",
-    "rating": 91.2888691544177
+    "rating": 91.28944163439829
   },
   {
     "id": 117,
@@ -1939,7 +1939,7 @@
       }
     ],
     "name": "Minecraft",
-    "rating": 84.4409177388045
+    "rating": 84.4398713744888
   },
   {
     "id": 122,
@@ -1950,7 +1950,7 @@
       }
     ],
     "name": "Left 4 Dead",
-    "rating": 80.3639661441291
+    "rating": 80.3643621011703
   },
   {
     "id": 123,
@@ -2021,7 +2021,7 @@
       }
     ],
     "name": "Assassin\u0027s Creed II",
-    "rating": 87.2516749908074
+    "rating": 87.2513402521443
   },
   {
     "id": 128,
@@ -2036,7 +2036,7 @@
       }
     ],
     "name": "Assassin\u0027s Creed",
-    "rating": 73.5099616249957
+    "rating": 73.5100290833879
   },
   {
     "id": 129,
@@ -2051,7 +2051,7 @@
       }
     ],
     "name": "Warcraft: Orcs \u0026 Humans",
-    "rating": 79.37243647738751
+    "rating": 79.3726070643249
   },
   {
     "id": 130,
@@ -2066,7 +2066,7 @@
       }
     ],
     "name": "Warcraft II: Tides of Darkness",
-    "rating": 85.80403122110769
+    "rating": 85.8056607969226
   },
   {
     "id": 131,
@@ -2096,7 +2096,7 @@
       }
     ],
     "name": "Warcraft III: Reign of Chaos",
-    "rating": 88.7592924896451
+    "rating": 88.759373144839
   },
   {
     "id": 133,
@@ -2111,7 +2111,7 @@
       }
     ],
     "name": "Warcraft III: The Frozen Throne",
-    "rating": 88.545368842683
+    "rating": 88.54558764691079
   },
   {
     "id": 134,
@@ -2465,7 +2465,7 @@
       }
     ],
     "name": "Star Wars: Dark Forces",
-    "rating": 78.38435959997429
+    "rating": 78.3845456791036
   },
   {
     "id": 158,
@@ -2945,7 +2945,7 @@
       }
     ],
     "name": "Day of the Tentacle",
-    "rating": 91.1066301395204
+    "rating": 91.1024270635889
   },
   {
     "id": 194,
@@ -3488,7 +3488,7 @@
       }
     ],
     "name": "StarCraft",
-    "rating": 89.0389211871426
+    "rating": 89.03896640039972
   },
   {
     "id": 231,
@@ -3507,7 +3507,7 @@
       }
     ],
     "name": "Half-Life",
-    "rating": 88.98572368974071
+    "rating": 88.9858860130788
   },
   {
     "id": 232,
@@ -3537,7 +3537,7 @@
       }
     ],
     "name": "Half-Life 2",
-    "rating": 90.77584022062659
+    "rating": 90.7767282135339
   },
   {
     "id": 234,
@@ -3651,7 +3651,7 @@
       }
     ],
     "name": "StarCraft II: Wings of Liberty",
-    "rating": 87.3151965698459
+    "rating": 87.31490628327259
   },
   {
     "id": 240,
@@ -3673,7 +3673,7 @@
       }
     ],
     "name": "Counter-Strike",
-    "rating": 83.9659853234443
+    "rating": 83.9663329588303
   },
   {
     "id": 242,
@@ -3733,7 +3733,7 @@
       }
     ],
     "name": "Command \u0026 Conquer: Red Alert 2",
-    "rating": 87.18005673111509
+    "rating": 87.17983786802121
   },
   {
     "id": 246,
@@ -3763,7 +3763,7 @@
       }
     ],
     "name": "Half-Life 2: Episode Two",
-    "rating": 87.69729384911919
+    "rating": 87.6974820534765
   },
   {
     "id": 248,
@@ -4642,7 +4642,7 @@
       }
     ],
     "name": "Empire Earth",
-    "rating": 78.2863023764549
+    "rating": 78.28374980880879
   },
   {
     "id": 303,
@@ -4807,7 +4807,7 @@
       }
     ],
     "name": "Doom II: Hell on Earth",
-    "rating": 85.50040043629339
+    "rating": 85.499630161612
   },
   {
     "id": 313,
@@ -4930,7 +4930,7 @@
       }
     ],
     "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
-    "rating": 81.64947284593029
+    "rating": 81.6494728459304
   },
   {
     "id": 321,
@@ -4998,7 +4998,7 @@
       }
     ],
     "name": "Age of Mythology",
-    "rating": 81.9019469099683
+    "rating": 81.9009379752714
   },
   {
     "id": 325,
@@ -5450,7 +5450,7 @@
       }
     ],
     "name": "Super Mario Bros.",
-    "rating": 83.96957220414251
+    "rating": 83.9694901565254
   },
   {
     "id": 359,
@@ -5682,7 +5682,7 @@
       }
     ],
     "name": "Heroes of Might and Magic V",
-    "rating": 78.9681887120505
+    "rating": 78.9698071816014
   },
   {
     "id": 371,
@@ -5769,7 +5769,7 @@
       }
     ],
     "name": "Metal Gear Solid",
-    "rating": 90.7089362605652
+    "rating": 90.71084365401131
   },
   {
     "id": 376,
@@ -5780,7 +5780,7 @@
       }
     ],
     "name": "Metal Gear Solid 2: Sons of Liberty",
-    "rating": 88.5951673858377
+    "rating": 88.5948739607823
   },
   {
     "id": 377,
@@ -5833,7 +5833,7 @@
       }
     ],
     "name": "Metal Gear Solid 3: Snake Eater",
-    "rating": 92.62316554644009
+    "rating": 92.6230853004583
   },
   {
     "id": 380,
@@ -5898,6 +5898,10 @@
   {
     "id": 384,
     "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
       {
         "id": 12,
         "name": "Role-playing (RPG)"
@@ -6420,7 +6424,7 @@
       }
     ],
     "name": "Final Fantasy X",
-    "rating": 87.40465089073399
+    "rating": 87.4042374599741
   },
   {
     "id": 419,
@@ -6464,7 +6468,7 @@
       }
     ],
     "name": "Final Fantasy IX",
-    "rating": 87.8362025600479
+    "rating": 87.8341197666706
   },
   {
     "id": 422,
@@ -6554,7 +6558,7 @@
       }
     ],
     "name": "Final Fantasy VII",
-    "rating": 90.16931487834499
+    "rating": 90.1693076824231
   },
   {
     "id": 428,
@@ -6622,7 +6626,7 @@
       }
     ],
     "name": "Uncharted: Drake\u0027s Fortune",
-    "rating": 76.487053631417
+    "rating": 76.4869040701625
   },
   {
     "id": 432,
@@ -6679,7 +6683,7 @@
       }
     ],
     "name": "Red Dead Redemption",
-    "rating": 89.5873862435283
+    "rating": 89.5865826460427
   },
   {
     "id": 435,
@@ -6766,7 +6770,7 @@
       }
     ],
     "name": "Rome: Total War",
-    "rating": 82.2804693751457
+    "rating": 82.28144632298161
   },
   {
     "id": 439,
@@ -7143,7 +7147,7 @@
       }
     ],
     "name": "StarCraft II: Heart of the Swarm",
-    "rating": 86.9814420038519
+    "rating": 86.9819655659824
   },
   {
     "id": 458,
@@ -7158,7 +7162,7 @@
       }
     ],
     "name": "StarCraft II: Legacy of the Void",
-    "rating": 88.5043183226135
+    "rating": 88.50597705509591
   },
   {
     "id": 459,
@@ -7374,7 +7378,7 @@
       }
     ],
     "name": "The Elder Scrolls V: Skyrim",
-    "rating": 87.7313123108406
+    "rating": 87.7301161695112
   },
   {
     "id": 473,
@@ -7400,7 +7404,7 @@
       }
     ],
     "name": "Metal Gear Solid 2: Substance",
-    "rating": 86.99914776368519
+    "rating": 86.9963016438443
   },
   {
     "id": 475,
@@ -7464,7 +7468,7 @@
       }
     ],
     "name": "The Witcher 2: Assassins of Kings",
-    "rating": 84.9397577155462
+    "rating": 84.9389393644651
   },
   {
     "id": 479,
@@ -7513,7 +7517,7 @@
       }
     ],
     "name": "Silent Hill 2",
-    "rating": 91.5722372016206
+    "rating": 91.5749282704084
   },
   {
     "id": 482,
@@ -7539,7 +7543,7 @@
       }
     ],
     "name": "Silent Hill 4: The Room",
-    "rating": 75.66517016078541
+    "rating": 75.837817556293
   },
   {
     "id": 484,
@@ -7762,7 +7766,7 @@
       }
     ],
     "name": "Batman: Arkham Asylum",
-    "rating": 86.1824449204495
+    "rating": 86.1823892913389
   },
   {
     "id": 501,
@@ -7777,7 +7781,7 @@
       }
     ],
     "name": "Batman: Arkham City",
-    "rating": 86.9172855791041
+    "rating": 86.9169858521311
   },
   {
     "id": 502,
@@ -7830,7 +7834,7 @@
       }
     ],
     "name": "Fable III",
-    "rating": 67.6434703418588
+    "rating": 67.6454166393606
   },
   {
     "id": 505,
